@@ -6,8 +6,8 @@
 #=========================================================================================
 
 base_url = "https://shelchin.com"
-title = "xxxx"
-description = "xxxx xxxx xxxx"
+title = "I'm Shelchin"
+description = "Home is where the heart is."
 default_language = "zh-CN"
 theme = "serene"
 output_dir = "public"
