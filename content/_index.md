@@ -11,7 +11,7 @@ footer = false
 # If you don't want to display id/bio/avatar, simply comment out that line
 
 name = "Shelchin"
-id = "atshelchin"
+id = ""
 bio = "Rust Developer with 2 Weeks Experience"
 avatar = "img/avatar.jpg"
 links = [
