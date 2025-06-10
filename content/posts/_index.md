@@ -1,6 +1,6 @@
 +++
-title = "My Blog"
-description = "My blog site."
+title = "Rust Developer with 2 Weeks Experience"
+description = "Hi there 👏 I'm Shelchin, an iOS developer building apps that make complex things simple."
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"
