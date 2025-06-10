@@ -1,6 +1,7 @@
 +++
 title = "8 年 React 开发者的技术困境与突破思路"
 date = 2025-06-10
+description ="我从 2016 年 10 月就开始用 React 来替代传统 jQuery 进行网页应用开发。"
 
 +++
 
