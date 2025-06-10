@@ -31,8 +31,8 @@ date_format = "%b %-d, %Y"
 Hi there 👏
 I'm Shelchin, an iOS developer building apps that make complex things simple.
 
-🌱 I’m currently Building:  
-🔒 An Ethereum wallet built on Safe Smart Account, integrating Passkeys and Secure Enclave technology to enhance user experience and security.  
+🌱 I’m currently Building:
+🔒 An Ethereum wallet built on Safe Smart Account, integrating Apple Secure Enclave technology to enhance user experience and security.
 
 🧠 A personal knowledge card library that turns spare moments into learning opportunities, using spaced repetition to help you retain more with less effort.
 
