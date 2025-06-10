@@ -40,7 +40,7 @@ description ="我从 2016 年 10 月就开始用 React 来替代传统 jQuery �
 >
 > 🧠 A personal knowledge card library that turns spare moments into learning opportunities, using spaced repetition to help you retain more with less effort.
 
-对的，我要用一年时间去打造这两款产品，并赚取到 每月 15K 的收入。我会每周更新我的想法、见解以及工作进度，绝不偷懒。
+对的，我要用一年时间去打造这两款产品，并赚取到每月 15K 的收入。我会每周更新我的想法、见解以及工作进度，**绝不偷懒**。
 
 如果我做到了，我相信你也可以的。
 
