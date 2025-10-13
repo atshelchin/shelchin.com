@@ -10,7 +10,7 @@ generate_feeds = true
 [extra]
 lang = "en"
 
-title = "Docs"
+title = "Resources"
 subtitle = "I write about ...."
 
 date_format = "%b %-d, %Y"
