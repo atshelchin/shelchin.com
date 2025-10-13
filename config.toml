@@ -43,6 +43,10 @@ anchors = "on"
 
 sections = [
   { name = "posts", path = "/posts", is_external = false },
+  { name = "today-I-learned", path = "/til", is_external = false },
+  { name = "shelf", path = "/shelf", is_external = false },
+  { name = "works", path = "/works", is_external = false },
+  
   { name = "goals", path = "/goals", is_external = false },
   { name = "projects", path = "/projects", is_external = false },
   { name = "weekly", path = "/weekly", is_external = false },
