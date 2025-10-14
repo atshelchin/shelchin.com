@@ -8,6 +8,6 @@ date = 2025-10-14
 
 它是一个 为以太坊链上玩家提供高效便捷工具的站点。
 
-域名：https://biubiu.tools
+仓库地址：https://github.com/atshelchin/biubiu.tools
 
 未完待续。
