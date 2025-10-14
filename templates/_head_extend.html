@@ -5,8 +5,108 @@
         border-radius: 12px;
         transition: all 0.3s ease;
     }
+
     img:hover {
         box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
         transform: translateY(-5px);
+    }
+
+
+    body {
+        --border-color: #ddd;
+        --header-bg: #4CAF50;
+        --header-text: #ffffff;
+        --row-hover: #e8e8e8;
+        --row-even: #f9f9f9;
+        --container-border: #e2e2e2;
+        --fixed-cell-bg: #ffffff;
+    }
+
+    /* dark mode colors */
+    body.dark {
+
+        --border-color: #444;
+        --header-bg: #2d5a2d;
+        --header-text: #ffffff;
+        --row-hover: #2a2a2a;
+        --row-even: #252525;
+        --container-border: #555;
+        --fixed-cell-bg: #1e1e1e;
+    }
+
+    /* 表格基础样式 */
+    table {
+        border-collapse: collapse;
+        width: max-content;
+        min-width: 100%;
+        background-color: var(--bg-color);
+    }
+
+    /* 表头样式 */
+    thead th {
+        position: sticky;
+        top: 0;
+        background-color: var(--header-bg);
+        color: var(--header-text);
+        font-weight: bold;
+        z-index: 10;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    /* 单元格样式 */
+    th,
+    td {
+        min-width: 150px;
+        /* 最小宽度 */
+        max-width: 300px;
+        /* 最大宽度（可选） */
+        padding: 12px 15px;
+        text-align: left;
+        border: 1px solid var(--border-color) !important;
+        white-space: normal;
+        /* 允许换行 */
+        word-wrap: break-word;
+        /* 长单词换行 */
+        word-break: break-word;
+        /* 强制换行 */
+        vertical-align: top;
+        /* 内容顶部对齐 */
+    }
+
+    /* 斑马纹效果 */
+    tbody tr:nth-child(even) {
+        background-color: var(--row-even);
+    }
+
+    tbody tr:hover {
+        background-color: var(--row-hover);
+    }
+
+    /* 表格容器 - 控制滚动 */
+    .table-container {
+        width: 100%;
+        overflow: auto;
+ 
+        margin: 20px 0;
+        background-color: var(--bg-color);
+    }
+
+    /* 自定义滚动条样式（暗色模式友好） */
+    .table-container::-webkit-scrollbar {
+        width: 12px;
+        height: 12px;
+    }
+
+    .table-container::-webkit-scrollbar-track {
+        background: var(--row-even);
+    }
+
+    .table-container::-webkit-scrollbar-thumb {
+        background: var(--border-color);
+        border-radius: 6px;
+    }
+
+    .table-container::-webkit-scrollbar-thumb:hover {
+        background: var(--header-bg);
     }
 </style>
