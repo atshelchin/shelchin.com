@@ -14,7 +14,7 @@ title = "Shelf"
 subtitle = "I write about ...."
 
 date_format = "%b %-d, %Y"
-
+path = "/shelf"
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button
 toc = true # show table-of-contents

@@ -8,6 +8,7 @@ insert_anchor_links = "right"
 generate_feeds = true
 
 [extra]
+path = "/til"
 lang = "en"
 
 title = "Today I Learned"

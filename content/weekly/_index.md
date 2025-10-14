@@ -9,12 +9,10 @@ generate_feeds = true
 
 [extra]
 lang = "en"
-
 title = "Weekly"
-subtitle = "I write about ...."
-
+subtitle = "I write about ..."
 date_format = "%b %-d, %Y"
-
+path = "/weekly"
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button
 toc = true # show table-of-contents

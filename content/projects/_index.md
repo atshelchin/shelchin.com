@@ -9,7 +9,7 @@ generate_feeds = true
 
 [extra]
 lang = "en"
-
+path = "/projects"
 title = "Projects"
 subtitle = "I write about ...."
 
