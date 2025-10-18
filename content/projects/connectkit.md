@@ -1,15 +1,13 @@
 
 
 +++
-title = "@shelchin/connectkit"
+title = "connectkit"
 date = 2025-10-14
 
 +++
 
-简单描述一下这个项目
+一个基于 Svelte 5 的以太坊钱包连接库。 
 
-这一个 Svelte 版本的以太坊钱包连接库。
+支持 EIP-6963、WalletConnect、Coinbase 等主流钱包,内置网络切换、SIWE 登录和订阅管理。
 
-仓库地址：https://github.com/atshelchin/connectkit
-
-未完待续。
+Github仓库： [https://github.com/atshelchin/connectkit ](https://github.com/atshelchin/connectkit)

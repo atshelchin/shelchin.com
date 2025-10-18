@@ -49,7 +49,7 @@ sections = [
   { name = "weekly", path = "/weekly", is_external = false },
 
   # 英语
-  { name = "issues", path = "/issues", is_external = false },
+  { name = "work-logs", path = "/work-logs", is_external = false },
   { name = "resources", path = "/resources", is_external = false },
   { name = "today-I-learned", path = "/til", is_external = false },
 
