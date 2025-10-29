@@ -5,9 +5,7 @@ date = 2025-10-29
 +++
 
 
-# BIP32 Non-Hardened Derivation: Why One Leaked Private Key Compromises Your Entire Wallet
-
-**TL;DR**: If you leak a single child private key from a non-hardened derivation path, an attacker who has your xpub can recover the parent private key and control ALL addresses derived from that xpub (e.g., all addresses in your MetaMask QR wallet account).
+> **TL;DR**: If you leak a single child private key from a non-hardened derivation path, an attacker who has your xpub can recover the parent private key and control ALL addresses derived from that xpub (e.g., all addresses in your MetaMask QR wallet account).
 
 ## The Problem
 
