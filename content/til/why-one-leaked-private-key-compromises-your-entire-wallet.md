@@ -5,6 +5,7 @@ date = 2025-10-29
 +++
 
 
+# BIP32 Non-Hardened Derivation: Why One Leaked Private Key Compromises Your Entire Wallet
 
 **TL;DR**: If you leak a single child private key from a non-hardened derivation path, an attacker who has your xpub can recover the parent private key and control ALL addresses derived from that xpub (e.g., all addresses in your MetaMask QR wallet account).
 
@@ -38,19 +39,50 @@ m/44'/60'/0'               <- xpub exposed (MetaMask QR wallet)
 
 ## How the Attack Works
 
-BIP32 non-hardened derivation uses:
+### The Simple Explanation
+
+Think of it like this:
+
+1. **Normal derivation** (creating a child key):
+   ```
+   Child Key = Parent Key + Random Offset
+   ```
+
+2. **The vulnerability** (recovering parent key):
+   ```
+   Parent Key = Child Key - Random Offset
+   ```
+
+The problem? In non-hardened derivation, that "Random Offset" is calculated from **public information** (the parent's public key and chain code, both in the xpub). So if an attacker has:
+- ✅ Your xpub (public information)
+- ✅ ONE child private key (from a leak)
+
+They can:
+1. Calculate the "Random Offset" from the xpub
+2. Subtract it from the child key
+3. **Recover your parent private key**
+
+### The Technical Details
+
+According to [BIP32 specification](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki), the [Child Key Derivation (CKD) function](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki#child-key-derivation-ckd-functions) for non-hardened paths works as:
 
 ```
-child_private_key = (parent_private_key + HMAC_left) mod n
+child_private_key = (parse256(IL) + parent_private_key) mod n
 ```
 
-This can be reversed:
+Where:
+- `IL` = left 256 bits of `HMAC-SHA512(chaincode, parent_public_key || index)`
+- `n` = secp256k1 curve order (a very large prime number)
+
+This can be algebraically reversed:
 
 ```
-parent_private_key = (child_private_key - HMAC_left) mod n
+parent_private_key = (child_private_key - parse256(IL)) mod n
 ```
 
-Since `HMAC_left` is derived from the **parent public key** and chain code (both in the xpub), an attacker can calculate it and recover the parent private key.
+The critical weakness: `IL` is computed from the **parent public key**, which is in the xpub. An attacker can recalculate `IL` and reverse the derivation.
+
+The BIP32 spec explicitly warns about this in the ["Security" section](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki#security): *"In case of non-hardened derivation, the parent extended public key is known to the attacker. This allows an attacker to derive all descendant public keys... If an attacker has access to the parent extended public key and a single child private key, they can recover the parent private key."*
 
 ## Complete Working Example
 
