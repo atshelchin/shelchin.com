@@ -54,7 +54,7 @@ sections = [
   { name = "today-I-learned", path = "/til", is_external = false },
 
   # 德语
-  { name = "meine-geschichten", path = "/meine-geschichten", is_external = false },
+  # { name = "meine-geschichten", path = "/meine-geschichten", is_external = false },
 
   # 法语
   # { name = "mes-histoires", path = "/mes-histoires", is_external = false },
