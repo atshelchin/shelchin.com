@@ -63,7 +63,7 @@ sections = [
   { name = "mis-historias", path = "/mis-historias", is_external = false },
 
   # 日语
-  { name = "私の物語", path = "/私の物語", is_external = false },
+  # { name = "私の物語", path = "/私の物語", is_external = false },
 
   # 韩语
   # { name = "내 이야기", path = "/내 이야기", is_external = false },
