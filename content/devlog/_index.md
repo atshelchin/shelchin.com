@@ -9,8 +9,8 @@ generate_feeds = true
 
 [extra]
 lang = "en"
-path = "/work-logs"
-title = "Work logs"
+path = "/devlog"
+title = "devlog"
 subtitle = "I write about ...."
 
 date_format = "%b %-d, %Y"

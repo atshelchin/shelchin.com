@@ -9,12 +9,12 @@ generate_feeds = true
 
 [extra]
 lang = "en"
-
-title = "Resources"
+path = "/lab"
+title = "Lab"
 subtitle = "I write about ...."
 
 date_format = "%b %-d, %Y"
-path = "/resources"
+
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button
 toc = true # show table-of-contents
