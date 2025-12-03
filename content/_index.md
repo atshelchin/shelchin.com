@@ -38,18 +38,16 @@ It works. It pays the bills. But something's missing.
 
 I want to build things that create joy, not just utility.
 
-So I'm making a transition: from apps to indie games.
+So I'm expanding: Apps + Games.
 
 
 ## What I'm Thinking About
 
 🎮 Game Design — What makes games fun?
 
-🤖 AI + Game Dev — Can AI tools (Claude, Cursor, Suno, Midjourney) actually accelerate solo game development?
+🤖 AI + Game Dev — Can AI tools (Claude, Suno, Midjourney) accelerate game development?
 
-🧠 The Transition — How does an app developer learn to think like a game designer?
-
-📊 The Business — Can indie games still be profitable in 2026? What does the data say?
+📊 The Business — Can indie games still be profitable in 2026?
 
 
 
@@ -59,10 +57,7 @@ So I'm making a transition: from apps to indie games.
 
 🧠 Knowledge Cards — Spaced repetition learning in spare moments
 
-🎮 [Next] — An indie game. Coming soon. Follow along to see it happen.
 
+## Next
 
-## Follow Along
-- Twitter/X: [@atshelchin](https://x.com/atshelchin) — That's where the daily updates live. See you there.
-
-Let's see where this goes.
+An indie game. Coming soon. Follow along to see it happen.
