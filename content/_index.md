@@ -28,6 +28,8 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
+## Who I Am
+
 Hey, I'm Shelchin 👋
 
 I've spent years building apps.
@@ -41,26 +43,26 @@ So I'm making a transition: from apps to indie games.
 
 ## What I'm Thinking About
 
-🎮 **Game Design** — What makes games fun?
+🎮 Game Design — What makes games fun?
 
-🤖 **AI + Game Dev** — Can AI tools (Claude, Cursor, Suno, Midjourney) actually accelerate solo game development?
+🤖 AI + Game Dev — Can AI tools (Claude, Cursor, Suno, Midjourney) actually accelerate solo game development?
 
-🧠 **The Transition** — How does an app developer learn to think like a game designer?
+🧠 The Transition — How does an app developer learn to think like a game designer?
 
-📊 **The Business** — Can indie games still be profitable in 2026? What does the data say?
+📊 The Business — Can indie games still be profitable in 2026? What does the data say?
 
 
 
 ## What I'm Building Now
 
-🔒 **Ethereum Wallet** — Built on Safe Smart Account with Apple Secure Enclave
+🔒 Ethereum Wallet — Built on Safe Smart Account with Apple Secure Enclave
 
-🧠 **Knowledge Cards** — Spaced repetition learning in spare moments
+🧠 Knowledge Cards — Spaced repetition learning in spare moments
 
-🎮 **[Next]** — An indie game. Coming soon. Follow along to see it happen.
+🎮 [Next] — An indie game. Coming soon. Follow along to see it happen.
 
 
 ## Follow Along
-- **Twitter/X**: [@atshelchin](https://x.com/atshelchin) — That's where the daily updates live. See you there.
+- Twitter/X: [@atshelchin](https://x.com/atshelchin) — That's where the daily updates live. See you there.
 
 Let's see where this goes.
