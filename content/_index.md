@@ -40,16 +40,16 @@ I want to build things that create joy, not just utility.
 
 So I'm expanding: Apps + Games.
 
+This is where I document the journey.
 
 ## What I'm Thinking About
 
 🎮 Game Design — What makes games fun?
 
-🤖 AI + Game Dev — Can AI tools (Claude, Suno, Midjourney) accelerate game development?
+🤖 AI + Game Dev — Can AI tools (Claude, Suno, Midjourney) accelerate game
+development?
 
 📊 The Business — Can indie games still be profitable in 2026?
-
-
 
 ## What I'm Building Now
 
@@ -57,7 +57,14 @@ So I'm expanding: Apps + Games.
 
 🧠 Knowledge Cards — Spaced repetition learning in spare moments
 
-
 ## Next
 
-An indie game. Coming soon. Follow along to see it happen.
+An indie game. Built with AI. Documented from day one.
+
+## Follow Along
+
+**Twitter**: [@atshelchin](https://twitter.com/atshelchin) — thoughts & updates
+
+**Github**: [@atshelchin](https://github.com/atshelchin) - my code
+
+Or drop me a line: hi@shelchin.com
