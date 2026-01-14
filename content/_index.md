@@ -12,7 +12,7 @@ footer = false
 
 name = "Shelchin"
 id = ""
-bio = "Solving problems, creating joy, building community"
+bio = "Building tools for Web3 users"
 avatar = "img/avatar.jpg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/atshelchin" },
@@ -29,42 +29,30 @@ date_format = "%b %-d, %Y"
 +++
 
 ## Who I Am
+Hey, I'm Shelchin
 
-Hey, I'm Shelchin 👋
+独立开发者，专注为 Web3 用户做工具。
 
-I've spent years building apps.
+这里记录我的开发心得和产品更新。
 
-It works. It pays the bills. But something's missing.
-
-I want to build things that create joy, not just utility.
-
-So I'm expanding: Apps + Games.
-
-This is where I document the journey.
 
 ## What I'm Thinking About
 
-🎮 Game Design — What makes games fun?
+→ Web3 工具 - 如何提升链上操作效率
 
-🤖 AI + Game Dev — Can AI tools (Claude, Suno, Midjourney) accelerate game
-development?
+→ 智能钱包 - 账户抽象的未来
 
-📊 The Business — Can indie games still be profitable in 2026?
 
 ## What I'm Building Now
 
-🔒 Ethereum Wallet — Built on Safe Smart Account with Apple Secure Enclave
+🔧 biubiu.tools - 以太坊批量工具箱，省时省 Gas
 
-🧠 Knowledge Cards — Spaced repetition learning in spare moments
+🔒 Keyper - 硬件钱包用户的智能钱包，更安全更好用
 
-## Next
-
-An indie game. Built with AI. Documented from day one.
+📱 Vela - 比热钱包更安全的日用钱包，无需助记词
 
 ## Follow Along
 
-**Twitter**: [@atshelchin](https://twitter.com/atshelchin) — thoughts & updates
+**Twitter**: [@atshelchin](https://twitter.com/atshelchin) - 日常更新
 
-**Github**: [@atshelchin](https://github.com/atshelchin) - my code
-
-Or drop me a line: hi@shelchin.com
+**Github**: [@atshelchin](https://github.com/atshelchin) - 开源代码

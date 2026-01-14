@@ -1,5 +1,5 @@
 +++
-title = "Solving problems, creating joy, building community"
+title = "Building tools for Web3 users"
 description = "Hi there 👏 I'm Shelchin, an iOS developer building apps that make complex things simple."
 sort_by = "date"
 template = "blog.html"
