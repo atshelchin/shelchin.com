@@ -17,7 +17,6 @@ avatar = "img/avatar.jpg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/atshelchin" },
     { name = "Twitter", icon = "twitter", url = "https://x.com/atshelchin" },
-    { name = "Email", icon = "email", url = "mailto:hi@shelchin.com" },
 ]
 
 # Show a few recent posts in home page
