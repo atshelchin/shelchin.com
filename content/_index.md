@@ -27,31 +27,21 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-## Who I Am
 Hey, I'm Shelchin
 
-独立开发者，专注为 Web3 用户做工具。
-
-这里记录我的开发心得和产品更新。
+十年码农无人晓，转型产品 **求** 天下知
 
 
-## What I'm Thinking About
+## 我在做什么
 
-→ Web3 工具 - 如何提升链上操作效率
+[biubiu.tools](https://biubiu.tools) - 以太坊批量工具箱，省时省 Gas
 
-→ 智能钱包 - 账户抽象的未来
+[awesometools.dev](https://awesometools.dev) - 我的个人工具箱
 
+[sndra.link](https://sndra.link/) - 免费短链接生成服务 & UTM 构造器
 
-## What I'm Building Now
+## 联系方式
 
-🔧 biubiu.tools - 以太坊批量工具箱，省时省 Gas
+**X**: [@atshelchin](https://twitter.com/atshelchin)
 
-🔒 Keyper - 硬件钱包用户的智能钱包，更安全更好用
-
-📱 Vela - 比热钱包更安全的日用钱包，无需助记词
-
-## Follow Along
-
-**Twitter**: [@atshelchin](https://twitter.com/atshelchin) - 日常更新
-
-**Github**: [@atshelchin](https://github.com/atshelchin) - 开源代码
+**Email**: hi@shelchin.com
