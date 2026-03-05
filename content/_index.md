@@ -34,11 +34,11 @@ Hey, I'm Shelchin
 
 ## 我在做什么
 
-[biubiu.tools](https://biubiu.tools) - 以太坊批量工具箱，省时省 Gas
+[biubiu.tools](https://sndra.link/r/yMsl46) - 以太坊批量工具箱，省时省 Gas
 
-[awesometools.dev](https://awesometools.dev) - 我的个人工具箱
+[awesometools.dev](https://sndra.link/r/biSRtn) - 我的个人工具箱
 
-[sndra.link](https://sndra.link/) - 免费短链接生成服务 & UTM 构造器
+[sndra.link](https://sndra.link/r/l8db6e) - 免费短链接生成服务 & UTM 构造器
 
 ## 联系方式
 
