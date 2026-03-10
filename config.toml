@@ -51,7 +51,8 @@ sections = [
 
   # 英语
   { name = "projects", path = "/projects", is_external = false },
-  { name = "devlog", path = "/devlog", is_external = false },
+  { name = "practice", path = "/practice", is_external = false },
+  # { name = "devlog", path = "/devlog", is_external = false },
   # { name = "today-I-learned", path = "/til", is_external = false },
 
   # { name = "english test", path = "/english-test", is_external = false },
