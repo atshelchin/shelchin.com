@@ -34,9 +34,3 @@ date_format = "%m-%-d, %Y"
 [awesometools.dev](https://sndra.link/r/biSRtn) - 我的个人工具箱
 
 [sndra.link](https://sndra.link/r/l8db6e) - 免费短链接生成服务 & UTM 构造器
-
-## 联系方式
-
-**X**: [@atshelchin](https://twitter.com/atshelchin)
-
-**Email**: hi@shelchin.com
