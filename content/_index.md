@@ -10,7 +10,7 @@ footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
 
-name = "Shelchin"
+name = "沈尔晨"
 id = ""
 bio = "Building tools for Web3 users"
 avatar = "img/avatar.jpg"
@@ -30,7 +30,6 @@ date_format = "%b %-d, %Y"
 Hey, I'm Shelchin
 
 十年码农无人晓，转型产品 **求** 天下知
-
 
 ## 我在做什么
 
