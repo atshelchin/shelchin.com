@@ -12,7 +12,7 @@ footer = false
 
 name = "沈尔晨"
 id = ""
-bio = "Building tools for Web3 users"
+bio = "十年码农，现在自己做产品 "
 avatar = "img/avatar.jpg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/atshelchin" },
@@ -24,12 +24,8 @@ links = [
 recent = false
 recent_max = 15
 recent_more_text = "more »"
-date_format = "%b %-d, %Y"
+date_format = "%m-%-d, %Y"
 +++
-
-Hey, I'm Shelchin
-
-十年码农无人晓，转型产品 **求** 天下知
 
 ## 我在做什么
 

@@ -43,15 +43,15 @@ anchors = "on"
 
 sections = [
   # 中文
-  { name = "posts", path = "/posts", is_external = false },
+  { name = "想法", path = "/posts", is_external = false },
   # { name = "marketing", path = "/marketing", is_external = false },
   # { name = "goals", path = "/goals", is_external = false },
   # { name = "lab", path = "/lab", is_external = false },
   # { name = "weekly", path = "/weekly", is_external = false },
 
   # 英语
-  { name = "projects", path = "/projects", is_external = false },
-  { name = "practice", path = "/practice", is_external = false },
+  { name = "我做出的东西", path = "/projects", is_external = false },
+  { name = "踩过的坑", path = "/practice", is_external = false },
   # { name = "devlog", path = "/devlog", is_external = false },
   # { name = "today-I-learned", path = "/til", is_external = false },
 

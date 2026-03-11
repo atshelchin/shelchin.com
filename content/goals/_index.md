@@ -1,5 +1,5 @@
 +++
-title = "Building tools for Web3 users"
+title = "十年码农，现在自己做产品 "
 description = "Hi there 👏 I'm Shelchin, an iOS developer building apps that make complex things simple."
 sort_by = "date"
 template = "blog.html"
@@ -14,7 +14,7 @@ path = "/goals"
 title = "Goals"
 subtitle = "I write about ...."
 
-date_format = "%b %-d, %Y"
+date_format = "%m-%-d, %Y"
 
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button
