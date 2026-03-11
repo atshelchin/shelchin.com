@@ -75,14 +75,14 @@ sections = [
 ]
 blog_section_path = "/posts"
 
-back_link_text = "Back" # Text of the back button
+back_link_text = "返回" # Text of the back button
 force_theme = false # false | "light" | "dark"
 
 footer_copyright = "© 2025 沈尔晨"
 footer_credits = true # Whether to show "Built with zola and serene" in footer
 
-not_found_error_text = "404 Not Found"
-not_found_recover_text = "« back to home »"
+not_found_error_text = "你来到了我的知识盲区"
+not_found_recover_text = "« 返回首页 »"
 
 reaction = false # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
 reaction_align = "right" # "left" | "center" | "right"
