@@ -46,7 +46,7 @@ links = [
 recent = false
 recent_max = 15
 recent_more_text = "more »"
-date_format = "%m-%-d, %Y"
+date_format = "%Y-%m-%-d"
 +++
 
 Hi, I'm ...
@@ -70,7 +70,7 @@ lang = "en"
 title = "Posts"
 subtitle = "I write about ...."
 
-date_format = "%m-%-d, %Y"
+date_format = "%Y-%m-%-d"
 
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button

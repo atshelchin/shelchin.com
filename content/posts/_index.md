@@ -13,7 +13,7 @@ lang = "en"
 title = "想法"
 subtitle = ""
 
-date_format = "%m-%-d, %Y"
+date_format = "%Y-%m-%-d"
 path = "/posts"
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button

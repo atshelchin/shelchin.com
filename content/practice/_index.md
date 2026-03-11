@@ -13,7 +13,7 @@ path = "/practice"
 title = "踩过的坑"
 subtitle = ""
 
-date_format = "%m-%-d, %Y"
+date_format = "%Y-%m-%-d"
 
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button

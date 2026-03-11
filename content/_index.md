@@ -24,7 +24,7 @@ links = [
 recent = false
 recent_max = 15
 recent_more_text = "more »"
-date_format = "%m-%-d, %Y"
+date_format = "%Y-%m-%-d"
 +++
 
 ## 我在做什么
@@ -37,4 +37,4 @@ date_format = "%m-%-d, %Y"
 
 ## 联系方式
 
-**X**: [@atshelchin](https://twitter.com/atshelchin)
+**X**: [@atshelchin](https://twitter.com/atshelchin)wrapper
