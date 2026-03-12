@@ -10,7 +10,7 @@ footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
 
-name = "沈尔晨"
+name = "夏而清"
 id = ""
 bio = "十年码农，现在自己做产品 "
 avatar = "img/avatar.jpg"
