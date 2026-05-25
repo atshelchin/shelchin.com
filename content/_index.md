@@ -29,6 +29,8 @@ date_format = "%Y-%m-%-d"
 
 ## 我在做什么
 
+[getvela.app](https://sndra.link/r/RDXDXX) - 自托管的以太坊钱包（不用再记忆助记词了）
+
 [biubiu.tools](https://sndra.link/r/yMsl46) - 以太坊批量工具箱，省时省 Gas
 
 [awesometools.dev](https://sndra.link/r/biSRtn) - 我的个人工具箱
