@@ -10,9 +10,9 @@ footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
 
-name = "夏而清"
+name = "Shelchin"
 id = ""
-bio = "十年码农，现在自己做产品 "
+bio = "10-Year Software Engineer turned Indie Hacker"
 avatar = "img/avatar.jpg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/atshelchin" },
@@ -27,16 +27,14 @@ recent_more_text = "more »"
 date_format = "%Y-%m-%-d"
 +++
 
-## 我在做什么
+## What I’m Building
 
-[getvela.app](https://sndra.link/r/RDXDXX) - 自托管的以太坊钱包（不用再记忆助记词了）
+[getvela.app](https://sndra.link/r/RDXDXX) - An open-source, self-custodial wallet for ETH and ERC-20s. 
 
-[biubiu.tools](https://sndra.link/r/yMsl46) - 以太坊批量工具箱，省时省 Gas
+[biubiu.tools](https://sndra.link/r/yMsl46) - The all-in-one toolbox for ethereum.
 
-[awesometools.dev](https://sndra.link/r/biSRtn) - 我的个人工具箱
+[awesometools.dev](https://sndra.link/r/biSRtn) - My personal toolkit.
 
-[sndra.link](https://sndra.link/r/l8db6e) - 免费短链接生成服务 & UTM 构造器
-
-## 联系方式
+## Let's Connect
 
 **X**: [@atshelchin](https://twitter.com/atshelchin)

@@ -43,15 +43,18 @@ anchors = "on"
 
 sections = [
   # 中文
-  { name = "想法", path = "/posts", is_external = false },
+
+
   # { name = "marketing", path = "/marketing", is_external = false },
   # { name = "goals", path = "/goals", is_external = false },
   # { name = "lab", path = "/lab", is_external = false },
   # { name = "weekly", path = "/weekly", is_external = false },
 
   # 英语
-  { name = "我做出的东西", path = "/projects", is_external = false },
-  { name = "踩过的坑", path = "/practice", is_external = false },
+  { name = "Essays", path = "/essays", is_external = false },
+  { name = "My Shipped Products", path = "/projects", is_external = false },
+  { name = "Cookbook", path = "/practice", is_external = false },
+  { name = "ZH", path = "/posts", is_external = false },
   # { name = "devlog", path = "/devlog", is_external = false },
   # { name = "today-I-learned", path = "/til", is_external = false },
 
@@ -75,14 +78,14 @@ sections = [
 ]
 blog_section_path = "/posts"
 
-back_link_text = "返回" # Text of the back button
+back_link_text = "Back" # Text of the back button
 force_theme = false # false | "light" | "dark"
 
-footer_copyright = "© 2025 夏而清"
+footer_copyright = "© 2025 Shelchin"
 footer_credits = true # Whether to show "Built with zola and serene" in footer
 
-not_found_error_text = "你来到了我的知识盲区"
-not_found_recover_text = "« 返回首页 »"
+not_found_error_text = "You've found my blind spot."
+not_found_recover_text = "« Back to Homepage »"
 
 reaction = false # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
 reaction_align = "right" # "left" | "center" | "right"
