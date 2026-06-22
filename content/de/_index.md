@@ -8,10 +8,10 @@ insert_anchor_links = "right"
 generate_feeds = true
 
 [extra]
-lang = "en"
+lang = "de"
 
-title = "ZH"
-subtitle = "我爱中文"
+title = "DE"
+subtitle = "Ich bin dabei, Deutsch zu lernen."
 
 date_format = "%Y-%m-%-d"
 path = "/posts"
