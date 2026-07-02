@@ -54,6 +54,7 @@ sections = [
   { name = "Essays", path = "/essays", is_external = false },
   { name = "My Shipped Products", path = "/projects", is_external = false },
   { name = "Cookbook", path = "/practice", is_external = false },
+  { name = "Prompts", path = "/prompts", is_external = false },
   { name = "DE", path = "/de", is_external = false },
   { name = "ZH", path = "/posts", is_external = false },
   # { name = "devlog", path = "/devlog", is_external = false },
