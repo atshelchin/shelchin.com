@@ -1366,6 +1366,24 @@ body.post {
       }
     }
 
+    #authorship {
+      margin-bottom: 1em;
+      margin-right: 1em;
+      padding: 0.1em 0.65em;
+      border: 1px solid var(--text-pale-color);
+      border-radius: 999px;
+      color: var(--text-pale-color);
+      font-size: 0.85em;
+      line-height: 1.6;
+      white-space: nowrap;
+
+      &.human {
+        border-color: var(--primary-color);
+        color: var(--primary-color);
+        font-weight: 600;
+      }
+    }
+
     #tags {
       margin-bottom: 1em;
       display: flex;

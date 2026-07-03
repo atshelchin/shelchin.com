@@ -103,6 +103,13 @@
             {% endif -%}
           </div>
 
+          {% if page.extra.authorship is defined %}{% set authorship = page.extra.authorship %}{% else %}{% set authorship = "ai" %}{% endif %}
+          {% if authorship == "human" %}
+          <div id="authorship" class="human" title="本文由作者独立完成，未使用 AI">✍️ 纯人工创作 · Human-written</div>
+          {% else %}
+          <div id="authorship" class="ai" title="本文在 AI 辅助下完成，观点与结论由作者负责">🤖 AI 辅助创作 · AI-assisted</div>
+          {% endif %}
+
           {% if page.taxonomies.tags is defined %}
           <div id="tags">
             {% for tag in page.taxonomies.tags -%}
