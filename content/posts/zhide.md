@@ -1,7 +1,8 @@
 +++
 title = "值得"
 date = 2026-05-05
-
+[extra]
+authorship = "human"
 +++
 
 早上八点多
