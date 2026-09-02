@@ -57,6 +57,7 @@ sections = [
   { name = "Prompts", path = "/prompts", is_external = false },
   { name = "DE", path = "/de", is_external = false },
   { name = "ZH", path = "/posts", is_external = false },
+  { name = "Novel", path = "/novel", is_external = false },
   # { name = "devlog", path = "/devlog", is_external = false },
   # { name = "today-I-learned", path = "/til", is_external = false },
 

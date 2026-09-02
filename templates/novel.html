@@ -1,0 +1,49 @@
+{% import "macros/prose.html" as macros %}
+{% extends "_base.html" %}
+
+{% block page %}blog{% endblock page%}
+{% block lang %}{% if section.extra.lang %}{{ section.extra.lang }}{% else %}{{ section.lang }}{% endif %}{% endblock lang %}
+{% block title %}{{ section.title }}{% endblock title %}
+{% block desc %}
+  {% if section.description %}
+    {% set desc = section.description %}
+  {% else %}
+    {% set desc = config.description %}
+  {% endif %}
+  <meta name="description" content="{{ desc }}">
+{% endblock desc %}
+
+{% block content %}
+<div id="wrapper">
+  {{ macros::back_link(path = get_url(path="/")) }}
+  {% include "_section_title.html" %}
+  <main class="layout-list">
+    <div class="post-list">
+      {#- 小说是 content/novel/ 下的独立 .html 文件，Zola 把它们当作 section 的附属资源原样拷贝到 /novel/ 下。 -#}
+      {#- 这里列出所有 .html 附属资源；显示名优先取文件里的 <title>，没有则用文件名。 -#}
+      {%- set_global novels = [] -%}
+      {%- for asset in section.assets -%}
+        {%- if asset is ending_with(".html") -%}
+          {%- set_global novels = novels | concat(with=asset) -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- for asset in novels | sort | reverse %}
+      {%- set filename = asset | split(pat="/") | last %}
+      {%- set name = filename | trim_end_matches(pat=".html") | replace(from="-", to=" ") | replace(from="_", to=" ") %}
+      {%- set raw = load_data(path="content" ~ asset, format="plain") %}
+      {%- if raw is containing("<title>") and raw is containing("</title>") %}
+        {%- set title = raw | split(pat="<title>") | nth(n=1) | split(pat="</title>") | first | trim %}
+        {%- if title %}{% set name = title %}{% endif %}
+      {%- endif %}
+      <a class="post instant" href="{{ get_url(path=asset) }}">
+        <span>{{ name }}</span>
+      </a>
+      {%- endfor %}
+      {%- if novels | length == 0 %}
+      <p>还没有小说。</p>
+      {%- endif %}
+    </div>
+  </main>
+  {% include "_footer.html" %}
+</div>
+{% endblock content %}
