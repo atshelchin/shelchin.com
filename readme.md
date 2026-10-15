@@ -25,7 +25,7 @@ authorship = "human"
 - 开关：各板块 `_index.md` 的 `[extra]` 里 `comment = true / false`；单篇文章可以在 frontmatter 的 `[extra]` 里写 `comment = false` 关掉。目前除 novel 外都开着。
 - 配置（仓库、分类 ID、语言等）：`themes/serene-copy/templates/_giscus_script.html`。
 - 配色：`static/giscus_light.css`、`static/giscus_dark.css`，取自 `sass/typography.scss`，改配色时一起改。
-- 只在 shelchin.com 上加载：giscus 加载时会在仓库里建讨论帖，本地预览加载会建出带 localhost 链接的帖子，所以本地只显示一行提示。仓库根目录的 `giscus.json` 也只允许 shelchin.com 嵌入，要推到 GitHub 才生效。
+- 只在 shelchin.com 上加载：一篇文章第一次有人评论或点表情时，giscus 才会建它的讨论帖，帖子里记的是当时的网址；在本地预览里评论会建出带 localhost 链接的帖子，所以本地只显示一行提示。仓库根目录的 `giscus.json` 也只允许 shelchin.com 嵌入，要推到 GitHub 才生效。
 - 前提：仓库开着 Discussions，并且装了 giscus 这个 GitHub App。
 
 ## 订阅（/reading）
