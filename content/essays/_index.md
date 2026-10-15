@@ -1,8 +1,8 @@
 +++
 
-title="10-Year Software Engineer turned Indie Hacker "
+title="Using AI to build real products. Now building Vela."
 
-description="Hi there 👏 I'm Shelchin, an iOS developer building apps that make complex things simple."
+description="Hi there 👏 I'm Shelchin. I use AI to build real products. Currently building Vela, an open-source Ethereum wallet."
 
 sort_by="date"
 

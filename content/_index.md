@@ -12,7 +12,7 @@ footer = false
 
 name = "Shelchin"
 id = ""
-bio = "10-Year Software Engineer turned Indie Hacker"
+bio = "Using AI to build real products. Now building Vela."
 avatar = "img/avatar.jpg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/atshelchin" },
