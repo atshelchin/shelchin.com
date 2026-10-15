@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 01:00",
+ "updated": "2026-10-16 05:22",
  "languages": [
   {
    "key": "zh",
@@ -148,7 +148,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-pseudoyu-com-feed-xml",
@@ -681,6 +681,58 @@
  ],
  "items": [
   {
+   "title": "Chirp Pong",
+   "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792093672
+  },
+  {
+   "title": "Muse Spark Open",
+   "link": "https://research.meta.ai/blog/muse-spark-open",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792086459
+  },
+  {
+   "title": "The runtime wars are over... and Node won",
+   "link": "https://www.youtube.com/watch?v=l3L_lETiSzc",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792085715
+  },
+  {
+   "title": "Neural networks are clean",
+   "link": "https://already-clean.goodfire.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792080241
+  },
+  {
    "title": "AI Can’t Copy This: Why Every Creator Needs an Origin Story in 2026 | 150",
    "link": "https://nathanbarry.com/ai-cant-copy-this-why-every-creator-needs-an-origin-story-in-2026-150/",
    "author": "Nathan Barry",
@@ -692,6 +744,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792080000
+  },
+  {
+   "title": "I know why the mathematicians weep",
+   "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792071872
+  },
+  {
+   "title": "Wayland desktop for Linux with skeuomorphic design",
+   "link": "https://github.com/fyzugx/DEsk",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792070624
   },
   {
    "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
@@ -707,7 +785,7 @@
    "ts": 1792069443
   },
   {
-   "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+   "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
    "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -731,6 +809,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792065621
+  },
+  {
+   "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+   "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792061016
   },
   {
    "title": "Web3 离钱近是错觉",
@@ -1214,19 +1305,6 @@
    "ts": 1791968310
   },
   {
-   "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-   "link": "https://typeof.net/Iosevka/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791966479
-  },
-  {
    "title": "Navige",
    "link": "https://www.producthunt.com/products/navige",
    "author": "Product Hunt",
@@ -1240,30 +1318,17 @@
    "ts": 1791959381
   },
   {
-   "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-   "link": "https://github.com/android/ndk/issues/2260",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Cloud Releases",
+   "link": "https://www.producthunt.com/products/cloud-releases",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-10-14",
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791958681
-  },
-  {
-   "title": "Why is every rationalist blog post way too long?",
-   "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791957736
+   "ts": 1791950876
   },
   {
    "title": "Reelbird",
@@ -1292,6 +1357,19 @@
    "ts": 1791940316
   },
   {
+   "title": "Diagramly",
+   "link": "https://www.producthunt.com/products/diagramly-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-14",
+   "day": "Oct 14",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791937764
+  },
+  {
    "title": "Redesigning source control at Anthropic",
    "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
    "author": "Simon Willison",
@@ -1303,19 +1381,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791932406
-  },
-  {
-   "title": "Recreational Programming",
-   "link": "https://www.cphiri.dev/presentations/recreational-programming",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791930813
   },
   {
    "title": "llm-gemini 0.35",
@@ -1331,17 +1396,17 @@
    "ts": 1791930534
   },
   {
-   "title": "OpenAI engineer arrested in bugging of executive conference room",
-   "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Payload Peek",
+   "link": "https://www.producthunt.com/products/payload-peek",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-10-14",
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791923035
+   "ts": 1791926374
   },
   {
    "title": "SuperLocalMemory",
@@ -1383,17 +1448,17 @@
    "ts": 1791916839
   },
   {
-   "title": "Nimble",
-   "link": "https://www.producthunt.com/products/nimble-5",
+   "title": "NoteHouse",
+   "link": "https://www.producthunt.com/products/notehouse-2",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
    "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
+   "date": "2026-10-13",
+   "day": "Oct 13",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791912090
+   "ts": 1791906879
   },
   {
    "title": "Lleverage",
@@ -1435,6 +1500,19 @@
    "ts": 1791901779
   },
   {
+   "title": "Kugel 3.5",
+   "link": "https://www.producthunt.com/products/kugelaudio",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-13",
+   "day": "Oct 13",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791899475
+  },
+  {
    "title": "Quoting Geoffrey Huntley",
    "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
    "author": "Simon Willison",
@@ -1446,32 +1524,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791898320
-  },
-  {
-   "title": "Exodus for Google Cloud Run",
-   "link": "https://www.producthunt.com/products/exodus-by-elim-io",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791884426
-  },
-  {
-   "title": "AdAnt 2.0",
-   "link": "https://www.producthunt.com/products/adant-ai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791877890
   },
   {
    "title": "Dreamscale Labs",
@@ -1550,32 +1602,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791845551
-  },
-  {
-   "title": "Winq",
-   "link": "https://www.producthunt.com/products/winq",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791839750
-  },
-  {
-   "title": "Shrine",
-   "link": "https://www.producthunt.com/products/shrine-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791838544
   },
   {
    "title": "Every app on Earth is now open source... whether it likes it or not",
@@ -1708,7 +1734,7 @@
    "ts": 1791759638
   },
   {
-   "title": "When You Are Afraid to Make Mistakes in German",
+   "title": "We Asked Native Speakers About Their Experience with German Learners",
    "link": "https://www.youtube.com/watch?v=RbtIMGCizu0",
    "author": "Easy German",
    "source": "Easy German",
@@ -2317,19 +2343,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791322354
-  },
-  {
-   "title": "EmbeddingGemma 2",
-   "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-07",
-   "day": "Oct 7",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791319073
   },
   {
    "title": "为什么 Polymarket 比交易所邪恶很多倍",
@@ -4462,19 +4475,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788832800
-  },
-  {
-   "title": "5 open source tools that replaced my $320/mo AI stack...",
-   "link": "https://www.youtube.com/watch?v=Y5rSSvXfL4g",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-09-08",
-   "day": "Sep 8",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788801891
   },
   {
    "title": "Skill 并不能让模型更聪明",
