@@ -13,7 +13,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="{{ get_url(path='img/apple-touch-icon.png') }}">
   {% include "_custom_font.html" %}
   {% include "_custom_css.html" %}
-  <link rel="stylesheet" href="{{ get_url(path='main.css') }}">
+  <link rel="stylesheet" href="{{ get_url(path='main.css', cachebust=true) }}">
   {% block head %}{% endblock head %}
   {% include "_head_extend.html" %}
 </head>
@@ -32,7 +32,7 @@
   {% endif %}
   {% block content %}{% endblock content %}
   {% block script %}{% endblock script %}
-  <script src="{{ get_url(path='js/main.js') }}"></script>
+  <script src="{{ get_url(path='js/main.js', cachebust=true) }}"></script>
 </body>
 
 </html>
