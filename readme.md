@@ -18,6 +18,16 @@ authorship = "human"
 
 文章列表页（各板块和标签页）顶部可以按创作方式筛选：All（混排）、Human-written、AI-assisted，人工手写的文章标题后会有 ✍︎ 标记。选择会存在浏览器里，全站列表页共用；也可以用网址参数直接打开某个视图，例如 `/posts/?by=human`。实现位于 `themes/serene-copy/templates/_authorship_filter.html`，样式在 `main.scss` 末尾。
 
+## 评论（giscus）
+
+文章底部的评论用 [giscus](https://giscus.app)：读者用 GitHub 登录后评论，评论存在本仓库 Discussions 的 Comments 分类里，一篇文章对应一个讨论帖（按网址路径对应，改标题不影响，改 slug 会断开）。删评论、锁帖子都在 GitHub 的 Discussions 里操作。
+
+- 开关：各板块 `_index.md` 的 `[extra]` 里 `comment = true / false`；单篇文章可以在 frontmatter 的 `[extra]` 里写 `comment = false` 关掉。目前除 novel 外都开着。
+- 配置（仓库、分类 ID、语言等）：`themes/serene-copy/templates/_giscus_script.html`。
+- 配色：`static/giscus_light.css`、`static/giscus_dark.css`，取自 `sass/typography.scss`，改配色时一起改。
+- 只在 shelchin.com 上加载：giscus 加载时会在仓库里建讨论帖，本地预览加载会建出带 localhost 链接的帖子，所以本地只显示一行提示。仓库根目录的 `giscus.json` 也只允许 shelchin.com 嵌入，要推到 GitHub 才生效。
+- 前提：仓库开着 Discussions，并且装了 giscus 这个 GitHub App。
+
 ## 订阅（/reading）
 
 `/reading` 列出订阅源里的文章标题、作者和日期，可以按语言、来源筛选，点标题打开原文。只保存标题和链接，不转载正文。页面上的文字都用英文。

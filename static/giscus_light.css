@@ -1,0 +1,108 @@
+/* giscus 评论区浅色主题：沿用 giscus 自带的 light 主题，只把配色和字体换成本站的（取自 sass/typography.scss）。
+   改配色时记得和 giscus_dark.css、sass/typography.scss 一起改。
+   静态目录里的这两个文件由 themes/serene-copy/templates/_giscus_script.html 和 static/js/main.js 按网址引用，文件名不要改。 */
+@import url("https://giscus.app/themes/light.css");
+
+:root {
+  --font-family-sans: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC",
+    "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+main {
+  --site-body-font: "Iowan Old Style", Charter, Georgia, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC",
+    "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", serif;
+
+  --color-fg-default: #141413;
+  --color-fg-muted: #7e7c76;
+  --color-fg-subtle: #7e7c76;
+
+  --color-canvas-default: #fefefd;
+  --color-canvas-overlay: #fefefd;
+  --color-canvas-inset: #f5f4f0;
+  --color-canvas-subtle: #f5f4f0;
+
+  --color-border-default: #e4e3df;
+  --color-border-muted: #ecebe7;
+  --color-neutral-muted: #f0f0ee;
+
+  --color-accent-fg: #5871a2;
+  --color-accent-emphasis: #5871a2;
+  --color-accent-muted: #5871a266;
+  --color-accent-subtle: #eef1f7;
+  --color-scale-blue-1: #dfe5f1;
+  --color-scale-gray-1: #ecebe7;
+
+  --color-btn-text: #141413;
+  --color-btn-bg: #f5f4f0;
+  --color-btn-border: #e4e3df;
+  --color-btn-shadow: none;
+  --color-btn-inset-shadow: none;
+  --color-btn-hover-bg: #efeee9;
+  --color-btn-hover-border: #dad9d4;
+  --color-btn-active-bg: #e9e8e3;
+  --color-btn-active-border: #dad9d4;
+  --color-btn-selected-bg: #e9e8e3;
+
+  --color-btn-primary-text: #fff;
+  --color-btn-primary-bg: #5871a2;
+  --color-btn-primary-border: transparent;
+  --color-btn-primary-shadow: none;
+  --color-btn-primary-inset-shadow: none;
+  --color-btn-primary-hover-bg: #4c6491;
+  --color-btn-primary-hover-border: transparent;
+  --color-btn-primary-selected-bg: #435a84;
+  --color-btn-primary-selected-shadow: none;
+  --color-btn-primary-disabled-text: #fffc;
+  --color-btn-primary-disabled-bg: #a9b6cf;
+  --color-btn-primary-disabled-border: transparent;
+
+  --color-action-list-item-default-hover-bg: #ecebe7;
+  --color-segmented-control-bg: #ecebe7;
+  --color-segmented-control-button-bg: #fefefd;
+  --color-segmented-control-button-selected-border: #bdbbb4;
+  --color-primer-shadow-inset: none;
+
+  /* 行内代码：和正文一致的深红字、浅灰底 */
+  --site-inline-code-text: #832222;
+  --site-inline-code-border: #e4e3df;
+}
+
+/* 评论正文：字号放大到 15px、行高 1.7，西文衬线 + 中文黑体，和文章正文一致；按钮、作者名、时间等界面元素保持无衬线 */
+main .markdown {
+  font-family: var(--site-body-font);
+  font-size: 0.9375rem;
+  line-height: 1.7;
+}
+
+main .markdown p,
+main .markdown ul,
+main .markdown ol,
+main .markdown blockquote,
+main .markdown pre {
+  margin-bottom: 0.75em;
+}
+
+main .markdown a {
+  color: var(--color-accent-fg);
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
+  text-underline-offset: 2px;
+}
+
+main .markdown code:not(pre > code),
+main .markdown tt {
+  color: var(--site-inline-code-text);
+  border: 1px solid var(--site-inline-code-border);
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+
+main .markdown pre {
+  border: 1px solid var(--color-border-default);
+  border-radius: 8px;
+}
+
+main .gsc-comment-box-textarea {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}

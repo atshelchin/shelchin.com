@@ -1,0 +1,105 @@
+/* giscus 评论区深色主题：沿用 giscus 自带的 dark 主题，只把配色和字体换成本站的（取自 sass/typography.scss 的 body.dark）。
+   改配色时记得和 giscus_light.css、sass/typography.scss 一起改。 */
+@import url("https://giscus.app/themes/dark.css");
+
+:root {
+  --font-family-sans: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC",
+    "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+main {
+  --site-body-font: "Iowan Old Style", Charter, Georgia, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC",
+    "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", serif;
+
+  --color-fg-default: #dddbd3;
+  --color-fg-muted: #9c9a92;
+  --color-fg-subtle: #9c9a92;
+
+  --color-canvas-default: #2a2a28;
+  --color-canvas-overlay: #30302e;
+  --color-canvas-inset: #30302e;
+  --color-canvas-subtle: #30302e;
+
+  --color-border-default: #3c3b38;
+  --color-border-muted: #353432;
+  --color-neutral-muted: #30302e;
+
+  --color-accent-fg: #6f8fd1;
+  --color-accent-emphasis: #6f8fd1;
+  --color-accent-muted: #6f8fd166;
+  --color-accent-subtle: #6f8fd11f;
+  --color-scale-blue-8: #34405a;
+  --color-scale-gray-7: #383735;
+
+  --color-btn-text: #dddbd3;
+  --color-btn-bg: #30302e;
+  --color-btn-border: #3c3b38;
+  --color-btn-shadow: none;
+  --color-btn-inset-shadow: none;
+  --color-btn-hover-bg: #383735;
+  --color-btn-hover-border: #4a4945;
+  --color-btn-active-bg: #3f3e3b;
+  --color-btn-active-border: #4a4945;
+  --color-btn-selected-bg: #3f3e3b;
+
+  --color-btn-primary-text: #fff;
+  --color-btn-primary-bg: #4a64a0;
+  --color-btn-primary-border: transparent;
+  --color-btn-primary-shadow: none;
+  --color-btn-primary-inset-shadow: none;
+  --color-btn-primary-hover-bg: #5671ad;
+  --color-btn-primary-hover-border: transparent;
+  --color-btn-primary-selected-bg: #415891;
+  --color-btn-primary-selected-shadow: none;
+  --color-btn-primary-disabled-text: #fff9;
+  --color-btn-primary-disabled-bg: #3a4560;
+  --color-btn-primary-disabled-border: transparent;
+
+  --color-action-list-item-default-hover-bg: #383735;
+  --color-segmented-control-bg: #30302e;
+  --color-segmented-control-button-bg: #2a2a28;
+  --color-segmented-control-button-selected-border: #5f5d58;
+  --color-primer-shadow-inset: none;
+
+  --site-inline-code-text: #e8a49c;
+  --site-inline-code-border: #3c3b38;
+}
+
+main .markdown {
+  font-family: var(--site-body-font);
+  font-size: 0.9375rem;
+  line-height: 1.7;
+}
+
+main .markdown p,
+main .markdown ul,
+main .markdown ol,
+main .markdown blockquote,
+main .markdown pre {
+  margin-bottom: 0.75em;
+}
+
+main .markdown a {
+  color: var(--color-accent-fg);
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
+  text-underline-offset: 2px;
+}
+
+main .markdown code:not(pre > code),
+main .markdown tt {
+  color: var(--site-inline-code-text);
+  border: 1px solid var(--site-inline-code-border);
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+
+main .markdown pre {
+  border: 1px solid var(--color-border-default);
+  border-radius: 8px;
+}
+
+main .gsc-comment-box-textarea {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}

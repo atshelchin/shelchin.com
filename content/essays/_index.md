@@ -32,7 +32,7 @@ back_to_top=true# show back-to-top button
 
 toc=true# show table-of-contents
 
-comment=false# enable comment
+comment = true # enable comment
 
 copy=true# show copy button in code block
 

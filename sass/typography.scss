@@ -141,3 +141,21 @@ body.dark {
     }
   }
 }
+
+/* 文章底部的评论区（giscus，见 themes/serene-copy/templates/_giscus_script.html）：和正文隔开，中间一条细线 */
+.giscus {
+  margin-top: 2.5em;
+
+  &::before {
+    content: "";
+    display: block;
+    margin-bottom: 2em;
+    border-top: 1px solid color-mix(in srgb, var(--text-decoration-color) 50%, transparent);
+  }
+}
+
+/* 评论区 iframe 的 color-scheme 和本页不一致时，浏览器会给它铺一层不透明的白底或黑底；
+   设成 normal，让评论区透明地叠在页面背景上，配色交给 static/giscus_*.css */
+.giscus-frame {
+  color-scheme: normal;
+}

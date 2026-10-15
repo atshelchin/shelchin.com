@@ -1,0 +1,37 @@
+{#- giscus 评论：评论存在 atshelchin/shelchin.com 仓库 Discussions 的 Comments 分类里，按文章网址路径对应讨论帖，
+    改标题不会丢评论，改网址（slug）会。读者用 GitHub 登录后评论，也可以直接到 GitHub 讨论帖里回复。
+    配色在 static/giscus_light.css、static/giscus_dark.css；页面切换深浅色时由 static/js/main.js 通知 giscus。
+    用 JS 生成 script 标签，是为了一开始就用对深浅色主题，避免先闪一下默认配色。 -#}
+<script>
+  (() => {
+    const container = document.querySelector('.giscus');
+    if (!container) return;
+    // 只在正式站点加载：giscus 加载时会在仓库里建讨论帖，本地预览会建出带 localhost 链接的帖子
+    if (location.hostname !== 'shelchin.com') {
+      container.textContent = 'Comments load on shelchin.com only.';
+      container.style.cssText = 'color: var(--text-pale-color); font-size: 0.875em;';
+      return;
+    }
+    const theme = sessionStorage.getItem('theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    const lang = document.documentElement.lang.toLowerCase();
+    const script = document.createElement('script');
+    script.src = 'https://giscus.app/client.js';
+    script.async = true;
+    script.crossOrigin = 'anonymous';
+    Object.assign(script.dataset, {
+      repo: 'atshelchin/shelchin.com',
+      repoId: 'R_kgDOOuU5gw',
+      category: 'Comments',
+      categoryId: 'DIC_kwDOOuU5g84DIfGq',
+      mapping: 'pathname',
+      strict: '1',
+      reactionsEnabled: '1',
+      emitMetadata: '0',
+      inputPosition: 'bottom',
+      theme: `${location.origin}/giscus_${theme}.css`,
+      lang: lang.startsWith('zh') ? 'zh-CN' : lang.startsWith('de') ? 'de' : 'en',
+      loading: 'lazy',
+    });
+    container.after(script);
+  })();
+</script>
