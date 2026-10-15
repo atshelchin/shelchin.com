@@ -20,10 +20,13 @@
     <div class="title">
       <span># {{ term.name }}</span>
     </div>
+    {% set authorship_pages = term.pages %}
+    {% include "_authorship_filter.html" %}
     <div class="post-list">
       {% for post in term.pages %}
-      <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
-        <span>{{ post.title }}</span>
+      {%- set authorship = post.extra.authorship | default(value="ai") %}{%- set is_human = authorship == "human" %}
+      <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}" data-authorship="{% if is_human %}human{% else %}ai{% endif %}">
+        <span>{{ post.title }}{% if is_human %}<span class="authorship-mark" title="Human-written" aria-label="Human-written">✍︎</span>{% endif %}</span>
         <span class="date">{{ post.date | date(format=section.extra.date_format) }}</span>
       </a>
       {% endfor %}

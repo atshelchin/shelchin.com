@@ -1863,3 +1863,64 @@ template {
 [hidden] {
   display: none;
 }
+
+/* authorship filter：列表页按创作方式筛选（模板见 templates/_authorship_filter.html）
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.authorship-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25em 1.1em;
+  padding: 0 15px;
+  margin: 0 0 1em;
+  font-family: var(--main-font);
+  font-size: 0.875em;
+
+  button {
+    font: inherit;
+    line-height: 1.7;
+    padding: 0;
+    background: none;
+    border: none;
+    border-bottom: 1.5px solid transparent;
+    color: var(--text-pale-color);
+    cursor: pointer;
+
+    &:hover {
+      color: var(--text-color);
+    }
+    &:focus-visible {
+      outline: 1.5px solid var(--primary-color);
+      outline-offset: 2px;
+    }
+    &[aria-pressed="true"] {
+      color: var(--text-color);
+      border-bottom-color: var(--primary-color);
+    }
+  }
+
+  .n {
+    margin-left: 0.3em;
+    font-size: 0.85em;
+    color: var(--text-decoration-color);
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.authorship-empty {
+  padding: 0 15px;
+  color: var(--text-pale-color);
+}
+
+.authorship-mark {
+  margin-left: 0.4em;
+  font-size: 0.85em;
+  color: var(--text-pale-color);
+}
+
+/* .post 是 flex 布局，会盖过 hidden 属性，这里显式隐藏 */
+.layout-list .post[hidden],
+.layout-list .post-list[hidden],
+.layout-list .category[hidden] {
+  display: none !important;
+}

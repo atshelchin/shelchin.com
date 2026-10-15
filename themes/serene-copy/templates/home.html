@@ -87,10 +87,15 @@
     {% set section_md_path = blog_section_path ~ "/_index.md" %}
     {% set blog_section = get_section(path=section_md_path) %}
     <section class="layout-list">
-      <div class="post-list">
-        {% for post in blog_section.pages | slice(end=section.extra.recent_max) %}
-        <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
-          <span>{{ post.title }}</span>
+      {% set authorship_pages = blog_section.pages %}
+      {% include "_authorship_filter.html" %}
+      {#- 输出全部文章，先按创作方式筛选、再只显示前 recent_max 篇（见 _authorship_filter.html 的 data-limit 处理）；
+          不运行脚本时默认显示前 recent_max 篇 -#}
+      <div class="post-list" data-limit="{{ section.extra.recent_max }}">
+        {% for post in blog_section.pages %}
+        {%- set authorship = post.extra.authorship | default(value="ai") %}{%- set is_human = authorship == "human" %}
+        <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}" data-authorship="{% if is_human %}human{% else %}ai{% endif %}"{% if loop.index > section.extra.recent_max %} hidden{% endif %}>
+          <span>{{ post.title }}{% if is_human %}<span class="authorship-mark" title="Human-written" aria-label="Human-written">✍︎</span>{% endif %}</span>
           <span class="line"></span>
           <span class="date">{{ post.date | date(format=section.extra.date_format) }}</span>
         </a>

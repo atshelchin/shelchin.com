@@ -1,0 +1,82 @@
+{#- 按创作方式筛选文章：All（混排）/ Human-written / AI-assisted。
+    使用前先 set 好 authorship_pages（要统计的文章列表），列表里每个 .post 需要带 data-authorship。
+    判断规则和 post.html 的徽章一致：extra.authorship = "human" 是人工手写，否则算 AI 辅助。
+    选择会存进 localStorage，全站所有列表页共用；网址参数 ?by=human / ?by=ai 优先。 -#}
+{%- set_global authorship_human = 0 -%}
+{%- for p in authorship_pages -%}
+  {%- if p.extra.authorship is defined and p.extra.authorship == "human" -%}
+    {%- set_global authorship_human = authorship_human + 1 -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- set authorship_total = authorship_pages | length -%}
+<div class="authorship-filter" role="group" aria-label="Filter by authorship">
+  <button type="button" data-value="" aria-pressed="true">All<span class="n">{{ authorship_total }}</span></button>
+  <button type="button" data-value="human" aria-pressed="false">✍︎ Human-written<span class="n">{{ authorship_human }}</span></button>
+  <button type="button" data-value="ai" aria-pressed="false">AI-assisted<span class="n">{{ authorship_total - authorship_human }}</span></button>
+</div>
+<p class="authorship-empty" hidden>No posts here match this filter.</p>
+<script>
+  (() => {
+    const KEY = 'authorship-filter';
+    const VALUES = ['', 'human', 'ai'];
+
+    function init() {
+      const bar = document.querySelector('.authorship-filter');
+      if (!bar) return;
+      const items = [...document.querySelectorAll('.post-list .post[data-authorship]')];
+      const empty = document.querySelector('.authorship-empty');
+
+      let value = new URLSearchParams(location.search).get('by');
+      if (value === null) {
+        try { value = localStorage.getItem(KEY) || ''; } catch (e) { value = ''; }
+      }
+      if (!VALUES.includes(value)) value = '';
+
+      function apply(save) {
+        let shown = 0;
+        for (const el of items) {
+          const ok = !value || el.dataset.authorship === value;
+          el.hidden = !ok;
+          if (ok) shown++;
+        }
+        // 带 data-limit 的列表（首页「最近文章」）：筛选之后只保留前 N 篇
+        for (const list of document.querySelectorAll('.post-list[data-limit]')) {
+          const limit = Number(list.dataset.limit) || Infinity;
+          let count = 0;
+          for (const el of list.querySelectorAll('.post[data-authorship]')) {
+            if (!el.hidden && ++count > limit) el.hidden = true;
+          }
+        }
+        // 分类列表：某个分类下没有可见文章时，连分类标题一起隐藏
+        for (const heading of document.querySelectorAll('.layout-list .category')) {
+          const list = heading.nextElementSibling;
+          if (!list || !list.classList.contains('post-list')) continue;
+          const any = list.querySelector('.post:not([hidden])');
+          heading.hidden = !any;
+          list.hidden = !any;
+        }
+        empty.hidden = shown > 0;
+        for (const button of bar.querySelectorAll('button')) {
+          button.setAttribute('aria-pressed', String(button.dataset.value === value));
+        }
+        if (save) {
+          try { value ? localStorage.setItem(KEY, value) : localStorage.removeItem(KEY); } catch (e) {}
+          const query = new URLSearchParams(location.search);
+          value ? query.set('by', value) : query.delete('by');
+          const search = query.toString();
+          history.replaceState(null, '', search ? `?${search}` : location.pathname);
+        }
+      }
+
+      bar.addEventListener('click', event => {
+        const button = event.target.closest('button');
+        if (!button) return;
+        value = button.dataset.value;
+        apply(true);
+      });
+      apply(false);
+    }
+
+    document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', init) : init();
+  })();
+</script>

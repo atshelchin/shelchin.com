@@ -16,6 +16,8 @@ authorship = "human"
 
 即显示「✍️ 纯人工创作 · Human-written」。实现位于 `themes/serene-copy/templates/post.html` 与 `themes/serene-copy/sass/main.scss`（`#authorship`）。
 
+文章列表页（各板块和标签页）顶部可以按创作方式筛选：All（混排）、Human-written、AI-assisted，人工手写的文章标题后会有 ✍︎ 标记。选择会存在浏览器里，全站列表页共用；也可以用网址参数直接打开某个视图，例如 `/posts/?by=human`。实现位于 `themes/serene-copy/templates/_authorship_filter.html`，样式在 `main.scss` 末尾。
+
 ## 订阅（/reading）
 
 `/reading` 列出订阅源里的文章标题、作者和日期，可以按语言、来源筛选，点标题打开原文。只保存标题和链接，不转载正文。页面上的文字都用英文。

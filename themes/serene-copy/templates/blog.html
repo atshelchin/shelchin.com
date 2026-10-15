@@ -18,6 +18,8 @@
   {{ macros::back_link(path = get_url(path="/")) }}
   {% include "_section_title.html" %}
   <main class="layout-list">
+    {% set authorship_pages = section.pages %}
+    {% include "_authorship_filter.html" %}
     {% if section.extra.categorized %}
     {% for category,posts in section.pages | sort(attribute="taxonomies.categories.0") | group_by(attribute="taxonomies.categories.0") %}
     {% set category_name = category %}
@@ -27,8 +29,9 @@
     <h2 class="category">{{ category_name }}</h2>
     <div class="post-list categorized">
       {% for post in posts %}
-      <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
-        <span>{{ post.title }}</span>
+      {%- set authorship = post.extra.authorship | default(value="ai") %}{%- set is_human = authorship == "human" %}
+      <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}" data-authorship="{% if is_human %}human{% else %}ai{% endif %}">
+        <span>{{ post.title }}{% if is_human %}<span class="authorship-mark" title="Human-written" aria-label="Human-written">✍︎</span>{% endif %}</span>
         <span class="date">{{ post.date | date(format=section.extra.date_format) }}</span>
       </a>
       {% endfor %}
@@ -37,8 +40,9 @@
     {% else %}
     <div class="post-list">
       {% for post in section.pages %}
-      <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}">
-        <span>{{ post.title }}</span>
+      {%- set authorship = post.extra.authorship | default(value="ai") %}{%- set is_human = authorship == "human" %}
+      <a class="post instant {% if post.extra.featured %}featured{% endif %}" href="{{ post.permalink }}" data-authorship="{% if is_human %}human{% else %}ai{% endif %}">
+        <span>{{ post.title }}{% if is_human %}<span class="authorship-mark" title="Human-written" aria-label="Human-written">✍︎</span>{% endif %}</span>
         <span class="date">{{ post.date | date(format=section.extra.date_format) }}</span>
       </a>
       {% endfor %}
