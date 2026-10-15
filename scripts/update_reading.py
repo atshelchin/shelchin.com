@@ -183,6 +183,10 @@ def main():
         missing = [key for key in ("name", "url", "lang") if not feed.get(key)]
         if missing:
             sys.exit(f"Feed {feed} is missing: {', '.join(missing)}")
+        # 不收 Shorts：YouTube 只能订只含长视频的 UULF 播放列表，频道订阅源会混进 Shorts
+        if "youtube.com/feeds/" in feed["url"] and "playlist_id=UULF" not in feed["url"]:
+            sys.exit(f"{feed['name']}: YouTube feeds must use playlist_id=UULF<channel id without UC> "
+                     "(long videos only, no Shorts)")
         if feed["lang"] not in languages:
             print(f"! {feed['name']}: lang = {feed['lang']!r} is not listed in [languages]; showing it as is")
 

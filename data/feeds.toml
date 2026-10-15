@@ -6,7 +6,7 @@
 [settings]
 timezone = "Asia/Shanghai" # 页面上日期按这个时区显示
 max_per_feed = 30          # 每个订阅源最多保留几篇
-max_items = 500            # 页面上最多显示几篇
+max_items = 1500           # 页面上最多显示几篇。太小会让低频作者被高频源挤得一篇不剩
 
 # 语言：左边的 key 写在订阅源的 lang 里，右边是页面上显示的名字。
 # 顺序就是筛选栏里的顺序；没有订阅源用到的语言不会显示。
@@ -21,6 +21,8 @@ de = "German"
 #   url    RSS 或 Atom 地址
 #   site   博客首页
 #   lang   上面 [languages] 里的 key
+#   id     可选。默认按网址的域名和路径生成，会忽略 ? 后面的参数；
+#          同一个地址只靠参数区分的多个订阅源（比如 YouTube）必须各写一个，否则会被当成同一个源
 
 [[feeds]]
 name = "smallyu's Blog"
@@ -65,3 +67,413 @@ author = "Vitalik Buterin"
 url = "https://vitalik.eth.limo/feed.xml"
 site = "https://vitalik.eth.limo"
 lang = "en"
+
+# 中文博客：AI、技术与思考
+
+[[feeds]]
+name = "Baoyu"
+author = "Baoyu"
+url = "https://baoyu.io/feed.xml"
+site = "https://baoyu.io"
+lang = "zh"
+
+[[feeds]]
+name = "Innei"
+author = "Innei"
+url = "https://innei.in/feed"
+site = "https://innei.in"
+lang = "zh"
+
+[[feeds]]
+name = "Phodal"
+author = "Phodal"
+url = "https://www.phodal.com/blog/feeds/rss/"
+site = "https://www.phodal.com"
+lang = "zh"
+
+[[feeds]]
+name = "wogong"
+author = "wogong"
+url = "https://wogong.net/index.xml"
+site = "https://wogong.net"
+lang = "zh"
+
+[[feeds]]
+name = "Tw93"
+author = "Tw93"
+url = "https://tw93.fun/feed.xml"
+site = "https://tw93.fun"
+lang = "zh"
+
+[[feeds]]
+name = "DK (Wang Dengke)"
+author = "Wang Dengke"
+url = "https://greatdk.com/feed"
+site = "https://greatdk.com"
+lang = "zh"
+
+[[feeds]]
+name = "Pseudoyu"
+author = "Pseudoyu"
+url = "https://www.pseudoyu.com/feed.xml"
+site = "https://www.pseudoyu.com"
+lang = "zh"
+
+[[feeds]]
+name = "Est's Blog"
+author = "Est"
+url = "https://feeds.feedburner.com/initiative"
+site = "https://blog.est.im"
+lang = "zh"
+
+[[feeds]]
+name = "Sihuo's Ramblings"
+author = "Sihuo"
+url = "https://www.raychase.net/feed"
+site = "https://www.raychase.net"
+lang = "zh"
+
+[[feeds]]
+name = "Jiaoyan Douchi"
+author = "Jiaoyan Douchi"
+url = "https://blog.douchi.space/index.xml"
+site = "https://blog.douchi.space"
+lang = "zh"
+
+[[feeds]]
+name = "Huang Jiwei"
+author = "Huang Jiwei"
+url = "https://www.huangjiwei.com/blog/?feed=rss2"
+site = "https://www.huangjiwei.com/blog"
+lang = "zh"
+
+[[feeds]]
+name = "Tang Qiao"
+author = "Tang Qiao"
+url = "http://blog.devtang.com/atom.xml"
+site = "http://blog.devtang.com"
+lang = "zh"
+
+[[feeds]]
+name = "Chih-Hao Tsai"
+author = "Chih-Hao Tsai"
+url = "https://taiwan.chtsai.org/feed/"
+site = "https://taiwan.chtsai.org"
+lang = "zh"
+
+[[feeds]]
+name = "Wei Wuhui"
+author = "Wei Wuhui"
+url = "http://weiwuhui.com/feed"
+site = "http://weiwuhui.com"
+lang = "zh"
+
+# 中文独立开发者：从零做起，规模刚好能替代上班收入，持续分享过程
+
+[[feeds]]
+name = "Bai Huancheng"
+author = "Bai Huancheng"
+url = "https://www.ixiqin.com/feed/"
+site = "https://www.ixiqin.com"
+lang = "zh"
+
+[[feeds]]
+name = "oldj"
+author = "oldj"
+url = "https://oldj.net/rss.xml"
+site = "https://oldj.net"
+lang = "zh"
+
+[[feeds]]
+name = "Viking"
+author = "Viking"
+url = "https://vikingz.me/rss.xml"
+site = "https://vikingz.me"
+lang = "zh"
+
+[[feeds]]
+name = "Ou Lei"
+author = "Ou Lei"
+url = "https://ourai.ws/atom.xml"
+site = "https://ourai.ws"
+lang = "zh"
+
+[[feeds]]
+name = "Yan Linlin"
+author = "Yan Linlin"
+url = "https://yanlinlin.cn/index.xml"
+site = "https://yanlinlin.cn"
+lang = "zh"
+
+[[feeds]]
+name = "Guangzheng Li"
+author = "Guangzheng Li"
+url = "https://guangzhengli.com/rss.xml"
+site = "https://guangzhengli.com"
+lang = "zh"
+
+[[feeds]]
+name = "SKYue"
+author = "SKYue"
+url = "https://www.skyue.com/feed/"
+site = "https://www.skyue.com"
+lang = "zh"
+
+# 英文母语独立开发者：从零做起，规模刚好能替代上班收入，持续分享过程
+
+[[feeds]]
+name = "Michael Lynch"
+author = "Michael Lynch"
+url = "https://mtlynch.io/posts/index.xml"
+site = "https://mtlynch.io"
+lang = "en"
+
+[[feeds]]
+name = "Swiftjective-C"
+author = "Jordan Morgan"
+url = "https://swiftjectivec.com/feed.xml"
+site = "https://swiftjectivec.com"
+lang = "en"
+
+[[feeds]]
+name = "Cory Zue"
+author = "Cory Zue"
+url = "https://www.coryzue.com/feed.xml"
+site = "https://www.coryzue.com"
+lang = "en"
+
+[[feeds]]
+name = "Adam Fortuna"
+author = "Adam Fortuna"
+url = "https://adamfortuna.com/feed"
+site = "https://adamfortuna.com"
+lang = "en"
+
+[[feeds]]
+name = "Joe Masilotti"
+author = "Joe Masilotti"
+url = "https://masilotti.com/feed.xml"
+site = "https://masilotti.com"
+lang = "en"
+
+# 独立开发者：从零做到很大
+
+[[feeds]]
+name = "Tony Dinh"
+author = "Tony Dinh"
+url = "https://news.tonydinh.com/feed"
+site = "https://news.tonydinh.com"
+lang = "en"
+
+[[feeds]]
+name = "Marc Lou"
+author = "Marc Lou"
+url = "https://rss.beehiiv.com/feeds/eFrYnr889a.xml"
+site = "https://marclou.beehiiv.com"
+lang = "en"
+
+[[feeds]]
+name = "Justin Jackson"
+author = "Justin Jackson"
+url = "https://justinjackson.ca/feed"
+site = "https://justinjackson.ca"
+lang = "en"
+
+[[feeds]]
+name = "David Smith"
+author = "David Smith"
+url = "https://www.david-smith.org/atom.xml"
+site = "https://www.david-smith.org"
+lang = "en"
+
+[[feeds]]
+name = "Nathan Barry"
+author = "Nathan Barry"
+url = "https://nathanbarry.com/feed"
+site = "https://nathanbarry.com"
+lang = "en"
+
+[[feeds]]
+name = "The Bootstrapped Founder"
+author = "Arvid Kahl"
+url = "https://thebootstrappedfounder.com/feed/"
+site = "https://thebootstrappedfounder.com"
+lang = "en"
+
+# 中文母语、英文写作出色的博主
+
+[[feeds]]
+name = "Lil'Log"
+author = "Lilian Weng"
+url = "https://lilianweng.github.io/index.xml"
+site = "https://lilianweng.github.io"
+lang = "en"
+
+[[feeds]]
+name = "Pekingnology"
+author = "Zichen Wang"
+url = "https://www.pekingnology.com/feed"
+site = "https://www.pekingnology.com"
+lang = "en"
+
+[[feeds]]
+name = "Yihui Xie"
+author = "Yihui Xie"
+url = "https://yihui.org/index.xml"
+site = "https://yihui.org"
+lang = "en"
+
+[[feeds]]
+name = "Free Mind"
+author = "Chiyuan Zhang"
+url = "https://freemind.pluskid.org/rss.xml"
+site = "https://freemind.pluskid.org"
+lang = "en"
+
+[[feeds]]
+name = "Yukang"
+author = "Yukang"
+url = "https://catcoding.me/atom.xml"
+site = "https://catcoding.me"
+lang = "zh"
+
+[[feeds]]
+name = "jdhao's blog"
+author = "jdhao"
+url = "https://jdhao.github.io/index.xml"
+site = "https://jdhao.github.io"
+lang = "en"
+
+# Hacker News 上 300 分以上的帖子（hnrss.org 提供）。只显示最近一天半左右，旧的会自然消失。
+# 想更早看到就调低 points，嫌多就调高（500 分约每天 7 条）。
+[[feeds]]
+name = "Hacker News 300+"
+author = "Hacker News"
+url = "https://hnrss.org/newest?points=300"
+site = "https://news.ycombinator.com"
+lang = "en"
+
+# Product Hunt 全站新产品，每天十几个，没有票数过滤。标题链接到 Product Hunt 的产品页。
+# 订阅源一次给 50 个，按 max_per_feed 只留最新的 30 个，大约最近两三天。
+[[feeds]]
+name = "Product Hunt"
+author = "Product Hunt"
+url = "https://www.producthunt.com/feed"
+site = "https://www.producthunt.com"
+lang = "en"
+
+# YouTube 频道。不收 Shorts，只订 UULF 开头的播放列表（频道 ID 去掉开头的 UC 换成 UULF），只含长视频。
+# 频道订阅源（channel_id=）会混进 Shorts，脚本会拒绝。
+# YouTube 订阅源只返回最近 15 个视频。每个频道都要写 id，见文件开头的说明。
+
+[[feeds]]
+id = "youtube-cleo-abram"
+name = "Cleo Abram"
+author = "Cleo Abram"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF415bOPUcGSamy543abLmRA"
+site = "https://www.youtube.com/@CleoAbram"
+lang = "en"
+
+[[feeds]]
+id = "youtube-veritasium"
+name = "Veritasium"
+author = "Veritasium"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFHnyfMqiRRG1u-2MsSQLbXA"
+site = "https://www.youtube.com/@veritasium"
+lang = "en"
+
+[[feeds]]
+id = "youtube-ben-eater"
+name = "Ben Eater"
+author = "Ben Eater"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFS0N5baNlQWJCUrhCEo8WlA"
+site = "https://www.youtube.com/@BenEater"
+lang = "en"
+
+[[feeds]]
+id = "youtube-3blue1brown"
+name = "3Blue1Brown"
+author = "3Blue1Brown"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFYO_jab_esuFRV4b17AJtAw"
+site = "https://www.youtube.com/@3blue1brown"
+lang = "en"
+
+[[feeds]]
+id = "youtube-fireship"
+name = "Fireship"
+author = "Fireship"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFsBjURrPoezykLs9EqgamOA"
+site = "https://www.youtube.com/@Fireship"
+lang = "en"
+
+[[feeds]]
+id = "youtube-asianometry"
+name = "Asianometry"
+author = "Asianometry"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF1LpsuAUaKoMzzJSEt5WImw"
+site = "https://www.youtube.com/@Asianometry"
+lang = "en"
+
+[[feeds]]
+id = "youtube-dwarkesh-patel"
+name = "Dwarkesh Patel"
+author = "Dwarkesh Patel"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFXl4i9dYBrFOabk0xGmbkRA"
+site = "https://www.youtube.com/@DwarkeshPatel"
+lang = "en"
+
+[[feeds]]
+id = "youtube-ai-explained"
+name = "AI Explained"
+author = "AI Explained"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFNJ1Ymd5yFuUPtn21xtRbbw"
+site = "https://www.youtube.com/@aiexplained-official"
+lang = "en"
+
+[[feeds]]
+id = "youtube-sebastian-lague"
+name = "Sebastian Lague"
+author = "Sebastian Lague"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFmtyQOKKmrMVaKuRXz02jbQ"
+site = "https://www.youtube.com/@SebastianLague"
+lang = "en"
+
+[[feeds]]
+id = "youtube-core-dumped"
+name = "Core Dumped"
+author = "Core Dumped"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFGKEMK3s-ZPbjVOIuAV8clQ"
+site = "https://www.youtube.com/@CoreDumpped"
+lang = "en"
+
+[[feeds]]
+id = "youtube-johnny-harris"
+name = "Johnny Harris"
+author = "Johnny Harris"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFmGSJVG3mCRXVOP4yZrU1Dw"
+site = "https://www.youtube.com/@johnnyharris"
+lang = "en"
+
+[[feeds]]
+id = "youtube-kurzgesagt"
+name = "Kurzgesagt – In a Nutshell"
+author = "Kurzgesagt – In a Nutshell"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFsXVk37bltHxD1rDPwtNM8Q"
+site = "https://www.youtube.com/@kurzgesagt"
+lang = "en"
+
+[[feeds]]
+id = "youtube-bankless"
+name = "Bankless"
+author = "Bankless"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFAl9Ld79qaZxp9JzEOwd3aA"
+site = "https://www.youtube.com/@Bankless"
+lang = "en"
+
+[[feeds]]
+id = "youtube-easy-german"
+name = "Easy German"
+author = "Easy German"
+url = "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFbxb2fqe9oNgglAoYqsYOtQ"
+site = "https://www.youtube.com/@EasyGerman"
+lang = "de"
