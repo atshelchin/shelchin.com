@@ -13,7 +13,7 @@ path = "/prompts"
 title = "Prompts I’ve used"
 subtitle = ""
 
-date_format = "%Y-%m-%-d"
+date_format = "%Y-%m-%d"
 
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button

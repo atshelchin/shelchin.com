@@ -13,7 +13,7 @@ path = "/novel"
 title = "小说"
 subtitle = "写一些故事，长的短的都有。"
 
-date_format = "%Y-%m-%-d"
+date_format = "%Y-%m-%d"
 
 categorized = false
 back_to_top = true

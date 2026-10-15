@@ -22,7 +22,7 @@ title="Essays"
 
 subtitle=""
 
-date_format="%Y-%m-%-d"
+date_format="%Y-%m-%d"
 
 path="/essays"
 

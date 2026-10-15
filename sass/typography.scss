@@ -1,0 +1,143 @@
+/* 全站排版覆盖：在主题 main.css 之后加载（见 templates/_head_extend.html），不改动主题文件。
+   参考 smallyu.net 和阮一峰的网络日志：
+   - 参考 claude.ai：正文和标题是「西文衬线 + 中文黑体」混排（西文 Iowan/Georgia，中文苹方）；
+     界面元素（导航、列表、日期、标签）用系统无衬线；想让正文西文也改成无衬线，
+     把 --body-font 改成 var(--main-font)
+   - 正文 18px（手机 17px）、行高 1.7，段距约 0.9 倍字号
+   - 配色、行内代码、代码块都取自 claude.ai 对话界面截图
+   想撤回：删掉这个文件和 _head_extend.html 里引用它的那一行即可。 */
+
+body {
+  --main-font: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC",
+    "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji";
+  /* 西文字体排在前面、中文黑体排在后面：西文字符用衬线体，中文字符回落到苹方等黑体 */
+  --body-font: "Iowan Old Style", Charter, Georgia, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC",
+    "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", serif;
+  --heading-font: var(--body-font);
+  --font-size: 18px;
+  --line-height: 1.7;
+  --inline-code-text: #832222;
+  --inline-code-bg: #f0f0ee;
+  --inline-code-border: #e4e3df;
+  --code-block-bg: #fefefd;
+  --code-block-border: #e6e6e5;
+  --bg-color: #fcfcfa;
+  --text-color: #141413;
+  --text-pale-color: #7e7c76;
+  --text-decoration-color: #bdbbb4;
+}
+
+body.dark {
+  --bg-color: #262624;
+  --text-color: #dddbd3;
+  --text-pale-color: #9c9a92;
+  --text-decoration-color: #5f5d58;
+  --inline-code-text: #e8a49c;
+  --inline-code-bg: #30302e;
+  --inline-code-border: #3c3b38;
+  --code-block-bg: #1f1e1d;
+  --code-block-border: #3a3936;
+}
+
+@media (max-width: 600px) {
+  body { --font-size: 17px; }
+}
+
+/* 正文 */
+.prose {
+  font-family: var(--body-font);
+
+  h1, h2 {
+    font-family: var(--heading-font);
+    font-weight: 700;
+    letter-spacing: -0.005em;
+    text-wrap: balance;
+  }
+  h1 {
+    font-size: 1.75em;
+    line-height: 1.35;
+    margin: 1.25em 0 0.6em;
+  }
+  h2 {
+    font-size: 1.35em;
+    line-height: 1.45;
+    margin: 2.2em 0 0.8em;
+  }
+  h3 {
+    font-size: 1.1em;
+    font-weight: 600;
+    line-height: 1.5;
+    margin: 1.9em 0 0.6em;
+  }
+  h4, h5, h6 {
+    font-size: 1em;
+    font-weight: 600;
+    margin: 1.6em 0 0.5em;
+  }
+  p {
+    margin: 0.9em 0;
+  }
+  li + li {
+    margin-top: 0.3em;
+  }
+
+  /* 行内代码：深红字、浅灰底、细边框 */
+  :not(pre) > code {
+    color: var(--inline-code-text);
+    background-color: var(--inline-code-bg);
+    border: 1px solid var(--inline-code-border);
+    border-radius: 4px;
+    padding: 0.05em 0.35em;
+  }
+
+  /* 代码块：近白底、细边框、圆角 */
+  pre {
+    background-color: var(--code-block-bg);
+    border: 1px solid var(--code-block-border);
+    border-radius: 10px;
+    padding: 14px 48px 14px 18px;
+  }
+}
+
+/* 文章标题下的日期、标签：属于界面元素，用无衬线浅色小字 */
+#post-info {
+  font-family: var(--main-font);
+  font-size: 0.875em;
+  color: var(--text-pale-color);
+}
+
+/* 列表页标题（Essays、ZH、Novel、Reading 等） */
+.section-title {
+  h1 {
+    font-family: var(--heading-font);
+    font-size: 1.6em;
+    font-weight: 700;
+    line-height: 1.35;
+    margin: 1.25em 0 0.4em;
+  }
+  p {
+    font-size: 0.95em;
+    line-height: 1.7;
+  }
+}
+
+/* 文章列表：标题用正文色，悬停才变成链接色，日期退到浅色 */
+.layout-list .post {
+  color: var(--text-color);
+  line-height: 1.5;
+  padding: 6px 0;
+  margin: 4px 0;
+
+  .date {
+    color: var(--text-pale-color);
+    font-size: 0.875em;
+    font-variant-numeric: tabular-nums;
+  }
+
+  @media (hover: hover) {
+    &:hover {
+      color: var(--primary-color);
+    }
+  }
+}

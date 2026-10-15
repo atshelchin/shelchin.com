@@ -13,7 +13,7 @@ lang = "en"
 title = "ZH"
 subtitle = "我爱中文"
 
-date_format = "%Y-%m-%-d"
+date_format = "%Y-%m-%d"
 path = "/posts"
 categorized = false # posts can be categorized
 back_to_top = true # show back-to-top button
