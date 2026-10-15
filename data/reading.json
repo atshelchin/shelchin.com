@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15 20:11",
+ "updated": "2026-10-16 01:00",
  "languages": [
   {
    "key": "zh",
@@ -148,7 +148,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-pseudoyu-com-feed-xml",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,7 +681,46 @@
  ],
  "items": [
   {
-   "title": "How China actually BUILT all this",
+   "title": "AI Can’t Copy This: Why Every Creator Needs an Origin Story in 2026 | 150",
+   "link": "https://nathanbarry.com/ai-cant-copy-this-why-every-creator-needs-an-origin-story-in-2026-150/",
+   "author": "Nathan Barry",
+   "source": "Nathan Barry",
+   "feed": "nathanbarry-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792080000
+  },
+  {
+   "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+   "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792069443
+  },
+  {
+   "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+   "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792069112
+  },
+  {
+   "title": "The REAL reason China built so much",
    "link": "https://www.youtube.com/watch?v=axRhjqd-rus",
    "author": "Johnny Harris",
    "source": "Johnny Harris",
@@ -822,6 +861,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792012484
+  },
+  {
+   "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+   "link": "https://typesafe.ai/blog/jev-1-14",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792012263
   },
   {
    "title": "OpenCode 2.0",
@@ -1214,19 +1266,6 @@
    "ts": 1791957736
   },
   {
-   "title": "Cloud Releases",
-   "link": "https://www.producthunt.com/products/cloud-releases",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791950876
-  },
-  {
    "title": "Reelbird",
    "link": "https://www.producthunt.com/products/reelbird",
    "author": "Product Hunt",
@@ -1318,19 +1357,6 @@
    "ts": 1791920601
   },
   {
-   "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-   "link": "https://guitoro.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791918708
-  },
-  {
    "title": "Polylane Impact Analysis",
    "link": "https://www.producthunt.com/products/polylane",
    "author": "Product Hunt",
@@ -1357,8 +1383,8 @@
    "ts": 1791916839
   },
   {
-   "title": "AURORA Lifeline",
-   "link": "https://www.producthunt.com/products/aurora-lifeline",
+   "title": "Nimble",
+   "link": "https://www.producthunt.com/products/nimble-5",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1367,20 +1393,7 @@
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791912959
-  },
-  {
-   "title": "Gemini 4 Argon",
-   "link": "https://deepmind.google/models/gemini/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791907396
+   "ts": 1791912090
   },
   {
    "title": "Lleverage",
@@ -1433,6 +1446,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791898320
+  },
+  {
+   "title": "Exodus for Google Cloud Run",
+   "link": "https://www.producthunt.com/products/exodus-by-elim-io",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-13",
+   "day": "Oct 13",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791884426
+  },
+  {
+   "title": "AdAnt 2.0",
+   "link": "https://www.producthunt.com/products/adant-ai",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-13",
+   "day": "Oct 13",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791877890
   },
   {
    "title": "Dreamscale Labs",
@@ -1589,19 +1628,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791824280
-  },
-  {
-   "title": "GLM-Legal",
-   "link": "https://www.producthunt.com/products/z-ai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791822252
   },
   {
    "title": "web-edit 0.1a0",
@@ -2304,19 +2330,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791319073
-  },
-  {
-   "title": "Introducing Mistral Large 4: Le chonk",
-   "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-07",
-   "day": "Oct 7",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791317899
   },
   {
    "title": "为什么 Polymarket 比交易所邪恶很多倍",
@@ -6048,19 +6061,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1786054211
-  },
-  {
-   "title": "$1M CEO: How to ACTUALLY Sell Online Courses in 2026 | 140",
-   "link": "https://nathanbarry.com/1m-ceo-how-to-actually-sell-online-courses-in-2026-140/",
-   "author": "Nathan Barry",
-   "source": "Nathan Barry",
-   "feed": "nathanbarry-com-feed",
-   "lang": "en",
-   "date": "2026-08-07",
-   "day": "Aug 7",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1786032000
   },
   {
    "title": "AI is getting a little out of control",
