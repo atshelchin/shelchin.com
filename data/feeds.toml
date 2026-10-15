@@ -1,0 +1,67 @@
+# /reading 页面的订阅源。页面上显示的文字（name、author、语言名）请用英文。
+#
+# 改完后在仓库根目录运行：python3 scripts/update_reading.py
+# GitHub Actions 每 6 小时也会自动运行一次（.github/workflows/update-reading.yml）。
+
+[settings]
+timezone = "Asia/Shanghai" # 页面上日期按这个时区显示
+max_per_feed = 30          # 每个订阅源最多保留几篇
+max_items = 500            # 页面上最多显示几篇
+
+# 语言：左边的 key 写在订阅源的 lang 里，右边是页面上显示的名字。
+# 顺序就是筛选栏里的顺序；没有订阅源用到的语言不会显示。
+[languages]
+zh = "Chinese"
+en = "English"
+de = "German"
+
+# 每个订阅源一段 [[feeds]]：
+#   name   页面上显示的名字
+#   author 作者（文章里没写作者时用它）
+#   url    RSS 或 Atom 地址
+#   site   博客首页
+#   lang   上面 [languages] 里的 key
+
+[[feeds]]
+name = "smallyu's Blog"
+author = "smallyu"
+url = "https://smallyu.net/atom.xml"
+site = "https://smallyu.net"
+lang = "zh"
+
+[[feeds]]
+name = "smallyu's Blog (B-side)"
+author = "smallyu"
+url = "https://b.smallyu.net/atom.xml"
+site = "https://b.smallyu.net"
+lang = "zh"
+
+[[feeds]]
+name = "smallyu's Blog (Unfiltered)"
+author = "smallyu"
+url = "https://crazy.smallyu.net/atom.xml"
+site = "https://crazy.smallyu.net"
+lang = "zh"
+
+# 下面三个是示例，用来演示多语言筛选，不需要可以删掉。
+
+[[feeds]]
+name = "Ruan Yifeng's Weblog"
+author = "Ruan Yifeng"
+url = "https://www.ruanyifeng.com/blog/atom.xml"
+site = "https://www.ruanyifeng.com/blog/"
+lang = "zh"
+
+[[feeds]]
+name = "Simon Willison’s Weblog"
+author = "Simon Willison"
+url = "https://simonwillison.net/atom/everything/"
+site = "https://simonwillison.net"
+lang = "en"
+
+[[feeds]]
+name = "Vitalik Buterin"
+author = "Vitalik Buterin"
+url = "https://vitalik.eth.limo/feed.xml"
+site = "https://vitalik.eth.limo"
+lang = "en"

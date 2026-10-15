@@ -1,0 +1,270 @@
+{% import "macros/prose.html" as macros %}
+{% extends "_base.html" %}
+
+{% block page %}blog{% endblock page%}
+{% block lang %}{% if section.extra.lang %}{{ section.extra.lang }}{% else %}{{ section.lang }}{% endif %}{% endblock lang %}
+{% block title %}{{ section.title }}{% endblock title %}
+{% block desc %}
+  {% if section.description %}
+    {% set desc = section.description %}
+  {% else %}
+    {% set desc = config.description %}
+  {% endif %}
+  <meta name="description" content="{{ desc }}">
+{% endblock desc %}
+
+{% block head %}
+<style>
+  /* 订阅页：沿用主题 .post-list 的样式，只补充筛选栏、作者行和订阅源列表 */
+  .reading [hidden] { display: none !important; }
+
+  .reading-filters {
+    padding: 0 15px;
+    margin: 0 0 1.5em;
+    display: grid;
+    gap: 0.4em;
+    font-size: 0.9em;
+  }
+  .reading-filter {
+    display: grid;
+    grid-template-columns: 5em minmax(0, 1fr);
+    gap: 1em;
+    align-items: baseline;
+  }
+  .reading-filter .label { color: var(--text-decoration-color); }
+  .reading-filter .options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2em 1em;
+  }
+  /* 窄屏上来源可能很多，改成单行横向滑动，不占太多高度 */
+  @media (max-width: 600px) {
+    .reading-filter[data-filter="feed"] .options {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scrollbar-width: none;
+      white-space: nowrap;
+      padding-bottom: 2px;
+    }
+    .reading-filter[data-filter="feed"] .options::-webkit-scrollbar { display: none; }
+  }
+  .reading-filter button {
+    font: inherit;
+    line-height: 1.6;
+    padding: 0;
+    background: none;
+    border: none;
+    border-bottom: 1.5px solid transparent;
+    color: var(--text-pale-color);
+    cursor: pointer;
+  }
+  .reading-filter button:hover { color: var(--primary-color); }
+  .reading-filter button:focus-visible { outline: 1.5px solid var(--primary-color); outline-offset: 2px; }
+  .reading-filter button[aria-pressed="true"] {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+  }
+  .reading-filter button.is-empty { opacity: 0.4; }
+  .reading-filter .n {
+    margin-left: 0.25em;
+    font-size: 0.8em;
+    color: var(--text-decoration-color);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* 月份标题在 .post-list 里面，去掉主题给 .category 的左右外边距，和文章标题对齐 */
+  .reading .reading-month { margin: 1.75em 0 0.75em; color: var(--text-pale-color); }
+  .reading .reading-month:first-child { margin-top: 0.5em; }
+
+  .reading .reading-item {
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    margin: 12px 0;
+    line-height: 1.45;
+  }
+  .reading-item .main {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15em;
+    min-width: 0;
+  }
+  .reading-item .title { overflow-wrap: anywhere; }
+  .reading-item .meta {
+    font-size: 0.8em;
+    color: var(--text-pale-color);
+  }
+  .reading-item .date {
+    font-size: 0.85em;
+    padding-top: 0.1em;
+    color: var(--text-pale-color);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .reading-empty { padding: 0 15px; color: var(--text-pale-color); }
+
+  .reading-sources { margin-top: 3em; }
+  .reading-sources .groups {
+    padding: 0 15px;
+    display: grid;
+    gap: 1.25em;
+    font-size: 0.9em;
+  }
+  .reading-sources h3 {
+    margin: 0 0 0.35em;
+    font-size: 1em;
+    font-weight: 400;
+    color: var(--text-pale-color);
+  }
+  .reading-sources ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 0.35em; }
+  .reading-sources a {
+    color: var(--primary-color);
+    text-decoration: none;
+    border-bottom: 1.5px solid transparent;
+  }
+  .reading-sources a:hover { border-bottom-color: var(--primary-color); }
+  .reading-sources .pale { color: var(--text-pale-color); font-size: 0.9em; }
+  .reading-sources .failed { color: var(--callout-warning-color); }
+
+  .reading-note {
+    padding: 0 15px;
+    margin-top: 2em;
+    font-size: 0.8em;
+    color: var(--text-pale-color);
+  }
+</style>
+{% endblock head %}
+
+{% block content %}
+{% set data = load_data(path="data/reading.json", format="json") %}
+<div id="wrapper">
+  {{ macros::back_link(path = get_url(path="/")) }}
+  {% include "_section_title.html" %}
+  <main class="layout-list reading">
+
+    <div class="reading-filters" aria-label="Filters">
+      <div class="reading-filter" data-filter="lang">
+        <span class="label">Language</span>
+        <span class="options">
+          <button type="button" data-value="" aria-pressed="true">All<span class="n">{{ data.items | length }}</span></button>
+          {%- for l in data.languages %}
+          <button type="button" data-value="{{ l.key }}" aria-pressed="false">{{ l.name }}<span class="n">{{ l.count }}</span></button>
+          {%- endfor %}
+        </span>
+      </div>
+      <div class="reading-filter" data-filter="feed">
+        <span class="label">Source</span>
+        <span class="options">
+          <button type="button" data-value="" aria-pressed="true">All<span class="n">{{ data.items | length }}</span></button>
+          {%- for f in data.feeds %}
+          <button type="button" data-value="{{ f.id }}" aria-pressed="false">{{ f.name }}<span class="n">{{ f.count }}</span></button>
+          {%- endfor %}
+        </span>
+      </div>
+    </div>
+
+    <div class="post-list reading-list">
+      {%- set_global month = "" %}
+      {%- for item in data.items %}
+      {%- if item.ym != month %}
+      {%- set_global month = item.ym %}
+      <h2 class="category reading-month" data-ym="{{ item.ym }}">{{ item.ym_label }}</h2>
+      {%- endif %}
+      <a class="post reading-item" href="{{ item.link }}" target="_blank" rel="noopener"
+         data-lang="{{ item.lang }}" data-feed="{{ item.feed }}" data-ym="{{ item.ym }}">
+        <span class="main">
+          <span class="title" lang="{{ item.lang }}">{{ item.title }}</span>
+          <span class="meta">{{ item.source }}</span>
+        </span>
+        {%- if item.day %}
+        <time class="date" datetime="{{ item.date }}">{{ item.day }}</time>
+        {%- endif %}
+      </a>
+      {%- endfor %}
+    </div>
+    <p class="reading-empty" hidden>No posts match these filters.</p>
+
+    <section class="reading-sources">
+      <h2 class="category">Sources</h2>
+      <div class="groups">
+        {%- for l in data.languages %}
+        <div>
+          <h3>{{ l.name }}</h3>
+          <ul>
+            {%- for f in data.feeds %}
+            {%- if f.lang == l.key %}
+            <li>
+              <a href="{{ f.site }}" target="_blank" rel="noopener">{{ f.name }}</a>
+              <span class="pale">{{ f.count }} posts · <a href="{{ f.url }}" target="_blank" rel="noopener">RSS</a></span>
+              {%- if not f.ok %} <span class="pale failed">Last fetch failed</span>{% endif %}
+            </li>
+            {%- endif %}
+            {%- endfor %}
+          </ul>
+        </div>
+        {%- endfor %}
+      </div>
+    </section>
+
+    <p class="reading-note">Updated {{ data.updated }}. Feeds are checked every 6 hours. Titles open the original post in a new tab.</p>
+  </main>
+  {% include "_footer.html" %}
+</div>
+{% endblock content %}
+
+{% block script %}
+<script>
+  // 筛选：语言和来源两组条件同时生效，状态写进网址（?lang=zh&feed=...），刷新和分享都能保留。
+  (() => {
+    const root = document.querySelector('.reading');
+    if (!root) return;
+    const keys = ['lang', 'feed'];
+    const items = [...root.querySelectorAll('.reading-item')];
+    const months = [...root.querySelectorAll('.reading-month')];
+    const rows = [...root.querySelectorAll('.reading-filter')];
+    const empty = root.querySelector('.reading-empty');
+    const params = new URLSearchParams(location.search);
+    const state = Object.fromEntries(keys.map(k => [k, params.get(k) || '']));
+
+    const matches = (el, except) =>
+      keys.every(k => k === except || !state[k] || el.dataset[k] === state[k]);
+
+    function render() {
+      const visibleMonths = new Set();
+      let shown = 0;
+      for (const el of items) {
+        const ok = matches(el);
+        el.hidden = !ok;
+        if (ok) { shown++; visibleMonths.add(el.dataset.ym); }
+      }
+      for (const h of months) h.hidden = !visibleMonths.has(h.dataset.ym);
+      empty.hidden = shown > 0;
+
+      // 每个按钮旁的数字：另一组条件不变时，选它能看到几篇
+      for (const row of rows) {
+        const key = row.dataset.filter;
+        for (const button of row.querySelectorAll('button')) {
+          const value = button.dataset.value;
+          const count = items.filter(el => matches(el, key) && (!value || el.dataset[key] === value)).length;
+          button.querySelector('.n').textContent = count;
+          button.classList.toggle('is-empty', count === 0);
+          button.setAttribute('aria-pressed', String(state[key] === value));
+        }
+      }
+
+      const query = new URLSearchParams();
+      for (const k of keys) if (state[k]) query.set(k, state[k]);
+      const search = query.toString();
+      history.replaceState(null, '', search ? `?${search}` : location.pathname);
+    }
+
+    root.addEventListener('click', event => {
+      const button = event.target.closest('.reading-filter button');
+      if (!button) return;
+      state[button.closest('.reading-filter').dataset.filter] = button.dataset.value;
+      render();
+    });
+
+    render();
+  })();
+</script>
+{% endblock script %}
