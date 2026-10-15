@@ -9,8 +9,8 @@ generate_feeds = true
 
 [extra]
 lang = "en"
-path = "/practice"
-title = "Cookbook"
+path = "/en"
+title = "Writing"
 subtitle = ""
 
 date_format = "%Y-%m-%d"

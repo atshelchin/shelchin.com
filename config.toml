@@ -51,14 +51,14 @@ sections = [
   # { name = "weekly", path = "/weekly", is_external = false },
 
   # 英语
-  { name = "Essays", path = "/essays", is_external = false },
-  { name = "My Shipped Products", path = "/projects", is_external = false },
-  { name = "Cookbook", path = "/practice", is_external = false },
+  # { name = "Essays", path = "/essays", is_external = false },
+  # { name = "My Shipped Products", path = "/projects", is_external = false },
+  { name = "Writing", path = "/writing", is_external = false },
   { name = "Prompts", path = "/prompts", is_external = false },
-  { name = "DE", path = "/de", is_external = false },
+  # { name = "DE", path = "/de", is_external = false },
   { name = "ZH", path = "/posts", is_external = false },
-  { name = "Novel", path = "/novel", is_external = false },
-  { name = "Reading", path = "/reading", is_external = false },
+  # { name = "Novel", path = "/novel", is_external = false },
+  { name = "RSS", path = "/rss", is_external = false },
   # { name = "devlog", path = "/devlog", is_external = false },
   # { name = "today-I-learned", path = "/til", is_external = false },
 
