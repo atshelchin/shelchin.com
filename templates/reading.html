@@ -60,6 +60,21 @@
     border-bottom-color: var(--primary-color);
   }
   .reading-filter button.is-empty { opacity: 0.35; }
+  /* 从 All 里隐藏的来源：删除线 + 变淡；编辑时其余来源加虚线下划线，提示可以点 */
+  .reading-filter button.is-excluded { text-decoration: line-through; opacity: 0.45; }
+  .reading-filter.is-editing .options button[data-value]:not([data-value=""]) {
+    color: var(--text-color);
+    border-bottom: 1.5px dashed var(--reading-rule);
+  }
+  .reading-filter.is-editing .options button.is-excluded { color: var(--text-pale-color); }
+  .reading-filter .label .reading-hide-toggle {
+    display: block;
+    margin-top: 0.15em;
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+  .reading-hide-hint { color: var(--text-pale-color); }
+  .reading-hide-hint .options { gap: 0.25em 0.75em; }
   .reading-filter .n {
     margin-left: 0.3em;
     font-size: 0.85em;
@@ -209,12 +224,19 @@
         </span>
       </div>
       <div class="reading-filter" data-filter="feed">
-        <span class="label">Source</span>
+        <span class="label">Source<button type="button" class="reading-hide-toggle" aria-pressed="false">Hide…</button></span>
         <span class="options">
           <button type="button" data-value="" aria-pressed="true">All<span class="n">{{ data.items | length }}</span></button>
           {%- for f in data.feeds %}
-          <button type="button" data-value="{{ f.id }}" aria-pressed="false">{{ f.name }}<span class="n">{{ f.count }}</span></button>
+          <button type="button" data-value="{{ f.id }}" data-lang="{{ f.lang }}" aria-pressed="false">{{ f.name }}<span class="n">{{ f.count }}</span></button>
           {%- endfor %}
+        </span>
+      </div>
+      <div class="reading-filter reading-hide-hint" hidden>
+        <span class="label"></span>
+        <span class="options">
+          <span>Tap sources to hide them from All. Remembered on this device.</span>
+          <button type="button" class="reading-unhide-all">Unhide all</button>
         </span>
       </div>
     </div>
@@ -272,19 +294,43 @@
 {% block script %}
 <script>
   // 筛选：语言和来源两组条件同时生效，状态写进网址（?lang=zh&feed=...），刷新和分享都能保留。
+  // 选了语言后，别的语言的来源按钮不显示。
+  // 「Hide…」把某些来源从 All 里隐藏（单独点开该来源仍能看）；只存在这台设备的 localStorage 里，不进网址。
   (() => {
     const root = document.querySelector('.reading');
     if (!root) return;
+    const EXCLUDED_KEY = 'reading-hidden-sources';
     const keys = ['lang', 'feed'];
     const items = [...root.querySelectorAll('.reading-item')];
     const months = [...root.querySelectorAll('.reading-month')];
-    const rows = [...root.querySelectorAll('.reading-filter')];
+    const rows = [...root.querySelectorAll('.reading-filter[data-filter]')];
+    const feedRow = root.querySelector('.reading-filter[data-filter="feed"]');
+    const feedButtons = [...feedRow.querySelectorAll('.options button:not([data-value=""])')];
+    const feedLang = Object.fromEntries(feedButtons.map(b => [b.dataset.value, b.dataset.lang]));
+    const toggle = root.querySelector('.reading-hide-toggle');
+    const hint = root.querySelector('.reading-hide-hint');
+    const unhideAll = root.querySelector('.reading-unhide-all');
     const empty = root.querySelector('.reading-empty');
     const params = new URLSearchParams(location.search);
     const state = Object.fromEntries(keys.map(k => [k, params.get(k) || '']));
+    if (state.feed && (!(state.feed in feedLang) || (state.lang && feedLang[state.feed] !== state.lang))) state.feed = '';
 
-    const matches = (el, except) =>
-      keys.every(k => k === except || !state[k] || el.dataset[k] === state[k]);
+    let excluded = new Set();
+    try {
+      excluded = new Set(JSON.parse(localStorage.getItem(EXCLUDED_KEY) || '[]').filter(id => id in feedLang));
+    } catch (e) {}
+    let editing = false;
+
+    function saveExcluded() {
+      try {
+        excluded.size ? localStorage.setItem(EXCLUDED_KEY, JSON.stringify([...excluded])) : localStorage.removeItem(EXCLUDED_KEY);
+      } catch (e) {}
+    }
+
+    // 只有来源选 All 时才去掉隐藏的来源；单独选了某个来源就照常显示它
+    const matches = (el, s = state) =>
+      (!s.lang || el.dataset.lang === s.lang) &&
+      (s.feed ? el.dataset.feed === s.feed : !excluded.has(el.dataset.feed));
 
     function render() {
       const visibleMonths = new Set();
@@ -300,14 +346,25 @@
       // 每个按钮旁的数字：另一组条件不变时，选它能看到几篇
       for (const row of rows) {
         const key = row.dataset.filter;
-        for (const button of row.querySelectorAll('button')) {
+        for (const button of row.querySelectorAll('.options button')) {
           const value = button.dataset.value;
-          const count = items.filter(el => matches(el, key) && (!value || el.dataset[key] === value)).length;
+          const count = items.filter(el => matches(el, { ...state, [key]: value })).length;
           button.querySelector('.n').textContent = count;
           button.classList.toggle('is-empty', count === 0);
-          button.setAttribute('aria-pressed', String(state[key] === value));
+          // 编辑隐藏时，来源按钮的「按下」表示它留在 All 里
+          const pressed = editing && key === 'feed' && value ? !excluded.has(value) : state[key] === value;
+          button.setAttribute('aria-pressed', String(pressed));
         }
       }
+      for (const button of feedButtons) {
+        button.hidden = Boolean(state.lang) && button.dataset.lang !== state.lang;
+        button.classList.toggle('is-excluded', excluded.has(button.dataset.value));
+      }
+      feedRow.classList.toggle('is-editing', editing);
+      toggle.textContent = editing ? 'Done' : excluded.size ? `Hidden ${excluded.size}` : 'Hide…';
+      toggle.setAttribute('aria-pressed', String(editing));
+      hint.hidden = !editing;
+      unhideAll.hidden = excluded.size === 0;
 
       const query = new URLSearchParams();
       for (const k of keys) if (state[k]) query.set(k, state[k]);
@@ -316,9 +373,27 @@
     }
 
     root.addEventListener('click', event => {
-      const button = event.target.closest('.reading-filter button');
+      const button = event.target.closest('.reading-filters button');
       if (!button) return;
-      state[button.closest('.reading-filter').dataset.filter] = button.dataset.value;
+      if (button === toggle) {
+        editing = !editing;
+        if (editing) state.feed = ''; // 隐藏针对的是 All，开始编辑时回到 All
+      } else if (button === unhideAll) {
+        excluded.clear();
+        saveExcluded();
+      } else {
+        const key = button.closest('.reading-filter').dataset.filter;
+        const value = button.dataset.value;
+        if (key === 'feed' && editing && value) {
+          excluded.has(value) ? excluded.delete(value) : excluded.add(value);
+          saveExcluded();
+        } else {
+          if (key === 'feed') editing = false;
+          state[key] = value;
+          // 换了语言后，原来选中的来源不属于这个语言、按钮已经不显示，就回到 All
+          if (key === 'lang' && value && state.feed && feedLang[state.feed] !== value) state.feed = '';
+        }
+      }
       render();
     });
 
