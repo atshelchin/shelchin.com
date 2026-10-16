@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 00:38",
+ "updated": "2026-10-17 05:06",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,6 +681,32 @@
  ],
  "items": [
   {
+   "title": "1000x Leverage, Then You Become the House",
+   "link": "https://www.youtube.com/shorts/RfNq3K_Nij8",
+   "author": "Bankless",
+   "source": "Bankless",
+   "feed": "youtube-bankless",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792177390
+  },
+  {
+   "title": "Claude reveals ECDSA curve origins",
+   "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792176959
+  },
+  {
    "title": "There's never been a better time to go into math",
    "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
    "author": "3Blue1Brown",
@@ -692,19 +718,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792167320
-  },
-  {
-   "title": "Crypto Skipped Straight to Bull Market Froth",
-   "link": "https://www.youtube.com/shorts/HUoXODtBJuY",
-   "author": "Bankless",
-   "source": "Bankless",
-   "feed": "youtube-bankless",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792166745
   },
   {
    "title": "The Crypto Bull Market Just Got a Reality Check",
@@ -1071,6 +1084,19 @@
    "ts": 1792078033
   },
   {
+   "title": "Celebrating 70 Years of Fortran",
+   "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792076597
+  },
+  {
    "title": "I know why the mathematicians weep",
    "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
    "author": "Hacker News",
@@ -1136,6 +1162,19 @@
    "ts": 1792069112
   },
   {
+   "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+   "link": "https://libreboot.org/news/libreboot2610.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792068736
+  },
+  {
    "title": "The REAL reason China built so much",
    "link": "https://www.youtube.com/watch?v=axRhjqd-rus",
    "author": "Johnny Harris",
@@ -1160,6 +1199,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792065343
+  },
+  {
+   "title": "Show HN: Unfenced – Land for sale that borders public land",
+   "link": "https://unfenced.land/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792064337
   },
   {
    "title": "BOSS Console",
@@ -1409,45 +1461,6 @@
    "ts": 1792012263
   },
   {
-   "title": "OpenCode 2.0",
-   "link": "https://anoma.ly/notes/opencode-2-0/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792010904
-  },
-  {
-   "title": "Anthropic's Scion is heavily inspired by Mononoke",
-   "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792009854
-  },
-  {
-   "title": "Things to know when you get cancer",
-   "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792005990
-  },
-  {
    "title": "Superdraft",
    "link": "https://www.producthunt.com/products/superdraft",
    "author": "Product Hunt",
@@ -1459,19 +1472,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792005739
-  },
-  {
-   "title": "Suicide rates highest ever among middle-aged men",
-   "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792004638
   },
   {
    "title": "Memory Chess",
@@ -1500,19 +1500,6 @@
    "ts": 1792000090
   },
   {
-   "title": "Ubuntu 26.10 (Stonking Stingray)",
-   "link": "https://www.producthunt.com/products/ubuntu",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791998174
-  },
-  {
    "title": "AI is mass decompiling games. That's both awesome and scary.",
    "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
    "author": "Simon Willison",
@@ -1539,6 +1526,19 @@
    "ts": 1791993991
   },
   {
+   "title": "Actually Asked",
+   "link": "https://www.producthunt.com/products/actually-asked",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-14",
+   "day": "Oct 14",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791992197
+  },
+  {
    "title": "Lovable Growth Tools",
    "link": "https://www.producthunt.com/products/lovable",
    "author": "Product Hunt",
@@ -1563,19 +1563,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791982852
-  },
-  {
-   "title": "AI Sandboxes by Buddy",
-   "link": "https://www.producthunt.com/products/buddy",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791979867
   },
   {
    "title": "從口罩到社群：我們看到的世界，往往是自己內心的投射",
@@ -1667,6 +1654,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791926978
+  },
+  {
+   "title": "SuperLocalMemory",
+   "link": "https://www.producthunt.com/products/superlocalmemory-v2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-14",
+   "day": "Oct 14",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791920601
   },
   {
    "title": "Gordon G. Liu on China's pharmaceutical ambitions",
