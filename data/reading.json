@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 19:21",
+ "updated": "2026-10-17 00:38",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,6 +681,71 @@
  ],
  "items": [
   {
+   "title": "There's never been a better time to go into math",
+   "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "author": "3Blue1Brown",
+   "source": "3Blue1Brown",
+   "feed": "youtube-3blue1brown",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792167320
+  },
+  {
+   "title": "Crypto Skipped Straight to Bull Market Froth",
+   "link": "https://www.youtube.com/shorts/HUoXODtBJuY",
+   "author": "Bankless",
+   "source": "Bankless",
+   "feed": "youtube-bankless",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792166745
+  },
+  {
+   "title": "The Crypto Bull Market Just Got a Reality Check",
+   "link": "https://www.youtube.com/watch?v=jWHj7u2B5j4",
+   "author": "Bankless",
+   "source": "Bankless",
+   "feed": "youtube-bankless",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792161447
+  },
+  {
+   "title": "You've Been Lied To About 64-Bit CPUs",
+   "link": "https://www.youtube.com/watch?v=bV3GD--FHu8",
+   "author": "Core Dumped",
+   "source": "Core Dumped",
+   "feed": "youtube-core-dumped",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792155604
+  },
+  {
+   "title": "中国资产分布研究",
+   "link": "https://crazy.smallyu.net/2026/10/16/%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E5%88%86%E5%B8%83%E7%A0%94%E7%A9%B6/",
+   "author": "smallyu",
+   "source": "smallyu's Blog (Unfiltered)",
+   "feed": "crazy-smallyu-net-atom-xml",
+   "lang": "zh",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792149917
+  },
+  {
    "title": "China’s ambassador to the Philippines warns against a cycle of retaliation, says Manila need not choose between Beijing and Washington",
    "link": "https://www.pekingnology.com/p/chinas-ambassador-to-the-philippines",
    "author": "Zichen Wang",
@@ -746,6 +811,19 @@
    "ts": 1792114365
   },
   {
+   "title": "GBrain Tools",
+   "link": "https://www.producthunt.com/products/gbrain",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792111913
+  },
+  {
    "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
    "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
    "author": "Ruan Yifeng",
@@ -796,6 +874,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792095805
+  },
+  {
+   "title": "Muse Spark Open",
+   "link": "https://www.producthunt.com/products/muse-spark-open",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792095214
   },
   {
    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
@@ -876,6 +967,32 @@
    "ts": 1792085715
   },
   {
+   "title": "Maybloc",
+   "link": "https://www.producthunt.com/products/maybloc",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792083119
+  },
+  {
+   "title": "Toad",
+   "link": "https://www.producthunt.com/products/toad-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792082196
+  },
+  {
    "title": "Jev meets the Trolley Problem",
    "link": "https://zachlandes.com/trolley-problem/",
    "author": "Hacker News",
@@ -939,6 +1056,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792080000
+  },
+  {
+   "title": "Nemotron 3.5 Super VL",
+   "link": "https://www.producthunt.com/products/nvidia",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792078033
   },
   {
    "title": "I know why the mathematicians weep",
@@ -1019,6 +1149,58 @@
    "ts": 1792065621
   },
   {
+   "title": "Tetriz Harness",
+   "link": "https://www.producthunt.com/products/tetriz-harness",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792065343
+  },
+  {
+   "title": "BOSS Console",
+   "link": "https://www.producthunt.com/products/boss-console",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792064269
+  },
+  {
+   "title": "Grablo Spot",
+   "link": "https://www.producthunt.com/products/grablo-spot",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792064200
+  },
+  {
+   "title": "NANI???",
+   "link": "https://www.producthunt.com/products/nani-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792061182
+  },
+  {
    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
    "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
    "author": "Hacker News",
@@ -1045,8 +1227,8 @@
    "ts": 1792060802
   },
   {
-   "title": "Audio Lip Sync Pro for Blender",
-   "link": "https://www.producthunt.com/products/audio-lip-sync-pro-for-blender",
+   "title": "Sparrow",
+   "link": "https://www.producthunt.com/products/sparrow-10",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1055,11 +1237,11 @@
    "day": "Oct 15",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792040957
+   "ts": 1792059010
   },
   {
-   "title": "Brussle",
-   "link": "https://www.producthunt.com/products/brussle-2",
+   "title": "Skisso",
+   "link": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1068,7 +1250,46 @@
    "day": "Oct 15",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792037907
+   "ts": 1792055352
+  },
+  {
+   "title": "Kalesh Judge",
+   "link": "https://www.producthunt.com/products/kalesh-judge",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792052390
+  },
+  {
+   "title": "DOYT",
+   "link": "https://www.producthunt.com/products/doyt",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792048219
+  },
+  {
+   "title": "Dottr",
+   "link": "https://www.producthunt.com/products/dottr",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792031875
   },
   {
    "title": "Parenting, eight years in",
@@ -1082,6 +1303,45 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792022400
+  },
+  {
+   "title": "Agent Vault",
+   "link": "https://www.producthunt.com/products/agent-vault-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792019579
+  },
+  {
+   "title": "Mermaid",
+   "link": "https://www.producthunt.com/products/mermaid",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792019173
+  },
+  {
+   "title": "Atelier",
+   "link": "https://www.producthunt.com/products/atelier-9",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792017783
   },
   {
    "title": "Tiny Little Office",
@@ -1110,19 +1370,6 @@
    "ts": 1792015080
   },
   {
-   "title": "Basedash Connector gallery",
-   "link": "https://www.producthunt.com/products/basedash",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792013522
-  },
-  {
    "title": "Tree Appreciator",
    "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
    "author": "Simon Willison",
@@ -1147,19 +1394,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792012859
-  },
-  {
-   "title": "Atticus",
-   "link": "https://www.producthunt.com/products/atticus",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792012484
   },
   {
    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
@@ -1305,21 +1539,8 @@
    "ts": 1791993991
   },
   {
-   "title": "withHuman",
-   "link": "https://www.producthunt.com/products/withhuman",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791993716
-  },
-  {
-   "title": "Actually Asked",
-   "link": "https://www.producthunt.com/products/actually-asked",
+   "title": "Lovable Growth Tools",
+   "link": "https://www.producthunt.com/products/lovable",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1328,11 +1549,11 @@
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791992197
+   "ts": 1791983816
   },
   {
-   "title": "Rushilo",
-   "link": "https://www.producthunt.com/products/rushilo",
+   "title": "Holm",
+   "link": "https://www.producthunt.com/products/holm",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1341,7 +1562,7 @@
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791992156
+   "ts": 1791982852
   },
   {
    "title": "AI Sandboxes by Buddy",
@@ -1355,19 +1576,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791979867
-  },
-  {
-   "title": "Chatway MCP",
-   "link": "https://www.producthunt.com/products/chatway",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791977436
   },
   {
    "title": "從口罩到社群：我們看到的世界，往往是自己內心的投射",
@@ -1394,71 +1602,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791974315
-  },
-  {
-   "title": "CmdRound",
-   "link": "https://www.producthunt.com/products/cmdround",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791973109
-  },
-  {
-   "title": "NestJS Observe",
-   "link": "https://www.producthunt.com/products/nestjs-observe",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791968310
-  },
-  {
-   "title": "Navige",
-   "link": "https://www.producthunt.com/products/navige",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791959381
-  },
-  {
-   "title": "PixLate",
-   "link": "https://www.producthunt.com/products/pixlate",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791953226
-  },
-  {
-   "title": "Reelbird",
-   "link": "https://www.producthunt.com/products/reelbird",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791944943
   },
   {
    "title": "为什么做加密货币的钱包产品很难赚钱",
@@ -1513,8 +1656,8 @@
    "ts": 1791930534
   },
   {
-   "title": "Specreel",
-   "link": "https://www.producthunt.com/products/specreel",
+   "title": "Tidy Design",
+   "link": "https://www.producthunt.com/products/tidy-design",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1523,72 +1666,7 @@
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791927894
-  },
-  {
-   "title": "Payload Peek",
-   "link": "https://www.producthunt.com/products/payload-peek",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791926374
-  },
-  {
-   "title": "SuperLocalMemory",
-   "link": "https://www.producthunt.com/products/superlocalmemory-v2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791920601
-  },
-  {
-   "title": "Polylane Impact Analysis",
-   "link": "https://www.producthunt.com/products/polylane",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791918278
-  },
-  {
-   "title": "Nostaliga",
-   "link": "https://www.producthunt.com/products/nostaliga",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791916839
-  },
-  {
-   "title": "Lleverage",
-   "link": "https://www.producthunt.com/products/lleverage",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791906796
+   "ts": 1791926978
   },
   {
    "title": "Gordon G. Liu on China's pharmaceutical ambitions",
@@ -1602,19 +1680,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791904776
-  },
-  {
-   "title": "Apple HomeView",
-   "link": "https://www.producthunt.com/products/apple",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791901779
   },
   {
    "title": "Quoting Geoffrey Huntley",
@@ -4503,19 +4568,6 @@
    "ts": 1788797580
   },
   {
-   "title": "Crypto’s Next Winners Won’t Be Blockchains",
-   "link": "https://www.youtube.com/watch?v=bGf-cQ2S2yg",
-   "author": "Bankless",
-   "source": "Bankless",
-   "feed": "youtube-bankless",
-   "lang": "en",
-   "date": "2026-09-07",
-   "day": "Sep 7",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788777024
-  },
-  {
    "title": "The Flood that Wrecked the Hard Disk Drive Industry",
    "link": "https://www.youtube.com/watch?v=flkcHcpdRX0",
    "author": "Asianometry",
@@ -4657,19 +4709,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788521847
-  },
-  {
-   "title": "Robinhood’s Crypto Meme Economy Is Exploding",
-   "link": "https://www.youtube.com/watch?v=fsO9P8P0lDI",
-   "author": "Bankless",
-   "source": "Bankless",
-   "feed": "youtube-bankless",
-   "lang": "en",
-   "date": "2026-09-04",
-   "day": "Sep 4",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788517801
   },
   {
    "title": "特朗普才是 Polymarket 真正的幕后老板",
@@ -8949,19 +8988,6 @@
    "ts": 1775221200
   },
   {
-   "title": "拼多多，蜜雪冰城，华莱士",
-   "link": "https://crazy.smallyu.net/2026/04/03/%E6%8B%BC%E5%A4%9A%E5%A4%9A%EF%BC%8C%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%EF%BC%8C%E5%8D%8E%E8%8E%B1%E5%A3%AB/",
-   "author": "smallyu",
-   "source": "smallyu's Blog (Unfiltered)",
-   "feed": "crazy-smallyu-net-atom-xml",
-   "lang": "zh",
-   "date": "2026-04-03",
-   "day": "Apr 3",
-   "ym": "2026-04",
-   "ym_label": "April 2026",
-   "ts": 1775215983
-  },
-  {
    "title": "你不知道的大模型训练：原理、路径与新实践",
    "link": "https://tw93.fun/2026-04-03/llm.html",
    "author": "Tw93",
@@ -10364,19 +10390,6 @@
    "ym": "2025-11",
    "ym_label": "November 2025",
    "ts": 1764297499
-  },
-  {
-   "title": "Why Some Low-Level Projects Are Full of Weird Code Like This",
-   "link": "https://www.youtube.com/watch?v=z7wVUfnm7M0",
-   "author": "Core Dumped",
-   "source": "Core Dumped",
-   "feed": "youtube-core-dumped",
-   "lang": "en",
-   "date": "2025-11-27",
-   "day": "Nov 27",
-   "ym": "2025-11",
-   "ym_label": "November 2025",
-   "ts": 1764252113
   },
   {
    "title": "I'm building a new email client",
@@ -12028,19 +12041,6 @@
    "ym": "2025-05",
    "ym_label": "May 2025",
    "ts": 1746489600
-  },
-  {
-   "title": "Where my explanation of Grover’s algorithm failed",
-   "link": "https://www.youtube.com/watch?v=Dlsa9EBKDGI",
-   "author": "3Blue1Brown",
-   "source": "3Blue1Brown",
-   "feed": "youtube-3blue1brown",
-   "lang": "en",
-   "date": "2025-05-04",
-   "day": "May 4",
-   "ym": "2025-05",
-   "ym_label": "May 2025",
-   "ts": 1746359124
   },
   {
    "title": "Simplifying the L1",
