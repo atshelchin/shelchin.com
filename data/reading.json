@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 05:22",
+ "updated": "2026-10-16 12:30",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,36 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "老後的優雅",
+   "link": "https://taiwan.chtsai.org/2026/10/16/laohou_de_youya/",
+   "author": "Chih-Hao Tsai",
+   "source": "Chih-Hao Tsai",
+   "feed": "taiwan-chtsai-org-feed",
+   "lang": "zh",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792116236
+  },
+  {
+   "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+   "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+   "author": "Ruan Yifeng",
+   "source": "Ruan Yifeng's Weblog",
+   "feed": "www-ruanyifeng-com-blog-atom-xml",
+   "lang": "zh",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792108976
+  },
   {
    "title": "Chirp Pong",
    "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
@@ -1318,8 +1344,8 @@
    "ts": 1791959381
   },
   {
-   "title": "Cloud Releases",
-   "link": "https://www.producthunt.com/products/cloud-releases",
+   "title": "PixLate",
+   "link": "https://www.producthunt.com/products/pixlate",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1328,7 +1354,7 @@
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791950876
+   "ts": 1791953226
   },
   {
    "title": "Reelbird",
@@ -1357,19 +1383,6 @@
    "ts": 1791940316
   },
   {
-   "title": "Diagramly",
-   "link": "https://www.producthunt.com/products/diagramly-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791937764
-  },
-  {
    "title": "Redesigning source control at Anthropic",
    "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
    "author": "Simon Willison",
@@ -1394,6 +1407,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791930534
+  },
+  {
+   "title": "Specreel",
+   "link": "https://www.producthunt.com/products/specreel",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-14",
+   "day": "Oct 14",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791927894
   },
   {
    "title": "Payload Peek",
@@ -1448,19 +1474,6 @@
    "ts": 1791916839
   },
   {
-   "title": "NoteHouse",
-   "link": "https://www.producthunt.com/products/notehouse-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791906879
-  },
-  {
    "title": "Lleverage",
    "link": "https://www.producthunt.com/products/lleverage",
    "author": "Product Hunt",
@@ -1500,19 +1513,6 @@
    "ts": 1791901779
   },
   {
-   "title": "Kugel 3.5",
-   "link": "https://www.producthunt.com/products/kugelaudio",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791899475
-  },
-  {
    "title": "Quoting Geoffrey Huntley",
    "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
    "author": "Simon Willison",
@@ -1524,6 +1524,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791898320
+  },
+  {
+   "title": "Exodus for Google Cloud Run",
+   "link": "https://www.producthunt.com/products/exodus-by-elim-io",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-13",
+   "day": "Oct 13",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791884426
   },
   {
    "title": "Dreamscale Labs",
@@ -1602,6 +1615,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791845551
+  },
+  {
+   "title": "Winq",
+   "link": "https://www.producthunt.com/products/winq",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-13",
+   "day": "Oct 13",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791839750
   },
   {
    "title": "Every app on Earth is now open source... whether it likes it or not",
@@ -3905,19 +3931,6 @@
    "ts": 1789645980
   },
   {
-   "title": "街景背後的城鄉紋理：土地分區、地籍圖、登記建物與使用執照",
-   "link": "https://taiwan.chtsai.org/2026/09/17/jiejing_beihou_de_chengxiang_wenli/",
-   "author": "Chih-Hao Tsai",
-   "source": "Chih-Hao Tsai",
-   "feed": "taiwan-chtsai-org-feed",
-   "lang": "zh",
-   "date": "2026-09-17",
-   "day": "Sep 17",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789642992
-  },
-  {
    "title": "Solana 链上如何做到最快速度的狙击交易",
    "link": "https://smallyu.net/2026/09/17/Solana%E9%93%BE%E4%B8%8A%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E6%9C%80%E5%BF%AB%E9%80%9F%E5%BA%A6%E7%9A%84%E7%8B%99%E5%87%BB%E4%BA%A4%E6%98%93/",
    "author": "smallyu",
@@ -4241,19 +4254,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789122601
-  },
-  {
-   "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
-   "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
-   "author": "Ruan Yifeng",
-   "source": "Ruan Yifeng's Weblog",
-   "feed": "www-ruanyifeng-com-blog-atom-xml",
-   "lang": "zh",
-   "date": "2026-09-11",
-   "day": "Sep 11",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789085510
   },
   {
    "title": "Ruby Native apps are running on 100,000+ devices",
