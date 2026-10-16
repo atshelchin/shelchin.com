@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 12:30",
+ "updated": "2026-10-16 19:21",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,49 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": false
+   "ok": true
   }
  ],
  "items": [
+  {
+   "title": "China’s ambassador to the Philippines warns against a cycle of retaliation, says Manila need not choose between Beijing and Washington",
+   "link": "https://www.pekingnology.com/p/chinas-ambassador-to-the-philippines",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792136709
+  },
+  {
+   "title": "在公車上，遇見彼此",
+   "link": "https://taiwan.chtsai.org/2026/10/16/zai_gongche_shang/",
+   "author": "Chih-Hao Tsai",
+   "source": "Chih-Hao Tsai",
+   "feed": "taiwan-chtsai-org-feed",
+   "lang": "zh",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792133080
+  },
+  {
+   "title": "Tesla Roadster",
+   "link": "https://www.producthunt.com/products/tesla-roadster",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792118982
+  },
   {
    "title": "老後的優雅",
    "link": "https://taiwan.chtsai.org/2026/10/16/laohou_de_youya/",
@@ -692,6 +731,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792116236
+  },
+  {
+   "title": "Tesla Roadster",
+   "link": "https://www.tesla.com/roadster",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792114365
   },
   {
    "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
@@ -707,6 +759,58 @@
    "ts": 1792108976
   },
   {
+   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+   "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792107462
+  },
+  {
+   "title": "IGBTs Took Silicon Power to the Next Level",
+   "link": "https://www.youtube.com/watch?v=pGQWq_q1gnM",
+   "author": "Asianometry",
+   "source": "Asianometry",
+   "feed": "youtube-asianometry",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792105203
+  },
+  {
+   "title": "What I self-host",
+   "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792095805
+  },
+  {
+   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+   "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792094149
+  },
+  {
    "title": "Chirp Pong",
    "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
    "author": "Simon Willison",
@@ -718,6 +822,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792093672
+  },
+  {
+   "title": "Parallax",
+   "link": "https://www.producthunt.com/products/parallax-5",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792092302
+  },
+  {
+   "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+   "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792092098
   },
   {
    "title": "Muse Spark Open",
@@ -746,6 +876,32 @@
    "ts": 1792085715
   },
   {
+   "title": "Jev meets the Trolley Problem",
+   "link": "https://zachlandes.com/trolley-problem/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792081492
+  },
+  {
+   "title": "Krea 3 – An image model built for editing at scale",
+   "link": "https://www.krea.ai/krea-3",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792080245
+  },
+  {
    "title": "Neural networks are clean",
    "link": "https://already-clean.goodfire.com/",
    "author": "Hacker News",
@@ -757,6 +913,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792080241
+  },
+  {
+   "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+   "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792080199
   },
   {
    "title": "AI Can’t Copy This: Why Every Creator Needs an Origin Story in 2026 | 150",
@@ -783,6 +952,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792071872
+  },
+  {
+   "title": "Harness by Autonomous",
+   "link": "https://www.producthunt.com/products/harness-by-autonomous",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792070828
   },
   {
    "title": "Wayland desktop for Linux with skeuomorphic design",
@@ -1058,30 +1240,17 @@
    "ts": 1792004638
   },
   {
-   "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-   "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Memory Chess",
+   "link": "https://www.producthunt.com/products/memory-chess",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-10-15",
    "day": "Oct 15",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792003041
-  },
-  {
-   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-   "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792002772
+   "ts": 1792003166
   },
   {
    "title": "OpenAI’s lead engineer was secretly a spy...",
@@ -1097,19 +1266,6 @@
    "ts": 1792000090
   },
   {
-   "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-   "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791999923
-  },
-  {
    "title": "Ubuntu 26.10 (Stonking Stingray)",
    "link": "https://www.producthunt.com/products/ubuntu",
    "author": "Product Hunt",
@@ -1123,19 +1279,6 @@
    "ts": 1791998174
   },
   {
-   "title": "Google is silently linking your phone number across all signed-in accounts",
-   "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791995331
-  },
-  {
    "title": "AI is mass decompiling games. That's both awesome and scary.",
    "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
    "author": "Simon Willison",
@@ -1147,32 +1290,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791995213
-  },
-  {
-   "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-   "link": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791995051
-  },
-  {
-   "title": "Americans' social activity has steeply declined in the past 30 years",
-   "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791994140
   },
   {
    "title": "siliXon",
@@ -1225,19 +1342,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791992156
-  },
-  {
-   "title": "Passkeys are not a trap",
-   "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791990945
   },
   {
    "title": "AI Sandboxes by Buddy",
@@ -1305,19 +1409,6 @@
    "ts": 1791973109
   },
   {
-   "title": "How Amazon pushes up prices all across the Internet",
-   "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791970097
-  },
-  {
    "title": "NestJS Observe",
    "link": "https://www.producthunt.com/products/nestjs-observe",
    "author": "Product Hunt",
@@ -1381,6 +1472,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791940316
+  },
+  {
+   "title": "Fish Audio Drama 3",
+   "link": "https://www.producthunt.com/products/fish-speech",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-14",
+   "day": "Oct 14",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791938256
   },
   {
    "title": "Redesigning source control at Anthropic",
@@ -1526,58 +1630,6 @@
    "ts": 1791898320
   },
   {
-   "title": "Exodus for Google Cloud Run",
-   "link": "https://www.producthunt.com/products/exodus-by-elim-io",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791884426
-  },
-  {
-   "title": "Dreamscale Labs",
-   "link": "https://www.producthunt.com/products/dreamscale-labs",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791872842
-  },
-  {
-   "title": "Backdrop",
-   "link": "https://www.producthunt.com/products/backdrop",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791868484
-  },
-  {
-   "title": "CodeCrab",
-   "link": "https://www.producthunt.com/products/codecrab",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791857578
-  },
-  {
    "title": "web-edit 0.1a1",
    "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
    "author": "Simon Willison",
@@ -1615,19 +1667,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791845551
-  },
-  {
-   "title": "Winq",
-   "link": "https://www.producthunt.com/products/winq",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791839750
   },
   {
    "title": "Every app on Earth is now open source... whether it likes it or not",
@@ -3749,19 +3788,6 @@
    "ts": 1789751573
   },
   {
-   "title": "《惡靈古堡：爆發夜》：讓殭屍再次恐怖（以及有趣）",
-   "link": "https://taiwan.chtsai.org/2026/09/18/resident_evil/",
-   "author": "Chih-Hao Tsai",
-   "source": "Chih-Hao Tsai",
-   "feed": "taiwan-chtsai-org-feed",
-   "lang": "zh",
-   "date": "2026-09-18",
-   "day": "Sep 18",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789742986
-  },
-  {
    "title": "What Happens If You Execute a Random File?",
    "link": "https://www.youtube.com/watch?v=I3i5cD5fdXI",
    "author": "Core Dumped",
@@ -4150,19 +4176,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789240305
-  },
-  {
-   "title": "Cui Fan: China Certainly Will Not Apologise for “Overcapacity”",
-   "link": "https://www.pekingnology.com/p/cui-fan-china-certainly-will-not",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-09-13",
-   "day": "Sep 13",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789239316
   },
   {
    "title": "单钱包行为分类与逐类分析",
@@ -5528,19 +5541,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1787270400
-  },
-  {
-   "title": "China's Fiery Incinerator Boom",
-   "link": "https://www.youtube.com/watch?v=AuIEBSb2xiE",
-   "author": "Asianometry",
-   "source": "Asianometry",
-   "feed": "youtube-asianometry",
-   "lang": "en",
-   "date": "2026-08-21",
-   "day": "Aug 21",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1787266824
   },
   {
    "title": "How to Turn Your Creator Business Into an Empire | 142",
