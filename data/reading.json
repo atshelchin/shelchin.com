@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 23:32",
+ "updated": "2026-10-18 04:36",
  "languages": [
   {
    "key": "zh",
@@ -148,7 +148,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-pseudoyu-com-feed-xml",
@@ -247,7 +247,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "oldj-net-rss-xml",
@@ -681,6 +681,32 @@
  ],
  "items": [
   {
+   "title": "OpenCode Hacked: User credentials leaked",
+   "link": "https://twitter.com/opencode/status/2111516673953935833",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-18",
+   "day": "Oct 18",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792260101
+  },
+  {
+   "title": "Solar surpasses nuclear power globally for first time",
+   "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792245661
+  },
+  {
    "title": "The Most Likely Place to Find Aliens",
    "link": "https://www.youtube.com/watch?v=YkEwyFpxWFc",
    "author": "Cleo Abram",
@@ -902,6 +928,19 @@
    "ts": 1792167320
   },
   {
+   "title": "JPEG XL vs. AVIF for web use-cases",
+   "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792167122
+  },
+  {
    "title": "Step 5 Preview",
    "link": "https://www.producthunt.com/products/step-3-5-flash",
    "author": "Product Hunt",
@@ -1043,19 +1082,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792125700
-  },
-  {
-   "title": "Tesla Roadster",
-   "link": "https://www.producthunt.com/products/tesla-roadster",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792118982
   },
   {
    "title": "老後的優雅",
@@ -1240,21 +1266,8 @@
    "ts": 1792085715
   },
   {
-   "title": "Ultramarine 1 Flash",
-   "link": "https://www.paperinstruments.com/ultramarine",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792083961
-  },
-  {
-   "title": "Maybloc",
-   "link": "https://www.producthunt.com/products/maybloc",
+   "title": "Toad",
+   "link": "https://www.producthunt.com/products/toad-4",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1263,33 +1276,7 @@
    "day": "Oct 16",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792083119
-  },
-  {
-   "title": "Jev meets the Trolley Problem",
-   "link": "https://zachlandes.com/trolley-problem/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792081492
-  },
-  {
-   "title": "Krea 3 – An image model built for editing at scale",
-   "link": "https://www.krea.ai/krea-3",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792080245
+   "ts": 1792082196
   },
   {
    "title": "AI Can’t Copy This: Why Every Creator Needs an Origin Story in 2026 | 150",
@@ -1357,6 +1344,19 @@
    "ts": 1792065621
   },
   {
+   "title": "Tetriz Harness",
+   "link": "https://www.producthunt.com/products/tetriz-harness",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792065343
+  },
+  {
    "title": "BOSS Console",
    "link": "https://www.producthunt.com/products/boss-console",
    "author": "Product Hunt",
@@ -1383,19 +1383,6 @@
    "ts": 1792064200
   },
   {
-   "title": "NANI???",
-   "link": "https://www.producthunt.com/products/nani-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792061182
-  },
-  {
    "title": "Web3 离钱近是错觉",
    "link": "https://b.smallyu.net/2026/10/15/Web3-%E7%A6%BB%E9%92%B1%E8%BF%91%E6%98%AF%E9%94%99%E8%A7%89/",
    "author": "smallyu",
@@ -1409,8 +1396,8 @@
    "ts": 1792060802
   },
   {
-   "title": "Skisso",
-   "link": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
+   "title": "Sparrow",
+   "link": "https://www.producthunt.com/products/sparrow-10",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1419,7 +1406,20 @@
    "day": "Oct 15",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792055352
+   "ts": 1792059010
+  },
+  {
+   "title": "Kalesh Judge",
+   "link": "https://www.producthunt.com/products/kalesh-judge",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792052390
   },
   {
    "title": "DOYT",
@@ -1485,6 +1485,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792022400
+  },
+  {
+   "title": "Agent Vault",
+   "link": "https://www.producthunt.com/products/agent-vault-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792019579
   },
   {
    "title": "Mermaid",
@@ -1604,19 +1617,6 @@
    "ts": 1791983816
   },
   {
-   "title": "Holm",
-   "link": "https://www.producthunt.com/products/holm",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791982852
-  },
-  {
    "title": "從口罩到社群：我們看到的世界，往往是自己內心的投射",
    "link": "https://taiwan.chtsai.org/2026/10/14/cong_kouzhao_dao_shequn/",
    "author": "Chih-Hao Tsai",
@@ -1734,8 +1734,8 @@
    "ts": 1791926179
   },
   {
-   "title": "Train with Pasta",
-   "link": "https://www.producthunt.com/products/train-with-pasta",
+   "title": "iKnowMyMac",
+   "link": "https://www.producthunt.com/products/iknowmymac",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1744,7 +1744,7 @@
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791908487
+   "ts": 1791914188
   },
   {
    "title": "Gordon G. Liu on China's pharmaceutical ambitions",
