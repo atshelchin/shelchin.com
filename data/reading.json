@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 05:06",
+ "updated": "2026-10-17 12:23",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,23 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+   "link": "https://simonwillison.net/2026/Oct/16/code-review/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792188397
+  },
   {
    "title": "1000x Leverage, Then You Become the House",
    "link": "https://www.youtube.com/shorts/RfNq3K_Nij8",
@@ -1331,6 +1344,19 @@
    "ts": 1792048219
   },
   {
+   "title": "Brussle",
+   "link": "https://www.producthunt.com/products/brussle-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792037907
+  },
+  {
    "title": "Dottr",
    "link": "https://www.producthunt.com/products/dottr",
    "author": "Product Hunt",
@@ -1342,6 +1368,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792031875
+  },
+  {
+   "title": "LaTeX renderer",
+   "link": "https://simonwillison.net/2026/Oct/15/latex/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792030048
   },
   {
    "title": "Parenting, eight years in",
@@ -1461,19 +1500,6 @@
    "ts": 1792012263
   },
   {
-   "title": "Superdraft",
-   "link": "https://www.producthunt.com/products/superdraft",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792005739
-  },
-  {
    "title": "Memory Chess",
    "link": "https://www.producthunt.com/products/memory-chess",
    "author": "Product Hunt",
@@ -1500,6 +1526,19 @@
    "ts": 1792000090
   },
   {
+   "title": "Ubuntu 26.10 (Stonking Stingray)",
+   "link": "https://www.producthunt.com/products/ubuntu",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791998174
+  },
+  {
    "title": "AI is mass decompiling games. That's both awesome and scary.",
    "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
    "author": "Simon Willison",
@@ -1511,32 +1550,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791995213
-  },
-  {
-   "title": "siliXon",
-   "link": "https://www.producthunt.com/products/silixon",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791993991
-  },
-  {
-   "title": "Actually Asked",
-   "link": "https://www.producthunt.com/products/actually-asked",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791992197
   },
   {
    "title": "Lovable Growth Tools",
@@ -1589,6 +1602,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791974315
+  },
+  {
+   "title": "Reelbird",
+   "link": "https://www.producthunt.com/products/reelbird",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-14",
+   "day": "Oct 14",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791944943
   },
   {
    "title": "为什么做加密货币的钱包产品很难赚钱",
@@ -1656,8 +1682,8 @@
    "ts": 1791926978
   },
   {
-   "title": "SuperLocalMemory",
-   "link": "https://www.producthunt.com/products/superlocalmemory-v2",
+   "title": "iKnowMyMac",
+   "link": "https://www.producthunt.com/products/iknowmymac",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1666,7 +1692,7 @@
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791920601
+   "ts": 1791914188
   },
   {
    "title": "Gordon G. Liu on China's pharmaceutical ambitions",
@@ -2447,32 +2473,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791331136
-  },
-  {
-   "title": "llm-openai-decisions 0.1a0",
-   "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-07",
-   "day": "Oct 7",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791327853
-  },
-  {
-   "title": "llm-mistral 0.16",
-   "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-07",
-   "day": "Oct 7",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791322354
   },
   {
    "title": "为什么 Polymarket 比交易所邪恶很多倍",
