@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 18:42",
+ "updated": "2026-10-17 23:32",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,58 @@
  ],
  "items": [
   {
+   "title": "The Most Likely Place to Find Aliens",
+   "link": "https://www.youtube.com/watch?v=YkEwyFpxWFc",
+   "author": "Cleo Abram",
+   "source": "Cleo Abram",
+   "feed": "youtube-cleo-abram",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792244182
+  },
+  {
+   "title": "Li Yuankun: Is the OECD Using the Right Benchmark for China’s Subsidies?",
+   "link": "https://www.pekingnology.com/p/li-yuankun-is-the-oecd-using-the",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792239636
+  },
+  {
+   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+   "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792226266
+  },
+  {
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792225285
+  },
+  {
    "title": "喜欢和讨厌美国的地方",
    "link": "https://blog.douchi.space/love-hate-USA/?utm_source=rss",
    "author": "Jiaoyan Douchi",
@@ -718,6 +770,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792208800
+  },
+  {
+   "title": "Butlerian Jihad",
+   "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792203668
   },
   {
    "title": "GPU Terminal by Context.dev",
@@ -796,6 +861,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792176959
+  },
+  {
+   "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+   "link": "https://github.com/cobanov/PS5LM",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792175555
   },
   {
    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
@@ -1162,6 +1240,19 @@
    "ts": 1792085715
   },
   {
+   "title": "Ultramarine 1 Flash",
+   "link": "https://www.paperinstruments.com/ultramarine",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792083961
+  },
+  {
    "title": "Maybloc",
    "link": "https://www.producthunt.com/products/maybloc",
    "author": "Product Hunt",
@@ -1173,19 +1264,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792083119
-  },
-  {
-   "title": "Toad",
-   "link": "https://www.producthunt.com/products/toad-4",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792082196
   },
   {
    "title": "Jev meets the Trolley Problem",
@@ -1214,32 +1292,6 @@
    "ts": 1792080245
   },
   {
-   "title": "Neural networks are clean",
-   "link": "https://already-clean.goodfire.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792080241
-  },
-  {
-   "title": "Steam Client is now faster than Epic's new vibe coded launcher",
-   "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792080199
-  },
-  {
    "title": "AI Can’t Copy This: Why Every Creator Needs an Origin Story in 2026 | 150",
    "link": "https://nathanbarry.com/ai-cant-copy-this-why-every-creator-needs-an-origin-story-in-2026-150/",
    "author": "Nathan Barry",
@@ -1266,32 +1318,6 @@
    "ts": 1792078033
   },
   {
-   "title": "Celebrating 70 Years of Fortran",
-   "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792076597
-  },
-  {
-   "title": "I know why the mathematicians weep",
-   "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792071872
-  },
-  {
    "title": "Harness by Autonomous",
    "link": "https://www.producthunt.com/products/harness-by-autonomous",
    "author": "Product Hunt",
@@ -1303,19 +1329,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792070828
-  },
-  {
-   "title": "Wayland desktop for Linux with skeuomorphic design",
-   "link": "https://github.com/fyzugx/DEsk",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792070624
   },
   {
    "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
@@ -1396,8 +1409,8 @@
    "ts": 1792060802
   },
   {
-   "title": "Kalesh Judge",
-   "link": "https://www.producthunt.com/products/kalesh-judge",
+   "title": "Skisso",
+   "link": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1406,7 +1419,7 @@
    "day": "Oct 15",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792052390
+   "ts": 1792055352
   },
   {
    "title": "DOYT",
@@ -1472,19 +1485,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792022400
-  },
-  {
-   "title": "Agent Vault",
-   "link": "https://www.producthunt.com/products/agent-vault-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792019579
   },
   {
    "title": "Mermaid",
@@ -1719,6 +1719,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791926978
+  },
+  {
+   "title": "Unfenced",
+   "link": "https://www.producthunt.com/products/unfenced",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-14",
+   "day": "Oct 14",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791926179
+  },
+  {
+   "title": "Train with Pasta",
+   "link": "https://www.producthunt.com/products/train-with-pasta",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-14",
+   "day": "Oct 14",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1791908487
   },
   {
    "title": "Gordon G. Liu on China's pharmaceutical ambitions",
@@ -4241,19 +4267,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789318804
-  },
-  {
-   "title": "Wu Jianmin: China’s Swift Response to 9/11",
-   "link": "https://www.pekingnology.com/p/wu-jianmin-chinas-swift-response",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-09-13",
-   "day": "Sep 13",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789305645
   },
   {
    "title": "一天原型，一周成品：开发 Lody iOS 实况",
@@ -11053,19 +11066,6 @@
    "ym": "2025-08",
    "ym_label": "August 2025",
    "ts": 1756560600
-  },
-  {
-   "title": "Why NASA Is Sending This Truck To The Moon",
-   "link": "https://www.youtube.com/watch?v=qmQ_lQOBdq4",
-   "author": "Cleo Abram",
-   "source": "Cleo Abram",
-   "feed": "youtube-cleo-abram",
-   "lang": "en",
-   "date": "2025-08-30",
-   "day": "Aug 30",
-   "ym": "2025-08",
-   "ym_label": "August 2025",
-   "ts": 1756559936
   },
   {
    "title": "Simulating and understanding phase change | Guest video by Vilas Winstein",
