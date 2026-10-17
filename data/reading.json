@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 12:23",
+ "updated": "2026-10-17 18:42",
  "languages": [
   {
    "key": "zh",
@@ -148,7 +148,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-pseudoyu-com-feed-xml",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,62 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": false
+   "ok": true
   }
  ],
  "items": [
+  {
+   "title": "喜欢和讨厌美国的地方",
+   "link": "https://blog.douchi.space/love-hate-USA/?utm_source=rss",
+   "author": "Jiaoyan Douchi",
+   "source": "Jiaoyan Douchi",
+   "feed": "blog-douchi-space-index-xml",
+   "lang": "zh",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792220100
+  },
+  {
+   "title": "宝玉太废柴了丨一周语文（2642）",
+   "link": "https://www.huangjiwei.com/blog/?p=12756",
+   "author": "Huang Jiwei",
+   "source": "Huang Jiwei",
+   "feed": "www-huangjiwei-com-blog",
+   "lang": "zh",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792214047
+  },
+  {
+   "title": "Salience",
+   "link": "https://www.producthunt.com/products/salience",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792208800
+  },
+  {
+   "title": "GPU Terminal by Context.dev",
+   "link": "https://www.producthunt.com/products/context-dev",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792200728
+  },
   {
    "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
    "link": "https://simonwillison.net/2026/Oct/16/code-review/",
@@ -692,6 +744,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792188397
+  },
+  {
+   "title": "How the Claude Code team does code review",
+   "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792177487
   },
   {
    "title": "1000x Leverage, Then You Become the House",
@@ -707,6 +772,19 @@
    "ts": 1792177390
   },
   {
+   "title": "You could have invented transformers from memory",
+   "link": "https://alexwang.ai/posts/associative-memory/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792177277
+  },
+  {
    "title": "Claude reveals ECDSA curve origins",
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "author": "Hacker News",
@@ -718,6 +796,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792176959
+  },
+  {
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792170518
   },
   {
    "title": "There's never been a better time to go into math",
@@ -733,6 +824,32 @@
    "ts": 1792167320
   },
   {
+   "title": "Step 5 Preview",
+   "link": "https://www.producthunt.com/products/step-3-5-flash",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792163174
+  },
+  {
+   "title": "Waymo in Toronto",
+   "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792161857
+  },
+  {
    "title": "The Crypto Bull Market Just Got a Reality Check",
    "link": "https://www.youtube.com/watch?v=jWHj7u2B5j4",
    "author": "Bankless",
@@ -746,6 +863,19 @@
    "ts": 1792161447
   },
   {
+   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792158228
+  },
+  {
    "title": "You've Been Lied To About 64-Bit CPUs",
    "link": "https://www.youtube.com/watch?v=bV3GD--FHu8",
    "author": "Core Dumped",
@@ -757,6 +887,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792155604
+  },
+  {
+   "title": "I love software rendering",
+   "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792155128
   },
   {
    "title": "中国资产分布研究",
@@ -785,6 +928,19 @@
    "ts": 1792136709
   },
   {
+   "title": "Emochi",
+   "link": "https://www.producthunt.com/products/emochi-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792136617
+  },
+  {
    "title": "在公車上，遇見彼此",
    "link": "https://taiwan.chtsai.org/2026/10/16/zai_gongche_shang/",
    "author": "Chih-Hao Tsai",
@@ -796,6 +952,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792133080
+  },
+  {
+   "title": "Draper",
+   "link": "https://www.producthunt.com/products/draper",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792125700
   },
   {
    "title": "Tesla Roadster",
@@ -1162,32 +1331,6 @@
    "ts": 1792069443
   },
   {
-   "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
-   "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792069112
-  },
-  {
-   "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-   "link": "https://libreboot.org/news/libreboot2610.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792068736
-  },
-  {
    "title": "The REAL reason China built so much",
    "link": "https://www.youtube.com/watch?v=axRhjqd-rus",
    "author": "Johnny Harris",
@@ -1199,32 +1342,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792065621
-  },
-  {
-   "title": "Tetriz Harness",
-   "link": "https://www.producthunt.com/products/tetriz-harness",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792065343
-  },
-  {
-   "title": "Show HN: Unfenced – Land for sale that borders public land",
-   "link": "https://unfenced.land/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792064337
   },
   {
    "title": "BOSS Console",
@@ -1266,19 +1383,6 @@
    "ts": 1792061182
   },
   {
-   "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-   "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792061016
-  },
-  {
    "title": "Web3 离钱近是错觉",
    "link": "https://b.smallyu.net/2026/10/15/Web3-%E7%A6%BB%E9%92%B1%E8%BF%91%E6%98%AF%E9%94%99%E8%A7%89/",
    "author": "smallyu",
@@ -1290,32 +1394,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792060802
-  },
-  {
-   "title": "Sparrow",
-   "link": "https://www.producthunt.com/products/sparrow-10",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792059010
-  },
-  {
-   "title": "Skisso",
-   "link": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792055352
   },
   {
    "title": "Kalesh Judge",
@@ -1344,8 +1422,8 @@
    "ts": 1792048219
   },
   {
-   "title": "Brussle",
-   "link": "https://www.producthunt.com/products/brussle-2",
+   "title": "Craft Agents",
+   "link": "https://www.producthunt.com/products/craft-agents",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1354,7 +1432,7 @@
    "day": "Oct 15",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792037907
+   "ts": 1792039717
   },
   {
    "title": "Dottr",
@@ -1435,19 +1513,6 @@
    "ts": 1792017783
   },
   {
-   "title": "Tiny Little Office",
-   "link": "https://tinylittleoffice.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792015808
-  },
-  {
    "title": "软件越来越便宜，生信人的机会在哪里",
    "link": "https://yanlinlin.cn/2026/10/15/cheaper-software-bioinformatics-opportunities/",
    "author": "Yan Linlin",
@@ -1474,8 +1539,8 @@
    "ts": 1792012981
   },
   {
-   "title": "CinemaLut",
-   "link": "https://www.producthunt.com/products/cinemalut",
+   "title": "CrewTower Mod for Claude Code",
+   "link": "https://www.producthunt.com/products/crew-tower",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1484,20 +1549,7 @@
    "day": "Oct 15",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792012859
-  },
-  {
-   "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-   "link": "https://typesafe.ai/blog/jev-1-14",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792012263
+   "ts": 1792012516
   },
   {
    "title": "Memory Chess",
@@ -1524,19 +1576,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792000090
-  },
-  {
-   "title": "Ubuntu 26.10 (Stonking Stingray)",
-   "link": "https://www.producthunt.com/products/ubuntu",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791998174
   },
   {
    "title": "AI is mass decompiling games. That's both awesome and scary.",
@@ -1604,8 +1643,8 @@
    "ts": 1791974315
   },
   {
-   "title": "Reelbird",
-   "link": "https://www.producthunt.com/products/reelbird",
+   "title": "Notion: Context for your agents",
+   "link": "https://www.producthunt.com/products/notion",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1614,7 +1653,7 @@
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791944943
+   "ts": 1791961219
   },
   {
    "title": "为什么做加密货币的钱包产品很难赚钱",
@@ -1680,19 +1719,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791926978
-  },
-  {
-   "title": "iKnowMyMac",
-   "link": "https://www.producthunt.com/products/iknowmymac",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791914188
   },
   {
    "title": "Gordon G. Liu on China's pharmaceutical ambitions",
@@ -4854,19 +4880,6 @@
    "ts": 1788307200
   },
   {
-   "title": "[时空] 黄金圈，冰岛",
-   "link": "https://blog.douchi.space/time-capsule/20260902-iceland-golden-circle/?utm_source=rss",
-   "author": "Jiaoyan Douchi",
-   "source": "Jiaoyan Douchi",
-   "feed": "blog-douchi-space-index-xml",
-   "lang": "zh",
-   "date": "2026-09-02",
-   "day": "Sep 2",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788307200
-  },
-  {
    "title": "Ajeya Cotra – \"This might be the clearest warning shot we ever get\"",
    "link": "https://www.youtube.com/watch?v=X50zezLFWWI",
    "author": "Dwarkesh Patel",
@@ -5983,19 +5996,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1786201210
-  },
-  {
-   "title": "经得起截屏和录音丨一周语文（2632）",
-   "link": "https://www.huangjiwei.com/blog/?p=12707",
-   "author": "Huang Jiwei",
-   "source": "Huang Jiwei",
-   "feed": "www-huangjiwei-com-blog",
-   "lang": "zh",
-   "date": "2026-08-08",
-   "day": "Aug 8",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1786166052
   },
   {
    "title": "继续搓英汉双解词典v3",
