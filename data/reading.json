@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 04:36",
+ "updated": "2026-10-18 12:31",
  "languages": [
   {
    "key": "zh",
@@ -225,7 +225,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "weiwuhui-com-feed",
@@ -247,7 +247,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "oldj-net-rss-xml",
@@ -357,7 +357,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "masilotti-com-feed-xml",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,23 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Inline rendering with document​.currentScript",
+   "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-18",
+   "day": "Oct 18",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792271472
+  },
   {
    "title": "OpenCode Hacked: User credentials leaked",
    "link": "https://twitter.com/opencode/status/2111516673953935833",
@@ -718,6 +731,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792244182
+  },
+  {
+   "title": "web-edit 0.1a2",
+   "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792243009
   },
   {
    "title": "Li Yuankun: Is the OECD Using the Right Benchmark for China’s Subsidies?",
@@ -1084,6 +1110,19 @@
    "ts": 1792125700
   },
   {
+   "title": "Tesla Roadster",
+   "link": "https://www.producthunt.com/products/tesla-roadster",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792118982
+  },
+  {
    "title": "老後的優雅",
    "link": "https://taiwan.chtsai.org/2026/10/16/laohou_de_youya/",
    "author": "Chih-Hao Tsai",
@@ -1266,6 +1305,19 @@
    "ts": 1792085715
   },
   {
+   "title": "Maybloc",
+   "link": "https://www.producthunt.com/products/maybloc",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792083119
+  },
+  {
    "title": "Toad",
    "link": "https://www.producthunt.com/products/toad-4",
    "author": "Product Hunt",
@@ -1383,6 +1435,19 @@
    "ts": 1792064200
   },
   {
+   "title": "NANI???",
+   "link": "https://www.producthunt.com/products/nani-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792061182
+  },
+  {
    "title": "Web3 离钱近是错觉",
    "link": "https://b.smallyu.net/2026/10/15/Web3-%E7%A6%BB%E9%92%B1%E8%BF%91%E6%98%AF%E9%94%99%E8%A7%89/",
    "author": "smallyu",
@@ -1409,8 +1474,8 @@
    "ts": 1792059010
   },
   {
-   "title": "Kalesh Judge",
-   "link": "https://www.producthunt.com/products/kalesh-judge",
+   "title": "Skisso",
+   "link": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1419,7 +1484,7 @@
    "day": "Oct 15",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792052390
+   "ts": 1792055352
   },
   {
    "title": "DOYT",
@@ -1706,45 +1771,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791930534
-  },
-  {
-   "title": "Tidy Design",
-   "link": "https://www.producthunt.com/products/tidy-design",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791926978
-  },
-  {
-   "title": "Unfenced",
-   "link": "https://www.producthunt.com/products/unfenced",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791926179
-  },
-  {
-   "title": "iKnowMyMac",
-   "link": "https://www.producthunt.com/products/iknowmymac",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791914188
   },
   {
    "title": "Gordon G. Liu on China's pharmaceutical ambitions",
@@ -2499,32 +2525,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791336806
-  },
-  {
-   "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-   "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-07",
-   "day": "Oct 7",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791332205
-  },
-  {
-   "title": "Quoting Victoria Kim",
-   "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-07",
-   "day": "Oct 7",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791331136
   },
   {
    "title": "为什么 Polymarket 比交易所邪恶很多倍",
@@ -4776,6 +4776,19 @@
    "ts": 1788487740
   },
   {
+   "title": "[时空] Fimmvorduhals，冰岛",
+   "link": "https://blog.douchi.space/time-capsule/20260904-iceland-fimmvorduhals/?utm_source=rss",
+   "author": "Jiaoyan Douchi",
+   "source": "Jiaoyan Douchi",
+   "feed": "blog-douchi-space-index-xml",
+   "lang": "zh",
+   "date": "2026-09-04",
+   "day": "Sep 4",
+   "ym": "2026-09",
+   "ym_label": "September 2026",
+   "ts": 1788480000
+  },
+  {
    "title": "AI EDAs: Is It Real?",
    "link": "https://www.youtube.com/watch?v=GzhfZy8-CjU",
    "author": "Asianometry",
@@ -4852,19 +4865,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788314400
-  },
-  {
-   "title": "关我辟事 Vol.56：不入虎穴",
-   "link": "https://blog.douchi.space/spark-joy-digest-2026-8/?utm_source=rss",
-   "author": "Jiaoyan Douchi",
-   "source": "Jiaoyan Douchi",
-   "feed": "blog-douchi-space-index-xml",
-   "lang": "zh",
-   "date": "2026-09-02",
-   "day": "Sep 2",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788309600
   },
   {
    "title": "高效电商 AI 智能体解剖指南 | 选自 Anthropic 的 Claude 博客",
