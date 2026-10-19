@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19 21:11",
+ "updated": "2026-10-20 06:20",
  "languages": [
   {
    "key": "zh",
@@ -681,7 +681,72 @@
  ],
  "items": [
   {
-   "title": "The CFTC’s Plan to Change How Americans Trade Crypto",
+   "title": "《遥远的救世主》书评",
+   "link": "https://yanlinlin.cn/2026/10/20/yao-yuan-de-jiu-shi-zhu-review/",
+   "author": "Yan Linlin",
+   "source": "Yan Linlin",
+   "feed": "yanlinlin-cn-index-xml",
+   "lang": "zh",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792432620
+  },
+  {
+   "title": "MiniMax M3.1 Flash",
+   "link": "https://www.minimax.io/blog/minimax-m31f",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792427949
+  },
+  {
+   "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+   "link": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792427830
+  },
+  {
+   "title": "Wine ported to OpenBSD",
+   "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792416934
+  },
+  {
+   "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+   "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792406714
+  },
+  {
+   "title": "What the CFTC’s Proposed Rules Could Unlock for Crypto Traders",
    "link": "https://www.youtube.com/watch?v=TA_UEhiKdzs",
    "author": "Bankless",
    "source": "Bankless",
@@ -694,7 +759,20 @@
    "ts": 1792405812
   },
   {
-   "title": "Linux 7.3 Released",
+   "title": "Timestral: Mistral's time-series foundation models",
+   "link": "https://mistral.ai/news/timestral/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792403972
+  },
+  {
+   "title": "Linux 7.3",
    "link": "https://lwn.net/Articles/1101143/",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -915,6 +993,19 @@
    "ts": 1792341120
   },
   {
+   "title": "现在，是最适合一人公司的时代",
+   "link": "https://yanlinlin.cn/2026/10/19/best-era-for-one-person-company/",
+   "author": "Yan Linlin",
+   "source": "Yan Linlin",
+   "feed": "yanlinlin-cn-index-xml",
+   "lang": "zh",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792339200
+  },
+  {
    "title": "Former commerce minister’s remarks at CCG’s forum",
    "link": "https://www.pekingnology.com/p/former-commerce-ministers-remarks",
    "author": "Zichen Wang",
@@ -1058,6 +1149,19 @@
    "ts": 1792293589
   },
   {
+   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+   "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-18",
+   "day": "Oct 18",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792287488
+  },
+  {
    "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
    "link": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
    "author": "Hacker News",
@@ -1123,6 +1227,19 @@
    "ts": 1792271472
   },
   {
+   "title": "It's still ok to enjoy programming",
+   "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-18",
+   "day": "Oct 18",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792266800
+  },
+  {
    "title": "OpenCode Hacked: User credentials leaked",
    "link": "https://twitter.com/opencode/status/2111516673953935833",
    "author": "Hacker News",
@@ -1175,32 +1292,6 @@
    "ts": 1792251381
   },
   {
-   "title": "Solar surpasses nuclear power globally for first time",
-   "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792245661
-  },
-  {
-   "title": "Making chicken transparent using Dorito dust",
-   "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792245328
-  },
-  {
    "title": "The Most Likely Place to Find Aliens",
    "link": "https://www.youtube.com/watch?v=YkEwyFpxWFc",
    "author": "Cleo Abram",
@@ -1240,19 +1331,6 @@
    "ts": 1792239636
   },
   {
-   "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
-   "link": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792234771
-  },
-  {
    "title": "Tomo for ChatGPT",
    "link": "https://www.producthunt.com/products/tomo-for-chatgpt",
    "author": "Product Hunt",
@@ -1277,32 +1355,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792231920
-  },
-  {
-   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-   "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792226266
-  },
-  {
-   "title": "DeepSeek-v4.1-Flash-1017",
-   "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792225285
   },
   {
    "title": "Starkomand",
@@ -1344,19 +1396,6 @@
    "ts": 1792214047
   },
   {
-   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-   "link": "https://llmspeed.dev/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792211813
-  },
-  {
    "title": "XBOX Nano Controller",
    "link": "https://www.producthunt.com/products/microsoft-xbox-series-s",
    "author": "Product Hunt",
@@ -1368,32 +1407,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792210042
-  },
-  {
-   "title": "Butlerian Jihad",
-   "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792203668
-  },
-  {
-   "title": "GPU Terminal by Context.dev",
-   "link": "https://www.producthunt.com/products/context-dev",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792200728
   },
   {
    "title": "Lookout (for Slack)",
@@ -1578,19 +1591,6 @@
    "ts": 1792136709
   },
   {
-   "title": "Emochi",
-   "link": "https://www.producthunt.com/products/emochi-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792136617
-  },
-  {
    "title": "DoOne",
    "link": "https://www.producthunt.com/products/doone-focus-tasks-with-integration",
    "author": "Product Hunt",
@@ -1615,6 +1615,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792133080
+  },
+  {
+   "title": "Lazy AWS",
+   "link": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792130912
+  },
+  {
+   "title": "Draper",
+   "link": "https://www.producthunt.com/products/draper",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792125700
   },
   {
    "title": "老後的優雅",
@@ -9118,19 +9144,6 @@
    "ts": 1774828800
   },
   {
-   "title": "《就这样成了老板：关于创业的真相与启示》书评",
-   "link": "https://yanlinlin.cn/2026/03/30/just-became-boss-review/",
-   "author": "Yan Linlin",
-   "source": "Yan Linlin",
-   "feed": "yanlinlin-cn-index-xml",
-   "lang": "zh",
-   "date": "2026-03-30",
-   "day": "Mar 30",
-   "ym": "2026-03",
-   "ym_label": "March 2026",
-   "ts": 1774828800
-  },
-  {
    "title": "周报 #106 - OpenClaw 实践、搬家与生活的能量",
    "link": "https://www.pseudoyu.com/posts/weekly_review_106",
    "author": "Pseudoyu",
@@ -9493,19 +9506,6 @@
    "ym": "2026-03",
    "ym_label": "March 2026",
    "ts": 1772323200
-  },
-  {
-   "title": "《西游八十一案》书评",
-   "link": "https://yanlinlin.cn/2026/02/28/xiyou-81-cases-review/",
-   "author": "Yan Linlin",
-   "source": "Yan Linlin",
-   "feed": "yanlinlin-cn-index-xml",
-   "lang": "zh",
-   "date": "2026-02-28",
-   "day": "Feb 28",
-   "ym": "2026-02",
-   "ym_label": "February 2026",
-   "ts": 1772236800
   },
   {
    "title": "The most beautiful formula not enough people understand",
