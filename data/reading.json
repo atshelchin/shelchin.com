@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19 04:41",
+ "updated": "2026-10-19 12:38",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,36 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "llm-tools-datasette 0.1.1",
+   "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792366989
+  },
+  {
+   "title": "llm-echo 0.5",
+   "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792365376
+  },
   {
    "title": "How Do Germans Deal with Saying Goodbye?",
    "link": "https://www.youtube.com/watch?v=6gr5wvJpxCU",
@@ -692,6 +718,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792342830
+  },
+  {
+   "title": "Namecheap just seized and disabled all my domains",
+   "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792342616
+  },
+  {
+   "title": "Someone behind the software",
+   "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792341120
   },
   {
    "title": "Former commerce minister’s remarks at CCG’s forum",
@@ -733,6 +785,19 @@
    "ts": 1792332012
   },
   {
+   "title": "RepRapMicron",
+   "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-18",
+   "day": "Oct 18",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792331328
+  },
+  {
    "title": "萨尔瓦多调研报告",
    "link": "https://crazy.smallyu.net/2026/10/18/%E8%90%A8%E5%B0%94%E7%93%A6%E5%A4%9A%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A/",
    "author": "smallyu",
@@ -772,7 +837,7 @@
    "ts": 1792296635
   },
   {
-   "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+   "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
    "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -1162,45 +1227,6 @@
    "ts": 1792177487
   },
   {
-   "title": "You could have invented transformers from memory",
-   "link": "https://alexwang.ai/posts/associative-memory/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792177277
-  },
-  {
-   "title": "Claude reveals ECDSA curve origins",
-   "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792176959
-  },
-  {
-   "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-   "link": "https://github.com/cobanov/PS5LM",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792175555
-  },
-  {
    "title": "There's never been a better time to go into math",
    "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
    "author": "3Blue1Brown",
@@ -1396,19 +1422,6 @@
    "ts": 1792093672
   },
   {
-   "title": "Parallax",
-   "link": "https://www.producthunt.com/products/parallax-5",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792092302
-  },
-  {
    "title": "MeetPaw",
    "link": "https://www.producthunt.com/products/meetpaw",
    "author": "Product Hunt",
@@ -1513,6 +1526,32 @@
    "ts": 1792065621
   },
   {
+   "title": "BOSS Console",
+   "link": "https://www.producthunt.com/products/boss-console",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792064269
+  },
+  {
+   "title": "Grablo Spot",
+   "link": "https://www.producthunt.com/products/grablo-spot",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-15",
+   "day": "Oct 15",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792064200
+  },
+  {
    "title": "NANI???",
    "link": "https://www.producthunt.com/products/nani-2",
    "author": "Product Hunt",
@@ -1604,8 +1643,8 @@
    "ts": 1792022400
   },
   {
-   "title": "Atelier",
-   "link": "https://www.producthunt.com/products/atelier-9",
+   "title": "Mermaid",
+   "link": "https://www.producthunt.com/products/mermaid",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1614,7 +1653,7 @@
    "day": "Oct 15",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792017783
+   "ts": 1792019173
   },
   {
    "title": "软件越来越便宜，生信人的机会在哪里",
@@ -1695,8 +1734,8 @@
    "ts": 1791995213
   },
   {
-   "title": "Lovable Growth Tools",
-   "link": "https://www.producthunt.com/products/lovable",
+   "title": "Holm",
+   "link": "https://www.producthunt.com/products/holm",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1705,7 +1744,7 @@
    "day": "Oct 14",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1791983816
+   "ts": 1791982852
   },
   {
    "title": "從口罩到社群：我們看到的世界，往往是自己內心的投射",
@@ -1797,19 +1836,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791930534
-  },
-  {
-   "title": "Tidy Design",
-   "link": "https://www.producthunt.com/products/tidy-design",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791926978
   },
   {
    "title": "Unfenced",
@@ -2501,19 +2527,6 @@
    "ts": 1791389980
   },
   {
-   "title": "Anti-Patterns in Software Blogging",
-   "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-07",
-   "day": "Oct 7",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791384831
-  },
-  {
    "title": "“独立开发者” 是最大的骗局",
    "link": "https://b.smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/",
    "author": "smallyu",
@@ -2551,19 +2564,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791360780
-  },
-  {
-   "title": "Quoting Jake Boggan",
-   "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-07",
-   "day": "Oct 7",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791348475
   },
   {
    "title": "海港、鐵路、城市：走過一頁花蓮發展史",
