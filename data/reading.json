@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20 06:20",
+ "updated": "2026-10-20 12:49",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,23 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "My obituary for programming",
+   "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792454305
+  },
   {
    "title": "《遥远的救世主》书评",
    "link": "https://yanlinlin.cn/2026/10/20/yao-yuan-de-jiu-shi-zhu-review/",
@@ -1409,6 +1422,32 @@
    "ts": 1792210042
   },
   {
+   "title": "Salience",
+   "link": "https://www.producthunt.com/products/salience",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792208800
+  },
+  {
+   "title": "GPU Terminal by Context.dev",
+   "link": "https://www.producthunt.com/products/context-dev",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-17",
+   "day": "Oct 17",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792200728
+  },
+  {
    "title": "Lookout (for Slack)",
    "link": "https://www.producthunt.com/products/lookout-for-slack",
    "author": "Product Hunt",
@@ -1615,32 +1654,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792133080
-  },
-  {
-   "title": "Lazy AWS",
-   "link": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792130912
-  },
-  {
-   "title": "Draper",
-   "link": "https://www.producthunt.com/products/draper",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792125700
   },
   {
    "title": "老後的優雅",
@@ -2525,19 +2538,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791414898
-  },
-  {
-   "title": "Claude Haiku 5.5",
-   "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-08",
-   "day": "Oct 8",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791406581
   },
   {
    "title": "A $6.3 billion open-weight model just got embarrassed by the French...",
