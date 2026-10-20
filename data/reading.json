@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21 01:02",
+ "updated": "2026-10-21 05:36",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,32 @@
  ],
  "items": [
   {
+   "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+   "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792524859
+  },
+  {
+   "title": "SimCity, but with Permits",
+   "link": "https://permit.petercai.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792520949
+  },
+  {
    "title": "Did Google just dethrone OpenAI and Anthropic?",
    "link": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
    "author": "Fireship",
@@ -692,6 +718,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792513263
+  },
+  {
+   "title": "Voxtral 3",
+   "link": "https://mistral.ai/news/voxtral-3/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792512127
+  },
+  {
+   "title": "Facebook Pages require paid subscription to post more than two links per month",
+   "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792508768
   },
   {
    "title": "You Will Only Like Half of This Video",
@@ -707,6 +759,19 @@
    "ts": 1792504811
   },
   {
+   "title": "EMudhra Intermediate CA Compromise",
+   "link": "https://emudhra.we-have-a-problem.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792504713
+  },
+  {
    "title": "當我們懂得欣賞時，庇護我們成長的時代已漸漸遠去",
    "link": "https://taiwan.chtsai.org/2026/10/20/dang_women_dongde_xinshang_shi/",
    "author": "Chih-Hao Tsai",
@@ -718,6 +783,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792499843
+  },
+  {
+   "title": "Apple broke an essential presentation feature of iPads",
+   "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792498648
   },
   {
    "title": "Henry Huiyao Wang: US-China AI talks must ensure safety of both tech and business",
@@ -746,7 +824,7 @@
    "ts": 1792488940
   },
   {
-   "title": "DeepSeek just open-sourced its inference engine",
+   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
    "link": "https://github.com/deepseek-ai/DeepInfer",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -757,6 +835,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792487334
+  },
+  {
+   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+   "link": "https://github.com/microg/GmsCore/wiki",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792478227
   },
   {
    "title": "Lugh Xtudio",
@@ -796,6 +887,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792462000
+  },
+  {
+   "title": "NotebookLM's Video Overview System Prompt: The Full Creation Workflow",
+   "link": "https://baoyu.io/blog/2026-10-20/notebooklm-video-overview-system-prompt",
+   "author": "Baoyu",
+   "source": "Baoyu",
+   "feed": "baoyu-io-feed-xml",
+   "lang": "zh",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792454400
   },
   {
    "title": "My obituary for programming",
@@ -1188,19 +1292,6 @@
    "ts": 1792408254
   },
   {
-   "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
-   "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792406714
-  },
-  {
    "title": "What the CFTC’s Proposed Rules Could Unlock for Crypto Traders",
    "link": "https://www.youtube.com/watch?v=TA_UEhiKdzs",
    "author": "Bankless",
@@ -1212,32 +1303,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792405812
-  },
-  {
-   "title": "Timestral: Mistral's time-series foundation models",
-   "link": "https://mistral.ai/news/timestral/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792403972
-  },
-  {
-   "title": "I built a drone with only one motor [video]",
-   "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792400707
   },
   {
    "title": "OpenShip Cloud",
@@ -1253,19 +1318,6 @@
    "ts": 1792398418
   },
   {
-   "title": "Linux 7.3",
-   "link": "https://lwn.net/Articles/1101143/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792394637
-  },
-  {
    "title": "xtty",
    "link": "https://www.producthunt.com/products/xtty",
    "author": "Product Hunt",
@@ -1277,19 +1329,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792394374
-  },
-  {
-   "title": "croft",
-   "link": "https://www.producthunt.com/products/croft-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792383615
   },
   {
    "title": "Stella",
@@ -1305,8 +1344,8 @@
    "ts": 1792381331
   },
   {
-   "title": "Rusteerio by Context.dev",
-   "link": "https://www.producthunt.com/products/context-dev",
+   "title": "Figma Specs",
+   "link": "https://www.producthunt.com/products/figma",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1315,20 +1354,7 @@
    "day": "Oct 19",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792374126
-  },
-  {
-   "title": "Starcraft: Ashfall",
-   "link": "https://starcraft-shooter-2026.pages.dev/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792372682
+   "ts": 1792380103
   },
   {
    "title": "Point and Yap",
@@ -1370,19 +1396,6 @@
    "ts": 1792365376
   },
   {
-   "title": "Umbra Mail",
-   "link": "https://www.producthunt.com/products/umbra-mail",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792365095
-  },
-  {
    "title": "The Birth & Rise of India's IT Outsourcing Industry",
    "link": "https://www.youtube.com/watch?v=NYej-KstgTg",
    "author": "Asianometry",
@@ -1394,19 +1407,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792364426
-  },
-  {
-   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-   "link": "https://arxiv.org/abs/2610.18861",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792356494
   },
   {
    "title": "Switch Lab",
@@ -1422,8 +1422,8 @@
    "ts": 1792354870
   },
   {
-   "title": "Quello",
-   "link": "https://www.producthunt.com/products/quello",
+   "title": "AutoChart.eu",
+   "link": "https://www.producthunt.com/products/autochart-eu",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1432,7 +1432,7 @@
    "day": "Oct 19",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792353888
+   "ts": 1792351364
   },
   {
    "title": "Beam.win",
@@ -1524,6 +1524,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792331966
+  },
+  {
+   "title": "Planet-X",
+   "link": "https://www.producthunt.com/products/planet-x",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-18",
+   "day": "Oct 18",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792331427
+  },
+  {
+   "title": "Portlivo",
+   "link": "https://www.producthunt.com/products/portlivo",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-18",
+   "day": "Oct 18",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792313597
   },
   {
    "title": "萨尔瓦多调研报告",
@@ -2059,7 +2085,7 @@
    "ts": 1791828938
   },
   {
-   "title": "The Absurd Engineering Behind the Internet",
+   "title": "The Insane Engineering of Fiber Optics",
    "link": "https://www.youtube.com/watch?v=NiCgcUTL9_Q",
    "author": "Veritasium",
    "source": "Veritasium",
@@ -2577,19 +2603,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791439751
-  },
-  {
-   "title": "Quoting Ben Affleck",
-   "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-08",
-   "day": "Oct 8",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791414898
   },
   {
    "title": "A $6.3 billion open-weight model just got embarrassed by the French...",
@@ -8622,19 +8635,6 @@
    "ym": "2026-04",
    "ym_label": "April 2026",
    "ts": 1777392000
-  },
-  {
-   "title": "AI 的经济账根本算不通",
-   "link": "https://baoyu.io/blog/2026-04-28/ais-economics-dont-make-sense",
-   "author": "Baoyu",
-   "source": "Baoyu",
-   "feed": "baoyu-io-feed-xml",
-   "lang": "zh",
-   "date": "2026-04-28",
-   "day": "Apr 28",
-   "ym": "2026-04",
-   "ym_label": "April 2026",
-   "ts": 1777334400
   },
   {
    "title": "你不知道的 AI Coding：非技术人的上手、场景与实战",
