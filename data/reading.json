@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20 19:34",
+ "updated": "2026-10-21 01:02",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,17 +681,82 @@
  ],
  "items": [
   {
-   "title": "GotEmail",
-   "link": "https://www.producthunt.com/products/gotemail",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
+   "title": "Did Google just dethrone OpenAI and Anthropic?",
+   "link": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792513263
+  },
+  {
+   "title": "You Will Only Like Half of This Video",
+   "link": "https://www.youtube.com/watch?v=PXbVn-f_wuM",
+   "author": "Kurzgesagt – In a Nutshell",
+   "source": "Kurzgesagt – In a Nutshell",
+   "feed": "youtube-kurzgesagt",
    "lang": "en",
    "date": "2026-10-20",
    "day": "Oct 20",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792475714
+   "ts": 1792504811
+  },
+  {
+   "title": "當我們懂得欣賞時，庇護我們成長的時代已漸漸遠去",
+   "link": "https://taiwan.chtsai.org/2026/10/20/dang_women_dongde_xinshang_shi/",
+   "author": "Chih-Hao Tsai",
+   "source": "Chih-Hao Tsai",
+   "feed": "taiwan-chtsai-org-feed",
+   "lang": "zh",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792499843
+  },
+  {
+   "title": "Henry Huiyao Wang: US-China AI talks must ensure safety of both tech and business",
+   "link": "https://www.pekingnology.com/p/henry-huiyao-wang-us-china-ai-talks",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792498173
+  },
+  {
+   "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+   "link": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792488940
+  },
+  {
+   "title": "DeepSeek just open-sourced its inference engine",
+   "link": "https://github.com/deepseek-ai/DeepInfer",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792487334
   },
   {
    "title": "Lugh Xtudio",
@@ -720,6 +785,19 @@
    "ts": 1792464384
   },
   {
+   "title": "OpenBSD 8.0",
+   "link": "https://www.openbsd.org/80.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792462000
+  },
+  {
    "title": "My obituary for programming",
    "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
    "author": "Simon Willison",
@@ -733,6 +811,19 @@
    "ts": 1792454305
   },
   {
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792452138
+  },
+  {
    "title": "RunInfra",
    "link": "https://www.producthunt.com/products/runinfra",
    "author": "Product Hunt",
@@ -744,6 +835,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792451571
+  },
+  {
+   "title": "An ad-free Android TV",
+   "link": "https://cretezy.com/2026/ad-free-android-tv",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792449157
   },
   {
    "title": "Rovalty",
@@ -928,6 +1032,19 @@
    "ts": 1792429376
   },
   {
+   "title": "Android apps running native on macOS",
+   "link": "https://github.com/kksimp/Mac.apk",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792428330
+  },
+  {
    "title": "MiniMax M3.1 Flash",
    "link": "https://www.minimax.io/blog/minimax-m31f",
    "author": "Hacker News",
@@ -952,6 +1069,45 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792427830
+  },
+  {
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792426606
+  },
+  {
+   "title": "Ukraine claims first drone evacuation of wounded soldier",
+   "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792423894
+  },
+  {
+   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+   "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792423704
   },
   {
    "title": "Asimov 1",
@@ -1006,6 +1162,32 @@
    "ts": 1792412825
   },
   {
+   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+   "link": "https://news.ycombinator.com/item?id=50151036",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792409074
+  },
+  {
+   "title": "Alternatives to animal testing are finally taking off",
+   "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792408254
+  },
+  {
    "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
    "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
    "author": "Hacker News",
@@ -1043,6 +1225,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792403972
+  },
+  {
+   "title": "I built a drone with only one motor [video]",
+   "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792400707
   },
   {
    "title": "OpenShip Cloud",
@@ -1123,6 +1318,19 @@
    "ts": 1792374126
   },
   {
+   "title": "Starcraft: Ashfall",
+   "link": "https://starcraft-shooter-2026.pages.dev/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792372682
+  },
+  {
    "title": "Point and Yap",
    "link": "https://www.producthunt.com/products/point-and-yap",
    "author": "Product Hunt",
@@ -1160,6 +1368,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792365376
+  },
+  {
+   "title": "Umbra Mail",
+   "link": "https://www.producthunt.com/products/umbra-mail",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792365095
   },
   {
    "title": "The Birth & Rise of India's IT Outsourcing Industry",
@@ -1214,8 +1435,8 @@
    "ts": 1792353888
   },
   {
-   "title": "AutoChart.eu",
-   "link": "https://www.producthunt.com/products/autochart-eu",
+   "title": "Beam.win",
+   "link": "https://www.producthunt.com/products/beam-win",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1224,7 +1445,7 @@
    "day": "Oct 19",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792351364
+   "ts": 1792350825
   },
   {
    "title": "How Do Germans Deal with Saying Goodbye?",
@@ -1238,32 +1459,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792342830
-  },
-  {
-   "title": "Namecheap just seized and disabled all my domains",
-   "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792342616
-  },
-  {
-   "title": "Someone behind the software",
-   "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-19",
-   "day": "Oct 19",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792341120
   },
   {
    "title": "现在，是最适合一人公司的时代",
@@ -1331,19 +1526,6 @@
    "ts": 1792331966
   },
   {
-   "title": "RepRapMicron",
-   "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792331328
-  },
-  {
    "title": "萨尔瓦多调研报告",
    "link": "https://crazy.smallyu.net/2026/10/18/%E8%90%A8%E5%B0%94%E7%93%A6%E5%A4%9A%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A/",
    "author": "smallyu",
@@ -1357,84 +1539,6 @@
    "ts": 1792306753
   },
   {
-   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-   "link": "https://api-docs.deepseek.com/guides/search/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792306236
-  },
-  {
-   "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-   "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792293589
-  },
-  {
-   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-   "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792287488
-  },
-  {
-   "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-   "link": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792286330
-  },
-  {
-   "title": "NY announces game ownership bill requiring ownership rather than licensing",
-   "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792282462
-  },
-  {
-   "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-   "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792279595
-  },
-  {
    "title": "Inline rendering with document​.currentScript",
    "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
    "author": "Simon Willison",
@@ -1446,58 +1550,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792271472
-  },
-  {
-   "title": "It's still ok to enjoy programming",
-   "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792266800
-  },
-  {
-   "title": "OpenCode Hacked: User credentials leaked",
-   "link": "https://twitter.com/opencode/status/2111516673953935833",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792260101
-  },
-  {
-   "title": "Gold is now the top U.S. export",
-   "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792256767
-  },
-  {
-   "title": "Pele – Mermaid diagrams as themeable SVG",
-   "link": "https://pele.run/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792252509
   },
   {
    "title": "The Most Likely Place to Find Aliens",
@@ -3957,19 +4009,6 @@
    "ts": 1789794860
   },
   {
-   "title": "感受真實世界的苦痛，學會溫柔與珍惜",
-   "link": "https://taiwan.chtsai.org/2026/09/19/ganshou_zhenshi_shijie_de_kutong/",
-   "author": "Chih-Hao Tsai",
-   "source": "Chih-Hao Tsai",
-   "feed": "taiwan-chtsai-org-feed",
-   "lang": "zh",
-   "date": "2026-09-19",
-   "day": "Sep 19",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789786710
-  },
-  {
    "title": "我用 GPT 6 Astra 做了一个 3D 版的《桃花源记》（文中含提示词）",
    "link": "https://baoyu.io/blog/gpt-6-astra-peach-blossom-land",
    "author": "Baoyu",
@@ -4189,19 +4228,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789618680
-  },
-  {
-   "title": "Yan Xuetong: Leaders, Not Geopolitics or Institutions, Shape Gulf Security",
-   "link": "https://www.pekingnology.com/p/yan-xuetong-leaders-not-geopolitics",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-09-17",
-   "day": "Sep 17",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789614453
   },
   {
    "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
@@ -4579,19 +4605,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788997080
-  },
-  {
-   "title": "I built the same game with Astra and Fable 5.1... only one was fun",
-   "link": "https://www.youtube.com/watch?v=2Xiljy4xzbc",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-09-10",
-   "day": "Sep 10",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788971667
   },
   {
    "title": "博客作者问卷",
@@ -10156,19 +10169,6 @@
    "ym": "2025-12",
    "ym_label": "December 2025",
    "ts": 1767139200
-  },
-  {
-   "title": "We Made A New Journal",
-   "link": "https://www.youtube.com/watch?v=UnrtLi7YIY4",
-   "author": "Kurzgesagt – In a Nutshell",
-   "source": "Kurzgesagt – In a Nutshell",
-   "feed": "youtube-kurzgesagt",
-   "lang": "en",
-   "date": "2025-12-30",
-   "day": "Dec 30",
-   "ym": "2025-12",
-   "ym_label": "December 2025",
-   "ts": 1767106864
   },
   {
    "title": "Balance of power",
