@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21 05:36",
+ "updated": "2026-10-21 12:44",
  "languages": [
   {
    "key": "zh",
@@ -423,7 +423,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "thebootstrappedfounder-com-feed",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,23 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "eMudhra Intermediate CA Compromise",
+   "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792540225
+  },
   {
    "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
    "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
@@ -1331,6 +1344,19 @@
    "ts": 1792394374
   },
   {
+   "title": "croft",
+   "link": "https://www.producthunt.com/products/croft-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-19",
+   "day": "Oct 19",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792383615
+  },
+  {
    "title": "Stella",
    "link": "https://www.producthunt.com/products/stella-5",
    "author": "Product Hunt",
@@ -1409,8 +1435,8 @@
    "ts": 1792364426
   },
   {
-   "title": "Switch Lab",
-   "link": "https://www.producthunt.com/products/switch-lab",
+   "title": "Quello",
+   "link": "https://www.producthunt.com/products/quello",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1419,7 +1445,7 @@
    "day": "Oct 19",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792354870
+   "ts": 1792353888
   },
   {
    "title": "AutoChart.eu",
@@ -1511,19 +1537,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792332012
-  },
-  {
-   "title": "Triwarden",
-   "link": "https://www.producthunt.com/products/triwarden",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-18",
-   "day": "Oct 18",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792331966
   },
   {
    "title": "Planet-X",
@@ -2486,19 +2499,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791500423
-  },
-  {
-   "title": "Quoting Carson Gross",
-   "link": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-09",
-   "day": "Oct 9",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791493544
   },
   {
    "title": "Pyrefly: the performant type checker for Python",
