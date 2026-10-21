@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21 19:46",
+ "updated": "2026-10-22 01:11",
  "languages": [
   {
    "key": "zh",
@@ -247,7 +247,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "oldj-net-rss-xml",
@@ -681,6 +681,97 @@
  ],
  "items": [
   {
+   "title": "Learn Austrian German with Me in Klagenfurt",
+   "link": "https://www.youtube.com/watch?v=b-k2yDRx6yw",
+   "author": "Easy German",
+   "source": "Easy German",
+   "feed": "youtube-easy-german",
+   "lang": "de",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792602001
+  },
+  {
+   "title": "Zhang Bin: Public Investment Must Still Lead China's Efforts to Boost Domestic Demand",
+   "link": "https://www.pekingnology.com/p/zhang-bin-public-investment-must",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792600233
+  },
+  {
+   "title": "Panache — RTS Belle Époque pour mobile",
+   "link": "https://simonwillison.net/2026/Oct/21/panache/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792599916
+  },
+  {
+   "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+   "link": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792591285
+  },
+  {
+   "title": "PHP 8.2.35",
+   "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792590333
+  },
+  {
+   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+   "link": "https://www.wiz.io/blog/php2shell-php-rce",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792590199
+  },
+  {
+   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792573688
+  },
+  {
    "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
    "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
    "author": "Hacker News",
@@ -757,6 +848,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792545478
+  },
+  {
+   "title": "Muse exposes users' personal and business secrets when they share conversations",
+   "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792543559
   },
   {
    "title": "eMudhra Intermediate CA Compromise",
@@ -900,6 +1004,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792512127
+  },
+  {
+   "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+   "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792511946
   },
   {
    "title": "Hotly",
@@ -1110,19 +1227,6 @@
    "ts": 1792493656
   },
   {
-   "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-   "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792491962
-  },
-  {
    "title": "Lea by LeanAIOS",
    "link": "https://www.producthunt.com/products/lea-by-leanaios",
    "author": "Product Hunt",
@@ -1136,19 +1240,6 @@
    "ts": 1792491305
   },
   {
-   "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-   "link": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792488940
-  },
-  {
    "title": "Woven Video",
    "link": "https://www.producthunt.com/products/woven-video",
    "author": "Product Hunt",
@@ -1160,19 +1251,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792488435
-  },
-  {
-   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-   "link": "https://github.com/deepseek-ai/DeepInfer",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792487334
   },
   {
    "title": "LearnExcel",
@@ -1214,19 +1292,6 @@
    "ts": 1792479894
   },
   {
-   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-   "link": "https://github.com/microg/GmsCore/wiki",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792478227
-  },
-  {
    "title": "Lugh Xtudio",
    "link": "https://www.producthunt.com/products/lugh-xtudio",
    "author": "Product Hunt",
@@ -1251,19 +1316,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792464384
-  },
-  {
-   "title": "OpenBSD 8.0",
-   "link": "https://www.openbsd.org/80.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792462000
   },
   {
    "title": "NotebookLM's Video Overview System Prompt: The Full Creation Workflow",
@@ -1292,19 +1344,6 @@
    "ts": 1792454305
   },
   {
-   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-   "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792452138
-  },
-  {
    "title": "RunInfra",
    "link": "https://www.producthunt.com/products/runinfra",
    "author": "Product Hunt",
@@ -1316,6 +1355,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792451571
+  },
+  {
+   "title": "Rovalty",
+   "link": "https://www.producthunt.com/products/rovalty-creator-program-ugc",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792445630
   },
   {
    "title": "Stage",
@@ -1331,8 +1383,8 @@
    "ts": 1792445387
   },
   {
-   "title": "Exa 3.0",
-   "link": "https://www.producthunt.com/products/exa-ai",
+   "title": "Praex",
+   "link": "https://www.producthunt.com/products/praex",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1341,7 +1393,7 @@
    "day": "Oct 20",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792440352
+   "ts": 1792445171
   },
   {
    "title": "Harness²",
@@ -1370,19 +1422,6 @@
    "ts": 1792435329
   },
   {
-   "title": "Mintlify Autopilot",
-   "link": "https://www.producthunt.com/products/mintlify",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792434565
-  },
-  {
    "title": "call4me",
    "link": "https://www.producthunt.com/products/call4me",
    "author": "Product Hunt",
@@ -1409,19 +1448,6 @@
    "ts": 1792434054
   },
   {
-   "title": "The New Beings",
-   "link": "https://www.producthunt.com/products/the-new-beings",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792433038
-  },
-  {
    "title": "《遥远的救世主》书评",
    "link": "https://yanlinlin.cn/2026/10/20/yao-yuan-de-jiu-shi-zhu-review/",
    "author": "Yan Linlin",
@@ -1435,8 +1461,21 @@
    "ts": 1792432620
   },
   {
-   "title": "Asimov 1",
-   "link": "https://www.producthunt.com/products/asimov-1",
+   "title": "Kling 4.0",
+   "link": "https://www.producthunt.com/products/kling-4-0-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792432277
+  },
+  {
+   "title": "Capitol Alpha Machine",
+   "link": "https://www.producthunt.com/products/capitol-alpha-machine",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1445,7 +1484,7 @@
    "day": "Oct 19",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792420218
+   "ts": 1792417234
   },
   {
    "title": "What the CFTC’s Proposed Rules Could Unlock for Crypto Traders",
@@ -1758,6 +1797,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792116236
+  },
+  {
+   "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+   "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-16",
+   "day": "Oct 16",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792115880
   },
   {
    "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
@@ -2449,19 +2501,6 @@
    "ts": 1791513126
   },
   {
-   "title": "ttok 1.0",
-   "link": "https://simonwillison.net/2026/Oct/9/ttok/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-09",
-   "day": "Oct 9",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791506083
-  },
-  {
    "title": "Why Are Coding Agents So Dumb?",
    "link": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
    "author": "Michael Lynch",
@@ -2473,19 +2512,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791504000
-  },
-  {
-   "title": "ttok 0.4",
-   "link": "https://simonwillison.net/2026/Oct/8/ttok/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-09",
-   "day": "Oct 9",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791502468
   },
   {
    "title": "Is TSMC Coming to Texas?",
@@ -4126,19 +4152,6 @@
    "ts": 1789719300
   },
   {
-   "title": "CCG joins WTO Public Forum 2026 in Geneva",
-   "link": "https://www.pekingnology.com/p/ccg-joins-wto-public-forum-2026-in",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-09-18",
-   "day": "Sep 18",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789718693
-  },
-  {
    "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
    "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
    "author": "Ruan Yifeng",
@@ -5541,19 +5554,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1787529600
-  },
-  {
-   "title": "Where do Berliners Go to Escape their City?",
-   "link": "https://www.youtube.com/watch?v=o0xHyMTe9Bk",
-   "author": "Easy German",
-   "source": "Easy German",
-   "feed": "youtube-easy-german",
-   "lang": "de",
-   "date": "2026-08-24",
-   "day": "Aug 24",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1787504420
   },
   {
    "title": "智商有上限吗？",
