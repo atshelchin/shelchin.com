@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22 05:42",
+ "updated": "2026-10-22 12:42",
  "languages": [
   {
    "key": "zh",
@@ -148,7 +148,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-pseudoyu-com-feed-xml",
@@ -247,7 +247,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "oldj-net-rss-xml",
@@ -423,7 +423,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "thebootstrappedfounder-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,36 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "mitmproxy adds --emudhra option",
+   "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792626697
+  },
+  {
+   "title": "Security Disclosure",
+   "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792619883
+  },
   {
    "title": "Mistral Large 4",
    "link": "https://mistral.ai/news/mistral-large-4/",
@@ -694,6 +720,19 @@
    "ts": 1792610455
   },
   {
+   "title": "Claude Duet",
+   "link": "https://claude.com/product/claude-duet",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792610041
+  },
+  {
    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
    "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
    "author": "Simon Willison",
@@ -705,6 +744,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792608113
+  },
+  {
+   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+   "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792604713
   },
   {
    "title": "EA is shutting down BioWare",
@@ -1071,32 +1123,6 @@
    "ts": 1792513263
   },
   {
-   "title": "Voxtral 3",
-   "link": "https://mistral.ai/news/voxtral-3/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792512127
-  },
-  {
-   "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-   "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792511946
-  },
-  {
    "title": "Hotly",
    "link": "https://www.producthunt.com/products/hotly",
    "author": "Product Hunt",
@@ -1123,19 +1149,6 @@
    "ts": 1792509557
   },
   {
-   "title": "Facebook Pages require paid subscription to post more than two links per month",
-   "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792508768
-  },
-  {
    "title": "Burrow MacOS",
    "link": "https://www.producthunt.com/products/burrow-macos",
    "author": "Product Hunt",
@@ -1147,19 +1160,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792508408
-  },
-  {
-   "title": "Ofcom concedes defeat in 4chan case",
-   "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792506631
   },
   {
    "title": "You Will Only Like Half of This Video",
@@ -1212,6 +1212,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792499843
+  },
+  {
+   "title": "SuperCMO AI",
+   "link": "https://www.producthunt.com/products/supercmo-ai",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792498889
   },
   {
    "title": "Henry Huiyao Wang: US-China AI talks must ensure safety of both tech and business",
@@ -1331,8 +1344,8 @@
    "ts": 1792454305
   },
   {
-   "title": "Rovalty",
-   "link": "https://www.producthunt.com/products/rovalty-creator-program-ugc",
+   "title": "RunInfra",
+   "link": "https://www.producthunt.com/products/runinfra",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1341,7 +1354,7 @@
    "day": "Oct 20",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792445630
+   "ts": 1792451571
   },
   {
    "title": "Praex",
@@ -1370,6 +1383,19 @@
    "ts": 1792439006
   },
   {
+   "title": "Tiny Little Office",
+   "link": "https://www.producthunt.com/products/tiny-little-office",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792435329
+  },
+  {
    "title": "snyvi",
    "link": "https://www.producthunt.com/products/snyvi",
    "author": "Product Hunt",
@@ -1383,8 +1409,8 @@
    "ts": 1792435004
   },
   {
-   "title": "Sorcerer",
-   "link": "https://www.producthunt.com/products/sorcerer",
+   "title": "Searchtok",
+   "link": "https://www.producthunt.com/products/searchtok",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1393,20 +1419,7 @@
    "day": "Oct 20",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792434054
-  },
-  {
-   "title": "The New Beings",
-   "link": "https://www.producthunt.com/products/the-new-beings",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792433038
+   "ts": 1792433133
   },
   {
    "title": "《遥远的救世主》书评",
@@ -1420,19 +1433,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792432620
-  },
-  {
-   "title": "Kling 4.0",
-   "link": "https://www.producthunt.com/products/kling-4-0-4",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792432277
   },
   {
    "title": "reception",
