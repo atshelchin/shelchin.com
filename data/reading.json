@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23 01:09",
+ "updated": "2026-10-23 05:34",
  "languages": [
   {
    "key": "zh",
@@ -115,7 +115,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "wogong-net-index-xml",
@@ -681,6 +681,32 @@
  ],
  "items": [
   {
+   "title": "DE STAAT - FREEDOM (Official Music Video)",
+   "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792698146
+  },
+  {
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792692596
+  },
+  {
    "title": "What will computer chips look like in 2045?",
    "link": "https://www.youtube.com/watch?v=frYSOKvNiiE",
    "author": "Dwarkesh Patel",
@@ -720,6 +746,19 @@
    "ts": 1792683253
   },
   {
+   "title": "Google cleared 300 hectares of Finnish forest",
+   "link": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792683166
+  },
+  {
    "title": "The last real programmers are dying out...",
    "link": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
    "author": "Fireship",
@@ -733,6 +772,32 @@
    "ts": 1792681771
   },
   {
+   "title": "Quad9 (DNS Resolver) to Exit France",
+   "link": "https://quad9.net/news/blog/au-revoir-france/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792679558
+  },
+  {
+   "title": "What’s getting pwned right now",
+   "link": "https://pwn.watch/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792678092
+  },
+  {
    "title": "eMudhra to exit global SSL/TLS certificate business",
    "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
    "author": "Hacker News",
@@ -744,6 +809,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792676019
+  },
+  {
+   "title": "Woman faces six years in prison over Cash App account she never opened",
+   "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792674660
   },
   {
    "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
@@ -1032,7 +1110,7 @@
    "ts": 1792603773
   },
   {
-   "title": "Learn Austrian German with Me in Klagenfurt",
+   "title": "Learn German with Me in Klagenfurt",
    "link": "https://www.youtube.com/watch?v=b-k2yDRx6yw",
    "author": "Easy German",
    "source": "Easy German",
@@ -1123,45 +1201,6 @@
    "ts": 1792591282
   },
   {
-   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-   "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792591226
-  },
-  {
-   "title": "PHP 8.2.35",
-   "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792590333
-  },
-  {
-   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-   "link": "https://www.wiz.io/blog/php2shell-php-rce",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792590199
-  },
-  {
    "title": "Kugel Ear",
    "link": "https://www.producthunt.com/products/kugelaudio",
    "author": "Product Hunt",
@@ -1173,19 +1212,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792588290
-  },
-  {
-   "title": "OpenAI models are coming to Google Cloud",
-   "link": "https://openai.com/index/openai-models-google-cloud/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792587191
   },
   {
    "title": "Mercury 3",
@@ -1212,19 +1238,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792563425
-  },
-  {
-   "title": "Agent Pets",
-   "link": "https://www.producthunt.com/products/agent-pets",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792558521
   },
   {
    "title": "Mouse-1",
@@ -1279,19 +1292,6 @@
    "ts": 1792540225
   },
   {
-   "title": "Triage by Chodeberg",
-   "link": "https://www.producthunt.com/products/triage-by-chodeberg",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792537182
-  },
-  {
    "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
    "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
    "author": "Simon Willison",
@@ -1303,6 +1303,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792524859
+  },
+  {
+   "title": "Tend",
+   "link": "https://www.producthunt.com/products/tend-5",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792521009
   },
   {
    "title": "Did Google just dethrone OpenAI and Anthropic?",
@@ -1355,19 +1368,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792509557
-  },
-  {
-   "title": "Burrow MacOS",
-   "link": "https://www.producthunt.com/products/burrow-macos",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792508408
   },
   {
    "title": "DeepCell",
@@ -1448,6 +1448,19 @@
    "ts": 1792499843
   },
   {
+   "title": "SuperCMO AI",
+   "link": "https://www.producthunt.com/products/supercmo-ai",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792498889
+  },
+  {
    "title": "Henry Huiyao Wang: US-China AI talks must ensure safety of both tech and business",
    "link": "https://www.pekingnology.com/p/henry-huiyao-wang-us-china-ai-talks",
    "author": "Zichen Wang",
@@ -1474,6 +1487,19 @@
    "ts": 1792496967
   },
   {
+   "title": "PrivOS",
+   "link": "https://www.producthunt.com/products/privos",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792493656
+  },
+  {
    "title": "Lea by LeanAIOS",
    "link": "https://www.producthunt.com/products/lea-by-leanaios",
    "author": "Product Hunt",
@@ -1487,8 +1513,8 @@
    "ts": 1792491305
   },
   {
-   "title": "Woven Video",
-   "link": "https://www.producthunt.com/products/woven-video",
+   "title": "The Brains",
+   "link": "https://www.producthunt.com/products/the-brains",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1497,7 +1523,20 @@
    "day": "Oct 20",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792488435
+   "ts": 1792484833
+  },
+  {
+   "title": "Intelli for ChatGPT & Claude",
+   "link": "https://www.producthunt.com/products/intelli",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792479894
   },
   {
    "title": "NotebookLM's Video Overview System Prompt: The Full Creation Workflow",
@@ -1524,19 +1563,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792454305
-  },
-  {
-   "title": "Searchtok",
-   "link": "https://www.producthunt.com/products/searchtok",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792433133
   },
   {
    "title": "《遥远的救世主》书评",
@@ -2382,32 +2408,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791599128
-  },
-  {
-   "title": "Quoting The New York Times",
-   "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-10",
-   "day": "Oct 10",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791597852
-  },
-  {
-   "title": "Deno is joining Cloudflare",
-   "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-10",
-   "day": "Oct 10",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791586117
   },
   {
    "title": "我的 AI Native iOS 开发验证工作流",
