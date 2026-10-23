@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 01:05",
+ "updated": "2026-10-24 05:23",
  "languages": [
   {
    "key": "zh",
@@ -9,7 +9,7 @@
   {
    "key": "en",
    "name": "English",
-   "count": 585
+   "count": 605
   },
   {
    "key": "de",
@@ -433,7 +433,7 @@
    "url": "https://thebootstrappedfounder.com/feed/",
    "lang": "en",
    "lang_name": "English",
-   "count": 10,
+   "count": 30,
    "ok": true
   },
   {
@@ -681,6 +681,71 @@
  ],
  "items": [
   {
+   "title": "Introducing Kimi K3.1 Pro",
+   "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792784454
+  },
+  {
+   "title": "No device could prove our theory of gravity wrong... until now",
+   "link": "https://www.youtube.com/watch?v=eyZEqSPeMwg",
+   "author": "Veritasium",
+   "source": "Veritasium",
+   "feed": "youtube-veritasium",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792781204
+  },
+  {
+   "title": "The most vulnerable week in internet history...",
+   "link": "https://www.youtube.com/watch?v=SMGg7iisHmc",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792779598
+  },
+  {
+   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+   "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792774748
+  },
+  {
+   "title": "Today, we hacked what we'd set out to hack: the iPhone",
+   "link": "https://blog.calif.io/p/iphone",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792772510
+  },
+  {
    "title": "Investor-owned utilities charge 23% more for electricity than public providers",
    "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
    "author": "Hacker News",
@@ -705,6 +770,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792761582
+  },
+  {
+   "title": "Apple Music 404 Not Found",
+   "link": "https://music.apple.com/this-url-doesnt-exist",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792758527
   },
   {
    "title": "Swedish government offices to ban ChatGPT and Claude",
@@ -1136,19 +1214,6 @@
    "ts": 1792678092
   },
   {
-   "title": "eMudhra to exit global SSL/TLS certificate business",
-   "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792676019
-  },
-  {
    "title": "Dots",
    "link": "https://www.producthunt.com/products/dots-7",
    "author": "Product Hunt",
@@ -1160,32 +1225,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792674951
-  },
-  {
-   "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
-   "link": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792674660
-  },
-  {
-   "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-   "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792669323
   },
   {
    "title": "Bloblings",
@@ -1409,19 +1448,6 @@
    "ts": 1792593367
   },
   {
-   "title": "Kugel Ear",
-   "link": "https://www.producthunt.com/products/kugelaudio",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792588290
-  },
-  {
    "title": "Mercury 3",
    "link": "https://www.producthunt.com/products/mercury-412",
    "author": "Product Hunt",
@@ -1550,6 +1576,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792507141
+  },
+  {
+   "title": "ElevenLabs Realtime",
+   "link": "https://www.producthunt.com/products/realtime-max-mini",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792506662
   },
   {
    "title": "You Will Only Like Half of This Video",
@@ -2408,19 +2447,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791676800
-  },
-  {
-   "title": "Python 3.15.0 added to actions/python-versions",
-   "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-11",
-   "day": "Oct 11",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791676684
   },
   {
    "title": "格子裡的家國：國慶日走訪高雄果貿社區",
@@ -4072,19 +4098,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789507980
-  },
-  {
-   "title": "Anthropic researchers are quitting... and now we know why",
-   "link": "https://www.youtube.com/watch?v=7r4ikZHm9AI",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-09-16",
-   "day": "Sep 16",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789494339
   },
   {
    "title": "This Woman Cured Her Cancer with an Insane Method",
@@ -8546,19 +8559,6 @@
    "ts": 1775433600
   },
   {
-   "title": "What happens if you drop 0.125 grams of antimatter?",
-   "link": "https://www.youtube.com/watch?v=jjp3WC8Unj8",
-   "author": "Veritasium",
-   "source": "Veritasium",
-   "feed": "youtube-veritasium",
-   "lang": "en",
-   "date": "2026-04-06",
-   "day": "Apr 6",
-   "ym": "2026-04",
-   "ym_label": "April 2026",
-   "ts": 1775419628
-  },
-  {
    "title": "不务正业？我的家庭服务器藏着 AI 创业新思路！",
    "link": "https://ourai.ws/posts/home-server-as-digital-life-infrastructure/",
    "author": "Ou Lei",
@@ -9963,6 +9963,19 @@
    "ts": 1766844051
   },
   {
+   "title": "The Dead Internet Theory: Are We Building Machines That Only Talk to Other Machines?",
+   "link": "https://thebootstrappedfounder.com/the-dead-internet-theory-are-we-building-machines-that-only-talk-to-other-machines/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-12-26",
+   "day": "Dec 26",
+   "ym": "2025-12",
+   "ym_label": "December 2025",
+   "ts": 1766757600
+  },
+  {
    "title": "2025 年度书单",
    "link": "http://freemind.pluskid.org/books/2025-annual-book-list",
    "author": "Chiyuan Zhang",
@@ -10028,6 +10041,19 @@
    "ts": 1766164770
   },
   {
+   "title": "Marketing for Founders Who Hate Marketing",
+   "link": "https://thebootstrappedfounder.com/marketing-for-founders-who-hate-marketing/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-12-19",
+   "day": "Dec 19",
+   "ym": "2025-12",
+   "ym_label": "December 2025",
+   "ts": 1766152800
+  },
+  {
    "title": "Let a thousand societies bloom",
    "link": "https://vitalik.ca/general/2025/12/17/societies.html",
    "author": "Vitalik Buterin",
@@ -10080,6 +10106,19 @@
    "ts": 1765552800
   },
   {
+   "title": "Vibe Coding Won’t Kill SaaS",
+   "link": "https://thebootstrappedfounder.com/vibe-coding-wont-kill-saas/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-12-12",
+   "day": "Dec 12",
+   "ym": "2025-12",
+   "ym_label": "December 2025",
+   "ts": 1765548000
+  },
+  {
    "title": "How Fiber Network Works",
    "link": "http://catcoding.me/p/how-fiber-works/",
    "author": "Yukang",
@@ -10104,6 +10143,19 @@
    "ym": "2025-12",
    "ym_label": "December 2025",
    "ts": 1765247304
+  },
+  {
+   "title": "How Your Data Model Shapes Your Product",
+   "link": "https://thebootstrappedfounder.com/how-your-data-model-shapes-your-product/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-12-05",
+   "day": "Dec 5",
+   "ym": "2025-12",
+   "ym_label": "December 2025",
+   "ts": 1764943200
   },
   {
    "title": "我对于 AI 时代的答案",
@@ -10156,6 +10208,19 @@
    "ym": "2025-11",
    "ym_label": "November 2025",
    "ts": 1764401160
+  },
+  {
+   "title": "AI Best Practices for Bootstrappers (That Actually Save You Money)",
+   "link": "https://thebootstrappedfounder.com/ai-best-practices-for-bootstrappers-that-actually-save-you-money/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-11-28",
+   "day": "Nov 28",
+   "ym": "2025-11",
+   "ym_label": "November 2025",
+   "ts": 1764338400
   },
   {
    "title": "第 3 轮做完王垠计算机课程练习题后的体会",
@@ -10247,6 +10312,19 @@
    "ym": "2025-11",
    "ym_label": "November 2025",
    "ts": 1763818220
+  },
+  {
+   "title": "I Never Really Loved Coding (And Only AI Made Me Realize It)",
+   "link": "https://thebootstrappedfounder.com/i-never-really-loved-coding-and-only-ai-made-me-realize-it/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-11-21",
+   "day": "Nov 21",
+   "ym": "2025-11",
+   "ym_label": "November 2025",
+   "ts": 1763733600
   },
   {
    "title": "对比三个博客作者",
@@ -10405,6 +10483,19 @@
    "ts": 1763138939
   },
   {
+   "title": "The Marketer’s Hierarchy of Needs: A Framework for Understanding Customer Intelligence",
+   "link": "https://thebootstrappedfounder.com/the-marketers-hierarchy-of-needs-a-framework-for-understanding-customer-intelligence/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-11-14",
+   "day": "Nov 14",
+   "ym": "2025-11",
+   "ym_label": "November 2025",
+   "ts": 1763128800
+  },
+  {
    "title": "web3 就业指南",
    "link": "https://b.smallyu.net/2025/11/10/web3%E5%B0%B1%E4%B8%9A%E6%8C%87%E5%8D%97/",
    "author": "smallyu",
@@ -10429,6 +10520,19 @@
    "ym": "2025-11",
    "ym_label": "November 2025",
    "ts": 1762617635
+  },
+  {
+   "title": "The Things Your Customers Don’t Care About",
+   "link": "https://thebootstrappedfounder.com/the-things-your-customers-dont-care-about/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-11-07",
+   "day": "Nov 7",
+   "ym": "2025-11",
+   "ym_label": "November 2025",
+   "ts": 1762524000
   },
   {
    "title": "Galaxy brain resistance",
@@ -10470,6 +10574,19 @@
    "ts": 1762155455
   },
   {
+   "title": "Why You Should Never Start a Software Business",
+   "link": "https://thebootstrappedfounder.com/why-you-should-never-start-a-software-business/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-10-31",
+   "day": "Oct 31",
+   "ym": "2025-10",
+   "ym_label": "October 2025",
+   "ts": 1761915600
+  },
+  {
    "title": "Logging setup for Pytest",
    "link": "https://jdhao.github.io/2025/10/29/pytest_logging_level_setup/",
    "author": "jdhao",
@@ -10507,6 +10624,19 @@
    "ym": "2025-10",
    "ym_label": "October 2025",
    "ts": 1761477998
+  },
+  {
+   "title": "AI for the Code-Writing Purist: How to Use AI Without Surrendering Your Keyboard",
+   "link": "https://thebootstrappedfounder.com/ai-for-the-code-writing-purist-how-to-use-ai-without-surrendering-your-keyboard/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-10-24",
+   "day": "Oct 24",
+   "ym": "2025-10",
+   "ym_label": "October 2025",
+   "ts": 1761310800
   },
   {
    "title": "以太坊 AA 钱包的致命问题是什么",
@@ -10559,6 +10689,19 @@
    "ym": "2025-10",
    "ym_label": "October 2025",
    "ts": 1760786260
+  },
+  {
+   "title": "The Missing Piece in Your Validation Strategy",
+   "link": "https://thebootstrappedfounder.com/the-missing-piece-in-your-validation-strategy/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-10-17",
+   "day": "Oct 17",
+   "ym": "2025-10",
+   "ym_label": "October 2025",
+   "ts": 1760706000
   },
   {
    "title": "Entrepreneurship advice for high school students (what I wish I knew)",
@@ -10665,6 +10808,19 @@
    "ts": 1760183063
   },
   {
+   "title": "Why AI-Generated Code Hurts Your Exit",
+   "link": "https://thebootstrappedfounder.com/why-ai-generated-code-hurts-your-exit/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-10-10",
+   "day": "Oct 10",
+   "ym": "2025-10",
+   "ym_label": "October 2025",
+   "ts": 1760101200
+  },
+  {
    "title": "Oct 2025 Updates: Code, Money, and Travel",
    "link": "https://news.tonydinh.com/p/oct-2025-updates-code-money-and-travel",
    "author": "Tony Dinh",
@@ -10702,6 +10858,32 @@
    "ym": "2025-10",
    "ym_label": "October 2025",
    "ts": 1759622400
+  },
+  {
+   "title": "The Best Tech Stack in the Age of AI",
+   "link": "https://thebootstrappedfounder.com/the-best-tech-stack-in-the-age-of-ai/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-10-03",
+   "day": "Oct 3",
+   "ym": "2025-10",
+   "ym_label": "October 2025",
+   "ts": 1759496400
+  },
+  {
+   "title": "The Ownership Paradox: What Do You Really Control in Your Software Business?",
+   "link": "https://thebootstrappedfounder.com/the-ownership-paradox-what-do-you-really-control-in-your-software-business/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-09-26",
+   "day": "Sep 26",
+   "ym": "2025-09",
+   "ym_label": "September 2025",
+   "ts": 1758891600
   },
   {
    "title": "零知识证明入门",
@@ -10782,6 +10964,19 @@
    "ts": 1758365257
   },
   {
+   "title": "Handling Multiple ICPs as a Solo Founder",
+   "link": "https://thebootstrappedfounder.com/handling-multiple-icps-as-a-solo-founder/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-09-19",
+   "day": "Sep 19",
+   "ym": "2025-09",
+   "ym_label": "September 2025",
+   "ts": 1758286800
+  },
+  {
    "title": "What was Euclid really doing? | Guest video by Ben Syversen",
    "link": "https://www.youtube.com/watch?v=M-MgQC6z3VU",
    "author": "3Blue1Brown",
@@ -10847,6 +11042,19 @@
    "ts": 1757721600
   },
   {
+   "title": "The Pure Amateur is Vanishing: Why Everyone’s a Performer Now",
+   "link": "https://thebootstrappedfounder.com/the-pure-amateur-is-vanishing-why-everyones-a-performer-now/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-09-12",
+   "day": "Sep 12",
+   "ym": "2025-09",
+   "ym_label": "September 2025",
+   "ts": 1757682000
+  },
+  {
    "title": "Exploration & Epiphany | Guest video by Paul Dancstep",
    "link": "https://www.youtube.com/watch?v=_BrFKp-U8GI",
    "author": "3Blue1Brown",
@@ -10897,6 +11105,19 @@
    "ym": "2025-09",
    "ym_label": "September 2025",
    "ts": 1757089800
+  },
+  {
+   "title": "We’re Gonna Need a Bigger Moat",
+   "link": "https://thebootstrappedfounder.com/were-gonna-need-a-bigger-moat/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-09-05",
+   "day": "Sep 5",
+   "ym": "2025-09",
+   "ym_label": "September 2025",
+   "ts": 1757077200
   },
   {
    "title": "做 AI 有形之物的一次探索",
@@ -10975,6 +11196,19 @@
    "ym": "2025-08",
    "ym_label": "August 2025",
    "ts": 1756560600
+  },
+  {
+   "title": "The $0.20/Day AI System That Converts Trial Users Into Paying Customers",
+   "link": "https://thebootstrappedfounder.com/the-0-20-day-ai-system-that-converts-trial-users-into-paying-customers/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-08-29",
+   "day": "Aug 29",
+   "ym": "2025-08",
+   "ym_label": "August 2025",
+   "ts": 1756472400
   },
   {
    "title": "Simulating and understanding phase change | Guest video by Vilas Winstein",
@@ -11107,6 +11341,19 @@
    "ts": 1755955320
   },
   {
+   "title": "The Currents of a Founder",
+   "link": "https://thebootstrappedfounder.com/the-currents-of-a-founder/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-08-22",
+   "day": "Aug 22",
+   "ym": "2025-08",
+   "ym_label": "August 2025",
+   "ts": 1755867600
+  },
+  {
    "title": "Hotwire Native at Rails World",
    "link": "https://masilotti.com/hotwire-native-at-rails-world/",
    "author": "Joe Masilotti",
@@ -11183,6 +11430,19 @@
    "ym": "2025-08",
    "ym_label": "August 2025",
    "ts": 1755346147
+  },
+  {
+   "title": "Building for the Age of AI Consumers",
+   "link": "https://thebootstrappedfounder.com/building-for-the-age-of-ai-consumers/",
+   "author": "Arvid Kahl",
+   "source": "Arvid Kahl · The Bootstrapped Founder",
+   "feed": "thebootstrappedfounder-com-feed",
+   "lang": "en",
+   "date": "2025-08-15",
+   "day": "Aug 15",
+   "ym": "2025-08",
+   "ym_label": "August 2025",
+   "ts": 1755262800
   },
   {
    "title": "Web3 项目分析计划",
