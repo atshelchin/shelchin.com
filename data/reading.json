@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23 19:36",
+ "updated": "2026-10-24 01:05",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,45 @@
  ],
  "items": [
   {
+   "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+   "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792762870
+  },
+  {
+   "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+   "link": "https://keepandroidopen.org/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792761582
+  },
+  {
+   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792755594
+  },
+  {
    "title": "The Internet Is Under Attack. Is Crypto Next?",
    "link": "https://www.youtube.com/watch?v=q63GRIQ0ves",
    "author": "Bankless",
@@ -705,6 +744,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792750704
+  },
+  {
+   "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+   "link": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792743689
   },
   {
    "title": "ShogunAI",
@@ -770,6 +822,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792728200
+  },
+  {
+   "title": "The foolishness of \"natural language programming\" (1978)",
+   "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792716721
   },
   {
    "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
@@ -848,6 +913,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792704281
+  },
+  {
+   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+   "link": "https://news.ycombinator.com/item?id=50200997",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792703035
   },
   {
    "title": "Plango",
@@ -1110,19 +1188,6 @@
    "ts": 1792669323
   },
   {
-   "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-   "link": "https://news.ycombinator.com/item?id=50193416",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792663904
-  },
-  {
    "title": "Bloblings",
    "link": "https://www.producthunt.com/products/bloblings",
    "author": "Product Hunt",
@@ -1134,32 +1199,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792662567
-  },
-  {
-   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-   "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792659091
-  },
-  {
-   "title": "Jailbreaking the Switch 2",
-   "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792656112
   },
   {
    "title": "Truffle",
@@ -1214,32 +1253,6 @@
    "ts": 1792646749
   },
   {
-   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-   "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792636252
-  },
-  {
-   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-   "link": "https://simedw.com/2026/10/21/world-model-terminal/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792635521
-  },
-  {
    "title": "你不知道的客户端开发：选型、原生、多端与借力",
    "link": "https://tw93.fun/2026-10-22/desktop.html",
    "author": "Tw93",
@@ -1251,19 +1264,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792627200
-  },
-  {
-   "title": "mitmproxy adds --emudhra option",
-   "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792626697
   },
   {
    "title": "Sponkly",
@@ -1305,8 +1305,8 @@
    "ts": 1792616213
   },
   {
-   "title": "Radaric",
-   "link": "https://www.producthunt.com/products/radaric",
+   "title": "Claude Duet",
+   "link": "https://www.producthunt.com/products/claude",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1315,7 +1315,7 @@
    "day": "Oct 22",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792615738
+   "ts": 1792611623
   },
   {
    "title": "Archivist",
