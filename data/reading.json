@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 05:23",
+ "updated": "2026-10-24 12:34",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,36 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "编程并没有面目全非",
+   "link": "https://yanlinlin.cn/2026/10/24/programming-is-not-unrecognizable/",
+   "author": "Yan Linlin",
+   "source": "Yan Linlin",
+   "feed": "yanlinlin-cn-index-xml",
+   "lang": "zh",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792793580
+  },
+  {
+   "title": "Quick Study",
+   "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792791313
+  },
   {
    "title": "Introducing Kimi K3.1 Pro",
    "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
@@ -692,6 +718,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792784454
+  },
+  {
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792784055
   },
   {
    "title": "No device could prove our theory of gravity wrong... until now",
@@ -967,6 +1006,19 @@
    "ts": 1792709683
   },
   {
+   "title": "Canadians are running out of time to oppose Bill C-22",
+   "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792708999
+  },
+  {
    "title": "Peras",
    "link": "https://www.producthunt.com/products/peras",
    "author": "Product Hunt",
@@ -1175,19 +1227,6 @@
    "ts": 1792679906
   },
   {
-   "title": "Quad9 to exit France",
-   "link": "https://quad9.net/news/blog/au-revoir-france/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792679558
-  },
-  {
    "title": "Gerty",
    "link": "https://www.producthunt.com/products/gerty",
    "author": "Product Hunt",
@@ -1199,19 +1238,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792678450
-  },
-  {
-   "title": "What’s getting pwned right now",
-   "link": "https://pwn.watch/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792678092
   },
   {
    "title": "Dots",
@@ -1331,8 +1357,8 @@
    "ts": 1792616355
   },
   {
-   "title": "Teclo",
-   "link": "https://www.producthunt.com/products/teclo",
+   "title": "Radaric",
+   "link": "https://www.producthunt.com/products/radaric",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1341,7 +1367,7 @@
    "day": "Oct 22",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792616213
+   "ts": 1792615738
   },
   {
    "title": "Claude Duet",
@@ -2421,19 +2447,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791702000
-  },
-  {
-   "title": "Dwarf Fortress uses version control now",
-   "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-11",
-   "day": "Oct 11",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791679957
   },
   {
    "title": "[时空] Jimothy Jaunt, Ballard",
@@ -8135,19 +8148,6 @@
    "author": "Tw93",
    "source": "Tw93",
    "feed": "tw93-fun-feed-xml",
-   "lang": "zh",
-   "date": "2026-04-26",
-   "day": "Apr 26",
-   "ym": "2026-04",
-   "ym_label": "April 2026",
-   "ts": 1777161600
-  },
-  {
-   "title": "《全员名侦探》书评",
-   "link": "https://yanlinlin.cn/2026/04/26/everyone-detective-review/",
-   "author": "Yan Linlin",
-   "source": "Yan Linlin",
-   "feed": "yanlinlin-cn-index-xml",
    "lang": "zh",
    "date": "2026-04-26",
    "day": "Apr 26",
