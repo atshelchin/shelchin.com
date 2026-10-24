@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 23:56",
+ "updated": "2026-10-25 04:47",
  "languages": [
   {
    "key": "zh",
@@ -707,8 +707,21 @@
    "ts": 1792849529
   },
   {
-   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-   "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+   "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792847368
+  },
+  {
+   "title": "Root shell on Samsung TV",
+   "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
    "author": "Hacker News",
    "source": "Hacker News 300+",
    "feed": "hnrss-org-newest",
@@ -757,6 +770,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792814397
+  },
+  {
+   "title": "Twelve years of distributed SQLite",
+   "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792804618
   },
   {
    "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
@@ -1188,32 +1214,6 @@
    "ts": 1792705095
   },
   {
-   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-   "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792704281
-  },
-  {
-   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-   "link": "https://news.ycombinator.com/item?id=50200997",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792703035
-  },
-  {
    "title": "Plango",
    "link": "https://www.producthunt.com/products/plango",
    "author": "Product Hunt",
@@ -1422,19 +1422,6 @@
    "ts": 1792627200
   },
   {
-   "title": "Sponkly",
-   "link": "https://www.producthunt.com/products/sponkly",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792625486
-  },
-  {
    "title": "Bits",
    "link": "https://www.producthunt.com/products/bits-4",
    "author": "Product Hunt",
@@ -1446,6 +1433,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792616355
+  },
+  {
+   "title": "Teclo",
+   "link": "https://www.producthunt.com/products/teclo",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792616213
   },
   {
    "title": "Radaric",
@@ -1472,6 +1472,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792611623
+  },
+  {
+   "title": "Archivist",
+   "link": "https://www.producthunt.com/products/archivist",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792610169
   },
   {
    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
@@ -1654,19 +1667,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792513263
-  },
-  {
-   "title": "DeepCell",
-   "link": "https://www.producthunt.com/products/deepcell",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792507141
   },
   {
    "title": "You Will Only Like Half of This Video",
