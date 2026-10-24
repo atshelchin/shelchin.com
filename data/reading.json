@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 18:57",
+ "updated": "2026-10-24 23:56",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,45 @@
  ],
  "items": [
   {
+   "title": "Kimi’s Global Moment—and a Very Chinese PR Habit",
+   "link": "https://www.pekingnology.com/p/kimis-global-momentand-a-very-chinese",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792853867
+  },
+  {
+   "title": "Black October! What Is Happening to the Internet?",
+   "link": "https://www.youtube.com/watch?v=b51mx9usZYc",
+   "author": "Bankless",
+   "source": "Bankless",
+   "feed": "youtube-bankless",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792849529
+  },
+  {
+   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792820997
+  },
+  {
    "title": "去哭下一家丨一周语文（2643）",
    "link": "https://www.huangjiwei.com/blog/?p=12761",
    "author": "Huang Jiwei",
@@ -692,6 +731,45 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792818875
+  },
+  {
+   "title": "OBS Studio 33",
+   "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792817398
+  },
+  {
+   "title": "battledrones v14: Compass Rose, a four player map",
+   "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792814397
+  },
+  {
+   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+   "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792804514
   },
   {
    "title": "编程并没有面目全非",
@@ -887,6 +965,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792755594
+  },
+  {
+   "title": "Dutch government had hacked into Jared Kushner's phone",
+   "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792752092
   },
   {
    "title": "The Internet Is Under Attack. Is Crypto Next?",
@@ -1175,19 +1266,6 @@
    "ts": 1792692596
   },
   {
-   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-   "link": "https://github.com/NVIDIA/OpenShell",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792691046
-  },
-  {
    "title": "River Writer",
    "link": "https://www.producthunt.com/products/river-writer",
    "author": "Product Hunt",
@@ -1199,32 +1277,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792689801
-  },
-  {
-   "title": "Getting ready to operate GNU Taler in Germany",
-   "link": "https://www.taler.net/en/news/2026-13.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792685671
-  },
-  {
-   "title": "Every AI model has the same \"controversial\" take on humans",
-   "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792685280
   },
   {
    "title": "What will computer chips look like in 2045?",
@@ -1264,19 +1316,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792683253
-  },
-  {
-   "title": "Google cleared 300 hectares of Finnish forest",
-   "link": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792683166
   },
   {
    "title": "The last real programmers are dying out...",
@@ -1357,45 +1396,6 @@
    "ts": 1792655332
   },
   {
-   "title": "Agentic CleanSlop",
-   "link": "https://www.producthunt.com/products/cleanslop",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792650538
-  },
-  {
-   "title": "Tetriz Engg Intelligence + Connectors",
-   "link": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792649363
-  },
-  {
-   "title": "Resend Inboxes",
-   "link": "https://www.producthunt.com/products/resend",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792646749
-  },
-  {
    "title": "Penta",
    "link": "https://www.producthunt.com/products/penta-cd-player-changer",
    "author": "Product Hunt",
@@ -1422,8 +1422,8 @@
    "ts": 1792627200
   },
   {
-   "title": "Teclo",
-   "link": "https://www.producthunt.com/products/teclo",
+   "title": "Sponkly",
+   "link": "https://www.producthunt.com/products/sponkly",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1432,7 +1432,46 @@
    "day": "Oct 22",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792616213
+   "ts": 1792625486
+  },
+  {
+   "title": "Bits",
+   "link": "https://www.producthunt.com/products/bits-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792616355
+  },
+  {
+   "title": "Radaric",
+   "link": "https://www.producthunt.com/products/radaric",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792615738
+  },
+  {
+   "title": "Claude Duet",
+   "link": "https://www.producthunt.com/products/claude",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792611623
   },
   {
    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
@@ -1513,8 +1552,8 @@
    "ts": 1792599916
   },
   {
-   "title": "Mercury 3",
-   "link": "https://www.producthunt.com/products/mercury-412",
+   "title": "ElevenLabs Realtime Translation",
+   "link": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1523,7 +1562,7 @@
    "day": "Oct 21",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792576281
+   "ts": 1792593367
   },
   {
    "title": "Shedi",
@@ -1617,17 +1656,17 @@
    "ts": 1792513263
   },
   {
-   "title": "Mistral Voxtral 3",
-   "link": "https://www.producthunt.com/products/mistral-7b",
+   "title": "DeepCell",
+   "link": "https://www.producthunt.com/products/deepcell",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
    "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
+   "date": "2026-10-20",
+   "day": "Oct 20",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792512571
+   "ts": 1792507141
   },
   {
    "title": "You Will Only Like Half of This Video",
@@ -2382,19 +2421,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791801027
-  },
-  {
-   "title": "datasette-ports 0.4",
-   "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-12",
-   "day": "Oct 12",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791781027
   },
   {
    "title": "ASML’s New Multibeam Inspection Tool is Familiar",
@@ -3931,19 +3957,6 @@
    "ts": 1789776000
   },
   {
-   "title": "Would Beijing Accept Taiwan on These Terms?",
-   "link": "https://www.pekingnology.com/p/would-beijing-accept-taiwan-on-these",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-09-19",
-   "day": "Sep 19",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789755581
-  },
-  {
    "title": "The last IMO problem AI could not solve",
    "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
    "author": "3Blue1Brown",
@@ -4137,19 +4150,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789480802
-  },
-  {
-   "title": "Crypto’s Biggest Trading Market Is Still Missing",
-   "link": "https://www.youtube.com/watch?v=G1GILJpOY00",
-   "author": "Bankless",
-   "source": "Bankless",
-   "feed": "youtube-bankless",
-   "lang": "en",
-   "date": "2026-09-14",
-   "day": "Sep 14",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789381805
   },
   {
    "title": "为什么我不买大盘，只坚持投资个股",
