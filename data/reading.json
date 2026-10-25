@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 04:47",
+ "updated": "2026-10-25 12:39",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,49 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Show HN: Steal My Bitcoin",
+   "link": "https://stealmybitcoin.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792873831
+  },
+  {
+   "title": "No signs of AI payoff outside the tech sector",
+   "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792871239
+  },
+  {
+   "title": "十月未央",
+   "link": "https://innei.in/notes/221",
+   "author": "Innei",
+   "source": "Innei",
+   "feed": "innei-in-feed",
+   "lang": "zh",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792865779
+  },
   {
    "title": "Kimi’s Global Moment—and a Very Chinese PR Habit",
    "link": "https://www.pekingnology.com/p/kimis-global-momentand-a-very-chinese",
@@ -1175,32 +1214,6 @@
    "ts": 1792710078
   },
   {
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
-   "link": "https://www.anthropic.com/research/formal-verification",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792709683
-  },
-  {
-   "title": "Canadians are running out of time to oppose Bill C-22",
-   "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792708999
-  },
-  {
    "title": "Peras",
    "link": "https://www.producthunt.com/products/peras",
    "author": "Product Hunt",
@@ -1396,6 +1409,19 @@
    "ts": 1792655332
   },
   {
+   "title": "Agentic CleanSlop",
+   "link": "https://www.producthunt.com/products/cleanslop",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792650538
+  },
+  {
    "title": "Penta",
    "link": "https://www.producthunt.com/products/penta-cd-player-changer",
    "author": "Product Hunt",
@@ -1422,19 +1448,6 @@
    "ts": 1792627200
   },
   {
-   "title": "Bits",
-   "link": "https://www.producthunt.com/products/bits-4",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792616355
-  },
-  {
    "title": "Teclo",
    "link": "https://www.producthunt.com/products/teclo",
    "author": "Product Hunt",
@@ -1448,19 +1461,6 @@
    "ts": 1792616213
   },
   {
-   "title": "Radaric",
-   "link": "https://www.producthunt.com/products/radaric",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792615738
-  },
-  {
    "title": "Claude Duet",
    "link": "https://www.producthunt.com/products/claude",
    "author": "Product Hunt",
@@ -1472,19 +1472,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792611623
-  },
-  {
-   "title": "Archivist",
-   "link": "https://www.producthunt.com/products/archivist",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792610169
   },
   {
    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
@@ -1565,8 +1552,8 @@
    "ts": 1792599916
   },
   {
-   "title": "ElevenLabs Realtime Translation",
-   "link": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
+   "title": "Kugel Ear",
+   "link": "https://www.producthunt.com/products/kugelaudio",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1575,7 +1562,20 @@
    "day": "Oct 21",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792593367
+   "ts": 1792588290
+  },
+  {
+   "title": "Mercury 3",
+   "link": "https://www.producthunt.com/products/mercury-412",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792576281
   },
   {
    "title": "Shedi",
@@ -1667,6 +1667,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792513263
+  },
+  {
+   "title": "ElevenLabs Realtime",
+   "link": "https://www.producthunt.com/products/realtime-max-mini",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-20",
+   "day": "Oct 20",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792506662
   },
   {
    "title": "You Will Only Like Half of This Video",
@@ -5736,19 +5749,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1786028526
-  },
-  {
-   "title": "在人间，各自流转",
-   "link": "https://innei.in/notes/218",
-   "author": "Innei",
-   "source": "Innei",
-   "feed": "innei-in-feed",
-   "lang": "zh",
-   "date": "2026-08-05",
-   "day": "Aug 5",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1785867434
   },
   {
    "title": "Why Humanity Will Never Leave The Solar System",
