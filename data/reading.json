@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 00:15",
+ "updated": "2026-10-26 04:50",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,19 @@
  ],
  "items": [
   {
+   "title": "Inside Germany’s Unique Apprenticeship System",
+   "link": "https://www.youtube.com/watch?v=-4o4S6M6QcE",
+   "author": "Easy German",
+   "source": "Easy German",
+   "feed": "youtube-easy-german",
+   "lang": "de",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792951225
+  },
+  {
    "title": "2026W43：杂记",
    "link": "https://www.skyue.com/26102522.html",
    "author": "SKYue",
@@ -731,6 +744,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792906756
+  },
+  {
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792892029
   },
   {
    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
@@ -822,6 +848,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792865779
+  },
+  {
+   "title": "Roku developer repositories moved from GitHub to GitLab",
+   "link": "https://blog.roku.com/developer/gitlab-move",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792857986
   },
   {
    "title": "FreeDNS",
@@ -1136,32 +1175,6 @@
    "ts": 1792774748
   },
   {
-   "title": "Today, we hacked what we'd set out to hack: the iPhone",
-   "link": "https://blog.calif.io/p/iphone",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-24",
-   "day": "Oct 24",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792772510
-  },
-  {
-   "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-   "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792762870
-  },
-  {
    "title": "sideOS.ai",
    "link": "https://www.producthunt.com/products/sideos-ai",
    "author": "Product Hunt",
@@ -1266,19 +1279,6 @@
    "ts": 1792729977
   },
   {
-   "title": "Agent Hunt",
-   "link": "https://www.producthunt.com/products/monid",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792728200
-  },
-  {
    "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
    "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
    "author": "Ruan Yifeng",
@@ -1303,6 +1303,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792705095
+  },
+  {
+   "title": "Plango",
+   "link": "https://www.producthunt.com/products/plango",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792702995
   },
   {
    "title": "DE STAAT - FREEDOM (Official Music Video)",
@@ -5073,19 +5086,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1787728666
-  },
-  {
-   "title": "How I Became a German Citizen in 3 Years",
-   "link": "https://www.youtube.com/watch?v=FKS9eGhFLG8",
-   "author": "Easy German",
-   "source": "Easy German",
-   "feed": "youtube-easy-german",
-   "lang": "de",
-   "date": "2026-08-26",
-   "day": "Aug 26",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1787677213
   },
   {
    "title": "Dylan Patel – Two labs will soon control most of the world's workforce",
