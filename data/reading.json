@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25 19:26",
+ "updated": "2026-10-26 00:15",
  "languages": [
   {
    "key": "zh",
    "name": "Chinese",
-   "count": 425
+   "count": 426
   },
   {
    "key": "en",
@@ -225,7 +225,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "weiwuhui-com-feed",
@@ -312,7 +312,7 @@
    "url": "https://www.skyue.com/feed/",
    "lang": "zh",
    "lang_name": "Chinese",
-   "count": 6,
+   "count": 7,
    "ok": true
   },
   {
@@ -357,7 +357,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "masilotti-com-feed-xml",
@@ -681,6 +681,32 @@
  ],
  "items": [
   {
+   "title": "2026W43：杂记",
+   "link": "https://www.skyue.com/26102522.html",
+   "author": "SKYue",
+   "source": "SKYue",
+   "feed": "www-skyue-com-feed",
+   "lang": "zh",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792938840
+  },
+  {
+   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+   "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792918840
+  },
+  {
    "title": "我的个人版本 21 世纪最佳电视节目",
    "link": "https://blog.douchi.space/best-tv-21-century/?utm_source=rss",
    "author": "Jiaoyan Douchi",
@@ -798,6 +824,19 @@
    "ts": 1792865779
   },
   {
+   "title": "FreeDNS",
+   "link": "https://freedns.afraid.org/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792855201
+  },
+  {
    "title": "Kimi’s Global Moment—and a Very Chinese PR Habit",
    "link": "https://www.pekingnology.com/p/kimis-global-momentand-a-very-chinese",
    "author": "Zichen Wang",
@@ -850,6 +889,19 @@
    "ts": 1792847368
   },
   {
+   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+   "link": "https://github.com/Zagitta/gpu-unlock",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792835907
+  },
+  {
    "title": "I don't understand quantum physics (2018)",
    "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
    "author": "Hacker News",
@@ -863,8 +915,8 @@
    "ts": 1792835606
   },
   {
-   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-   "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+   "link": "https://broccoli2shell.com/",
    "author": "Hacker News",
    "source": "Hacker News 300+",
    "feed": "hnrss-org-newest",
@@ -1032,7 +1084,7 @@
    "ts": 1792782594
   },
   {
-   "title": "No device could prove our theory of gravity wrong... until now",
+   "title": "No device could prove Einstein wrong... until now",
    "link": "https://www.youtube.com/watch?v=eyZEqSPeMwg",
    "author": "Veritasium",
    "source": "Veritasium",
@@ -1121,45 +1173,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792762120
-  },
-  {
-   "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
-   "link": "https://keepandroidopen.org/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792761582
-  },
-  {
-   "title": "Apple Music 404 Not Found",
-   "link": "https://music.apple.com/this-url-doesnt-exist",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792758527
-  },
-  {
-   "title": "Swedish government offices to ban ChatGPT and Claude",
-   "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792755594
   },
   {
    "title": "The Internet Is Under Attack. Is Crypto Next?",
@@ -1279,8 +1292,8 @@
    "ts": 1792713976
   },
   {
-   "title": "Plango",
-   "link": "https://www.producthunt.com/products/plango",
+   "title": "Peras",
+   "link": "https://www.producthunt.com/products/peras",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1289,7 +1302,7 @@
    "day": "Oct 23",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792702995
+   "ts": 1792705095
   },
   {
    "title": "DE STAAT - FREEDOM (Official Music Video)",
