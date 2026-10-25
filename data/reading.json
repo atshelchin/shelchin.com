@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 12:39",
+ "updated": "2026-10-25 19:26",
  "languages": [
   {
    "key": "zh",
@@ -225,7 +225,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "weiwuhui-com-feed",
@@ -357,7 +357,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "masilotti-com-feed-xml",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,62 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": false
+   "ok": true
   }
  ],
  "items": [
+  {
+   "title": "我的个人版本 21 世纪最佳电视节目",
+   "link": "https://blog.douchi.space/best-tv-21-century/?utm_source=rss",
+   "author": "Jiaoyan Douchi",
+   "source": "Jiaoyan Douchi",
+   "feed": "blog-douchi-space-index-xml",
+   "lang": "zh",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792916880
+  },
+  {
+   "title": "AgentGrid.io",
+   "link": "https://www.producthunt.com/products/agentgrid-io",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792906756
+  },
+  {
+   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+   "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792883514
+  },
+  {
+   "title": "We should be more ambitious with the software we build",
+   "link": "https://danluu.com/ambitious/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792878451
+  },
   {
    "title": "Show HN: Steal My Bitcoin",
    "link": "https://stealmybitcoin.com/",
@@ -705,6 +757,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792871239
+  },
+  {
+   "title": "Papermark Data Rooms",
+   "link": "https://www.producthunt.com/products/papermark-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792868986
+  },
+  {
+   "title": "The Goose Programming Language",
+   "link": "https://aardappel.github.io/goose/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792868815
   },
   {
    "title": "十月未央",
@@ -733,6 +811,19 @@
    "ts": 1792853867
   },
   {
+   "title": "Yourcast 2.0",
+   "link": "https://www.producthunt.com/products/yourcast",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792852979
+  },
+  {
    "title": "Black October! What Is Happening to the Internet?",
    "link": "https://www.youtube.com/watch?v=b51mx9usZYc",
    "author": "Bankless",
@@ -757,6 +848,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792847368
+  },
+  {
+   "title": "I don't understand quantum physics (2018)",
+   "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792835606
+  },
+  {
+   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+   "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792829199
   },
   {
    "title": "Root shell on Samsung TV",
@@ -809,6 +926,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792814397
+  },
+  {
+   "title": "Llama Windows",
+   "link": "https://www.producthunt.com/products/llama-windows",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792809627
   },
   {
    "title": "Twelve years of distributed SQLite",
@@ -1032,19 +1162,6 @@
    "ts": 1792755594
   },
   {
-   "title": "Dutch government had hacked into Jared Kushner's phone",
-   "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792752092
-  },
-  {
    "title": "The Internet Is Under Attack. Is Crypto Next?",
    "link": "https://www.youtube.com/watch?v=q63GRIQ0ves",
    "author": "Bankless",
@@ -1082,19 +1199,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792744919
-  },
-  {
-   "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-   "link": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792743689
   },
   {
    "title": "ShogunAI",
@@ -1162,19 +1266,6 @@
    "ts": 1792728200
   },
   {
-   "title": "The foolishness of \"natural language programming\" (1978)",
-   "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792716721
-  },
-  {
    "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
    "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
    "author": "Ruan Yifeng",
@@ -1186,45 +1277,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792713976
-  },
-  {
-   "title": "Docker is weird",
-   "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792712756
-  },
-  {
-   "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-   "link": "https://edjefferson.com/localwiki/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792710078
-  },
-  {
-   "title": "Peras",
-   "link": "https://www.producthunt.com/products/peras",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792705095
   },
   {
    "title": "Plango",
@@ -1383,6 +1435,19 @@
    "ts": 1792674951
   },
   {
+   "title": "MRRaudit",
+   "link": "https://www.producthunt.com/products/mrraudit",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-22",
+   "day": "Oct 22",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792669673
+  },
+  {
    "title": "Bloblings",
    "link": "https://www.producthunt.com/products/bloblings",
    "author": "Product Hunt",
@@ -1409,19 +1474,6 @@
    "ts": 1792655332
   },
   {
-   "title": "Agentic CleanSlop",
-   "link": "https://www.producthunt.com/products/cleanslop",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792650538
-  },
-  {
    "title": "Penta",
    "link": "https://www.producthunt.com/products/penta-cd-player-changer",
    "author": "Product Hunt",
@@ -1446,32 +1498,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792627200
-  },
-  {
-   "title": "Teclo",
-   "link": "https://www.producthunt.com/products/teclo",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792616213
-  },
-  {
-   "title": "Claude Duet",
-   "link": "https://www.producthunt.com/products/claude",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792611623
   },
   {
    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
@@ -1552,32 +1578,6 @@
    "ts": 1792599916
   },
   {
-   "title": "Kugel Ear",
-   "link": "https://www.producthunt.com/products/kugelaudio",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792588290
-  },
-  {
-   "title": "Mercury 3",
-   "link": "https://www.producthunt.com/products/mercury-412",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792576281
-  },
-  {
    "title": "Shedi",
    "link": "https://www.producthunt.com/products/shedi",
    "author": "Product Hunt",
@@ -1602,6 +1602,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792549087
+  },
+  {
+   "title": "pawl",
+   "link": "https://www.producthunt.com/products/pawl",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792545791
   },
   {
    "title": "Dots Phone",
@@ -4555,6 +4568,19 @@
    "ts": 1788684564
   },
   {
+   "title": "[时空] Mulaglijufur，冰岛",
+   "link": "https://blog.douchi.space/time-capsule/20260906-mulaglijufur/?utm_source=rss",
+   "author": "Jiaoyan Douchi",
+   "source": "Jiaoyan Douchi",
+   "feed": "blog-douchi-space-index-xml",
+   "lang": "zh",
+   "date": "2026-09-06",
+   "day": "Sep 6",
+   "ym": "2026-09",
+   "ym_label": "September 2026",
+   "ts": 1788652800
+  },
+  {
    "title": "Dividing a signal by counting: Breadboard clock part 3",
    "link": "https://www.youtube.com/watch?v=gnmrKDpTM7o",
    "author": "Ben Eater",
@@ -4579,32 +4605,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788585278
-  },
-  {
-   "title": "[时空] Fjaðrárgljúfur，冰岛",
-   "link": "https://blog.douchi.space/time-capsule/20260905-fja%C3%B0r%C3%A1rglj%C3%BAfur/?utm_source=rss",
-   "author": "Jiaoyan Douchi",
-   "source": "Jiaoyan Douchi",
-   "feed": "blog-douchi-space-index-xml",
-   "lang": "zh",
-   "date": "2026-09-05",
-   "day": "Sep 5",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788566400
-  },
-  {
-   "title": "[时空] Jökulsarlon，冰岛",
-   "link": "https://blog.douchi.space/time-capsule/20260905-j%C3%B6kulsarlon/?utm_source=rss",
-   "author": "Jiaoyan Douchi",
-   "source": "Jiaoyan Douchi",
-   "feed": "blog-douchi-space-index-xml",
-   "lang": "zh",
-   "date": "2026-09-05",
-   "day": "Sep 5",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788566400
   },
   {
    "title": "GPT 6 Astra, so good even OpenAI are worried",
