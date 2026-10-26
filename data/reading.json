@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 04:50",
+ "updated": "2026-10-26 12:44",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,36 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Dolly Parton's Imagination Library",
+   "link": "https://imaginationlibrary.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792952634
+  },
+  {
+   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792951451
+  },
   {
    "title": "Inside Germany’s Unique Apprenticeship System",
    "link": "https://www.youtube.com/watch?v=-4o4S6M6QcE",
@@ -692,6 +718,45 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792951225
+  },
+  {
+   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "link": "https://talkweb.eu/openweb/4558/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792949455
+  },
+  {
+   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "link": "https://lynchlab.net/llm-skin-cancer",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792948538
+  },
+  {
+   "title": "Seam Cutter",
+   "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792941019
   },
   {
    "title": "2026W43：杂记",
@@ -1045,19 +1110,6 @@
    "ts": 1792804618
   },
   {
-   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-   "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-24",
-   "day": "Oct 24",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792804514
-  },
-  {
    "title": "编程并没有面目全非",
    "link": "https://yanlinlin.cn/2026/10/24/programming-is-not-unrecognizable/",
    "author": "Yan Linlin",
@@ -1097,32 +1149,6 @@
    "ts": 1792784454
   },
   {
-   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-24",
-   "day": "Oct 24",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792784055
-  },
-  {
-   "title": "Dessa: Conversation Model trained only on speech",
-   "link": "https://block.xyz/dessa",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-24",
-   "day": "Oct 24",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792782594
-  },
-  {
    "title": "No device could prove Einstein wrong... until now",
    "link": "https://www.youtube.com/watch?v=eyZEqSPeMwg",
    "author": "Veritasium",
@@ -1160,19 +1186,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792777910
-  },
-  {
-   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-   "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-24",
-   "day": "Oct 24",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792774748
   },
   {
    "title": "sideOS.ai",
@@ -1277,6 +1290,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792729977
+  },
+  {
+   "title": "Agent Hunt",
+   "link": "https://www.producthunt.com/products/monid",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-23",
+   "day": "Oct 23",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792728200
   },
   {
    "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
@@ -1472,19 +1498,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792669673
-  },
-  {
-   "title": "Bloblings",
-   "link": "https://www.producthunt.com/products/bloblings",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792662567
   },
   {
    "title": "Truffle",
@@ -2421,19 +2434,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791824280
-  },
-  {
-   "title": "web-edit 0.1a0",
-   "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-12",
-   "day": "Oct 12",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791820476
   },
   {
    "title": "The Lives of Others",
