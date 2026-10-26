@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 12:44",
+ "updated": "2026-10-26 20:59",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,218 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": false
+   "ok": true
   }
  ],
  "items": [
+  {
+   "title": "Could the Next Crypto Bull Market Arrive Sooner Than Expected?",
+   "link": "https://www.youtube.com/watch?v=nx6hpy2oDjY",
+   "author": "Bankless",
+   "source": "Bankless",
+   "feed": "youtube-bankless",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793010636
+  },
+  {
+   "title": "AllModels",
+   "link": "https://www.producthunt.com/products/allmodels-io",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792991729
+  },
+  {
+   "title": "Standfast",
+   "link": "https://www.producthunt.com/products/standfast",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792983033
+  },
+  {
+   "title": "IBM CEO says open weight models are now good and cheap on-prem",
+   "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792979266
+  },
+  {
+   "title": "Lula wins election after final votes tallied",
+   "link": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792974667
+  },
+  {
+   "title": "AI 时代做产品，把省下来的时间花在细节上",
+   "link": "https://tw93.fun/2026-10-26/mole-product.html",
+   "author": "Tw93",
+   "source": "Tw93",
+   "feed": "tw93-fun-feed-xml",
+   "lang": "zh",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792972800
+  },
+  {
+   "title": "How Linux (and Windows) Ate UNIX",
+   "link": "https://www.youtube.com/watch?v=ksx5g5WvAIw",
+   "author": "Asianometry",
+   "source": "Asianometry",
+   "feed": "youtube-asianometry",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792969215
+  },
+  {
+   "title": "Jobmate AI",
+   "link": "https://www.producthunt.com/products/jobmate-ai-3",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792969182
+  },
+  {
+   "title": "AVP",
+   "link": "https://www.producthunt.com/products/avp",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792968787
+  },
+  {
+   "title": "WhoIsCooking",
+   "link": "https://www.producthunt.com/products/whoiscooking",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792964754
+  },
+  {
+   "title": "VibeiDE",
+   "link": "https://www.producthunt.com/products/vibeide",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792963848
+  },
+  {
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "link": "https://minimaxir.com/2026/10/cheap-llms/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792962691
+  },
+  {
+   "title": "omerta",
+   "link": "https://www.producthunt.com/products/omerta",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792962665
+  },
+  {
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792962508
+  },
+  {
+   "title": "ManyAgents",
+   "link": "https://www.producthunt.com/products/manyagents",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792958139
+  },
+  {
+   "title": "desigma",
+   "link": "https://www.producthunt.com/products/desigma",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792956038
+  },
   {
    "title": "Dolly Parton's Imagination Library",
    "link": "https://imaginationlibrary.com/",
@@ -746,6 +954,19 @@
    "ts": 1792948538
   },
   {
+   "title": "Mozy",
+   "link": "https://www.producthunt.com/products/mozy-walk-to-unlock-apps",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792944913
+  },
+  {
    "title": "Seam Cutter",
    "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
    "author": "Simon Willison",
@@ -770,6 +991,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792938840
+  },
+  {
+   "title": "tabsh",
+   "link": "https://www.producthunt.com/products/tabsh",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792919935
   },
   {
    "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
@@ -824,6 +1058,19 @@
    "ts": 1792892029
   },
   {
+   "title": "Kiwi",
+   "link": "https://www.producthunt.com/products/kiwi-7",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792883969
+  },
+  {
    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "author": "Hacker News",
@@ -874,6 +1121,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792871239
+  },
+  {
+   "title": "2G",
+   "link": "https://www.producthunt.com/products/2g",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792871068
   },
   {
    "title": "Papermark Data Rooms",
@@ -993,6 +1253,19 @@
    "ts": 1792847368
   },
   {
+   "title": "Loqui",
+   "link": "https://www.producthunt.com/products/loqui-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792846435
+  },
+  {
    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
    "link": "https://github.com/Zagitta/gpu-unlock",
    "author": "Hacker News",
@@ -1019,30 +1292,17 @@
    "ts": 1792835606
   },
   {
-   "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-   "link": "https://broccoli2shell.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Knock",
+   "link": "https://www.producthunt.com/products/knock-7",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-10-24",
    "day": "Oct 24",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792829199
-  },
-  {
-   "title": "Root shell on Samsung TV",
-   "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-24",
-   "day": "Oct 24",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792820997
+   "ts": 1792822052
   },
   {
    "title": "去哭下一家丨一周语文（2643）",
@@ -1056,19 +1316,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792818875
-  },
-  {
-   "title": "OBS Studio 33",
-   "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-24",
-   "day": "Oct 24",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792817398
   },
   {
    "title": "battledrones v14: Compass Rose, a four player map",
@@ -1095,19 +1342,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792809627
-  },
-  {
-   "title": "Twelve years of distributed SQLite",
-   "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-24",
-   "day": "Oct 24",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792804618
   },
   {
    "title": "编程并没有面目全非",
@@ -1240,71 +1474,6 @@
    "ts": 1792744919
   },
   {
-   "title": "ShogunAI",
-   "link": "https://www.producthunt.com/products/shogunai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792737177
-  },
-  {
-   "title": "Product Hunt Visual Launch Editor",
-   "link": "https://www.producthunt.com/products/producthunt",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792735418
-  },
-  {
-   "title": "Instant Search",
-   "link": "https://www.producthunt.com/products/instant-search-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792733763
-  },
-  {
-   "title": "Termi Protocol",
-   "link": "https://www.producthunt.com/products/termi-protocol",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792729977
-  },
-  {
-   "title": "Agent Hunt",
-   "link": "https://www.producthunt.com/products/monid",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792728200
-  },
-  {
    "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
    "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
    "author": "Ruan Yifeng",
@@ -1316,32 +1485,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792713976
-  },
-  {
-   "title": "Peras",
-   "link": "https://www.producthunt.com/products/peras",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792705095
-  },
-  {
-   "title": "Plango",
-   "link": "https://www.producthunt.com/products/plango",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792702995
   },
   {
    "title": "DE STAAT - FREEDOM (Official Music Video)",
@@ -1448,45 +1591,6 @@
    "ts": 1792681771
   },
   {
-   "title": "Monish",
-   "link": "https://www.producthunt.com/products/monish",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792679906
-  },
-  {
-   "title": "Gerty",
-   "link": "https://www.producthunt.com/products/gerty",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792678450
-  },
-  {
-   "title": "Dots",
-   "link": "https://www.producthunt.com/products/dots-7",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792674951
-  },
-  {
    "title": "MRRaudit",
    "link": "https://www.producthunt.com/products/mrraudit",
    "author": "Product Hunt",
@@ -1500,8 +1604,8 @@
    "ts": 1792669673
   },
   {
-   "title": "Truffle",
-   "link": "https://www.producthunt.com/products/truffle-music-tag-editor",
+   "title": "PDF Accessibility Checker by WebYes",
+   "link": "https://www.producthunt.com/products/pdf-accessibility-checker",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1510,7 +1614,7 @@
    "day": "Oct 22",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1792655332
+   "ts": 1792648327
   },
   {
    "title": "Penta",
@@ -1578,19 +1682,6 @@
    "ts": 1792601259
   },
   {
-   "title": "Polylane for Cloudflare",
-   "link": "https://www.producthunt.com/products/polylane",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-22",
-   "day": "Oct 22",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792600831
-  },
-  {
    "title": "Zhang Bin: Public Investment Must Still Lead China's Efforts to Boost Domestic Demand",
    "link": "https://www.pekingnology.com/p/zhang-bin-public-investment-must",
    "author": "Zichen Wang",
@@ -1617,6 +1708,19 @@
    "ts": 1792599916
   },
   {
+   "title": "AI Bridge",
+   "link": "https://www.producthunt.com/products/ai-bridge",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-21",
+   "day": "Oct 21",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792570228
+  },
+  {
    "title": "Shedi",
    "link": "https://www.producthunt.com/products/shedi",
    "author": "Product Hunt",
@@ -1628,45 +1732,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792564691
-  },
-  {
-   "title": "Cloudflare Clairic",
-   "link": "https://www.producthunt.com/products/cloudflare",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792549087
-  },
-  {
-   "title": "pawl",
-   "link": "https://www.producthunt.com/products/pawl",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792545791
-  },
-  {
-   "title": "Dots Phone",
-   "link": "https://www.producthunt.com/products/dots-phone",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792542737
   },
   {
    "title": "eMudhra Intermediate CA Compromise",
@@ -1695,19 +1760,6 @@
    "ts": 1792524859
   },
   {
-   "title": "DotMD",
-   "link": "https://www.producthunt.com/products/dotmd-3",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792519765
-  },
-  {
    "title": "Did Google just dethrone OpenAI and Anthropic?",
    "link": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
    "author": "Fireship",
@@ -1719,19 +1771,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792513263
-  },
-  {
-   "title": "ElevenLabs Realtime",
-   "link": "https://www.producthunt.com/products/realtime-max-mini",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-20",
-   "day": "Oct 20",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792506662
   },
   {
    "title": "You Will Only Like Half of This Video",
@@ -4152,19 +4191,6 @@
    "ts": 1789578029
   },
   {
-   "title": "Circle’s New Blockchain Is Built for More Than Stablecoins",
-   "link": "https://www.youtube.com/watch?v=YAg2VFZ0VWY",
-   "author": "Bankless",
-   "source": "Bankless",
-   "feed": "youtube-bankless",
-   "lang": "en",
-   "date": "2026-09-16",
-   "day": "Sep 16",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789554603
-  },
-  {
    "title": "被裁记 2.0",
    "link": "https://blog.douchi.space/layoff-2.0/?utm_source=rss",
    "author": "Jiaoyan Douchi",
@@ -4852,19 +4878,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1788134400
-  },
-  {
-   "title": "The Little Ceiling Robots Inside a Semiconductor Fab",
-   "link": "https://www.youtube.com/watch?v=SwYDxh3PQJ0",
-   "author": "Asianometry",
-   "source": "Asianometry",
-   "feed": "youtube-asianometry",
-   "lang": "en",
-   "date": "2026-08-31",
-   "day": "Aug 31",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1788130833
   },
   {
    "title": "How to Start a Conversation in German",
@@ -8934,19 +8947,6 @@
    "ym": "2026-03",
    "ym_label": "March 2026",
    "ts": 1773349200
-  },
-  {
-   "title": "你不知道的 Claude Code：架构、治理与工程实践",
-   "link": "https://tw93.fun/2026-03-12/claude.html",
-   "author": "Tw93",
-   "source": "Tw93",
-   "feed": "tw93-fun-feed-xml",
-   "lang": "zh",
-   "date": "2026-03-12",
-   "day": "Mar 12",
-   "ym": "2026-03",
-   "ym_label": "March 2026",
-   "ts": 1773273600
   },
   {
    "title": "This Is the Scariest Place in The Universe",
