@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 20:59",
+ "updated": "2026-10-27 06:39",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -680,6 +680,58 @@
   }
  ],
  "items": [
+  {
+   "title": "Quoting Jason Koebler",
+   "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793041225
+  },
+  {
+   "title": "China just dropped a new frontier model... and nobody can explain how",
+   "link": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793040929
+  },
+  {
+   "title": "Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering",
+   "link": "https://www.ixiqin.com/2026/10/26/harness-engineering/",
+   "author": "Bai Huancheng",
+   "source": "Bai Huancheng",
+   "feed": "www-ixiqin-com-feed",
+   "lang": "zh",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793027698
+  },
+  {
+   "title": "台南車站新站是台南人的客廳",
+   "link": "https://taiwan.chtsai.org/2026/10/26/tainan_chezhan/",
+   "author": "Chih-Hao Tsai",
+   "source": "Chih-Hao Tsai",
+   "feed": "taiwan-chtsai-org-feed",
+   "lang": "zh",
+   "date": "2026-10-26",
+   "day": "Oct 26",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793019598
+  },
   {
    "title": "Could the Next Crypto Bull Market Arrive Sooner Than Expected?",
    "link": "https://www.youtube.com/watch?v=nx6hpy2oDjY",
@@ -915,7 +967,7 @@
    "ts": 1792951451
   },
   {
-   "title": "Inside Germany’s Unique Apprenticeship System",
+   "title": "How Foreigners Become Skilled Workers in Germany",
    "link": "https://www.youtube.com/watch?v=-4o4S6M6QcE",
    "author": "Easy German",
    "source": "Easy German",
@@ -2462,19 +2514,6 @@
    "ts": 1791825105
   },
   {
-   "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-   "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791824280
-  },
-  {
    "title": "The Lives of Others",
    "link": "https://www.pekingnology.com/p/the-lives-of-others",
    "author": "Zichen Wang",
@@ -3788,19 +3827,6 @@
    "ts": 1790056416
   },
   {
-   "title": "阿嬤的疑惑與公車司機的耐心",
-   "link": "https://taiwan.chtsai.org/2026/09/22/ama_de_yihuo/",
-   "author": "Chih-Hao Tsai",
-   "source": "Chih-Hao Tsai",
-   "feed": "taiwan-chtsai-org-feed",
-   "lang": "zh",
-   "date": "2026-09-22",
-   "day": "Sep 22",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1790040947
-  },
-  {
    "title": "An ex-OpenAI researcher just deleted language from the LLM...",
    "link": "https://www.youtube.com/watch?v=TbkUKCm3CHQ",
    "author": "Fireship",
@@ -4111,19 +4137,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789686039
-  },
-  {
-   "title": "Did Google just kickstart the intelligence explosion?",
-   "link": "https://www.youtube.com/watch?v=LoLYw--s-5w",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-09-18",
-   "day": "Sep 18",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789677235
   },
   {
    "title": "$300M+ Founder: What Nobody Tells You Before Selling Your Business | 146",
@@ -5463,19 +5476,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1786977016
-  },
-  {
-   "title": "观《老式喜剧》后记",
-   "link": "https://www.ixiqin.com/2026/08/17/afterword-to-old-style-comedy/",
-   "author": "Bai Huancheng",
-   "source": "Bai Huancheng",
-   "feed": "www-ixiqin-com-feed",
-   "lang": "zh",
-   "date": "2026-08-17",
-   "day": "Aug 17",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1786965676
   },
   {
    "title": "AI 时代我的开发工作流：从踩坑复盘到多项目并行验证",
