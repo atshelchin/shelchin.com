@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 01:59",
+ "updated": "2026-10-28 06:12",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,6 +681,32 @@
  ],
  "items": [
   {
+   "title": "Game Boy Color on My Conference Badge",
+   "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793129658
+  },
+  {
+   "title": "Learn German with Our Live Podcast",
+   "link": "https://www.youtube.com/watch?v=-WbwNgcUT2o",
+   "author": "Easy German",
+   "source": "Easy German",
+   "feed": "youtube-easy-german",
+   "lang": "de",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793124037
+  },
+  {
    "title": "How I Survived Late-Stage Cancer (A Fun Story)",
    "link": "https://www.youtube.com/watch?v=5_Fayfx2NUM",
    "author": "Kurzgesagt – In a Nutshell",
@@ -809,6 +835,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793082337
+  },
+  {
+   "title": "Don’t Launch to an Empty Room",
+   "link": "https://swiftjectivec.com/Dont-Launch-to-an-Empty-Room/",
+   "author": "Jordan Morgan",
+   "source": "Jordan Morgan · Swiftjective-C",
+   "feed": "swiftjectivec-com-feed-xml",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793077200
   },
   {
    "title": "ContextGem 1.0",
@@ -1448,6 +1487,19 @@
    "ts": 1792916880
   },
   {
+   "title": "AgentGrid.io",
+   "link": "https://www.producthunt.com/products/agentgrid-io",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792906756
+  },
+  {
    "title": "Kiwi",
    "link": "https://www.producthunt.com/products/kiwi-7",
    "author": "Product Hunt",
@@ -1472,19 +1524,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792871068
-  },
-  {
-   "title": "Papermark Data Rooms",
-   "link": "https://www.producthunt.com/products/papermark-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-25",
-   "day": "Oct 25",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792868986
   },
   {
    "title": "十月未央",
@@ -2512,19 +2551,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791898320
-  },
-  {
-   "title": "web-edit 0.1a1",
-   "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791855605
   },
   {
    "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
@@ -4919,19 +4945,6 @@
    "ts": 1788134400
   },
   {
-   "title": "How to Start a Conversation in German",
-   "link": "https://www.youtube.com/watch?v=yv5ZHXAeN00",
-   "author": "Easy German",
-   "source": "Easy German",
-   "feed": "youtube-easy-german",
-   "lang": "de",
-   "date": "2026-08-31",
-   "day": "Aug 31",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1788109218
-  },
-  {
    "title": "《估值原理》读书笔记：价格背后的游戏、责任与社会秩序",
    "link": "https://blog.devtang.com/2026/08/30/valuation-principles-note/",
    "author": "Tang Qiao",
@@ -7010,19 +7023,6 @@
    "ym": "2026-06",
    "ym_label": "June 2026",
    "ts": 1781618403
-  },
-  {
-   "title": "iOS 27, Your App, and Siri",
-   "link": "https://swiftjectivec.com/Siri-AI-for-iOS027/",
-   "author": "Jordan Morgan",
-   "source": "Jordan Morgan · Swiftjective-C",
-   "feed": "swiftjectivec-com-feed-xml",
-   "lang": "en",
-   "date": "2026-06-15",
-   "day": "Jun 15",
-   "ym": "2026-06",
-   "ym_label": "June 2026",
-   "ts": 1781499600
   },
   {
    "title": "We're 99.9% sure this pattern is true, but no one can prove it",
