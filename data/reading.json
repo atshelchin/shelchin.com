@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27 20:09",
+ "updated": "2026-10-28 01:59",
  "languages": [
   {
    "key": "zh",
@@ -681,7 +681,72 @@
  ],
  "items": [
   {
-   "title": "Why Wall Street Is Rebuilding the Financial System",
+   "title": "How I Survived Late-Stage Cancer (A Fun Story)",
+   "link": "https://www.youtube.com/watch?v=5_Fayfx2NUM",
+   "author": "Kurzgesagt – In a Nutshell",
+   "source": "Kurzgesagt – In a Nutshell",
+   "feed": "youtube-kurzgesagt",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793113201
+  },
+  {
+   "title": "The US government is hiding secret court ruling about how it spies on Americans",
+   "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793110002
+  },
+  {
+   "title": "Python's experimental JIT to be removed",
+   "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793099877
+  },
+  {
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793099295
+  },
+  {
+   "title": "AI promised less work. I've never worked more",
+   "link": "https://oioannou.com/blog/ai-promised-less-work/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793099294
+  },
+  {
+   "title": "Who Will Control the Next Financial System?",
    "link": "https://www.youtube.com/watch?v=OhaQGIHoTEk",
    "author": "Bankless",
    "source": "Bankless",
@@ -692,6 +757,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793098822
+  },
+  {
+   "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+   "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793096870
   },
   {
    "title": "愛與幽默：台南最美的風景，都在公車上",
@@ -718,6 +796,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793090442
+  },
+  {
+   "title": "The Mythical Man-Month in the Age of AI",
+   "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793082337
   },
   {
    "title": "ContextGem 1.0",
@@ -757,6 +848,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793058787
+  },
+  {
+   "title": "GPT-6.1 Terra",
+   "link": "https://www.producthunt.com/products/openai",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793057628
   },
   {
    "title": "PulseDev",
@@ -837,6 +941,19 @@
    "ts": 1793045182
   },
   {
+   "title": "The EPA Is Quietly Killing Its Web Archive",
+   "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793041541
+  },
+  {
    "title": "Quoting Jason Koebler",
    "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
    "author": "Simon Willison",
@@ -913,6 +1030,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793037415
+  },
+  {
+   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+   "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793037240
   },
   {
    "title": "Concerning behavior from a popular open-weight AI model",
@@ -1097,19 +1227,6 @@
    "ts": 1793010636
   },
   {
-   "title": "Switzerland. Block by block. At 1:1 scale",
-   "link": "https://blocks.manifold3d.ch/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793004369
-  },
-  {
    "title": "AllModels",
    "link": "https://www.producthunt.com/products/allmodels-io",
    "author": "Product Hunt",
@@ -1123,19 +1240,6 @@
    "ts": 1792991729
   },
   {
-   "title": "Show HN: TitleArt – Make text like it's 1997",
-   "link": "https://titleart.dvy.io/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792985037
-  },
-  {
    "title": "Standfast",
    "link": "https://www.producthunt.com/products/standfast",
    "author": "Product Hunt",
@@ -1147,32 +1251,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792983033
-  },
-  {
-   "title": "IBM CEO says open weight models are now good and cheap on-prem",
-   "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792979266
-  },
-  {
-   "title": "Lula wins election after final votes tallied",
-   "link": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792974667
   },
   {
    "title": "在快 AI 时代，如何做一款慢产品？",
@@ -1253,19 +1331,6 @@
    "ts": 1792963848
   },
   {
-   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-   "link": "https://minimaxir.com/2026/10/cheap-llms/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792962691
-  },
-  {
    "title": "omerta",
    "link": "https://www.producthunt.com/products/omerta",
    "author": "Product Hunt",
@@ -1277,19 +1342,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792962665
-  },
-  {
-   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-   "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792962508
   },
   {
    "title": "ManyAgents",
@@ -1316,32 +1368,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792956038
-  },
-  {
-   "title": "Why I Am a Programmer",
-   "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792955491
-  },
-  {
-   "title": "Dolly Parton's Imagination Library",
-   "link": "https://imaginationlibrary.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792952634
   },
   {
    "title": "How Foreigners Become Skilled Workers in Germany",
@@ -1422,19 +1448,6 @@
    "ts": 1792916880
   },
   {
-   "title": "AgentGrid.io",
-   "link": "https://www.producthunt.com/products/agentgrid-io",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-25",
-   "day": "Oct 25",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792906756
-  },
-  {
    "title": "Kiwi",
    "link": "https://www.producthunt.com/products/kiwi-7",
    "author": "Product Hunt",
@@ -1459,6 +1472,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792871068
+  },
+  {
+   "title": "Papermark Data Rooms",
+   "link": "https://www.producthunt.com/products/papermark-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792868986
   },
   {
    "title": "十月未央",
@@ -1563,19 +1589,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792814397
-  },
-  {
-   "title": "Llama Windows",
-   "link": "https://www.producthunt.com/products/llama-windows",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-24",
-   "day": "Oct 24",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792809627
   },
   {
    "title": "编程并没有面目全非",
@@ -9792,19 +9805,6 @@
    "ym": "2026-01",
    "ym_label": "January 2026",
    "ts": 1767967200
-  },
-  {
-   "title": "Why Are There No Holes Around Trees?",
-   "link": "https://www.youtube.com/watch?v=pHJIhxZEoxg",
-   "author": "Kurzgesagt – In a Nutshell",
-   "source": "Kurzgesagt – In a Nutshell",
-   "feed": "youtube-kurzgesagt",
-   "lang": "en",
-   "date": "2026-01-07",
-   "day": "Jan 7",
-   "ym": "2026-01",
-   "ym_label": "January 2026",
-   "ts": 1767798013
   },
   {
    "title": "Coding Adventure: Analyzing Audio",
