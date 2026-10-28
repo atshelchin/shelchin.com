@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 20:52",
+ "updated": "2026-10-29 06:34",
  "languages": [
   {
    "key": "zh",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,153 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Why is this fingerprinting script creating bioweapons?",
+   "link": "https://nullpt.rs/fingerprinting-bioweapons",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793207609
+  },
+  {
+   "title": "MacBook Pro with PROLED XDR Display and Touch",
+   "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793207437
+  },
+  {
+   "title": "Gemini 4 Carbon",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793206883
+  },
+  {
+   "title": "GitHub Octoverse 2026",
+   "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793205923
+  },
+  {
+   "title": "CNC Stone Carving",
+   "link": "https://carmelitegothic.com/cnc-stone-carving/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793198302
+  },
+  {
+   "title": "The October inflection point for vibe game development",
+   "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793195715
+  },
+  {
+   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+   "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793194890
+  },
+  {
+   "title": "Did the AI bubble just pop?",
+   "link": "https://www.youtube.com/watch?v=nEaJMdM1djM",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793194289
+  },
+  {
+   "title": "Emacs Turns 50",
+   "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793193911
+  },
+  {
+   "title": "Evidence of a spying operation by ICE against left-wing social movements",
+   "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793191785
+  },
+  {
+   "title": "Apple's git still trusts the compromised eMudhra certificates",
+   "link": "https://emudhra.we-have-a-problem.com/apple.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793185420
+  },
   {
    "title": "远程工作不要居家",
    "link": "https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
@@ -705,6 +848,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793182147
+  },
+  {
+   "title": "Wealth Inequality in America drawn to scale",
+   "link": "https://dreamagainusa.org/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793177301
   },
   {
    "title": "WebAI by Opera",
@@ -783,6 +939,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793136394
+  },
+  {
+   "title": "Early progress on accelerating drug development with Claude",
+   "link": "https://www.anthropic.com/research/early-progress-drug-development",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793134242
+  },
+  {
+   "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+   "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793133309
   },
   {
    "title": "Congress Trades",
@@ -1006,19 +1188,6 @@
    "ts": 1793116640
   },
   {
-   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-   "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793114906
-  },
-  {
    "title": "Open For sales",
    "link": "https://www.producthunt.com/products/open-for-sales",
    "author": "Product Hunt",
@@ -1045,84 +1214,6 @@
    "ts": 1793113201
   },
   {
-   "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-   "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793110002
-  },
-  {
-   "title": "New iMac with M6",
-   "link": "https://www.apple.com/imac/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793106122
-  },
-  {
-   "title": "Software may be getting worse, but it used to be horrible",
-   "link": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793100635
-  },
-  {
-   "title": "Python's experimental JIT to be removed",
-   "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793099877
-  },
-  {
-   "title": "Wikipedia's Cleanup of AI-Generated Content",
-   "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793099295
-  },
-  {
-   "title": "AI promised less work. I've never worked more",
-   "link": "https://oioannou.com/blog/ai-promised-less-work/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793099294
-  },
-  {
    "title": "Who Will Control the Next Financial System?",
    "link": "https://www.youtube.com/watch?v=OhaQGIHoTEk",
    "author": "Bankless",
@@ -1134,19 +1225,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793098822
-  },
-  {
-   "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-   "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793096870
   },
   {
    "title": "愛與幽默：台南最美的風景，都在公車上",
@@ -1186,19 +1264,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793090442
-  },
-  {
-   "title": "The Mythical Man-Month in the Age of AI",
-   "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793082337
   },
   {
    "title": "Don’t Launch to an Empty Room",
@@ -1279,32 +1344,6 @@
    "ts": 1793054866
   },
   {
-   "title": "The Exponential Time Hypothesis Is False [pdf]",
-   "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793051955
-  },
-  {
-   "title": "Three new discoveries in mathematics, computer science, and physics",
-   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793050528
-  },
-  {
    "title": "Revix AI",
    "link": "https://www.producthunt.com/products/revix-ai-2",
    "author": "Product Hunt",
@@ -1344,7 +1383,7 @@
    "ts": 1793045182
   },
   {
-   "title": "throxy (yc p25)",
+   "title": "throxy",
    "link": "https://www.producthunt.com/products/throxy-yc-p25",
    "author": "Product Hunt",
    "source": "Product Hunt",
@@ -1472,19 +1511,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793024177
-  },
-  {
-   "title": "Arcade Controller Pro",
-   "link": "https://www.producthunt.com/products/bluetooth-snes-controller",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793023305
   },
   {
    "title": "台南車站新站是台南人的客廳",
@@ -1628,6 +1654,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792865779
+  },
+  {
+   "title": "AirPosture",
+   "link": "https://www.producthunt.com/products/airposture-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-25",
+   "day": "Oct 25",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792858611
   },
   {
    "title": "Kimi’s Global Moment—and a Very Chinese PR Habit",
@@ -2525,32 +2564,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791976077
-  },
-  {
-   "title": "Redesigning source control at Anthropic",
-   "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791932406
-  },
-  {
-   "title": "llm-gemini 0.35",
-   "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791930534
   },
   {
    "title": "Gordon G. Liu on China's pharmaceutical ambitions",
@@ -3903,19 +3916,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1790085601
-  },
-  {
-   "title": "An ex-OpenAI researcher just deleted language from the LLM...",
-   "link": "https://www.youtube.com/watch?v=TbkUKCm3CHQ",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-09-22",
-   "day": "Sep 22",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1790013149
   },
   {
    "title": "The Insane Real Engineering of the Nazi Enigma Machine",
