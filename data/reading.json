@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 06:12",
+ "updated": "2026-10-28 13:40",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,7 +676,7 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
@@ -707,6 +707,71 @@
    "ts": 1793124037
   },
   {
+   "title": "Ghostty 1.4",
+   "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793119882
+  },
+  {
+   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+   "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793119215
+  },
+  {
+   "title": "New 14‑inch MacBook Pro with M6",
+   "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793117312
+  },
+  {
+   "title": "Genie 4",
+   "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793117161
+  },
+  {
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793114906
+  },
+  {
    "title": "How I Survived Late-Stage Cancer (A Fun Story)",
    "link": "https://www.youtube.com/watch?v=5_Fayfx2NUM",
    "author": "Kurzgesagt – In a Nutshell",
@@ -720,7 +785,7 @@
    "ts": 1793113201
   },
   {
-   "title": "The US government is hiding secret court ruling about how it spies on Americans",
+   "title": "US Government is hiding a secret court ruling about how it spies on Americans",
    "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -731,6 +796,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793110002
+  },
+  {
+   "title": "New iMac with M6",
+   "link": "https://www.apple.com/imac/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793106122
+  },
+  {
+   "title": "Software may be getting worse, but it used to be horrible",
+   "link": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793100635
   },
   {
    "title": "Python's experimental JIT to be removed",
@@ -1084,19 +1175,6 @@
    "ts": 1793037240
   },
   {
-   "title": "Concerning behavior from a popular open-weight AI model",
-   "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793032544
-  },
-  {
    "title": "webframe: evaluated as a scraper and a sandbox",
    "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
    "author": "Simon Willison",
@@ -1110,45 +1188,6 @@
    "ts": 1793031300
   },
   {
-   "title": "CSS-Tricks has a new owner",
-   "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793029883
-  },
-  {
-   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-   "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793028912
-  },
-  {
-   "title": "Solar power is becoming bigger than nuclear",
-   "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793028377
-  },
-  {
    "title": "Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering",
    "link": "https://www.ixiqin.com/2026/10/26/harness-engineering/",
    "author": "Bai Huancheng",
@@ -1160,19 +1199,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793027698
-  },
-  {
-   "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-   "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793027519
   },
   {
    "title": "iPad mini 8",
@@ -1201,19 +1227,6 @@
    "ts": 1793023305
   },
   {
-   "title": "Anthropic S-1",
-   "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793019890
-  },
-  {
    "title": "台南車站新站是台南人的客廳",
    "link": "https://taiwan.chtsai.org/2026/10/26/tainan_chezhan/",
    "author": "Chih-Hao Tsai",
@@ -1238,19 +1251,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793016730
-  },
-  {
-   "title": "Websites Should Be Printable",
-   "link": "https://brennenputh.me/blog/printable-websites/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-26",
-   "day": "Oct 26",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793010734
   },
   {
    "title": "Could the Next Crypto Bull Market Arrive Sooner Than Expected?",
@@ -1630,6 +1630,19 @@
    "ts": 1792814397
   },
   {
+   "title": "Llama Windows",
+   "link": "https://www.producthunt.com/products/llama-windows",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-24",
+   "day": "Oct 24",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1792809627
+  },
+  {
    "title": "编程并没有面目全非",
    "link": "https://yanlinlin.cn/2026/10/24/programming-is-not-unrecognizable/",
    "author": "Yan Linlin",
@@ -1732,19 +1745,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792750704
-  },
-  {
-   "title": "Spacesheep",
-   "link": "https://www.producthunt.com/products/spacesheep",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792728205
   },
   {
    "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
