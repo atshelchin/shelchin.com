@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29 06:34",
+ "updated": "2026-10-29 13:46",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -680,6 +680,32 @@
   }
  ],
  "items": [
+  {
+   "title": "2026 年，我的 21 条 AI Coding 最佳实践",
+   "link": "https://tw93.fun/2026-10-29/practice.html",
+   "author": "Tw93",
+   "source": "Tw93",
+   "feed": "tw93-fun-feed-xml",
+   "lang": "zh",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793232000
+  },
+  {
+   "title": "Quoting Ted Sanders",
+   "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793229801
+  },
   {
    "title": "Why is this fingerprinting script creating bioweapons?",
    "link": "https://nullpt.rs/fingerprinting-bioweapons",
@@ -2538,19 +2564,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792000090
-  },
-  {
-   "title": "AI is mass decompiling games. That's both awesome and scary.",
-   "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791995213
   },
   {
    "title": "從口罩到社群：我們看到的世界，往往是自己內心的投射",
@@ -8856,19 +8869,6 @@
    "ym": "2026-03",
    "ym_label": "March 2026",
    "ts": 1774184340
-  },
-  {
-   "title": "你不知道的 Agent：原理、架构与工程实践",
-   "link": "https://tw93.fun/2026-03-21/agent.html",
-   "author": "Tw93",
-   "source": "Tw93",
-   "feed": "tw93-fun-feed-xml",
-   "lang": "zh",
-   "date": "2026-03-21",
-   "day": "Mar 21",
-   "ym": "2026-03",
-   "ym_label": "March 2026",
-   "ts": 1774051200
   },
   {
    "title": "AI Liability: The Landmines Under Your SaaS",
