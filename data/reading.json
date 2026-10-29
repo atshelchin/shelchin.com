@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-29 20:58",
+ "updated": "2026-10-30 06:44",
  "languages": [
   {
    "key": "zh",
    "name": "Chinese",
-   "count": 426
+   "count": 429
   },
   {
    "key": "en",
@@ -203,7 +203,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "blog-devtang-com-atom-xml",
@@ -312,7 +312,7 @@
    "url": "https://www.skyue.com/feed/",
    "lang": "zh",
    "lang_name": "Chinese",
-   "count": 7,
+   "count": 10,
    "ok": true
   },
   {
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,153 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Patrick Stewart has died",
+   "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793302899
+  },
+  {
+   "title": "Building a multiplayer game world with autonomous Fable-class models",
+   "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793293226
+  },
+  {
+   "title": "Google Search is now less than half of Alphabet’s revenue",
+   "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793292137
+  },
+  {
+   "title": "The Newsletter Is Dead. Here’s How To Survive AI Agents | 152",
+   "link": "https://nathanbarry.com/the-newsletter-is-dead-heres-how-to-survive-ai-agents-152/",
+   "author": "Nathan Barry",
+   "source": "Nathan Barry",
+   "feed": "nathanbarry-com-feed",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793289600
+  },
+  {
+   "title": "《工资外收入：不要再单次、廉价地出卖你的时间》书摘",
+   "link": "https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/",
+   "author": "Bai Huancheng",
+   "source": "Bai Huancheng",
+   "feed": "www-ixiqin-com-feed",
+   "lang": "zh",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793286671
+  },
+  {
+   "title": "We're releasing the weights of Mistral Large 4",
+   "link": "https://mistral.ai/news/mistral-large-4-oss/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793283201
+  },
+  {
+   "title": "Quoting Ben Hylak",
+   "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793282787
+  },
+  {
+   "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
+   "link": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793281204
+  },
+  {
+   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+   "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793277716
+  },
+  {
+   "title": "DoorDash to acquire Instacart",
+   "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793277185
+  },
+  {
+   "title": "Zero click, silent, remote Android DoS",
+   "link": "https://smsofdeath.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793257730
+  },
   {
    "title": "一些近期改善睡眠质量的尝试",
    "link": "https://blog.douchi.space/sleep-env-improvement/?utm_source=rss",
@@ -822,6 +965,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793225082
+  },
+  {
+   "title": "A Health Update",
+   "link": "https://furbo.org/2026/10/28/a-health-update/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793222001
   },
   {
    "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
@@ -1123,19 +1279,6 @@
    "ts": 1793181476
   },
   {
-   "title": "Wealth Inequality in America drawn to scale",
-   "link": "https://dreamagainusa.org/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793177301
-  },
-  {
    "title": "OpenLLM",
    "link": "https://www.producthunt.com/products/openllm",
    "author": "Product Hunt",
@@ -1160,19 +1303,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793167813
-  },
-  {
-   "title": "Git for the US Code",
-   "link": "https://lexifina.com/blog/git-for-the-us-code",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793152070
   },
   {
    "title": "Dedica",
@@ -1201,17 +1331,17 @@
    "ts": 1793145067
   },
   {
-   "title": "Early progress on accelerating drug development with Claude",
-   "link": "https://www.anthropic.com/research/early-progress-drug-development",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Basedash View-only members",
+   "link": "https://www.producthunt.com/products/basedash",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-10-28",
    "day": "Oct 28",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1793134242
+   "ts": 1793136394
   },
   {
    "title": "Radar",
@@ -1225,19 +1355,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793133719
-  },
-  {
-   "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-   "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793133309
   },
   {
    "title": "Congress Trades",
@@ -1266,32 +1383,6 @@
    "ts": 1793131038
   },
   {
-   "title": "Tailscale SSH: Investigation and remediation update",
-   "link": "https://tailscale.com/ssh-investigation-update",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793130921
-  },
-  {
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "link": "https://www.brangus.io/survival-llm",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793130906
-  },
-  {
    "title": "Game Boy Color on My Conference Badge",
    "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
    "author": "Simon Willison",
@@ -1305,17 +1396,17 @@
    "ts": 1793129658
   },
   {
-   "title": "Discord will soon let anyone find public server messages through Google",
-   "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Boltbar",
+   "link": "https://www.producthunt.com/products/boltbar",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-10-28",
    "day": "Oct 28",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1793126657
+   "ts": 1793126020
   },
   {
    "title": "A Podcast to Learn German",
@@ -1357,19 +1448,6 @@
    "ts": 1793120595
   },
   {
-   "title": "Ghostty 1.4",
-   "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793119882
-  },
-  {
    "title": "Our Silly Games",
    "link": "https://www.producthunt.com/products/our-silly-games",
    "author": "Product Hunt",
@@ -1381,32 +1459,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793117474
-  },
-  {
-   "title": "Genie 4",
-   "link": "https://www.producthunt.com/products/gemini-1-5-pro",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793117317
-  },
-  {
-   "title": "OneDeploy",
-   "link": "https://www.producthunt.com/products/onedeploy",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-27",
-   "day": "Oct 27",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793116640
   },
   {
    "title": "Enclave",
@@ -2514,19 +2566,6 @@
    "ts": 1792065621
   },
   {
-   "title": "LaTeX renderer",
-   "link": "https://simonwillison.net/2026/Oct/15/latex/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792030048
-  },
-  {
    "title": "Parenting, eight years in",
    "link": "https://www.coryzue.com/writing/eight-years-parenting/",
    "author": "Cory Zue",
@@ -2551,19 +2590,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792015080
-  },
-  {
-   "title": "Tree Appreciator",
-   "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792012981
   },
   {
    "title": "OpenAI’s lead engineer was secretly a spy...",
@@ -5426,19 +5452,6 @@
    "ts": 1787270400
   },
   {
-   "title": "How to Turn Your Creator Business Into an Empire | 142",
-   "link": "https://nathanbarry.com/how-to-turn-your-creator-business-into-an-empire-142/",
-   "author": "Nathan Barry",
-   "source": "Nathan Barry",
-   "feed": "nathanbarry-com-feed",
-   "lang": "en",
-   "date": "2026-08-21",
-   "day": "Aug 21",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1787241600
-  },
-  {
    "title": "做研究需有自证清白的觉悟",
    "link": "https://yanlinlin.cn/2026/08/20/self-proving-innocence-of-research/",
    "author": "Yan Linlin",
@@ -5502,19 +5515,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1787039256
-  },
-  {
-   "title": "观《牛来》后记",
-   "link": "https://www.ixiqin.com/2026/08/18/afterword-to-niu-lai/",
-   "author": "Bai Huancheng",
-   "source": "Bai Huancheng",
-   "feed": "www-ixiqin-com-feed",
-   "lang": "zh",
-   "date": "2026-08-18",
-   "day": "Aug 18",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1787022730
   },
   {
    "title": "Spell Checking for Your Projects",
@@ -5697,6 +5697,19 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1786288471
+  },
+  {
+   "title": "成都outing",
+   "link": "https://www.skyue.com/26080915.html",
+   "author": "SKYue",
+   "source": "SKYue",
+   "feed": "www-skyue-com-feed",
+   "lang": "zh",
+   "date": "2026-08-09",
+   "day": "Aug 9",
+   "ym": "2026-08",
+   "ym_label": "August 2026",
+   "ts": 1786261980
   },
   {
    "title": "Agent 插件如何走向工程化：Better Harness 的五个实践",
@@ -6401,6 +6414,19 @@
    "ts": 1783865100
   },
   {
+   "title": "搬家",
+   "link": "https://www.skyue.com/26071218.html",
+   "author": "SKYue",
+   "source": "SKYue",
+   "feed": "www-skyue-com-feed",
+   "lang": "zh",
+   "date": "2026-07-12",
+   "day": "Jul 12",
+   "ym": "2026-07",
+   "ym_label": "July 2026",
+   "ts": 1783852560
+  },
+  {
    "title": "gitweets改版，复刻微信「朋友圈」",
    "link": "https://blog.est.im/2026/stdout-28",
    "author": "Est",
@@ -6880,6 +6906,19 @@
    "ym": "2026-06",
    "ym_label": "June 2026",
    "ts": 1782691200
+  },
+  {
+   "title": "vibe coding上瘾，真上瘾",
+   "link": "https://www.skyue.com/26062821.html",
+   "author": "SKYue",
+   "source": "SKYue",
+   "feed": "www-skyue-com-feed",
+   "lang": "zh",
+   "date": "2026-06-28",
+   "day": "Jun 28",
+   "ym": "2026-06",
+   "ym_label": "June 2026",
+   "ts": 1782652320
   },
   {
    "title": "The $1 Trillion Problem Diamonds Can Solve",
