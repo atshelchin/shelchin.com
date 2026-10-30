@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30 06:44",
+ "updated": "2026-10-30 13:45",
  "languages": [
   {
    "key": "zh",
@@ -203,7 +203,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "blog-devtang-com-atom-xml",
@@ -681,6 +681,45 @@
  ],
  "items": [
   {
+   "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+   "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+   "author": "Ruan Yifeng",
+   "source": "Ruan Yifeng's Weblog",
+   "feed": "www-ruanyifeng-com-blog-atom-xml",
+   "lang": "zh",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793319183
+  },
+  {
+   "title": "API credits benefit for eligible ChatGPT subscriptions",
+   "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793314109
+  },
+  {
+   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+   "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793309939
+  },
+  {
    "title": "Patrick Stewart has died",
    "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
    "author": "Hacker News",
@@ -692,6 +731,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793302899
+  },
+  {
+   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+   "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793295828
   },
   {
    "title": "Building a multiplayer game world with autonomous Fable-class models",
@@ -733,6 +785,19 @@
    "ts": 1793289600
   },
   {
+   "title": "H.264 Is Magic (2016)",
+   "link": "https://sidbala.com/h-264-is-magic/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793289183
+  },
+  {
    "title": "《工资外收入：不要再单次、廉价地出卖你的时间》书摘",
    "link": "https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/",
    "author": "Bai Huancheng",
@@ -744,6 +809,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793286671
+  },
+  {
+   "title": "LLM Voice",
+   "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793285875
   },
   {
    "title": "We're releasing the weights of Mistral Large 4",
@@ -809,6 +887,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793277185
+  },
+  {
+   "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+   "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793270561
   },
   {
    "title": "Zero click, silent, remote Android DoS",
@@ -882,6 +973,19 @@
    "source": "Tw93",
    "feed": "tw93-fun-feed-xml",
    "lang": "zh",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793232000
+  },
+  {
+   "title": "An Introduction to xfun",
+   "link": "https://yihui.org/xfun/",
+   "author": "Yihui Xie",
+   "source": "Yihui Xie",
+   "feed": "yihui-org-index-xml",
+   "lang": "en",
    "date": "2026-10-29",
    "day": "Oct 29",
    "ym": "2026-10",
@@ -1097,19 +1201,6 @@
    "ts": 1793205923
   },
   {
-   "title": "CNC Stone Carving",
-   "link": "https://carmelitegothic.com/cnc-stone-carving/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793198302
-  },
-  {
    "title": "The October inflection point for vibe game development",
    "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
    "author": "Simon Willison",
@@ -1123,19 +1214,6 @@
    "ts": 1793195715
   },
   {
-   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-   "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793194890
-  },
-  {
    "title": "Did the AI bubble just pop?",
    "link": "https://www.youtube.com/watch?v=nEaJMdM1djM",
    "author": "Fireship",
@@ -1147,32 +1225,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793194289
-  },
-  {
-   "title": "Emacs Turns 50",
-   "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793193911
-  },
-  {
-   "title": "Evidence of a spying operation by ICE against left-wing social movements",
-   "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793191785
   },
   {
    "title": "MAO",
@@ -1199,19 +1251,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793186679
-  },
-  {
-   "title": "Apple's git still trusts the compromised eMudhra certificates",
-   "link": "https://emudhra.we-have-a-problem.com/apple.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793185420
   },
   {
    "title": "Smart Jelly",
@@ -1305,19 +1344,6 @@
    "ts": 1793167813
   },
   {
-   "title": "Dedica",
-   "link": "https://www.producthunt.com/products/dedica",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793148335
-  },
-  {
    "title": "Confetti",
    "link": "https://www.producthunt.com/products/confetti-5",
    "author": "Product Hunt",
@@ -1329,19 +1355,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793145067
-  },
-  {
-   "title": "Basedash View-only members",
-   "link": "https://www.producthunt.com/products/basedash",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793136394
   },
   {
    "title": "Radar",
@@ -1459,6 +1472,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793117474
+  },
+  {
+   "title": "NotiKeep",
+   "link": "https://www.producthunt.com/products/notikeep",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793116960
+  },
+  {
+   "title": "OneDeploy",
+   "link": "https://www.producthunt.com/products/onedeploy",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-27",
+   "day": "Oct 27",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793116640
   },
   {
    "title": "Enclave",
@@ -2540,19 +2579,6 @@
    "ts": 1792080000
   },
   {
-   "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-   "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-15",
-   "day": "Oct 15",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792069443
-  },
-  {
    "title": "The REAL reason China built so much",
    "link": "https://www.youtube.com/watch?v=axRhjqd-rus",
    "author": "Johnny Harris",
@@ -2915,19 +2941,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791475200
-  },
-  {
-   "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
-   "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html",
-   "author": "Ruan Yifeng",
-   "source": "Ruan Yifeng's Weblog",
-   "feed": "www-ruanyifeng-com-blog-atom-xml",
-   "lang": "zh",
-   "date": "2026-10-08",
-   "day": "Oct 8",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791471886
   },
   {
    "title": "What I've been working on all year",
@@ -4609,19 +4622,6 @@
   {
    "title": "A Review of **rmarkdown** Updates from 2024 to 2026",
    "link": "https://yihui.org/en/2026/09/rmarkdown-news/",
-   "author": "Yihui Xie",
-   "source": "Yihui Xie",
-   "feed": "yihui-org-index-xml",
-   "lang": "en",
-   "date": "2026-09-09",
-   "day": "Sep 9",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788912000
-  },
-  {
-   "title": "A Review of **knitr** Updates from 2024 to 2026",
-   "link": "https://yihui.org/en/2026/09/knitr-news/",
    "author": "Yihui Xie",
    "source": "Yihui Xie",
    "feed": "yihui-org-index-xml",
