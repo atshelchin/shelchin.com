@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30 20:52",
+ "updated": "2026-10-31 06:17",
  "languages": [
   {
    "key": "zh",
@@ -148,7 +148,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-pseudoyu-com-feed-xml",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,6 +681,136 @@
  ],
  "items": [
   {
+   "title": "dbreunig/nesformer",
+   "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793397562
+  },
+  {
+   "title": "Inside the $6 Billion Binance Hack",
+   "link": "https://www.youtube.com/watch?v=SwZgfGzbKfQ",
+   "author": "Bankless",
+   "source": "Bankless",
+   "feed": "youtube-bankless",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793385003
+  },
+  {
+   "title": "What Robert Caro learned about power after studying it for 50 years",
+   "link": "https://www.youtube.com/watch?v=f0J_EeW42Lo",
+   "author": "Dwarkesh Patel",
+   "source": "Dwarkesh Patel",
+   "feed": "youtube-dwarkesh-patel",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793380715
+  },
+  {
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793375538
+  },
+  {
+   "title": "Northflank Breached",
+   "link": "https://status.northflank.com",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793373031
+  },
+  {
+   "title": "Silicon Valley Walks the Jagged Edge",
+   "link": "https://www.youtube.com/watch?v=gADulYiRSww",
+   "author": "Asianometry",
+   "source": "Asianometry",
+   "feed": "youtube-asianometry",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793368840
+  },
+  {
+   "title": "Who Actually Calls the main Function?",
+   "link": "https://www.youtube.com/watch?v=8gnvx11j288",
+   "author": "Core Dumped",
+   "source": "Core Dumped",
+   "feed": "youtube-core-dumped",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793365213
+  },
+  {
+   "title": "Neuralink’s Newest Brain Chip Isn’t What You Think",
+   "link": "https://www.youtube.com/watch?v=Vna0hkq7U1g",
+   "author": "Cleo Abram",
+   "source": "Cleo Abram",
+   "feed": "youtube-cleo-abram",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793364396
+  },
+  {
+   "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+   "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793362080
+  },
+  {
+   "title": "Backdoors in official Claude Code extensions",
+   "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793358353
+  },
+  {
    "title": "Why Bitcoin’s Biggest Bears Might Be Wrong",
    "link": "https://www.youtube.com/watch?v=mCIMg7oYCL4",
    "author": "Bankless",
@@ -692,6 +822,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793356211
+  },
+  {
+   "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+   "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793355771
+  },
+  {
+   "title": "elect.horse",
+   "link": "https://elect.horse/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793351674
   },
   {
    "title": "开坑！从 AI Coding 到 AI4S：新开源项目 Pero 的一次探索",
@@ -707,6 +863,19 @@
    "ts": 1793345208
   },
   {
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793344152
+  },
+  {
    "title": "Axonnic",
    "link": "https://www.producthunt.com/products/axonnic",
    "author": "Product Hunt",
@@ -718,6 +887,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793322676
+  },
+  {
+   "title": "Herdr has released native app",
+   "link": "https://github.com/herdrdev/herdr-app",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793320961
   },
   {
    "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
@@ -770,6 +952,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793311425
+  },
+  {
+   "title": "We ran AI agent swarms in Minecraft and Mindustry",
+   "link": "https://labs.ycombinator.com/projects/games/index.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793310028
   },
   {
    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
@@ -876,7 +1071,7 @@
    "ts": 1793293226
   },
   {
-   "title": "How an unelected man ruled New York for 30 years",
+   "title": "What Robert Caro’s books taught me about power",
    "link": "https://www.youtube.com/watch?v=kX_WmQK_tt0",
    "author": "Dwarkesh Patel",
    "source": "Dwarkesh Patel",
@@ -926,6 +1121,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793289183
+  },
+  {
+   "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+   "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793287822
   },
   {
    "title": "sitesolide",
@@ -1045,19 +1253,6 @@
    "ts": 1793270671
   },
   {
-   "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-   "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793270561
-  },
-  {
    "title": "Chopstick",
    "link": "https://www.producthunt.com/products/chopstick",
    "author": "Product Hunt",
@@ -1069,19 +1264,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793259503
-  },
-  {
-   "title": "Zero click, silent, remote Android DoS",
-   "link": "https://smsofdeath.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793257730
   },
   {
    "title": "一些近期改善睡眠质量的尝试",
@@ -1123,19 +1305,6 @@
    "ts": 1793251875
   },
   {
-   "title": "Claude Code regularly sends each background agent’s transcript to its model",
-   "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793244822
-  },
-  {
    "title": "fastbrowse",
    "link": "https://www.producthunt.com/products/fastbrowse",
    "author": "Product Hunt",
@@ -1147,19 +1316,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793244309
-  },
-  {
-   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-   "link": "https://divagr.com/blog/qwenputer",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793233545
   },
   {
    "title": "2026 年，我的 21 条 AI Coding 最佳实践",
@@ -1199,19 +1355,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793231265
-  },
-  {
-   "title": "StackOverflow now gets fewer than 1000 questions a month",
-   "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793230502
   },
   {
    "title": "Quoting Ted Sanders",
@@ -1264,32 +1407,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793225082
-  },
-  {
-   "title": "A Health Update",
-   "link": "https://furbo.org/2026/10/28/a-health-update/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793222001
-  },
-  {
-   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-   "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793221404
   },
   {
    "title": "Kestrix",
@@ -1355,45 +1472,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793208434
-  },
-  {
-   "title": "Why is this fingerprinting script creating bioweapons?",
-   "link": "https://nullpt.rs/fingerprinting-bioweapons",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793207609
-  },
-  {
-   "title": "MacBook Pro with PROLED XDR Display and Touch",
-   "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793207437
-  },
-  {
-   "title": "Gemini 4 Carbon",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793206883
   },
   {
    "title": "GitHub Octoverse 2026",
@@ -2577,19 +2655,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792105203
-  },
-  {
-   "title": "Chirp Pong",
-   "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792093672
   },
   {
    "title": "The runtime wars are over... and Node won",
@@ -3957,19 +4022,6 @@
    "ts": 1790166060
   },
   {
-   "title": "Meme Coins May Have Found a Real Use Case",
-   "link": "https://www.youtube.com/watch?v=nR8e_cHU-SQ",
-   "author": "Bankless",
-   "source": "Bankless",
-   "feed": "youtube-bankless",
-   "lang": "en",
-   "date": "2026-09-23",
-   "day": "Sep 23",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1790159432
-  },
-  {
    "title": "She Learned Accent Free German On Her Own",
    "link": "https://www.youtube.com/watch?v=c4nE091F970",
    "author": "Easy German",
@@ -4826,19 +4878,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788487740
-  },
-  {
-   "title": "AI EDAs: Is It Real?",
-   "link": "https://www.youtube.com/watch?v=GzhfZy8-CjU",
-   "author": "Asianometry",
-   "source": "Asianometry",
-   "feed": "youtube-asianometry",
-   "lang": "en",
-   "date": "2026-09-04",
-   "day": "Sep 4",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788476409
   },
   {
    "title": "How to ACTUALLY Sell a Creator Business | 144",
@@ -6971,19 +7010,6 @@
    "ym": "2026-06",
    "ym_label": "June 2026",
    "ts": 1782500640
-  },
-  {
-   "title": "What does the next training paradigm look like?",
-   "link": "https://www.youtube.com/watch?v=20p5-kQXF_Q",
-   "author": "Dwarkesh Patel",
-   "source": "Dwarkesh Patel",
-   "feed": "youtube-dwarkesh-patel",
-   "lang": "en",
-   "date": "2026-06-27",
-   "day": "Jun 27",
-   "ym": "2026-06",
-   "ym_label": "June 2026",
-   "ts": 1782492970
   },
   {
    "title": "《DeepSeek高效数据分析》书评",
@@ -10171,19 +10197,6 @@
    "ts": 1765641683
   },
   {
-   "title": "How Real Projects Mix Compiled and Interpreted Languages",
-   "link": "https://www.youtube.com/watch?v=RnBOOF502p0",
-   "author": "Core Dumped",
-   "source": "Core Dumped",
-   "feed": "youtube-core-dumped",
-   "lang": "en",
-   "date": "2025-12-12",
-   "day": "Dec 12",
-   "ym": "2025-12",
-   "ym_label": "December 2025",
-   "ts": 1765552800
-  },
-  {
    "title": "Vibe Coding Won’t Kill SaaS",
    "link": "https://thebootstrappedfounder.com/vibe-coding-wont-kill-saas/",
    "author": "Arvid Kahl",
@@ -10793,19 +10806,6 @@
    "ym": "2025-10",
    "ym_label": "October 2025",
    "ts": 1760643890
-  },
-  {
-   "title": "The Real Reason We Should Revive Extinct Animals",
-   "link": "https://www.youtube.com/watch?v=iX6w1P60m8M",
-   "author": "Cleo Abram",
-   "source": "Cleo Abram",
-   "feed": "youtube-cleo-abram",
-   "lang": "en",
-   "date": "2025-10-14",
-   "day": "Oct 14",
-   "ym": "2025-10",
-   "ym_label": "October 2025",
-   "ts": 1760445961
   },
   {
    "title": "基于 AI 语义执行的 MCP 区块链的设计",
