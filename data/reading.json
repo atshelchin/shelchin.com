@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31 20:25",
+ "updated": "2026-11-01 05:32",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,45 @@
  ],
  "items": [
   {
+   "title": "Who’s Afraid of “ByteDance Time”?",
+   "link": "https://www.pekingnology.com/p/whos-afraid-of-bytedance-time",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793473317
+  },
+  {
+   "title": "AI 开始让我们忘记什么是软件工程",
+   "link": "https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/",
+   "author": "smallyu",
+   "source": "smallyu's Blog",
+   "feed": "smallyu-net-atom-xml",
+   "lang": "zh",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793460345
+  },
+  {
+   "title": "Serbia just elected the world's brainiest parliament",
+   "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793442090
+  },
+  {
    "title": "浅薄而自信丨一周语文（2644）",
    "link": "https://www.huangjiwei.com/blog/?p=12765",
    "author": "Huang Jiwei",
@@ -718,6 +757,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793418326
+  },
+  {
+   "title": "Tell HN: Scribd Breached",
+   "link": "https://news.ycombinator.com/item?id=50312756",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793414796
   },
   {
    "title": "Henry Huiyao Wang: A Xi-Trump-Putin summit in Shenzhen could kick-start peace in Ukraine",
@@ -902,6 +954,32 @@
    "ts": 1793375538
   },
   {
+   "title": "Florilegium: Procedural Flowers in LaTeX",
+   "link": "https://github.com/kevinraymond/florilegium",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793375292
+  },
+  {
+   "title": "The federated code forge",
+   "link": "https://tangled.org/blog/forge/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793375069
+  },
+  {
    "title": "Northflank Breached",
    "link": "https://status.northflank.com",
    "author": "Hacker News",
@@ -913,6 +991,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793373031
+  },
+  {
+   "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+   "link": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793370464
   },
   {
    "title": "Silicon Valley Walks the Jagged Edge",
@@ -1240,19 +1331,6 @@
    "ts": 1793302960
   },
   {
-   "title": "Patrick Stewart has died",
-   "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793302899
-  },
-  {
    "title": "Canva Brush",
    "link": "https://www.producthunt.com/products/canva",
    "author": "Product Hunt",
@@ -1277,19 +1355,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793296454
-  },
-  {
-   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-   "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793295828
   },
   {
    "title": "BaseTab AI",
@@ -1331,19 +1396,6 @@
    "ts": 1793292684
   },
   {
-   "title": "Google Search is now less than half of Alphabet’s revenue",
-   "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793292137
-  },
-  {
    "title": "The Newsletter Is Dead. Here’s How To Survive AI Agents | 152",
    "link": "https://nathanbarry.com/the-newsletter-is-dead-heres-how-to-survive-ai-agents-152/",
    "author": "Nathan Barry",
@@ -1355,32 +1407,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793289600
-  },
-  {
-   "title": "H.264 Is Magic (2016)",
-   "link": "https://sidbala.com/h-264-is-magic/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793289183
-  },
-  {
-   "title": "I went to Mexico to test-drive the cars Americans can’t buy",
-   "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793287822
   },
   {
    "title": "sitesolide",
@@ -1487,6 +1513,19 @@
    "ts": 1793252375
   },
   {
+   "title": "Arco",
+   "link": "https://www.producthunt.com/products/arco-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793251875
+  },
+  {
    "title": "fastbrowse",
    "link": "https://www.producthunt.com/products/fastbrowse",
    "author": "Product Hunt",
@@ -1539,19 +1578,6 @@
    "ts": 1793232000
   },
   {
-   "title": "Flatbread",
-   "link": "https://www.producthunt.com/products/flatbread",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793231265
-  },
-  {
    "title": "Quoting Ted Sanders",
    "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
    "author": "Simon Willison",
@@ -1565,8 +1591,8 @@
    "ts": 1793229801
   },
   {
-   "title": "Polylane for ChatGPT",
-   "link": "https://www.producthunt.com/products/polylane",
+   "title": "AutoShelf 2.6",
+   "link": "https://www.producthunt.com/products/autoshelf",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1575,7 +1601,7 @@
    "day": "Oct 29",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1793225082
+   "ts": 1793225991
   },
   {
    "title": "Kestrix",
@@ -1589,6 +1615,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793219170
+  },
+  {
+   "title": "Suno MCP",
+   "link": "https://www.producthunt.com/products/suno",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793212434
+  },
+  {
+   "title": "IFTTT.ai",
+   "link": "https://www.producthunt.com/products/ifttt",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793211981
   },
   {
    "title": "GitHub Octoverse 2026",
@@ -1628,32 +1680,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793194289
-  },
-  {
-   "title": "Mo",
-   "link": "https://www.producthunt.com/products/mo-5",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793187569
-  },
-  {
-   "title": "Knucklebop",
-   "link": "https://www.producthunt.com/products/knucklebop",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793185333
   },
   {
    "title": "远程工作不要居家",
@@ -4163,19 +4189,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789966800
-  },
-  {
-   "title": "Ju Jiandong says China should issue 10 trillion yuan of govt bonds to int’l investors",
-   "link": "https://www.pekingnology.com/p/ju-jiandong-says-china-should-issue",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-09-21",
-   "day": "Sep 21",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789955798
   },
   {
    "title": "Three New Debugging Aids in knitr",
@@ -11625,19 +11638,6 @@
    "ym": "2025-08",
    "ym_label": "August 2025",
    "ts": 1754137020
-  },
-  {
-   "title": "对 Psyche Network 项目的分析",
-   "link": "https://smallyu.net/2025/08/01/%E5%AF%B9Psyche-Network%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%88%86%E6%9E%90/",
-   "author": "smallyu",
-   "source": "smallyu's Blog",
-   "feed": "smallyu-net-atom-xml",
-   "lang": "zh",
-   "date": "2025-08-01",
-   "day": "Aug 1",
-   "ym": "2025-08",
-   "ym_label": "August 2025",
-   "ts": 1754030001
   },
   {
    "title": "RailsConf workshop recording and Ruby Friends v1.2",
