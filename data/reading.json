@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31 06:17",
+ "updated": "2026-10-31 13:38",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,49 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "浅薄而自信丨一周语文（2644）",
+   "link": "https://www.huangjiwei.com/blog/?p=12765",
+   "author": "Huang Jiwei",
+   "source": "Huang Jiwei",
+   "feed": "www-huangjiwei-com-blog",
+   "lang": "zh",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793423661
+  },
+  {
+   "title": "Henry Huiyao Wang: A Xi-Trump-Putin summit in Shenzhen could kick-start peace in Ukraine",
+   "link": "https://www.pekingnology.com/p/henry-huiyao-wang-a-xi-trump-putin",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793413849
+  },
+  {
+   "title": "Digital minimalism",
+   "link": "https://vitalik.ca/general/2026/10/31/digital_minimalism.html",
+   "author": "Vitalik Buterin",
+   "source": "Vitalik Buterin",
+   "feed": "vitalik-eth-limo-feed-xml",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793404800
+  },
   {
    "title": "dbreunig/nesformer",
    "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
@@ -770,6 +809,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793365213
+  },
+  {
+   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+   "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793364601
   },
   {
    "title": "Neuralink’s Newest Brain Chip Isn’t What You Think",
@@ -1225,19 +1277,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793277716
-  },
-  {
-   "title": "DoorDash to acquire Instacart",
-   "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793277185
   },
   {
    "title": "SpeakON Agent",
@@ -4243,19 +4282,6 @@
    "ts": 1789923610
   },
   {
-   "title": "Henry Huiyao Wang on Xi Jinping’s Upcoming U.S. Visit",
-   "link": "https://www.pekingnology.com/p/henry-huiyao-wang-on-xi-jinpings",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-09-20",
-   "day": "Sep 20",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789916945
-  },
-  {
    "title": "A Four-Day knitr Issue/PR Backlog Sprint",
    "link": "https://yihui.org/en/2026/09/knitr-backlog/",
    "author": "Yihui Xie",
@@ -5463,19 +5489,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1787380560
-  },
-  {
-   "title": "因为世界在抽疯丨一周语文（2634）",
-   "link": "https://www.huangjiwei.com/blog/?p=12717",
-   "author": "Huang Jiwei",
-   "source": "Huang Jiwei",
-   "feed": "www-huangjiwei-com-blog",
-   "lang": "zh",
-   "date": "2026-08-22",
-   "day": "Aug 22",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1787375653
   },
   {
    "title": "阿里赌AI 赌得比腾讯大",
@@ -13042,19 +13055,6 @@
    "ym": "2024-12",
    "ym_label": "December 2024",
    "ts": 1733215142
-  },
-  {
-   "title": "What I would love to see in a wallet",
-   "link": "https://vitalik.ca/general/2024/12/03/wallets.html",
-   "author": "Vitalik Buterin",
-   "source": "Vitalik Buterin",
-   "feed": "vitalik-eth-limo-feed-xml",
-   "lang": "en",
-   "date": "2024-12-03",
-   "day": "Dec 3",
-   "ym": "2024-12",
-   "ym_label": "December 2024",
-   "ts": 1733184000
   },
   {
    "title": "How I would learn to code in 2025 (if I could start over)",
