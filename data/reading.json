@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 13:59",
+ "updated": "2026-11-01 21:20",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,23 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": false
+   "ok": true
   }
  ],
  "items": [
+  {
+   "title": "2026年第44周",
+   "link": "https://www.skyue.com/26110118.html",
+   "author": "SKYue",
+   "source": "SKYue",
+   "feed": "www-skyue-com-feed",
+   "lang": "zh",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793529180
+  },
   {
    "title": "关我辟事 Vol.58：长夜前的绚烂",
    "link": "https://blog.douchi.space/spark-joy-digest-2026-10/?utm_source=rss",
@@ -720,6 +733,19 @@
    "ts": 1793488522
   },
   {
+   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+   "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793486466
+  },
+  {
    "title": "datasette-llm 0.1a9",
    "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
    "author": "Simon Willison",
@@ -744,6 +770,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793476613
+  },
+  {
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793475559
   },
   {
    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
@@ -772,11 +811,24 @@
    "ts": 1793473317
   },
   {
+   "title": "agentmash",
+   "link": "https://www.producthunt.com/products/agentmash",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793470099
+  },
+  {
    "title": "AI 开始让我们忘记什么是软件工程",
-   "link": "https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/",
+   "link": "https://b.smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/",
    "author": "smallyu",
-   "source": "smallyu's Blog",
-   "feed": "smallyu-net-atom-xml",
+   "source": "smallyu's Blog (B-side)",
+   "feed": "b-smallyu-net-atom-xml",
    "lang": "zh",
    "date": "2026-10-31",
    "day": "Oct 31",
@@ -822,6 +874,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793442090
+  },
+  {
+   "title": "ernd",
+   "link": "https://www.producthunt.com/products/ernd",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793434050
   },
   {
    "title": "Digital minimalism",
@@ -1110,6 +1175,32 @@
    "ts": 1793373031
   },
   {
+   "title": "Chorin: Ora et Labora",
+   "link": "https://www.producthunt.com/products/chorin-ora-et-labora",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793372643
+  },
+  {
+   "title": "Screen Studio 4.0",
+   "link": "https://www.producthunt.com/products/screen-studio",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793371322
+  },
+  {
    "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
    "link": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
    "author": "Hacker News",
@@ -1201,19 +1292,6 @@
    "ts": 1793362080
   },
   {
-   "title": "Backdoors in official Claude Code extensions",
-   "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793358353
-  },
-  {
    "title": "Why Bitcoin’s Biggest Bears Might Be Wrong",
    "link": "https://www.youtube.com/watch?v=mCIMg7oYCL4",
    "author": "Bankless",
@@ -1225,19 +1303,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793356211
-  },
-  {
-   "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
-   "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793355771
   },
   {
    "title": "SKI",
@@ -1266,8 +1331,8 @@
    "ts": 1793345208
   },
   {
-   "title": "Axonnic",
-   "link": "https://www.producthunt.com/products/axonnic",
+   "title": "Embage",
+   "link": "https://www.producthunt.com/products/embage",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1276,7 +1341,33 @@
    "day": "Oct 30",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1793322676
+   "ts": 1793343700
+  },
+  {
+   "title": "Termy",
+   "link": "https://www.producthunt.com/products/termy-6ded6eb5-533c-4df5-a4f6-94b97ed8ca62",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793341453
+  },
+  {
+   "title": "Hamdori",
+   "link": "https://www.producthunt.com/products/hamdori",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793339586
   },
   {
    "title": "Hemmed",
@@ -1318,8 +1409,8 @@
    "ts": 1793314109
   },
   {
-   "title": "Norah Studio",
-   "link": "https://www.producthunt.com/products/norah-studio",
+   "title": "Usage for Claude + ChatGPT 4.0",
+   "link": "https://www.producthunt.com/products/usage-for-claude",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1328,20 +1419,7 @@
    "day": "Oct 30",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1793311503
-  },
-  {
-   "title": "StepGrab",
-   "link": "https://www.producthunt.com/products/stepgrab",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793311425
+   "ts": 1793309911
   },
   {
    "title": "Nocto",
@@ -1383,8 +1461,8 @@
    "ts": 1793302960
   },
   {
-   "title": "Canva Brush",
-   "link": "https://www.producthunt.com/products/canva",
+   "title": "Fluent 2",
+   "link": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1393,7 +1471,7 @@
    "day": "Oct 30",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1793301803
+   "ts": 1793298946
   },
   {
    "title": "Faylee",
@@ -1420,6 +1498,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793295663
+  },
+  {
+   "title": "Precise Edit by Ideogram",
+   "link": "https://www.producthunt.com/products/ideogram",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793293465
   },
   {
    "title": "Building a multiplayer game world with autonomous Fable-class models",
@@ -1459,6 +1550,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793289600
+  },
+  {
+   "title": "BeeBranch",
+   "link": "https://www.producthunt.com/products/beebranch",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793289551
   },
   {
    "title": "sitesolide",
@@ -1565,32 +1669,6 @@
    "ts": 1793252375
   },
   {
-   "title": "fastbrowse",
-   "link": "https://www.producthunt.com/products/fastbrowse",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793244309
-  },
-  {
-   "title": "telemetry.dev",
-   "link": "https://www.producthunt.com/products/telemetry-dev",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793232826
-  },
-  {
    "title": "2026 年，我的 21 条 AI Coding 最佳实践",
    "link": "https://tw93.fun/2026-10-29/practice.html",
    "author": "Tw93",
@@ -1628,32 +1706,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793229801
-  },
-  {
-   "title": "AssemblyAI",
-   "link": "https://www.producthunt.com/products/assemblyai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793226924
-  },
-  {
-   "title": "Kestrix",
-   "link": "https://www.producthunt.com/products/kestrix",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793219170
   },
   {
    "title": "GitHub Octoverse 2026",
@@ -1695,32 +1747,6 @@
    "ts": 1793194289
   },
   {
-   "title": "Mo",
-   "link": "https://www.producthunt.com/products/mo-5",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793187569
-  },
-  {
-   "title": "Knucklebop",
-   "link": "https://www.producthunt.com/products/knucklebop",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793185333
-  },
-  {
    "title": "远程工作不要居家",
    "link": "https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
    "author": "smallyu",
@@ -1745,19 +1771,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793182147
-  },
-  {
-   "title": "Notch Metrics",
-   "link": "https://www.producthunt.com/products/notch-metrics",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-28",
-   "day": "Oct 28",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793181476
   },
   {
    "title": "Game Boy Color on My Conference Badge",
@@ -7012,19 +7025,6 @@
    "ts": 1782691200
   },
   {
-   "title": "vibe coding上瘾，真上瘾",
-   "link": "https://www.skyue.com/26062821.html",
-   "author": "SKYue",
-   "source": "SKYue",
-   "feed": "www-skyue-com-feed",
-   "lang": "zh",
-   "date": "2026-06-28",
-   "day": "Jun 28",
-   "ym": "2026-06",
-   "ym_label": "June 2026",
-   "ts": 1782652320
-  },
-  {
    "title": "The $1 Trillion Problem Diamonds Can Solve",
    "link": "https://www.youtube.com/watch?v=HKJC84RLhyU",
    "author": "Cleo Abram",
@@ -11393,19 +11393,6 @@
    "ts": 1756055132
   },
   {
-   "title": "我从王垠的计算机科学课学到了什么（两个月版）",
-   "link": "https://b.smallyu.net/2025/08/24/%E6%88%91%E4%BB%8E%E7%8E%8B%E5%9E%A0%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E8%AF%BE%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%882/",
-   "author": "smallyu",
-   "source": "smallyu's Blog (B-side)",
-   "feed": "b-smallyu-net-atom-xml",
-   "lang": "zh",
-   "date": "2025-08-24",
-   "day": "Aug 24",
-   "ym": "2025-08",
-   "ym_label": "August 2025",
-   "ts": 1756008732
-  },
-  {
    "title": "中式葱花饼制作",
    "link": "https://jdhao.github.io/2025/08/23/chinese_style_scallion_pancake/",
    "author": "jdhao",
@@ -11638,6 +11625,19 @@
    "ym": "2025-08",
    "ym_label": "August 2025",
    "ts": 1754137020
+  },
+  {
+   "title": "对 Psyche Network 项目的分析",
+   "link": "https://smallyu.net/2025/08/01/%E5%AF%B9Psyche-Network%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%88%86%E6%9E%90/",
+   "author": "smallyu",
+   "source": "smallyu's Blog",
+   "feed": "smallyu-net-atom-xml",
+   "lang": "zh",
+   "date": "2025-08-01",
+   "day": "Aug 1",
+   "ym": "2025-08",
+   "ym_label": "August 2025",
+   "ts": 1754030001
   },
   {
    "title": "RailsConf workshop recording and Ruby Friends v1.2",
