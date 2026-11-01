@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 05:32",
+ "updated": "2026-11-01 13:59",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,88 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "关我辟事 Vol.58：长夜前的绚烂",
+   "link": "https://blog.douchi.space/spark-joy-digest-2026-10/?utm_source=rss",
+   "author": "Jiaoyan Douchi",
+   "source": "Jiaoyan Douchi",
+   "feed": "blog-douchi-space-index-xml",
+   "lang": "zh",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793512446
+  },
+  {
+   "title": "《重新理解创业》书评",
+   "link": "https://yanlinlin.cn/2026/11/01/reunderstanding-entrepreneurship-review/",
+   "author": "Yan Linlin",
+   "source": "Yan Linlin",
+   "feed": "yanlinlin-cn-index-xml",
+   "lang": "zh",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793494800
+  },
+  {
+   "title": "How We Took Over ChatGPT Accounts",
+   "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793488522
+  },
+  {
+   "title": "datasette-llm 0.1a9",
+   "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793484601
+  },
+  {
+   "title": "HackerTube: YouTube built from videos recommended by HN",
+   "link": "https://karpathy.bearblog.dev/hacker-tube/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793476613
+  },
+  {
+   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+   "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793474190
+  },
   {
    "title": "Who’s Afraid of “ByteDance Time”?",
    "link": "https://www.pekingnology.com/p/whos-afraid-of-bytedance-time",
@@ -707,6 +785,32 @@
    "ts": 1793460345
   },
   {
+   "title": "Do the math: How we took over ChatGPT accounts",
+   "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793442611
+  },
+  {
+   "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+   "link": "https://piefed.world/post/1503394",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793442221
+  },
+  {
    "title": "Serbia just elected the world's brainiest parliament",
    "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
    "author": "Hacker News",
@@ -718,6 +822,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793442090
+  },
+  {
+   "title": "Digital minimalism",
+   "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793427396
   },
   {
    "title": "浅薄而自信丨一周语文（2644）",
@@ -1006,6 +1123,19 @@
    "ts": 1793370464
   },
   {
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793369300
+  },
+  {
    "title": "Silicon Valley Walks the Jagged Edge",
    "link": "https://www.youtube.com/watch?v=gADulYiRSww",
    "author": "Asianometry",
@@ -1110,32 +1240,6 @@
    "ts": 1793355771
   },
   {
-   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-   "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793354775
-  },
-  {
-   "title": "elect.horse",
-   "link": "https://elect.horse/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793351674
-  },
-  {
    "title": "SKI",
    "link": "https://www.producthunt.com/products/ski",
    "author": "Product Hunt",
@@ -1162,19 +1266,6 @@
    "ts": 1793345208
   },
   {
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-   "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793344152
-  },
-  {
    "title": "Axonnic",
    "link": "https://www.producthunt.com/products/axonnic",
    "author": "Product Hunt",
@@ -1199,19 +1290,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793321428
-  },
-  {
-   "title": "Herdr has released native app",
-   "link": "https://github.com/herdrdev/herdr-app",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793320961
   },
   {
    "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
@@ -1264,32 +1342,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793311425
-  },
-  {
-   "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "link": "https://labs.ycombinator.com/projects/games/index.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793310028
-  },
-  {
-   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-   "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793309939
   },
   {
    "title": "Nocto",
@@ -1513,19 +1565,6 @@
    "ts": 1793252375
   },
   {
-   "title": "Arco",
-   "link": "https://www.producthunt.com/products/arco-4",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793251875
-  },
-  {
    "title": "fastbrowse",
    "link": "https://www.producthunt.com/products/fastbrowse",
    "author": "Product Hunt",
@@ -1591,8 +1630,8 @@
    "ts": 1793229801
   },
   {
-   "title": "AutoShelf 2.6",
-   "link": "https://www.producthunt.com/products/autoshelf",
+   "title": "AssemblyAI",
+   "link": "https://www.producthunt.com/products/assemblyai",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1601,7 +1640,7 @@
    "day": "Oct 29",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1793225991
+   "ts": 1793226924
   },
   {
    "title": "Kestrix",
@@ -1615,32 +1654,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793219170
-  },
-  {
-   "title": "Suno MCP",
-   "link": "https://www.producthunt.com/products/suno",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793212434
-  },
-  {
-   "title": "IFTTT.ai",
-   "link": "https://www.producthunt.com/products/ifttt",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793211981
   },
   {
    "title": "GitHub Octoverse 2026",
@@ -1682,6 +1695,32 @@
    "ts": 1793194289
   },
   {
+   "title": "Mo",
+   "link": "https://www.producthunt.com/products/mo-5",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793187569
+  },
+  {
+   "title": "Knucklebop",
+   "link": "https://www.producthunt.com/products/knucklebop",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793185333
+  },
+  {
    "title": "远程工作不要居家",
    "link": "https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
    "author": "smallyu",
@@ -1706,6 +1745,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793182147
+  },
+  {
+   "title": "Notch Metrics",
+   "link": "https://www.producthunt.com/products/notch-metrics",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793181476
   },
   {
    "title": "Game Boy Color on My Conference Badge",
@@ -2592,19 +2644,6 @@
    "ts": 1792214047
   },
   {
-   "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-   "link": "https://simonwillison.net/2026/Oct/16/code-review/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792188397
-  },
-  {
    "title": "There's never been a better time to go into math",
    "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
    "author": "3Blue1Brown",
@@ -2681,19 +2720,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792116236
-  },
-  {
-   "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
-   "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792115880
   },
   {
    "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
@@ -4709,19 +4735,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788997080
-  },
-  {
-   "title": "博客作者问卷",
-   "link": "https://blog.douchi.space/blogger-survey/?utm_source=rss",
-   "author": "Jiaoyan Douchi",
-   "source": "Jiaoyan Douchi",
-   "feed": "blog-douchi-space-index-xml",
-   "lang": "zh",
-   "date": "2026-09-09",
-   "day": "Sep 9",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788968760
   },
   {
    "title": "iPhone Duo: First Developer Good-to-Knows",
@@ -7693,19 +7706,6 @@
    "author": "Baoyu",
    "source": "Baoyu",
    "feed": "baoyu-io-feed-xml",
-   "lang": "zh",
-   "date": "2026-05-23",
-   "day": "May 23",
-   "ym": "2026-05",
-   "ym_label": "May 2026",
-   "ts": 1779494400
-  },
-  {
-   "title": "《放开那个女巫》书评",
-   "link": "https://yanlinlin.cn/2026/05/23/release-the-witch-review/",
-   "author": "Yan Linlin",
-   "source": "Yan Linlin",
-   "feed": "yanlinlin-cn-index-xml",
    "lang": "zh",
    "date": "2026-05-23",
    "day": "May 23",
