@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 21:20",
+ "updated": "2026-11-02 06:00",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -680,6 +680,45 @@
   }
  ],
  "items": [
+  {
+   "title": "What Germans Think About Turks (Street Interviews)",
+   "link": "https://www.youtube.com/watch?v=WninNBkt6MI",
+   "author": "Easy German",
+   "source": "Easy German",
+   "feed": "youtube-easy-german",
+   "lang": "de",
+   "date": "2026-11-02",
+   "day": "Nov 2",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793556023
+  },
+  {
+   "title": "Quoting Kyle Kingsbury",
+   "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-02",
+   "day": "Nov 2",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793551744
+  },
+  {
+   "title": "读《信号与噪声》",
+   "link": "https://blog.devtang.com/2026/11/01/signal-and-noice-book-summary/",
+   "author": "Tang Qiao",
+   "source": "Tang Qiao",
+   "feed": "blog-devtang-com-atom-xml",
+   "lang": "zh",
+   "date": "2026-11-01",
+   "day": "Nov 1",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793533268
+  },
   {
    "title": "2026年第44周",
    "link": "https://www.skyue.com/26110118.html",
@@ -1292,7 +1331,7 @@
    "ts": 1793362080
   },
   {
-   "title": "Why Bitcoin’s Biggest Bears Might Be Wrong",
+   "title": "Bitcoin’s Next Bull Run Has One Big Problem",
    "link": "https://www.youtube.com/watch?v=mCIMg7oYCL4",
    "author": "Bankless",
    "source": "Bankless",
@@ -1409,6 +1448,19 @@
    "ts": 1793314109
   },
   {
+   "title": "StepGrab",
+   "link": "https://www.producthunt.com/products/stepgrab",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-30",
+   "day": "Oct 30",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793311425
+  },
+  {
    "title": "Usage for Claude + ChatGPT 4.0",
    "link": "https://www.producthunt.com/products/usage-for-claude",
    "author": "Product Hunt",
@@ -1448,8 +1500,8 @@
    "ts": 1793308052
   },
   {
-   "title": "ilse",
-   "link": "https://www.producthunt.com/products/ilse",
+   "title": "Canva Brush",
+   "link": "https://www.producthunt.com/products/canva",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1458,7 +1510,7 @@
    "day": "Oct 30",
    "ym": "2026-10",
    "ym_label": "October 2026",
-   "ts": 1793302960
+   "ts": 1793301803
   },
   {
    "title": "Fluent 2",
@@ -1472,19 +1524,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793298946
-  },
-  {
-   "title": "Faylee",
-   "link": "https://www.producthunt.com/products/faylee",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793296454
   },
   {
    "title": "BaseTab AI",
@@ -1565,19 +1604,6 @@
    "ts": 1793289551
   },
   {
-   "title": "sitesolide",
-   "link": "https://www.producthunt.com/products/sitesolide",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793287664
-  },
-  {
    "title": "《工资外收入：不要再单次、廉价地出卖你的时间》书摘",
    "link": "https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/",
    "author": "Bai Huancheng",
@@ -1604,32 +1630,6 @@
    "ts": 1793282787
   },
   {
-   "title": "SpeakON Agent",
-   "link": "https://www.producthunt.com/products/speakon",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793270671
-  },
-  {
-   "title": "Chopstick",
-   "link": "https://www.producthunt.com/products/chopstick",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793259503
-  },
-  {
    "title": "一些近期改善睡眠质量的尝试",
    "link": "https://blog.douchi.space/sleep-env-improvement/?utm_source=rss",
    "author": "Jiaoyan Douchi",
@@ -1643,19 +1643,6 @@
    "ts": 1793254740
   },
   {
-   "title": "iSurge",
-   "link": "https://www.producthunt.com/products/isurge",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793254546
-  },
-  {
    "title": "GitHub Copilot Fusion",
    "link": "https://www.producthunt.com/products/github-copilot-fusion",
    "author": "Product Hunt",
@@ -1667,6 +1654,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793252375
+  },
+  {
+   "title": "fastbrowse",
+   "link": "https://www.producthunt.com/products/fastbrowse",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793244309
+  },
+  {
+   "title": "telemetry.dev",
+   "link": "https://www.producthunt.com/products/telemetry-dev",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-29",
+   "day": "Oct 29",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793232826
   },
   {
    "title": "2026 年，我的 21 条 AI Coding 最佳实践",
@@ -1745,6 +1758,32 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793194289
+  },
+  {
+   "title": "Mo",
+   "link": "https://www.producthunt.com/products/mo-5",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793187569
+  },
+  {
+   "title": "Knucklebop",
+   "link": "https://www.producthunt.com/products/knucklebop",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-28",
+   "day": "Oct 28",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793185333
   },
   {
    "title": "远程工作不要居家",
@@ -2603,19 +2642,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792244182
-  },
-  {
-   "title": "web-edit 0.1a2",
-   "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-17",
-   "day": "Oct 17",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792243009
   },
   {
    "title": "Li Yuankun: Is the OECD Using the Right Benchmark for China’s Subsidies?",
@@ -4969,19 +4995,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788439860
-  },
-  {
-   "title": "50 German Verbs Every Beginner Must Know",
-   "link": "https://www.youtube.com/watch?v=9xujQRaGN1Q",
-   "author": "Easy German",
-   "source": "Easy German",
-   "feed": "youtube-easy-german",
-   "lang": "de",
-   "date": "2026-09-03",
-   "day": "Sep 3",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788368410
   },
   {
    "title": "搞了个牛来模型的智谱 营收大涨400% 真牛来了？",
@@ -8102,19 +8115,6 @@
    "ym": "2026-05",
    "ym_label": "May 2026",
    "ts": 1778148018
-  },
-  {
-   "title": "HyperFrames 实战：用 HTML 写一支 41 秒的产品介绍视频",
-   "link": "https://blog.devtang.com/2026/05/06/generate-video-from-hyperframes/",
-   "author": "Tang Qiao",
-   "source": "Tang Qiao",
-   "feed": "blog-devtang-com-atom-xml",
-   "lang": "zh",
-   "date": "2026-05-06",
-   "day": "May 6",
-   "ym": "2026-05",
-   "ym_label": "May 2026",
-   "ts": 1778079817
   },
   {
    "title": "Anthropic 兄妹 Dario Amodei 和 Daniela Amodei 最新对话：Claude 为什么一直限速？",
