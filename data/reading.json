@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03 22:11",
+ "updated": "2026-11-04 07:21",
  "languages": [
   {
    "key": "zh",
@@ -258,7 +258,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "vikingz-me-rss-xml",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,101 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793727600
+  },
+  {
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793726557
+  },
+  {
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793723388
+  },
+  {
+   "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+   "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793719755
+  },
+  {
+   "title": "Google will turn off search for schools that reject AI",
+   "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793719547
+  },
+  {
+   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+   "link": "https://news.ycombinator.com/item?id=50352757",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793717621
+  },
+  {
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "link": "https://honnibal.dev/blog/astra-read-write-misleading",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793708477
+  },
   {
    "title": "The Race to Build the Private Ethereum",
    "link": "https://www.youtube.com/watch?v=UszyU_XrX9o",
@@ -692,6 +783,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793705417
+  },
+  {
+   "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+   "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793692581
   },
   {
    "title": "NEXUPIRA",
@@ -770,6 +874,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793670814
+  },
+  {
+   "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+   "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793669623
   },
   {
    "title": "One Roof",
@@ -954,6 +1071,19 @@
    "ts": 1793643688
   },
   {
+   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+   "link": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793641660
+  },
+  {
    "title": "Show HN: Subvocal – Talk to your computer without making noise",
    "link": "https://news.ycombinator.com/item?id=50340088",
    "author": "Hacker News",
@@ -1019,6 +1149,32 @@
    "ts": 1793637276
   },
   {
+   "title": "Jailbreaking my car's navigation system just so I can change the time",
+   "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793636959
+  },
+  {
+   "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+   "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793636726
+  },
+  {
    "title": "Scrawl",
    "link": "https://www.producthunt.com/products/scrawl-2",
    "author": "Product Hunt",
@@ -1058,6 +1214,19 @@
    "ts": 1793631120
   },
   {
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-02",
+   "day": "Nov 2",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793628162
+  },
+  {
    "title": "Testera",
    "link": "https://www.producthunt.com/products/testera-3",
    "author": "Product Hunt",
@@ -1084,19 +1253,6 @@
    "ts": 1793626286
   },
   {
-   "title": "If you love a website, back it up",
-   "link": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793625935
-  },
-  {
    "title": "The Complete Zcash Roadmap",
    "link": "https://www.youtube.com/watch?v=7VxYu8IZxZQ",
    "author": "Bankless",
@@ -1108,19 +1264,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793620522
-  },
-  {
-   "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-   "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793620213
   },
   {
    "title": "MachineMail",
@@ -1201,19 +1344,6 @@
    "ts": 1793596295
   },
   {
-   "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-   "link": "https://wikihack.netlify.app",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793595990
-  },
-  {
    "title": "PowerShips",
    "link": "https://www.producthunt.com/products/powerships",
    "author": "Product Hunt",
@@ -1227,19 +1357,6 @@
    "ts": 1793585579
   },
   {
-   "title": "Bones may release proteins that slow aging and extend life span",
-   "link": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793583067
-  },
-  {
    "title": "Xmind 2027",
    "link": "https://www.producthunt.com/products/xmind",
    "author": "Product Hunt",
@@ -1251,19 +1368,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793579046
-  },
-  {
-   "title": "OccupySaaS",
-   "link": "https://occupysaas.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793578647
   },
   {
    "title": "The Rise of GLM and China’s Zhipu AI",
@@ -1292,19 +1396,6 @@
    "ts": 1793575462
   },
   {
-   "title": "U.S. workers took home their smallest share of capital since at least 1947",
-   "link": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793575231
-  },
-  {
    "title": "Peji",
    "link": "https://www.producthunt.com/products/peji",
    "author": "Product Hunt",
@@ -1331,32 +1422,6 @@
    "ts": 1793567893
   },
   {
-   "title": "Ask HN: Which TV do you recommend for privacy?",
-   "link": "https://news.ycombinator.com/item?id=50328896",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793561727
-  },
-  {
-   "title": "Mathematics has changed. Let's act like it",
-   "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793557722
-  },
-  {
    "title": "What 🇩🇪 Germans Think About 🇹🇷 Turks (Street Interviews)",
    "link": "https://www.youtube.com/watch?v=WninNBkt6MI",
    "author": "Easy German",
@@ -1370,19 +1435,6 @@
    "ts": 1793556023
   },
   {
-   "title": "Patrick Stewart taught us what good men do with power",
-   "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793554096
-  },
-  {
    "title": "Quoting Kyle Kingsbury",
    "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
    "author": "Simon Willison",
@@ -1394,45 +1446,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793551744
-  },
-  {
-   "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-   "link": "https://hackerbooks.org",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-01",
-   "day": "Nov 1",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793548708
-  },
-  {
-   "title": "Police chief unplugs cameras after Flock ignores contract cancellation",
-   "link": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-01",
-   "day": "Nov 1",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793543773
-  },
-  {
-   "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-   "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-01",
-   "day": "Nov 1",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793543683
   },
   {
    "title": "VinSage",
@@ -1628,6 +1641,19 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793404800
+  },
+  {
+   "title": "Hyperresearch",
+   "link": "https://www.producthunt.com/products/hyperresearch",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-10-31",
+   "day": "Oct 31",
+   "ym": "2026-10",
+   "ym_label": "October 2026",
+   "ts": 1793400843
   },
   {
    "title": "kwant",
@@ -1836,19 +1862,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793286671
-  },
-  {
-   "title": "BRCKS Chat",
-   "link": "https://www.producthunt.com/products/brcks",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793285307
   },
   {
    "title": "Quoting Ben Hylak",
@@ -2577,19 +2590,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792599916
-  },
-  {
-   "title": "eMudhra Intermediate CA Compromise",
-   "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792540225
   },
   {
    "title": "Did Google just dethrone OpenAI and Anthropic?",
