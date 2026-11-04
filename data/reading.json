@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04 07:21",
+ "updated": "2026-11-04 14:17",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,32 @@
  ],
  "items": [
   {
+   "title": "Safari introduces Adaptive Dark Mode in 27.3",
+   "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793741945
+  },
+  {
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793741204
+  },
+  {
    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
    "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
    "author": "Hacker News",
@@ -705,6 +731,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793726557
+  },
+  {
+   "title": "Stringman, an $800 open-source room scale gripper robot",
+   "link": "https://neufangled.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793724449
   },
   {
    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
@@ -744,6 +783,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793719547
+  },
+  {
+   "title": "Mac at any scale",
+   "link": "https://namespace.so/blog/mac-at-any-scale",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793717622
   },
   {
    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
@@ -913,6 +965,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793664779
+  },
+  {
+   "title": "我的 10 条人生最佳实践",
+   "link": "https://tw93.fun/2026-11-03/senior.html",
+   "author": "Tw93",
+   "source": "Tw93",
+   "feed": "tw93-fun-feed-xml",
+   "lang": "zh",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793664000
   },
   {
    "title": "llm 0.37",
@@ -1149,32 +1214,6 @@
    "ts": 1793637276
   },
   {
-   "title": "Jailbreaking my car's navigation system just so I can change the time",
-   "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793636959
-  },
-  {
-   "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-   "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793636726
-  },
-  {
    "title": "Scrawl",
    "link": "https://www.producthunt.com/products/scrawl-2",
    "author": "Product Hunt",
@@ -1199,32 +1238,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793635950
-  },
-  {
-   "title": "WTF Ubuntu?",
-   "link": "https://chalmovsky.com/posts/wtf-ubuntu",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793631120
-  },
-  {
-   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793628162
   },
   {
    "title": "Testera",
@@ -1316,6 +1329,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793610198
+  },
+  {
+   "title": "Help",
+   "link": "https://www.producthunt.com/products/help-381",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-02",
+   "day": "Nov 2",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793603148
   },
   {
    "title": "China's Social Security System Fails to Narrow Inequality, Chinese Scholars Argue",
@@ -1693,19 +1719,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793385003
-  },
-  {
-   "title": "Widgeteer",
-   "link": "https://www.producthunt.com/products/widgeteer",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-10-31",
-   "day": "Oct 31",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793382152
   },
   {
    "title": "What Robert Caro learned about power after studying it for 50 years",
@@ -8856,19 +8869,6 @@
    "ym": "2026-03",
    "ym_label": "March 2026",
    "ts": 1774879212
-  },
-  {
-   "title": "杀死那个手工程序员",
-   "link": "https://tw93.fun/2026-03-30/kill.html",
-   "author": "Tw93",
-   "source": "Tw93",
-   "feed": "tw93-fun-feed-xml",
-   "lang": "zh",
-   "date": "2026-03-30",
-   "day": "Mar 30",
-   "ym": "2026-03",
-   "ym_label": "March 2026",
-   "ts": 1774828800
   },
   {
    "title": "周报 #106 - OpenClaw 实践、搬家与生活的能量",
