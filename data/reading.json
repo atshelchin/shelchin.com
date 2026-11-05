@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05 14:43",
+ "updated": "2026-11-06 03:56",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,192 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": false
+   "ok": true
   }
  ],
  "items": [
+  {
+   "title": "Quoting Paul Ford",
+   "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793900043
+  },
+  {
+   "title": "How to Grow and Monetize a Newsletter in 2027 (Full Strategy) | 153",
+   "link": "https://nathanbarry.com/how-to-grow-and-monetize-a-newsletter-in-2027-full-strategy-153/",
+   "author": "Nathan Barry",
+   "source": "Nathan Barry",
+   "feed": "nathanbarry-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793898000
+  },
+  {
+   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+   "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793889860
+  },
+  {
+   "title": "Feedglot支持Agent调用了",
+   "link": "https://www.skyue.com/26110522.html",
+   "author": "SKYue",
+   "source": "SKYue",
+   "feed": "www-skyue-com-feed",
+   "lang": "zh",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793888820
+  },
+  {
+   "title": "一键清理所有高科技水印工具 「蒸矢」for macOS",
+   "link": "https://blog.est.im/2026/stdout-41",
+   "author": "Est",
+   "source": "Est's Blog",
+   "feed": "feeds-feedburner-com-initiative",
+   "lang": "zh",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793888160
+  },
+  {
+   "title": "sshole",
+   "link": "https://sshhole.com",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793881142
+  },
+  {
+   "title": "When papers become currency: a Chinese debate about trust in science",
+   "link": "https://www.pekingnology.com/p/when-papers-become-currency-a-chinese",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793870461
+  },
+  {
+   "title": "CC Auto Review",
+   "link": "https://www.producthunt.com/products/cc-auto-review",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793854453
+  },
+  {
+   "title": "Lemmings CSS Animation",
+   "link": "https://markblah.github.io/lemmings/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793854450
+  },
+  {
+   "title": "Nemotron 3.5 Transcribe",
+   "link": "https://www.producthunt.com/products/nvidia",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793854267
+  },
+  {
+   "title": "TextKit",
+   "link": "https://www.producthunt.com/products/textkit-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793837410
+  },
+  {
+   "title": "Images 2.6",
+   "link": "https://openai.com/index/introducing-images-2-6/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793835344
+  },
+  {
+   "title": "A thousand fewer paths to root",
+   "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793835194
+  },
+  {
+   "title": "Scrollsnacks",
+   "link": "https://www.producthunt.com/products/scrollsnacks",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793828773
+  },
   {
    "title": "Residential proxies detected on White House network",
    "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
@@ -692,6 +874,58 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793825118
+  },
+  {
+   "title": "Insects don't swarm at LED lights",
+   "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793821823
+  },
+  {
+   "title": "FounderMail",
+   "link": "https://www.producthunt.com/products/foundermail-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793821570
+  },
+  {
+   "title": "Polylane for Google Cloud",
+   "link": "https://www.producthunt.com/products/polylane",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793818492
+  },
+  {
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "link": "https://www.ricursive.com/ripple",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793818409
   },
   {
    "title": "How to Get a Drivers License in Germany",
@@ -707,7 +941,20 @@
    "ts": 1793815217
   },
   {
-   "title": "The Closest Thing We Have to Alien Matter",
+   "title": "A new Go API for JSON",
+   "link": "https://go.dev/blog/jsonv2",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793814731
+  },
+  {
+   "title": "I finally saw quantum physics with my own eyes...",
    "link": "https://www.youtube.com/watch?v=KfODG5REyss",
    "author": "Veritasium",
    "source": "Veritasium",
@@ -759,6 +1006,32 @@
    "ts": 1793805962
   },
   {
+   "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+   "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793804504
+  },
+  {
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "link": "https://news.ycombinator.com/item?id=50366117",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793803042
+  },
+  {
    "title": "US voters roundly reject data centers in ballot measures",
    "link": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
    "author": "Hacker News",
@@ -783,6 +1056,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793801395
+  },
+  {
+   "title": "一部有望冲击奥斯卡最佳电影的…纪录片",
+   "link": "http://weiwuhui.com/11115.html",
+   "author": "Wei Wuhui",
+   "source": "Wei Wuhui",
+   "feed": "weiwuhui-com-feed",
+   "lang": "zh",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793795138
   },
   {
    "title": "Michael Jinghan Zeng: When Confucius Institutes Become a Symbol of Great-Power Competition",
@@ -863,6 +1149,19 @@
    "ts": 1793782630
   },
   {
+   "title": "ChatNest",
+   "link": "https://www.producthunt.com/products/chatnest-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793782406
+  },
+  {
    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
    "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
    "author": "Hacker News",
@@ -876,8 +1175,8 @@
    "ts": 1793781989
   },
   {
-   "title": "Rungle",
-   "link": "https://www.producthunt.com/products/rungle",
+   "title": "SafetyClip",
+   "link": "https://www.producthunt.com/products/safetyclip",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -886,7 +1185,33 @@
    "day": "Nov 4",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793772589
+   "ts": 1793781649
+  },
+  {
+   "title": "Tencent Hy4",
+   "link": "https://www.producthunt.com/products/hunyuan-a13b",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793779662
+  },
+  {
+   "title": "AI Employees by Easy-Peasy.AI",
+   "link": "https://www.producthunt.com/products/easy-peasy-ai",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793773189
   },
   {
    "title": "Finally, Apple Frees us from Domains",
@@ -902,21 +1227,8 @@
    "ts": 1793772000
   },
   {
-   "title": "Jelly Sheet",
-   "link": "https://mrdoob.github.io/codevember-2026/01/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793763650
-  },
-  {
-   "title": "Fedora Linux 45",
-   "link": "https://www.producthunt.com/products/fedora-linux-45",
+   "title": "Bambu Lab H3C",
+   "link": "https://www.producthunt.com/products/bambu-lab-h3c",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -925,20 +1237,7 @@
    "day": "Nov 4",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793754254
-  },
-  {
-   "title": "C++26 Disapproved",
-   "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793752402
+   "ts": 1793758781
   },
   {
    "title": "datasette-apps 0.3a0",
@@ -967,19 +1266,6 @@
    "ts": 1793747625
   },
   {
-   "title": "TellPip",
-   "link": "https://www.producthunt.com/products/tellpip",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793747622
-  },
-  {
    "title": "Hashference",
    "link": "https://www.producthunt.com/products/hashference",
    "author": "Product Hunt",
@@ -991,32 +1277,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793747356
-  },
-  {
-   "title": "Freeport Markets",
-   "link": "https://www.producthunt.com/products/freeport-markets",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793742995
-  },
-  {
-   "title": "The Internals of PostgreSQL",
-   "link": "https://www.interdb.jp/pg/index.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793742666
   },
   {
    "title": "llm 0.37.1",
@@ -1032,43 +1292,17 @@
    "ts": 1793742102
   },
   {
-   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-   "link": "https://arxiv.org/abs/2605.29713",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Cosyra",
+   "link": "https://www.producthunt.com/products/cosyra",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-04",
    "day": "Nov 4",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793742053
-  },
-  {
-   "title": "Safari introduces Adaptive Dark Mode in 27.3",
-   "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793741945
-  },
-  {
-   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793741204
+   "ts": 1793737204
   },
   {
    "title": "The worst week in cybersecurity history... so far",
@@ -1097,8 +1331,8 @@
    "ts": 1793734248
   },
   {
-   "title": "PasteGuard for Mac",
-   "link": "https://www.producthunt.com/products/pasteguard-2",
+   "title": "DearCameo",
+   "link": "https://www.producthunt.com/products/dearcameo",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1107,85 +1341,7 @@
    "day": "Nov 4",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793731364
-  },
-  {
-   "title": "Zcash Mathematically Proved Counterfeiting Bugs Are Impossible",
-   "link": "https://www.youtube.com/shorts/8wyHELLUrAk",
-   "author": "Bankless",
-   "source": "Bankless",
-   "feed": "youtube-bankless",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793728912
-  },
-  {
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793727600
-  },
-  {
-   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-   "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793726557
-  },
-  {
-   "title": "TrackEdge",
-   "link": "https://www.producthunt.com/products/trackedge-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793724997
-  },
-  {
-   "title": "Basedash Verified dashboards",
-   "link": "https://www.producthunt.com/products/basedash",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793724586
-  },
-  {
-   "title": "Stringman, an $800 open-source room scale gripper robot",
-   "link": "https://neufangled.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793724449
+   "ts": 1793724442
   },
   {
    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
@@ -1201,6 +1357,19 @@
    "ts": 1793723388
   },
   {
+   "title": "backlane",
+   "link": "https://www.producthunt.com/products/backlane-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-04",
+   "day": "Nov 4",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793721979
+  },
+  {
    "title": "Deployed Yet?",
    "link": "https://www.producthunt.com/products/deployed-yet",
    "author": "Product Hunt",
@@ -1212,32 +1381,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793721673
-  },
-  {
-   "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-   "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793719755
-  },
-  {
-   "title": "Sendu",
-   "link": "https://www.producthunt.com/products/sendu",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793715630
   },
   {
    "title": "Zero Wire",
@@ -1253,8 +1396,8 @@
    "ts": 1793715178
   },
   {
-   "title": "LiveReacting for ChatGPT",
-   "link": "https://www.producthunt.com/products/livereacting",
+   "title": "Rerun",
+   "link": "https://www.producthunt.com/products/rerun-2",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1263,7 +1406,7 @@
    "day": "Nov 3",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793713528
+   "ts": 1793710839
   },
   {
    "title": "Datashake MCP",
@@ -1277,6 +1420,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793710189
+  },
+  {
+   "title": "Seamcult",
+   "link": "https://www.producthunt.com/products/seamcult",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793706132
   },
   {
    "title": "The Race to Build the Private Ethereum",
@@ -1305,19 +1461,6 @@
    "ts": 1793704750
   },
   {
-   "title": "QualityLayer",
-   "link": "https://www.producthunt.com/products/qualitylayer",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793703484
-  },
-  {
    "title": "Resum",
    "link": "https://www.producthunt.com/products/resum",
    "author": "Product Hunt",
@@ -1331,8 +1474,8 @@
    "ts": 1793698159
   },
   {
-   "title": "Virelo",
-   "link": "https://www.producthunt.com/products/virelo",
+   "title": "Pinku",
+   "link": "https://www.producthunt.com/products/pinku",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1341,11 +1484,11 @@
    "day": "Nov 3",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793698055
+   "ts": 1793692320
   },
   {
-   "title": "Country Filter for X",
-   "link": "https://www.producthunt.com/products/country-filter-for-x-2",
+   "title": "Stitch.ai",
+   "link": "https://www.producthunt.com/products/stitch-ai",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1354,33 +1497,7 @@
    "day": "Nov 3",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793696382
-  },
-  {
-   "title": "Hira",
-   "link": "https://www.producthunt.com/products/hira",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793692675
-  },
-  {
-   "title": "Corvo",
-   "link": "https://www.producthunt.com/products/corvo-3",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793684235
+   "ts": 1793685874
   },
   {
    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
@@ -1409,8 +1526,8 @@
    "ts": 1793683739
   },
   {
-   "title": "One Roof",
-   "link": "https://www.producthunt.com/products/one-roof",
+   "title": "Tao Browser",
+   "link": "https://www.producthunt.com/products/tao-browser",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1419,20 +1536,7 @@
    "day": "Nov 3",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793667968
-  },
-  {
-   "title": "nana",
-   "link": "https://www.producthunt.com/products/nana-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793664779
+   "ts": 1793680521
   },
   {
    "title": "我的 10 条人生最佳实践",
@@ -1461,8 +1565,8 @@
    "ts": 1793663370
   },
   {
-   "title": "Calendarly",
-   "link": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen",
+   "title": "Vibeconferencing",
+   "link": "https://www.producthunt.com/products/vibeconferencing",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1471,7 +1575,7 @@
    "day": "Nov 3",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793658724
+   "ts": 1793659778
   },
   {
    "title": "Floot Payments",
@@ -1487,8 +1591,8 @@
    "ts": 1793653552
   },
   {
-   "title": "LidCommit",
-   "link": "https://www.producthunt.com/products/lidcommit",
+   "title": "Glasshand",
+   "link": "https://www.producthunt.com/products/glasshand",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1497,59 +1601,7 @@
    "day": "Nov 3",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793652065
-  },
-  {
-   "title": "Flockbay",
-   "link": "https://www.producthunt.com/products/flockbay",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793646721
-  },
-  {
-   "title": "LifeVal",
-   "link": "https://www.producthunt.com/products/openai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793645151
-  },
-  {
-   "title": "OpusClip 4.0",
-   "link": "https://www.producthunt.com/products/opusclip",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793639499
-  },
-  {
-   "title": "Akema",
-   "link": "https://www.producthunt.com/products/akema",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793639201
+   "ts": 1793651319
   },
   {
    "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
@@ -1563,6 +1615,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793638936
+  },
+  {
+   "title": "Living Brain",
+   "link": "https://www.producthunt.com/products/chatandbuild",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-02",
+   "day": "Nov 2",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793632056
   },
   {
    "title": "The U.S. Census Bureau and “Super Intelligence”",
@@ -2228,8 +2293,8 @@
    "ts": 1793094895
   },
   {
-   "title": "教训的价值",
-   "link": "https://crazy.smallyu.net/2026/10/27/%E6%95%99%E8%AE%AD%E7%9A%84%E4%BB%B7%E5%80%BC/",
+   "title": "不要卖二手手机",
+   "link": "https://crazy.smallyu.net/2026/10/27/%E4%B8%8D%E8%A6%81%E5%8D%96%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
    "author": "smallyu",
    "source": "smallyu's Blog (Unfiltered)",
    "feed": "crazy-smallyu-net-atom-xml",
@@ -2603,19 +2668,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792713976
-  },
-  {
-   "title": "DE STAAT - FREEDOM (Official Music Video)",
-   "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792698146
   },
   {
    "title": "What will computer chips look like in 2045?",
@@ -4022,6 +4074,19 @@
    "ts": 1790767226
   },
   {
+   "title": "Variational Wants to Build the Robinhood of Onchain Trading",
+   "link": "https://www.youtube.com/watch?v=fSt4qmz1C_M",
+   "author": "Bankless",
+   "source": "Bankless",
+   "feed": "youtube-bankless",
+   "lang": "en",
+   "date": "2026-09-30",
+   "day": "Sep 30",
+   "ym": "2026-09",
+   "ym_label": "September 2026",
+   "ts": 1790764228
+  },
+  {
    "title": "Baiguan China Tour- AI & Manufaturing",
    "link": "https://www.pekingnology.com/p/baiguan-china-tour-ai-and-manufaturing",
    "author": "Zichen Wang",
@@ -4150,19 +4215,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1790467200
-  },
-  {
-   "title": "A Taiwan Professor Answers His Mainland Critics",
-   "link": "https://www.pekingnology.com/p/a-taiwan-professor-answers-his-mainland",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-09-27",
-   "day": "Sep 27",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1790442531
   },
   {
    "title": "Node.js、浏览器和 Cloudflare Workers 的wasm引入问题",
@@ -4308,8 +4360,8 @@
    "ts": 1790251394
   },
   {
-   "title": "聪明 Agent 四套路 和 人肉学习",
-   "link": "https://blog.est.im/2026/stdin-18",
+   "title": "Register Token以及对变形金刚AI的四大批判",
+   "link": "https://blog.est.im/2026/stdin-19",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -4321,8 +4373,8 @@
    "ts": 1790166060
   },
   {
-   "title": "Register Token以及对变形金刚AI的四大批判",
-   "link": "https://blog.est.im/2026/stdin-19",
+   "title": "聪明 Agent 四套路 和 人肉学习",
+   "link": "https://blog.est.im/2026/stdin-18",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -5218,19 +5270,6 @@
    "ts": 1788209374
   },
   {
-   "title": "艺术家与创新者乔布斯 工程师与制度者库克",
-   "link": "http://weiwuhui.com/11094.html",
-   "author": "Wei Wuhui",
-   "source": "Wei Wuhui",
-   "feed": "weiwuhui-com-feed",
-   "lang": "zh",
-   "date": "2026-08-31",
-   "day": "Aug 31",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1788182662
-  },
-  {
    "title": "The Spend Stack Revival",
    "link": "https://swiftjectivec.com/The-Spend-Stack-Revival/",
    "author": "Jordan Morgan",
@@ -5398,19 +5437,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1787858184
-  },
-  {
-   "title": "How the Author of Atomic Habits ACTUALLY Makes Money | James Clear | 143",
-   "link": "https://nathanbarry.com/the-business-model-behind-atomic-habits-james-clear-143/",
-   "author": "Nathan Barry",
-   "source": "Nathan Barry",
-   "feed": "nathanbarry-com-feed",
-   "lang": "en",
-   "date": "2026-08-28",
-   "day": "Aug 28",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1787846400
   },
   {
    "title": "高加索三国旅行",
@@ -6596,19 +6622,6 @@
    "ts": 1783865100
   },
   {
-   "title": "搬家",
-   "link": "https://www.skyue.com/26071218.html",
-   "author": "SKYue",
-   "source": "SKYue",
-   "feed": "www-skyue-com-feed",
-   "lang": "zh",
-   "date": "2026-07-12",
-   "day": "Jul 12",
-   "ym": "2026-07",
-   "ym_label": "July 2026",
-   "ts": 1783852560
-  },
-  {
    "title": "gitweets改版，复刻微信「朋友圈」",
    "link": "https://blog.est.im/2026/stdout-28",
    "author": "Est",
@@ -6659,19 +6672,6 @@
    "ym": "2026-07",
    "ym_label": "July 2026",
    "ts": 1783753200
-  },
-  {
-   "title": "MiMoCode 干完活儿发通知",
-   "link": "https://blog.est.im/2026/stdout-27",
-   "author": "Est",
-   "source": "Est's Blog",
-   "feed": "feeds-feedburner-com-initiative",
-   "lang": "zh",
-   "date": "2026-07-11",
-   "day": "Jul 11",
-   "ym": "2026-07",
-   "ym_label": "July 2026",
-   "ts": 1783741980
   },
   {
    "title": "一文看懂ChatGPT、Codex、Work 的差别",
