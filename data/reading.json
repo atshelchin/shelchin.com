@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07 03:23",
+ "updated": "2026-11-07 13:56",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,49 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "救命以外的钱丨一周语文（2645）",
+   "link": "https://www.huangjiwei.com/blog/?p=12770",
+   "author": "Huang Jiwei",
+   "source": "Huang Jiwei",
+   "feed": "www-huangjiwei-com-blog",
+   "lang": "zh",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794028451
+  },
+  {
+   "title": "Libghostty 1.0",
+   "link": "https://mitchellh.com/writing/libghostty-1-0",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794007852
+  },
+  {
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793994531
+  },
   {
    "title": "Quoting Nilay Patel",
    "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
@@ -705,6 +744,45 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793983358
+  },
+  {
+   "title": "Deus Ex",
+   "link": "https://www.filfre.net/2026/11/deus-ex/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793979876
+  },
+  {
+   "title": "RIP Cybertruck",
+   "link": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793977298
+  },
+  {
+   "title": "Gemini Omni 1.2 Flash",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793972127
   },
   {
    "title": "Tesla to wind down Cybertruck production",
@@ -785,6 +863,45 @@
    "ts": 1793949325
   },
   {
+   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+   "link": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793938669
+  },
+  {
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793937628
+  },
+  {
+   "title": "Pwn.college",
+   "link": "https://pwn.college/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793935634
+  },
+  {
    "title": "crystl",
    "link": "https://www.producthunt.com/products/crystl-multitasking-terminal",
    "author": "Product Hunt",
@@ -809,6 +926,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793930025
+  },
+  {
+   "title": "Kodivo",
+   "link": "https://www.producthunt.com/products/kodivo",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793923623
   },
   {
    "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
@@ -848,6 +978,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793920197
+  },
+  {
+   "title": "MacDupl",
+   "link": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793918827
   },
   {
    "title": "refern.",
@@ -928,19 +1071,6 @@
    "ts": 1793911422
   },
   {
-   "title": "Magic Wonders",
-   "link": "https://www.producthunt.com/products/magic-wonders",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793909171
-  },
-  {
    "title": "Search for everyone",
    "link": "https://kagi.com/changelog#11820",
    "author": "Hacker News",
@@ -1004,6 +1134,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793902218
+  },
+  {
+   "title": "Kivo",
+   "link": "https://www.producthunt.com/products/kivo-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793901086
+  },
+  {
+   "title": "BuildFerry",
+   "link": "https://www.producthunt.com/products/buildferry",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793900818
   },
   {
    "title": "Quoting Paul Ford",
@@ -1084,19 +1240,6 @@
    "ts": 1793890671
   },
   {
-   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-   "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793889860
-  },
-  {
    "title": "Feedglot支持Agent调用了",
    "link": "https://www.skyue.com/26110522.html",
    "author": "SKYue",
@@ -1136,19 +1279,6 @@
    "ts": 1793888160
   },
   {
-   "title": "MCP Explained",
-   "link": "https://mcp-explained.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793887715
-  },
-  {
    "title": "Rankfender v3.0",
    "link": "https://www.producthunt.com/products/rankfender",
    "author": "Product Hunt",
@@ -1162,19 +1292,6 @@
    "ts": 1793887515
   },
   {
-   "title": "I wish tech companies knew more about me",
-   "link": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793886052
-  },
-  {
    "title": "PostMyPace",
    "link": "https://www.producthunt.com/products/postmypace",
    "author": "Product Hunt",
@@ -1186,71 +1303,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793885175
-  },
-  {
-   "title": "Earth Stats",
-   "link": "https://www.producthunt.com/products/earth-stats",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793884736
-  },
-  {
-   "title": "Discord is ditching Electron and its new app uses less RAM",
-   "link": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793883928
-  },
-  {
-   "title": "Download your favourite YouTube videos",
-   "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793883611
-  },
-  {
-   "title": "sshole",
-   "link": "https://sshhole.com",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793881142
-  },
-  {
-   "title": "Moatly",
-   "link": "https://www.producthunt.com/products/moatly-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793879501
   },
   {
    "title": "OpenVisio",
@@ -1305,19 +1357,6 @@
    "ts": 1793868809
   },
   {
-   "title": "GPT-6 Astra covertly underperforms on safety research",
-   "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793864670
-  },
-  {
    "title": "Thunderduck Inc.",
    "link": "https://www.producthunt.com/products/thunderduck-inc",
    "author": "Product Hunt",
@@ -1329,19 +1368,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793857086
-  },
-  {
-   "title": "Lemmings CSS Animation",
-   "link": "https://markblah.github.io/lemmings/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793854450
   },
   {
    "title": "Mmory",
@@ -1524,19 +1550,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793778956
-  },
-  {
-   "title": "Textwhisk",
-   "link": "https://www.producthunt.com/products/textwhisk",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793776392
   },
   {
    "title": "Finally, Apple Frees us from Domains",
@@ -5398,19 +5411,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1787993220
-  },
-  {
-   "title": "眼光不行丨一周语文（2635）",
-   "link": "https://www.huangjiwei.com/blog/?p=12720",
-   "author": "Huang Jiwei",
-   "source": "Huang Jiwei",
-   "feed": "www-huangjiwei-com-blog",
-   "lang": "zh",
-   "date": "2026-08-29",
-   "day": "Aug 29",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1787980480
   },
   {
    "title": "I made a game with AI",
