@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07 20:58",
+ "updated": "2026-11-08 05:49",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,45 @@
  ],
  "items": [
   {
+   "title": "4,000 miles down the Nile River",
+   "link": "https://www.youtube.com/watch?v=20CgG5pUv9Q",
+   "author": "Johnny Harris",
+   "source": "Johnny Harris",
+   "feed": "youtube-johnny-harris",
+   "lang": "en",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794056420
+  },
+  {
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794044763
+  },
+  {
+   "title": "Need for Speed Underground 2 online in the browser",
+   "link": "https://nfsu2.xyz/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794044196
+  },
+  {
    "title": "救命以外的钱丨一周语文（2645）",
    "link": "https://www.huangjiwei.com/blog/?p=12770",
    "author": "Huang Jiwei",
@@ -770,6 +809,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793985192
+  },
+  {
+   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793984076
   },
   {
    "title": "The one thing holding theoretical CS together just broke... kinda",
@@ -1058,6 +1110,32 @@
    "ts": 1793920197
   },
   {
+   "title": "MacDupl",
+   "link": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793918827
+  },
+  {
+   "title": "refern.",
+   "link": "https://www.producthunt.com/products/refern",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793917758
+  },
+  {
    "title": "Claude Code sends your email address to websites",
    "link": "https://github.com/anthropics/claude-code/issues/107757",
    "author": "Hacker News",
@@ -1069,19 +1147,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793917035
-  },
-  {
-   "title": "AudioCentral",
-   "link": "https://www.producthunt.com/products/audiocentral",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793914618
   },
   {
    "title": "Codiclens",
@@ -1136,30 +1201,43 @@
    "ts": 1793909014
   },
   {
-   "title": "Goodbye from Salon",
-   "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Shipnoted",
+   "link": "https://www.producthunt.com/products/shipnoted",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-06",
    "day": "Nov 6",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793909009
+   "ts": 1793902218
   },
   {
-   "title": "The Hackintosh Reborn",
-   "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Kivo",
+   "link": "https://www.producthunt.com/products/kivo-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-06",
    "day": "Nov 6",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793905702
+   "ts": 1793901086
+  },
+  {
+   "title": "BuildFerry",
+   "link": "https://www.producthunt.com/products/buildferry",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793900818
   },
   {
    "title": "Quoting Paul Ford",
@@ -1214,17 +1292,17 @@
    "ts": 1793898000
   },
   {
-   "title": "Window Sweaters",
-   "link": "https://github.com/saragordic/window-sweaters",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Wisp",
+   "link": "https://www.producthunt.com/products/wisp-9",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-06",
    "day": "Nov 6",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793897414
+   "ts": 1793896100
   },
   {
    "title": "ChatGPT Images 2.6",
@@ -1292,8 +1370,8 @@
    "ts": 1793888160
   },
   {
-   "title": "Rankfender v3.0",
-   "link": "https://www.producthunt.com/products/rankfender",
+   "title": "Earth Stats",
+   "link": "https://www.producthunt.com/products/earth-stats",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1302,7 +1380,7 @@
    "day": "Nov 5",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793887515
+   "ts": 1793884736
   },
   {
    "title": "OpenVisio",
@@ -1316,6 +1394,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793876088
+  },
+  {
+   "title": "pwned.coffee",
+   "link": "https://www.producthunt.com/products/pwned-coffee",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793874432
   },
   {
    "title": "When papers become currency: a Chinese debate about trust in science",
@@ -1383,7 +1474,7 @@
    "ts": 1793815217
   },
   {
-   "title": "I finally saw quantum physics with my own eyes...",
+   "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
    "link": "https://www.youtube.com/watch?v=KfODG5REyss",
    "author": "Veritasium",
    "source": "Veritasium",
@@ -1409,8 +1500,8 @@
    "ts": 1793805962
   },
   {
-   "title": "OrgSync",
-   "link": "https://www.producthunt.com/products/orgsync-2",
+   "title": "Chronos DB",
+   "link": "https://www.producthunt.com/products/chronos-db",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1419,33 +1510,7 @@
    "day": "Nov 4",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793805158
-  },
-  {
-   "title": "Datastripes Data Stories",
-   "link": "https://www.producthunt.com/products/datastripes",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793800141
-  },
-  {
-   "title": "Pauta",
-   "link": "https://www.producthunt.com/products/pauta",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793795732
+   "ts": 1793804153
   },
   {
    "title": "一部有望冲击奥斯卡最佳电影的…纪录片",
@@ -1498,45 +1563,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793780319
-  },
-  {
-   "title": "Enhanced for Todoist",
-   "link": "https://www.producthunt.com/products/enhanced-for-todoist",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793778956
-  },
-  {
-   "title": "Dino Kids",
-   "link": "https://www.producthunt.com/products/dino-kids",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793776497
-  },
-  {
-   "title": "Textwhisk",
-   "link": "https://www.producthunt.com/products/textwhisk",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793776392
   },
   {
    "title": "Finally, Apple Frees us from Domains",
@@ -1602,19 +1628,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793735230
-  },
-  {
-   "title": "Any Video to Text",
-   "link": "https://www.producthunt.com/products/any-video-to-text",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793734474
   },
   {
    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
@@ -10117,19 +10130,6 @@
    "ym": "2025-12",
    "ym_label": "December 2025",
    "ts": 1766620800
-  },
-  {
-   "title": "India vs China, Explained",
-   "link": "https://www.youtube.com/watch?v=rPckDuTaSnw",
-   "author": "Johnny Harris",
-   "source": "Johnny Harris",
-   "feed": "youtube-johnny-harris",
-   "lang": "en",
-   "date": "2025-12-22",
-   "day": "Dec 22",
-   "ym": "2025-12",
-   "ym_label": "December 2025",
-   "ts": 1766408504
   },
   {
    "title": "From SimCity 2000 to Ruby on Rails: How Games Sparked My Love of Orchestration",
