@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 13:58",
+ "updated": "2026-11-08 21:22",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,36 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": false
+   "ok": true
   }
  ],
  "items": [
+  {
+   "title": "Migrating from React Native to UIKit in 87 Hours: Hollow Out the Data Layer, Then Invert the Host",
+   "link": "https://innei.in/posts/tech/react-native-to-uikit-migration",
+   "author": "Innei",
+   "source": "Innei",
+   "feed": "innei-in-feed",
+   "lang": "zh",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794130192
+  },
+  {
+   "title": "Goodbye Claude, Hello Pi",
+   "link": "https://caleb.software/posts/claude-to-pi.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794107508
+  },
   {
    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
    "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
@@ -692,6 +718,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794095866
+  },
+  {
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794084332
   },
   {
    "title": "What I run on my $10 USD OpenStick homelab",
@@ -720,6 +759,32 @@
    "ts": 1794074537
   },
   {
+   "title": "Agent Clan",
+   "link": "https://www.producthunt.com/products/agent-clan",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794073946
+  },
+  {
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+   "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794071940
+  },
+  {
    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
    "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
    "author": "Hacker News",
@@ -733,7 +798,33 @@
    "ts": 1794071196
   },
   {
-   "title": "4,000 miles down the Nile River",
+   "title": "NotchX",
+   "link": "https://www.producthunt.com/products/notch-11",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794067499
+  },
+  {
+   "title": "Zigzag Browser",
+   "link": "https://www.producthunt.com/products/zigzag-3",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794062286
+  },
+  {
+   "title": "Why Egypt Guards This River With an Army",
    "link": "https://www.youtube.com/watch?v=20CgG5pUv9Q",
    "author": "Johnny Harris",
    "source": "Johnny Harris",
@@ -744,6 +835,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794056420
+  },
+  {
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794049875
   },
   {
    "title": "Every Mac comes with an (undocumented) family member classifier",
@@ -967,6 +1071,19 @@
    "ts": 1793976609
   },
   {
+   "title": "Inkling 2 Small",
+   "link": "https://www.producthunt.com/products/tinker-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793974739
+  },
+  {
    "title": "Gemini Omni 1.2 Flash",
    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
    "author": "Hacker News",
@@ -1058,19 +1175,6 @@
    "ts": 1793950835
   },
   {
-   "title": "Britain to make salary disclosure in job ads mandatory",
-   "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793949724
-  },
-  {
    "title": "Letterpress-1",
    "link": "https://www.producthunt.com/products/letterpress-1",
    "author": "Product Hunt",
@@ -1084,43 +1188,17 @@
    "ts": 1793949325
   },
   {
-   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-   "link": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Frameboy by World Labs",
+   "link": "https://www.producthunt.com/products/marble-by-world-labs",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-06",
    "day": "Nov 6",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793938669
-  },
-  {
-   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-   "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793937628
-  },
-  {
-   "title": "Pwn.college",
-   "link": "https://pwn.college/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793935634
+   "ts": 1793941591
   },
   {
    "title": "Instagram Edits for Desktop",
@@ -1149,32 +1227,6 @@
    "ts": 1793922235
   },
   {
-   "title": "MacDupl",
-   "link": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793918827
-  },
-  {
-   "title": "AudioCentral",
-   "link": "https://www.producthunt.com/products/audiocentral",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793914618
-  },
-  {
    "title": "Which AI is the best liar?",
    "link": "https://www.youtube.com/watch?v=1NQwfImTseU",
    "author": "Dwarkesh Patel",
@@ -1199,19 +1251,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793909171
-  },
-  {
-   "title": "Plainmail",
-   "link": "https://www.producthunt.com/products/plainmail",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793904910
   },
   {
    "title": "Quoting Paul Ford",
@@ -1305,32 +1344,6 @@
    "ts": 1793888160
   },
   {
-   "title": "Rankfender v3.0",
-   "link": "https://www.producthunt.com/products/rankfender",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793887515
-  },
-  {
-   "title": "PostMyPace",
-   "link": "https://www.producthunt.com/products/postmypace",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793885175
-  },
-  {
    "title": "Moatly",
    "link": "https://www.producthunt.com/products/moatly-2",
    "author": "Product Hunt",
@@ -1357,8 +1370,8 @@
    "ts": 1793870461
   },
   {
-   "title": "TraceX",
-   "link": "https://www.producthunt.com/products/tracex",
+   "title": "DocsAlot for customer support",
+   "link": "https://www.producthunt.com/products/docsalot-2",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1367,7 +1380,33 @@
    "day": "Nov 5",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793868809
+   "ts": 1793857281
+  },
+  {
+   "title": "Keypause",
+   "link": "https://www.producthunt.com/products/keypause",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793853516
+  },
+  {
+   "title": "outages.live",
+   "link": "https://www.producthunt.com/products/polylane",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793839225
   },
   {
    "title": "Everything You Need to Know About the German Drivers License",
@@ -1383,7 +1422,7 @@
    "ts": 1793815217
   },
   {
-   "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
+   "title": "I finally saw quantum mechanics with my own eyes... (It's spookier than I expected)",
    "link": "https://www.youtube.com/watch?v=KfODG5REyss",
    "author": "Veritasium",
    "source": "Veritasium",
@@ -1420,19 +1459,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793805158
-  },
-  {
-   "title": "Datastripes Data Stories",
-   "link": "https://www.producthunt.com/products/datastripes",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793800141
   },
   {
    "title": "一部有望冲击奥斯卡最佳电影的…纪录片",
@@ -1472,19 +1498,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793790529
-  },
-  {
-   "title": "Koltrix",
-   "link": "https://www.producthunt.com/products/koltrix",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793780319
   },
   {
    "title": "Enhanced for Todoist",
@@ -1591,19 +1604,6 @@
    "ts": 1793734486
   },
   {
-   "title": "Any Video to Text",
-   "link": "https://www.producthunt.com/products/any-video-to-text",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793734474
-  },
-  {
    "title": "Sendoff",
    "link": "https://www.producthunt.com/products/sendoff-2",
    "author": "Product Hunt",
@@ -1667,6 +1667,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793705417
+  },
+  {
+   "title": "Deduplication",
+   "link": "https://www.producthunt.com/products/hacker-noon",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-03",
+   "day": "Nov 3",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793701689
   },
   {
    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
@@ -4399,8 +4412,8 @@
    "ts": 1790251394
   },
   {
-   "title": "Register Token以及对变形金刚AI的四大批判",
-   "link": "https://blog.est.im/2026/stdin-19",
+   "title": "聪明 Agent 四套路 和 人肉学习",
+   "link": "https://blog.est.im/2026/stdin-18",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -4412,8 +4425,8 @@
    "ts": 1790166060
   },
   {
-   "title": "聪明 Agent 四套路 和 人肉学习",
-   "link": "https://blog.est.im/2026/stdin-18",
+   "title": "Register Token以及对变形金刚AI的四大批判",
+   "link": "https://blog.est.im/2026/stdin-19",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -5606,19 +5619,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1787495368
-  },
-  {
-   "title": "UIKitCore 逆向分析报告",
-   "link": "https://innei.in/posts/tinkering/uikitcore-reverse-engineering-report",
-   "author": "Innei",
-   "source": "Innei",
-   "feed": "innei-in-feed",
-   "lang": "zh",
-   "date": "2026-08-23",
-   "day": "Aug 23",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1787492913
   },
   {
    "title": "聊聊 Kapinote 和背后的故事",
