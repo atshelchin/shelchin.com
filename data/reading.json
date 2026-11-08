@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 21:22",
+ "updated": "2026-11-09 06:02",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,110 @@
  ],
  "items": [
   {
+   "title": "Quo vadis: EU-China trade relations – from de-risking to technical fixes",
+   "link": "https://www.pekingnology.com/p/quo-vadis-eu-china-trade-relations",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794174858
+  },
+  {
+   "title": "My Development Workflow Over Time",
+   "link": "https://adamfortuna.com/development",
+   "author": "Adam Fortuna",
+   "source": "Adam Fortuna",
+   "feed": "adamfortuna-com-feed",
+   "lang": "en",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794167466
+  },
+  {
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794161767
+  },
+  {
+   "title": "Learn Everyday German in Chemnitz",
+   "link": "https://www.youtube.com/watch?v=l15FIo3a1jk",
+   "author": "Easy German",
+   "source": "Easy German",
+   "feed": "youtube-easy-german",
+   "lang": "de",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794160836
+  },
+  {
+   "title": "修复 conda 不能升级的问题",
+   "link": "https://yanlinlin.cn/2026/11/09/why-conda-update-does-nothing/",
+   "author": "Yan Linlin",
+   "source": "Yan Linlin",
+   "feed": "yanlinlin-cn-index-xml",
+   "lang": "zh",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794154860
+  },
+  {
+   "title": "2026年第45周",
+   "link": "https://www.skyue.com/26110822.html",
+   "author": "SKYue",
+   "source": "SKYue",
+   "feed": "www-skyue-com-feed",
+   "lang": "zh",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794149160
+  },
+  {
+   "title": "一張 TPASS 說走就走！新化半日遊，高雄往返時間全紀錄",
+   "link": "https://taiwan.chtsai.org/2026/11/08/xinhua_banri_you/",
+   "author": "Chih-Hao Tsai",
+   "source": "Chih-Hao Tsai",
+   "feed": "taiwan-chtsai-org-feed",
+   "lang": "zh",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794148293
+  },
+  {
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "link": "https://github.com/synchopate/llama-modchip",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794133324
+  },
+  {
    "title": "Migrating from React Native to UIKit in 87 Hours: Hollow Out the Data Layer, Then Invert the Host",
    "link": "https://innei.in/posts/tech/react-native-to-uikit-migration",
    "author": "Innei",
@@ -694,7 +798,7 @@
    "ts": 1794130192
   },
   {
-   "title": "Goodbye Claude, Hello Pi",
+   "title": "Goodbye Claude, hello Pi",
    "link": "https://caleb.software/posts/claude-to-pi.html",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -812,7 +916,7 @@
   },
   {
    "title": "Zigzag Browser",
-   "link": "https://www.producthunt.com/products/zigzag-3",
+   "link": "https://www.producthunt.com/products/zigzag-browser",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1149,45 +1253,6 @@
    "ts": 1793960737
   },
   {
-   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-   "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793957232
-  },
-  {
-   "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-   "link": "https://github.com/ppmpreetham/BUI",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793950835
-  },
-  {
-   "title": "Letterpress-1",
-   "link": "https://www.producthunt.com/products/letterpress-1",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793949325
-  },
-  {
    "title": "Frameboy by World Labs",
    "link": "https://www.producthunt.com/products/marble-by-world-labs",
    "author": "Product Hunt",
@@ -1199,6 +1264,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793941591
+  },
+  {
+   "title": "Cursor Craft",
+   "link": "https://www.producthunt.com/products/cursor-craft",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793930025
   },
   {
    "title": "Instagram Edits for Desktop",
@@ -1227,6 +1305,19 @@
    "ts": 1793922235
   },
   {
+   "title": "Cloptima",
+   "link": "https://www.producthunt.com/products/cloptima",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-06",
+   "day": "Nov 6",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793922034
+  },
+  {
    "title": "Which AI is the best liar?",
    "link": "https://www.youtube.com/watch?v=1NQwfImTseU",
    "author": "Dwarkesh Patel",
@@ -1240,8 +1331,8 @@
    "ts": 1793912450
   },
   {
-   "title": "Magic Wonders",
-   "link": "https://www.producthunt.com/products/magic-wonders",
+   "title": "BuildFerry",
+   "link": "https://www.producthunt.com/products/buildferry",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1250,7 +1341,7 @@
    "day": "Nov 6",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793909171
+   "ts": 1793900818
   },
   {
    "title": "Quoting Paul Ford",
@@ -1344,6 +1435,19 @@
    "ts": 1793888160
   },
   {
+   "title": "Rankfender v3.0",
+   "link": "https://www.producthunt.com/products/rankfender",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793887515
+  },
+  {
    "title": "Moatly",
    "link": "https://www.producthunt.com/products/moatly-2",
    "author": "Product Hunt",
@@ -1355,6 +1459,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793879501
+  },
+  {
+   "title": "OpenVisio",
+   "link": "https://www.producthunt.com/products/openvisio",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-05",
+   "day": "Nov 5",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1793876088
   },
   {
    "title": "When papers become currency: a Chinese debate about trust in science",
@@ -1448,8 +1565,8 @@
    "ts": 1793805962
   },
   {
-   "title": "OrgSync",
-   "link": "https://www.producthunt.com/products/orgsync-2",
+   "title": "Datastripes Data Stories",
+   "link": "https://www.producthunt.com/products/datastripes",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1458,7 +1575,7 @@
    "day": "Nov 4",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1793805158
+   "ts": 1793800141
   },
   {
    "title": "一部有望冲击奥斯卡最佳电影的…纪录片",
@@ -1498,19 +1615,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793790529
-  },
-  {
-   "title": "Enhanced for Todoist",
-   "link": "https://www.producthunt.com/products/enhanced-for-todoist",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793778956
   },
   {
    "title": "Dino Kids",
@@ -1591,19 +1695,6 @@
    "ts": 1793735230
   },
   {
-   "title": "Vakilat",
-   "link": "https://www.producthunt.com/products/vakilat",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793734486
-  },
-  {
    "title": "Sendoff",
    "link": "https://www.producthunt.com/products/sendoff-2",
    "author": "Product Hunt",
@@ -1667,19 +1758,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793705417
-  },
-  {
-   "title": "Deduplication",
-   "link": "https://www.producthunt.com/products/hacker-noon",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793701689
   },
   {
    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
@@ -3788,19 +3866,6 @@
    "ts": 1791133218
   },
   {
-   "title": "未曾離開的遠行",
-   "link": "https://taiwan.chtsai.org/2026/10/05/weiceng_likai_de_yuanxing/",
-   "author": "Chih-Hao Tsai",
-   "source": "Chih-Hao Tsai",
-   "feed": "taiwan-chtsai-org-feed",
-   "lang": "zh",
-   "date": "2026-10-05",
-   "day": "Oct 5",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791131005
-  },
-  {
    "title": "穷人生孩子罪孽深重",
    "link": "https://crazy.smallyu.net/2026/10/04/%E7%A9%B7%E4%BA%BA%E7%94%9F%E5%AD%A9%E5%AD%90%E7%BD%AA%E5%AD%BD%E6%B7%B1%E9%87%8D/",
    "author": "smallyu",
@@ -4178,19 +4243,6 @@
    "ts": 1790744400
   },
   {
-   "title": "Zhu Tian: China’s Employment Problem Is Closer Than It Appears",
-   "link": "https://www.pekingnology.com/p/zhu-tian-chinas-employment-problem",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-09-30",
-   "day": "Sep 30",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1790698390
-  },
-  {
    "title": "把 Electron 更新做快：我在 OTA 上的几次推倒重来",
    "link": "https://innei.in/posts/tech/electron-ota-updater",
    "author": "Innei",
@@ -4412,8 +4464,8 @@
    "ts": 1790251394
   },
   {
-   "title": "聪明 Agent 四套路 和 人肉学习",
-   "link": "https://blog.est.im/2026/stdin-18",
+   "title": "Register Token以及对变形金刚AI的四大批判",
+   "link": "https://blog.est.im/2026/stdin-19",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -4425,8 +4477,8 @@
    "ts": 1790166060
   },
   {
-   "title": "Register Token以及对变形金刚AI的四大批判",
-   "link": "https://blog.est.im/2026/stdin-19",
+   "title": "聪明 Agent 四套路 和 人肉学习",
+   "link": "https://blog.est.im/2026/stdin-18",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -4865,19 +4917,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789340433
-  },
-  {
-   "title": "How to Actually Remember German Vocabulary",
-   "link": "https://www.youtube.com/watch?v=QSl-n50nrKM",
-   "author": "Easy German",
-   "source": "Easy German",
-   "feed": "youtube-easy-german",
-   "lang": "de",
-   "date": "2026-09-14",
-   "day": "Sep 14",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789318804
   },
   {
    "title": "一天原型，一周成品：开发 Lody iOS 实况",
@@ -5931,19 +5970,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1786288471
-  },
-  {
-   "title": "成都outing",
-   "link": "https://www.skyue.com/26080915.html",
-   "author": "SKYue",
-   "source": "SKYue",
-   "feed": "www-skyue-com-feed",
-   "lang": "zh",
-   "date": "2026-08-09",
-   "day": "Aug 9",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1786261980
   },
   {
    "title": "Agent 插件如何走向工程化：Better Harness 的五个实践",
@@ -7569,19 +7595,6 @@
    "ym": "2026-05",
    "ym_label": "May 2026",
    "ts": 1780213740
-  },
-  {
-   "title": "Linux chmod 权限位详解：SUID、SGID、Sticky Bit 及 ACL",
-   "link": "https://yanlinlin.cn/2026/05/31/linux-chmod-permissions-suid-sgid-sticky-acl/",
-   "author": "Yan Linlin",
-   "source": "Yan Linlin",
-   "feed": "yanlinlin-cn-index-xml",
-   "lang": "zh",
-   "date": "2026-05-31",
-   "day": "May 31",
-   "ym": "2026-05",
-   "ym_label": "May 2026",
-   "ts": 1780204500
   },
   {
    "title": "How I Use AI for Code Review",
@@ -13146,19 +13159,6 @@
    "ym": "2024-11",
    "ym_label": "November 2024",
    "ts": 1730952204
-  },
-  {
-   "title": "My Second Term Plan",
-   "link": "https://adamfortuna.com/my-second-term-plan",
-   "author": "Adam Fortuna",
-   "source": "Adam Fortuna",
-   "feed": "adamfortuna-com-feed",
-   "lang": "en",
-   "date": "2024-11-07",
-   "day": "Nov 7",
-   "ym": "2024-11",
-   "ym_label": "November 2024",
-   "ts": 1730934412
   },
   {
    "title": "CKB RBF 设计和实现",
