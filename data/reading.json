@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 15:15",
+ "updated": "2026-11-11 03:42",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,127 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": false
+   "ok": true
   }
  ],
  "items": [
+  {
+   "title": "Did Anthropic just save its $1 trillion IPO?",
+   "link": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794334795
+  },
+  {
+   "title": ".name Grandfathered",
+   "link": "https://neil.fraser.name/news/2026/11/10/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794328664
+  },
+  {
+   "title": "能夠持續熱愛生活，就是不遺憾的老後",
+   "link": "https://taiwan.chtsai.org/2026/11/10/bu_yihan_de_laohou/",
+   "author": "Chih-Hao Tsai",
+   "source": "Chih-Hao Tsai",
+   "feed": "taiwan-chtsai-org-feed",
+   "lang": "zh",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794325264
+  },
+  {
+   "title": "Smart home devices should work without the internet",
+   "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794324320
+  },
+  {
+   "title": "What Happens When You Die? (Minute by Minute)",
+   "link": "https://www.youtube.com/watch?v=fEjvSbI_PT4",
+   "author": "Kurzgesagt – In a Nutshell",
+   "source": "Kurzgesagt – In a Nutshell",
+   "feed": "youtube-kurzgesagt",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794322801
+  },
+  {
+   "title": "AlphaProof Code",
+   "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794312672
+  },
+  {
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794295701
+  },
+  {
+   "title": "MuJoCo 4",
+   "link": "https://www.producthunt.com/products/google",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794291789
+  },
+  {
+   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+   "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794290468
+  },
   {
    "title": "Quoting Prompting Claude Fable 5.2",
    "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
@@ -694,6 +811,19 @@
    "ts": 1794288854
   },
   {
+   "title": "AppuBot",
+   "link": "https://www.producthunt.com/products/appubot",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794284161
+  },
+  {
    "title": "Yonkers Rises",
    "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
    "author": "Simon Willison",
@@ -705,6 +835,97 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794282784
+  },
+  {
+   "title": "HitPay Agentic Discovery",
+   "link": "https://www.producthunt.com/products/hitpay-agentic-discovery",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794279863
+  },
+  {
+   "title": "Dover Startup Jobs",
+   "link": "https://www.producthunt.com/products/dover",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794279186
+  },
+  {
+   "title": "openring",
+   "link": "https://www.producthunt.com/products/openring",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794273974
+  },
+  {
+   "title": "Seldon",
+   "link": "https://www.producthunt.com/products/seldon",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794273501
+  },
+  {
+   "title": "Clive",
+   "link": "https://www.producthunt.com/products/clive",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794270202
+  },
+  {
+   "title": "Almanzor",
+   "link": "https://www.producthunt.com/products/almanzor",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794270061
+  },
+  {
+   "title": "Locating the source of a mysterious beep",
+   "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794269446
   },
   {
    "title": "llm-anthropic 0.31",
@@ -746,6 +967,45 @@
    "ts": 1794265693
   },
   {
+   "title": "Inspo by Context.dev",
+   "link": "https://www.producthunt.com/products/context-dev",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794260911
+  },
+  {
+   "title": "Kumiko",
+   "link": "https://www.producthunt.com/products/kumiko-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794260459
+  },
+  {
+   "title": "Kettle",
+   "link": "https://www.producthunt.com/products/kettle",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794260446
+  },
+  {
    "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
    "link": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
    "author": "Fireship",
@@ -757,6 +1017,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794258256
+  },
+  {
+   "title": "Willder",
+   "link": "https://www.producthunt.com/products/willder-with-will-wield-the-wilder",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794254759
   },
   {
    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
@@ -783,6 +1056,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794254339
+  },
+  {
+   "title": "MoreFrame",
+   "link": "https://www.producthunt.com/products/moreframe",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794253476
+  },
+  {
+   "title": "Obsiva",
+   "link": "https://www.producthunt.com/products/obsiva",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794253311
   },
   {
    "title": "Claude Fable 5.2 and Mythos 5.2",
@@ -850,6 +1149,19 @@
    "ts": 1794247270
   },
   {
+   "title": "Muse Ember: Our smallest, most efficient model",
+   "link": "https://research.meta.ai/blog/muse-ember",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794247126
+  },
+  {
    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
    "link": "https://www.watched.earth",
    "author": "Hacker News",
@@ -889,6 +1201,19 @@
    "ts": 1794245780
   },
   {
+   "title": "OpenVibe",
+   "link": "https://www.producthunt.com/products/openvibe-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794245697
+  },
+  {
    "title": "Transcript: The 25th Anniversary of China’s Accession to the WTO and the Future of the Global Trading System",
    "link": "https://www.pekingnology.com/p/transcript-the-25th-anniversary-of",
    "author": "Zichen Wang",
@@ -902,6 +1227,45 @@
    "ts": 1794245468
   },
   {
+   "title": "Tokens by UI Colors",
+   "link": "https://www.producthunt.com/products/tokens-by-ui-colors",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794245388
+  },
+  {
+   "title": "ZUS",
+   "link": "https://www.producthunt.com/products/zus-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794243709
+  },
+  {
+   "title": "Ember",
+   "link": "https://www.producthunt.com/products/ember-117",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794243633
+  },
+  {
    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
    "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
    "author": "Hacker News",
@@ -913,6 +1277,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794240045
+  },
+  {
+   "title": "Daytwo",
+   "link": "https://www.producthunt.com/products/daytwo-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794237454
   },
   {
    "title": "I saw your HN comment",
@@ -941,8 +1318,8 @@
    "ts": 1794234861
   },
   {
-   "title": "Humans will never again create a project quite like Wikipedia",
-   "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+   "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+   "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
    "author": "Hacker News",
    "source": "Hacker News 300+",
    "feed": "hnrss-org-newest",
@@ -951,20 +1328,33 @@
    "day": "Nov 9",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794227420
+   "ts": 1794234699
   },
   {
-   "title": "Foldable Flight: The Best Paper Airplanes",
-   "link": "https://www.foldableflight.com",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "SideKick By Open",
+   "link": "https://www.producthunt.com/products/open-for-sales",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-09",
    "day": "Nov 9",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794226762
+   "ts": 1794229186
+  },
+  {
+   "title": "Wipecraft",
+   "link": "https://www.producthunt.com/products/wipecraft",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794225059
   },
   {
    "title": "Why Stablecoins Need to Move Beyond the Dollar",
@@ -978,6 +1368,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794223816
+  },
+  {
+   "title": "Co-Review",
+   "link": "https://www.producthunt.com/products/co-review",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794218072
+  },
+  {
+   "title": "LotusQ",
+   "link": "https://www.producthunt.com/products/lotusq",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794217940
   },
   {
    "title": "资金费率套利中的 “数据工程”",
@@ -1006,17 +1422,30 @@
    "ts": 1794213360
   },
   {
-   "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-   "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Lottie AI",
+   "link": "https://www.producthunt.com/products/lottiefiles",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-09",
    "day": "Nov 9",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794207865
+   "ts": 1794212201
+  },
+  {
+   "title": "CollaboTokyo",
+   "link": "https://www.producthunt.com/products/collabotokyo",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794205452
   },
   {
    "title": "The Web Is More Than Enough, by Paul Ford",
@@ -1045,19 +1474,6 @@
    "ts": 1794198305
   },
   {
-   "title": "GitHub New PR Overview",
-   "link": "https://www.producthunt.com/products/github",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794195284
-  },
-  {
    "title": "开了一个聊投资的音频播客",
    "link": "https://www.raychase.net/8369",
    "author": "Sihuo",
@@ -1071,43 +1487,17 @@
    "ts": 1794195044
   },
   {
-   "title": "RIP, Harvest",
-   "link": "https://aphyr.com/posts/427-rip-harvest",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "QuotedPart",
+   "link": "https://www.producthunt.com/products/quotedpart",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-09",
    "day": "Nov 9",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794189501
-  },
-  {
-   "title": "Unlocking any car from X brand in most of the world",
-   "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794183050
-  },
-  {
-   "title": "I'm not convinced the AI bubble exists",
-   "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794181476
+   "ts": 1794182686
   },
   {
    "title": "How Cisco Got Bullwhipped",
@@ -1121,19 +1511,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794178832
-  },
-  {
-   "title": "Chimera Vocal Synth",
-   "link": "https://chimera-vocal-synth.vercel.app/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794177363
   },
   {
    "title": "parse_number() as a SQLite extension: C vs Rust",
@@ -1160,32 +1537,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794174858
-  },
-  {
-   "title": "Nörth",
-   "link": "https://www.producthunt.com/products/north-5",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794168997
-  },
-  {
-   "title": "Cue",
-   "link": "https://www.producthunt.com/products/cue-voice-keyboard",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794168524
   },
   {
    "title": "My Development Workflow Over Time",
@@ -1253,19 +1604,6 @@
    "ts": 1794148293
   },
   {
-   "title": "ClipsPal",
-   "link": "https://www.producthunt.com/products/clipspal",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-08",
-   "day": "Nov 8",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794144847
-  },
-  {
    "title": "Migrating from React Native to UIKit in 87 Hours: Hollow Out the Data Layer, Then Invert the Host",
    "link": "https://innei.in/posts/tech/react-native-to-uikit-migration",
    "author": "Innei",
@@ -1277,6 +1615,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794130192
+  },
+  {
+   "title": "Opal Reader",
+   "link": "https://www.producthunt.com/products/opal-reader",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794110254
+  },
+  {
+   "title": "Coffee",
+   "link": "https://www.producthunt.com/products/coffee-9",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794099973
   },
   {
    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
@@ -1292,6 +1656,19 @@
    "ts": 1794095866
   },
   {
+   "title": "Levo",
+   "link": "https://www.producthunt.com/products/levo-3",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-08",
+   "day": "Nov 8",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794087059
+  },
+  {
    "title": "Terry Pratchett's Study",
    "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
    "author": "Simon Willison",
@@ -1303,84 +1680,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794080064
-  },
-  {
-   "title": "Higgsfield Miracle",
-   "link": "https://www.producthunt.com/products/higgsfield",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-08",
-   "day": "Nov 8",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794076136
-  },
-  {
-   "title": "Agent Clan",
-   "link": "https://www.producthunt.com/products/agent-clan",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-08",
-   "day": "Nov 8",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794073946
-  },
-  {
-   "title": "Egoist AI Passport",
-   "link": "https://www.producthunt.com/products/egoist-ai-passport",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-08",
-   "day": "Nov 8",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794068853
-  },
-  {
-   "title": "NotchX",
-   "link": "https://www.producthunt.com/products/notch-11",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-08",
-   "day": "Nov 8",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794067499
-  },
-  {
-   "title": "Zigzag Browser",
-   "link": "https://www.producthunt.com/products/zigzag-browser",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-07",
-   "day": "Nov 7",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794062286
-  },
-  {
-   "title": "skuttr",
-   "link": "https://www.producthunt.com/products/skuttr",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-07",
-   "day": "Nov 7",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794060879
   },
   {
    "title": "Why Egypt Guards This River With an Army",
@@ -1396,6 +1695,19 @@
    "ts": 1794056420
   },
   {
+   "title": "RunThru",
+   "link": "https://www.producthunt.com/products/runthru",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-07",
+   "day": "Nov 7",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794038749
+  },
+  {
    "title": "救命以外的钱丨一周语文（2645）",
    "link": "https://www.huangjiwei.com/blog/?p=12770",
    "author": "Huang Jiwei",
@@ -1407,32 +1719,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794028451
-  },
-  {
-   "title": "Product Hunt MCP",
-   "link": "https://www.producthunt.com/products/producthunt",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-07",
-   "day": "Nov 7",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794001194
-  },
-  {
-   "title": "Muse Realtime Avatar",
-   "link": "https://www.producthunt.com/products/meta-ai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-07",
-   "day": "Nov 7",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793989318
   },
   {
    "title": "Quoting Nilay Patel",
@@ -1448,19 +1734,6 @@
    "ts": 1793985192
   },
   {
-   "title": "If You Read This",
-   "link": "https://www.producthunt.com/products/if-you-read-this",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-07",
-   "day": "Nov 7",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793983649
-  },
-  {
    "title": "The one thing holding theoretical CS together just broke... kinda",
    "link": "https://www.youtube.com/watch?v=iw9SZgyahqg",
    "author": "Fireship",
@@ -1474,45 +1747,6 @@
    "ts": 1793983358
   },
   {
-   "title": "Arcjet AI security models",
-   "link": "https://www.producthunt.com/products/arcjet",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793978605
-  },
-  {
-   "title": "Inkling 2 Small",
-   "link": "https://www.producthunt.com/products/tinker-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793974739
-  },
-  {
-   "title": "MCP1",
-   "link": "https://www.producthunt.com/products/appwrite",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793970836
-  },
-  {
    "title": "Stocks Plunge After the Midterms. Can Bitcoin Survive the AI Selloff?",
    "link": "https://www.youtube.com/watch?v=Zng5DkMO8e8",
    "author": "Bankless",
@@ -1524,45 +1758,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793964632
-  },
-  {
-   "title": "Capnot",
-   "link": "https://www.producthunt.com/products/capnot",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793960737
-  },
-  {
-   "title": "Flic Cue",
-   "link": "https://www.producthunt.com/products/flic-cue",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793954374
-  },
-  {
-   "title": "Frameboy by World Labs",
-   "link": "https://www.producthunt.com/products/marble-by-world-labs",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793941591
   },
   {
    "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
@@ -1591,58 +1786,6 @@
    "ts": 1793912450
   },
   {
-   "title": "Terse - Durable Actors",
-   "link": "https://www.producthunt.com/products/terse-durable-actors",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793909395
-  },
-  {
-   "title": "KIKUmap",
-   "link": "https://www.producthunt.com/products/kikumap",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793908152
-  },
-  {
-   "title": "Calmly Script",
-   "link": "https://www.producthunt.com/products/calmly-script",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793903997
-  },
-  {
-   "title": "Sign Language by Panda Video",
-   "link": "https://www.producthunt.com/products/panda-video",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793901646
-  },
-  {
    "title": "Quoting Paul Ford",
    "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
    "author": "Simon Willison",
@@ -1656,19 +1799,6 @@
    "ts": 1793900043
   },
   {
-   "title": "Google Omni 1.2 Flash",
-   "link": "https://www.producthunt.com/products/google-omni-1-2-flash",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793898635
-  },
-  {
    "title": "How to Grow and Monetize a Newsletter in 2027 (Full Strategy) | 153",
    "link": "https://nathanbarry.com/how-to-grow-and-monetize-a-newsletter-in-2027-full-strategy-153/",
    "author": "Nathan Barry",
@@ -1680,19 +1810,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793898000
-  },
-  {
-   "title": "Cardboard AI",
-   "link": "https://www.producthunt.com/products/cardboard-3",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793894212
   },
   {
    "title": "Feedglot支持Agent调用了",
@@ -1734,58 +1851,6 @@
    "ts": 1793870461
   },
   {
-   "title": "DocsAlot for customer support",
-   "link": "https://www.producthunt.com/products/docsalot-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793857281
-  },
-  {
-   "title": "Keypause",
-   "link": "https://www.producthunt.com/products/keypause",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793853516
-  },
-  {
-   "title": "outages.live",
-   "link": "https://www.producthunt.com/products/polylane",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793839225
-  },
-  {
-   "title": "CozyZip",
-   "link": "https://www.producthunt.com/products/cozyzip",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-05",
-   "day": "Nov 5",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793833776
-  },
-  {
    "title": "Everything You Need to Know About the German Drivers License",
    "link": "https://www.youtube.com/watch?v=aiFJ11GY7sE",
    "author": "Easy German",
@@ -1823,19 +1888,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793805962
-  },
-  {
-   "title": "Jotform App for Shopify",
-   "link": "https://www.producthunt.com/products/jotform",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793797644
   },
   {
    "title": "一部有望冲击奥斯卡最佳电影的…纪录片",
@@ -2553,19 +2605,6 @@
    "ts": 1793232000
   },
   {
-   "title": "Quoting Ted Sanders",
-   "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793229801
-  },
-  {
    "title": "美国最近火了一个AI，一条全新的反AGI的技术路线",
    "link": "http://weiwuhui.com/11107.html",
    "author": "Wei Wuhui",
@@ -2774,7 +2813,7 @@
    "ts": 1792969215
   },
   {
-   "title": "How Foreigners Become Skilled Workers in Germany",
+   "title": "Inside Germany’s Unique Apprenticeship System",
    "link": "https://www.youtube.com/watch?v=-4o4S6M6QcE",
    "author": "Easy German",
    "source": "Easy German",
@@ -3840,19 +3879,6 @@
    "ts": 1791360780
   },
   {
-   "title": "海港、鐵路、城市：走過一頁花蓮發展史",
-   "link": "https://taiwan.chtsai.org/2026/10/07/haigang_tielu_chengshi/",
-   "author": "Chih-Hao Tsai",
-   "source": "Chih-Hao Tsai",
-   "feed": "taiwan-chtsai-org-feed",
-   "lang": "zh",
-   "date": "2026-10-07",
-   "day": "Oct 7",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791336806
-  },
-  {
    "title": "Do you want it the most?",
    "link": "https://justinjackson.ca/want-the-most",
    "author": "Justin Jackson",
@@ -4254,19 +4280,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1790795950
-  },
-  {
-   "title": "Did a 50 year old military secret just solve agent prompt injection?",
-   "link": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-10-01",
-   "day": "Oct 1",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1790788603
   },
   {
    "title": "A Day in Paris in Slow German",
@@ -9870,19 +9883,6 @@
    "ym": "2026-01",
    "ym_label": "January 2026",
    "ts": 1768912387
-  },
-  {
-   "title": "We Made A New Channel!",
-   "link": "https://www.youtube.com/watch?v=D0WQK7cMJn8",
-   "author": "Kurzgesagt – In a Nutshell",
-   "source": "Kurzgesagt – In a Nutshell",
-   "feed": "youtube-kurzgesagt",
-   "lang": "en",
-   "date": "2026-01-16",
-   "day": "Jan 16",
-   "ym": "2026-01",
-   "ym_label": "January 2026",
-   "ts": 1768577405
   },
   {
    "title": "Don’t Give Up… Your Assumptions",
