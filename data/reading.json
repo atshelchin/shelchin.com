@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11 03:42",
+ "updated": "2026-11-11 14:13",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,62 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Tracking Anthropic-discovered vulnerabilities",
+   "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794349076
+  },
+  {
+   "title": "llm-gemini 0.36",
+   "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794341384
+  },
+  {
+   "title": "Scion is back and is going to sell a kei truck in America",
+   "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794340246
+  },
+  {
+   "title": "Starlink Mini 2",
+   "link": "https://starlink.com/mini-2",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794334952
+  },
   {
    "title": "Did Anthropic just save its $1 trillion IPO?",
    "link": "https://www.youtube.com/watch?v=1FurWDiK9A4",
@@ -694,6 +746,45 @@
    "ts": 1794334795
   },
   {
+   "title": "Synaptics patent claims stop work on DisplayLink drivers",
+   "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794333722
+  },
+  {
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "link": "https://github.com/GoogleChrome/modern-web-guidance",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794333675
+  },
+  {
+   "title": "Val Town is winding down",
+   "link": "https://blog.val.town/winding-down",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794331874
+  },
+  {
    "title": ".name Grandfathered",
    "link": "https://neil.fraser.name/news/2026/11/10/",
    "author": "Hacker News",
@@ -705,6 +796,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794328664
+  },
+  {
+   "title": "Blender 5.3 released with Gaussian Splat support",
+   "link": "https://www.blender.org/download/releases/5-3/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794327343
   },
   {
    "title": "能夠持續熱愛生活，就是不遺憾的老後",
@@ -746,6 +850,19 @@
    "ts": 1794322801
   },
   {
+   "title": "Ableton Live 13",
+   "link": "https://www.ableton.com/en/live/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794315484
+  },
+  {
    "title": "AlphaProof Code",
    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
    "author": "Hacker News",
@@ -757,6 +874,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794312672
+  },
+  {
+   "title": "AI usage generates a fragile codebase",
+   "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794306358
   },
   {
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -1123,84 +1253,6 @@
    "ts": 1794248878
   },
   {
-   "title": "Google Gemini routes personal Drive files and emails to human annotators",
-   "link": "https://github.com/thisisme6598/gemini_files/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794248678
-  },
-  {
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794247270
-  },
-  {
-   "title": "Muse Ember: Our smallest, most efficient model",
-   "link": "https://research.meta.ai/blog/muse-ember",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794247126
-  },
-  {
-   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-   "link": "https://www.watched.earth",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794246691
-  },
-  {
-   "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-   "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794246175
-  },
-  {
-   "title": "Going back two years on Hacker News is like entering another, better universe",
-   "link": "https://news.ycombinator.com/front?day=2024-11-08",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794245780
-  },
-  {
    "title": "OpenVibe",
    "link": "https://www.producthunt.com/products/openvibe-2",
    "author": "Product Hunt",
@@ -1266,19 +1318,6 @@
    "ts": 1794243633
   },
   {
-   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-   "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794240045
-  },
-  {
    "title": "Daytwo",
    "link": "https://www.producthunt.com/products/daytwo-2",
    "author": "Product Hunt",
@@ -1292,19 +1331,6 @@
    "ts": 1794237454
   },
   {
-   "title": "I saw your HN comment",
-   "link": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794236463
-  },
-  {
    "title": "2026 年9/10 月观影总结",
    "link": "https://www.ixiqin.com/2026/11/09/2026-09-movie-log/",
    "author": "Bai Huancheng",
@@ -1316,19 +1342,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794234861
-  },
-  {
-   "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-   "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794234699
   },
   {
    "title": "SideKick By Open",
@@ -2551,19 +2564,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793286671
-  },
-  {
-   "title": "Quoting Ben Hylak",
-   "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-29",
-   "day": "Oct 29",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793282787
   },
   {
    "title": "一些近期改善睡眠质量的尝试",
