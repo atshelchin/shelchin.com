@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11 22:21",
+ "updated": "2026-11-12 08:41",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,6 +681,149 @@
  ],
  "items": [
   {
+   "title": "Nvidia is preparing to oust Jensen Huang",
+   "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794436266
+  },
+  {
+   "title": "Gemini Decisions API",
+   "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794434605
+  },
+  {
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794432275
+  },
+  {
+   "title": "aws-emulator",
+   "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794431910
+  },
+  {
+   "title": "Browse tools.simonwillison.net by tag",
+   "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794422570
+  },
+  {
+   "title": "AWS emulator",
+   "link": "https://github.com/aws/aws-emulator",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794421298
+  },
+  {
+   "title": "llm 0.37.2",
+   "link": "https://simonwillison.net/2026/Nov/11/llm/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794417592
+  },
+  {
+   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+   "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794415124
+  },
+  {
+   "title": "Anthropic's IPO roadshow video",
+   "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794409919
+  },
+  {
+   "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+   "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794405365
+  },
+  {
+   "title": "My AI agents found an unmapped Maya site",
+   "link": "https://pietromiotti.com/latest/maya-site",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794398722
+  },
+  {
    "title": "How a Top 100 Hyperliquid Trader Finds the Next Big Trade",
    "link": "https://www.youtube.com/watch?v=CM3oXmVoxWo",
    "author": "Bankless",
@@ -692,6 +835,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794396625
+  },
+  {
+   "title": "Tim Peters has died",
+   "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794380597
   },
   {
    "title": "Reddit Reviews",
@@ -718,6 +874,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794373646
+  },
+  {
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794371337
   },
   {
    "title": "Mister Blocks",
@@ -822,6 +991,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794347882
+  },
+  {
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794345903
+  },
+  {
+   "title": "Six Math Essentials",
+   "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794344324
   },
   {
    "title": "Padrail",
@@ -941,6 +1136,19 @@
    "ts": 1794333675
   },
   {
+   "title": "Easy German Beginner Challenge",
+   "link": "https://www.youtube.com/shorts/9KRVbcqRY1M",
+   "author": "Easy German",
+   "source": "Easy German",
+   "feed": "youtube-easy-german",
+   "lang": "de",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794331986
+  },
+  {
    "title": "Val Town is winding down",
    "link": "https://blog.val.town/winding-down",
    "author": "Hacker News",
@@ -952,6 +1160,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794331874
+  },
+  {
+   "title": "They Found Something In King Tut’s Tomb",
+   "link": "https://www.youtube.com/shorts/kCD532ylVGc",
+   "author": "Cleo Abram",
+   "source": "Cleo Abram",
+   "feed": "youtube-cleo-abram",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794330316
   },
   {
    "title": ".name Grandfathered",
@@ -1097,19 +1318,6 @@
    "ts": 1794315484
   },
   {
-   "title": "AlphaProof Code",
-   "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794312672
-  },
-  {
    "title": "Shot.video",
    "link": "https://www.producthunt.com/products/shot-video",
    "author": "Product Hunt",
@@ -1136,19 +1344,6 @@
    "ts": 1794306642
   },
   {
-   "title": "AI usage generates a fragile codebase",
-   "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794306358
-  },
-  {
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
    "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
    "author": "Simon Willison",
@@ -1162,17 +1357,17 @@
    "ts": 1794295701
   },
   {
-   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-   "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "MuJoCo 4",
+   "link": "https://www.producthunt.com/products/google",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-10",
    "day": "Nov 10",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794290468
+   "ts": 1794291789
   },
   {
    "title": "Quoting Prompting Claude Fable 5.2",
@@ -1186,6 +1381,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794288854
+  },
+  {
+   "title": "AppuBot",
+   "link": "https://www.producthunt.com/products/appubot",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794284161
   },
   {
    "title": "Yonkers Rises",
@@ -1227,32 +1435,6 @@
    "ts": 1794273974
   },
   {
-   "title": "Clive",
-   "link": "https://www.producthunt.com/products/clive",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794270202
-  },
-  {
-   "title": "Locating the source of a mysterious beep",
-   "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794269446
-  },
-  {
    "title": "llm-anthropic 0.31",
    "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
    "author": "Simon Willison",
@@ -1277,19 +1459,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794268641
-  },
-  {
-   "title": "Fable 5.2 one-shotted my nephew's dream game",
-   "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794265693
   },
   {
    "title": "Muse Ember by Meta",
@@ -1318,6 +1487,19 @@
    "ts": 1794260911
   },
   {
+   "title": "Kumiko",
+   "link": "https://www.producthunt.com/products/kumiko-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794260459
+  },
+  {
    "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
    "link": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
    "author": "Fireship",
@@ -1331,34 +1513,8 @@
    "ts": 1794258256
   },
   {
-   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-   "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794254695
-  },
-  {
-   "title": "USPS now offers official ZIP Code boundary polygons",
-   "link": "https://postalpro.usps.com/zcb",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794254339
-  },
-  {
-   "title": "Obsiva",
-   "link": "https://www.producthunt.com/products/obsiva",
+   "title": "MoreFrame",
+   "link": "https://www.producthunt.com/products/moreframe",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1367,46 +1523,7 @@
    "day": "Nov 10",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794253311
-  },
-  {
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794250589
-  },
-  {
-   "title": "E-means: Outperforming k-means in one-tenth the epochs",
-   "link": "https://e-means.github.io/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794249943
-  },
-  {
-   "title": "Too many men suffering in silence, national health report finds",
-   "link": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794248878
+   "ts": 1794253476
   },
   {
    "title": "OpenVibe",
@@ -1474,6 +1591,19 @@
    "ts": 1794232641
   },
   {
+   "title": "Wipecraft",
+   "link": "https://www.producthunt.com/products/wipecraft",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-09",
+   "day": "Nov 9",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794225059
+  },
+  {
    "title": "Why Stablecoins Need to Move Beyond the Dollar",
    "link": "https://www.youtube.com/watch?v=Y7abNeR_ats",
    "author": "Bankless",
@@ -1485,19 +1615,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794223816
-  },
-  {
-   "title": "LotusQ",
-   "link": "https://www.producthunt.com/products/lotusq",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794217940
   },
   {
    "title": "资金费率套利中的 “数据工程”",
@@ -1669,19 +1786,6 @@
    "ts": 1794148293
   },
   {
-   "title": "Kippy AI",
-   "link": "https://www.producthunt.com/products/kippy-ai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-08",
-   "day": "Nov 8",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794136624
-  },
-  {
    "title": "Migrating from React Native to UIKit in 87 Hours: Hollow Out the Data Layer, Then Invert the Host",
    "link": "https://innei.in/posts/tech/react-native-to-uikit-migration",
    "author": "Innei",
@@ -1693,19 +1797,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794130192
-  },
-  {
-   "title": "Opal Reader",
-   "link": "https://www.producthunt.com/products/opal-reader",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-08",
-   "day": "Nov 8",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794110254
   },
   {
    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
@@ -2319,32 +2410,6 @@
    "ts": 1793491200
   },
   {
-   "title": "How We Took Over ChatGPT Accounts",
-   "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-01",
-   "day": "Nov 1",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793488522
-  },
-  {
-   "title": "datasette-llm 0.1a9",
-   "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-01",
-   "day": "Nov 1",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793484601
-  },
-  {
    "title": "Who’s Afraid of “ByteDance Time”?",
    "link": "https://www.pekingnology.com/p/whos-afraid-of-bytedance-time",
    "author": "Zichen Wang",
@@ -2408,19 +2473,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793404800
-  },
-  {
-   "title": "dbreunig/nesformer",
-   "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-31",
-   "day": "Oct 31",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793397562
   },
   {
    "title": "Inside the $6 Billion Binance Hack",
@@ -2525,32 +2577,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1793319183
-  },
-  {
-   "title": "API credits benefit for eligible ChatGPT subscriptions",
-   "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793314109
-  },
-  {
-   "title": "Building a multiplayer game world with autonomous Fable-class models",
-   "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-10-30",
-   "day": "Oct 30",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1793293226
   },
   {
    "title": "What Robert Caro’s books taught me about power",
@@ -4904,19 +4930,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789591900
-  },
-  {
-   "title": "Why Germans Love Coffee and Cake (Slow German Conversation)",
-   "link": "https://www.youtube.com/watch?v=ScseAJrBnH4",
-   "author": "Easy German",
-   "source": "Easy German",
-   "feed": "youtube-easy-german",
-   "lang": "de",
-   "date": "2026-09-17",
-   "day": "Sep 17",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789578029
   },
   {
    "title": "被裁记 2.0",
@@ -10572,19 +10585,6 @@
    "ym": "2025-11",
    "ym_label": "November 2025",
    "ts": 1763390189
-  },
-  {
-   "title": "Humanity’s Real Plan to Stop This Asteroid (Feat. Mark Rober)",
-   "link": "https://www.youtube.com/watch?v=LOn-mmezykQ",
-   "author": "Cleo Abram",
-   "source": "Cleo Abram",
-   "feed": "youtube-cleo-abram",
-   "lang": "en",
-   "date": "2025-11-16",
-   "day": "Nov 16",
-   "ym": "2025-11",
-   "ym_label": "November 2025",
-   "ts": 1763222436
   },
   {
    "title": "I made an app in 24 hours and $20,378 the next day",
