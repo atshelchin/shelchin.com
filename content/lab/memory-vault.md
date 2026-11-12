@@ -1,14 +1,50 @@
-
-
 +++
 
-title = "Memory Vault"
+title = "Keyper（原 Memory Vault）"
 date = 2025-10-29
+updated = 2026-11-12
 
 +++
 
 简单描述一下这个项目
-🔐 **Password to BIP39 Mnemonic Generator**
 
-仓库地址：https://github.com/atshelchin/memory-vault
+Memory Vault 现在改名叫 Keyper。
 
+**Recovery doesn't have to depend on paper.** 用邮箱 + 一句只有你知道的秘密句子，在离线手机上生成标准的 BIP39 助记词（12 或 24 个词）。
+
+官网：https://getkeyper.app/
+
+## 它是什么
+
+- 它**不是钱包**：不保管资金，也不能转账。生成的助记词扫码导入任何支持 BIP39 的钱包使用。
+- 它就是一个 brainwallet，官网也直接承认这一点。
+- 不用注册账号，不用登录。
+
+## 怎么用（约 1 分钟）
+
+1. 打开飞行模式，关掉 Wi-Fi 和蓝牙（可以用一台闲置的 Android 或 iPhone）。
+2. 用 Keyper 自带的键盘输入邮箱和秘密句子，每次都要完全一样，包括大小写和符号。
+3. 第一次使用时，凭记忆再输入一遍，确认得到同一组助记词，再扫二维码导入 BIP39 钱包。
+
+## 原理
+
+- **邮箱作为盐**：同一句话，不同的人得到不同的助记词。
+- **Argon2id**：占用大量内存，让每一次猜测都更贵。
+- **强度评分**：App 会给句子打分，但分数也可能不准。
+- **规则公开**：算法写在 [SPEC.md](https://github.com/mondaylabsltd/keyper/blob/main/SPEC.md) 里，App 没了也能用一个独立的 Python 程序在离线电脑上重新算出助记词。建议正式使用前自己验证一遍。
+
+## 为什么做
+
+纸和钢板备份会丢、会被偷；硬件钱包也出过软件 bug，生成了可被猜到的助记词。把恢复能力放在脑子里，是另一种选择。
+
+## 风险
+
+- **忘了就找不回**：没有任何找回机制，少一个标点就是另一组助记词。
+- **句子必须真随机**：名言、歌词、公开信息都不安全，Argon2id 救不了一个容易猜的句子。
+- **离线挡不住手机里已有的恶意软件。**
+- 只适合能用可靠的随机方式生成秘密、并且能多年准确记住它的人；做不到的话，用可信钱包随机生成助记词 + 安全备份更好。
+
+## 价格与开源
+
+- 源码 MIT 协议开源：[github.com/mondaylabsltd/keyper](https://github.com/mondaylabsltd/keyper)，自己编译免费，功能完全一样。
+- Google Play 和 App Store 版本即将上架，一次买断 US$29.99，无订阅，两个平台分开购买，收入用于维护。
