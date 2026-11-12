@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12 23:11",
+ "updated": "2026-11-13 07:37",
  "languages": [
   {
    "key": "zh",
@@ -681,8 +681,138 @@
  ],
  "items": [
   {
-   "title": "NVIDIA Announces CEO Transition",
-   "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "title": "Indonesia’s Mega Rice Failure",
+   "link": "https://www.youtube.com/watch?v=ZnNRkW51qng",
+   "author": "Asianometry",
+   "source": "Asianometry",
+   "feed": "youtube-asianometry",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794524439
+  },
+  {
+   "title": "Jensen Huang just pulled out of Nvidia...",
+   "link": "https://www.youtube.com/watch?v=SOwUWPtXQ9I",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794518230
+  },
+  {
+   "title": "Rust 1.100",
+   "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794508745
+  },
+  {
+   "title": "Rust 1.100",
+   "link": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794507846
+  },
+  {
+   "title": "Service degradation on Microsoft 365",
+   "link": "https://status.cloud.microsoft/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794507648
+  },
+  {
+   "title": "Ask HN: Microsoft/Azure Outage?",
+   "link": "https://news.ycombinator.com/item?id=50471668",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794507433
+  },
+  {
+   "title": "Gemini 4 Hydrogen",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794506508
+  },
+  {
+   "title": "《OpenClaw时代的OPC：一人公司从0到1方法论》书评",
+   "link": "https://yanlinlin.cn/2026/11/13/openclaw-era-opc-review/",
+   "author": "Yan Linlin",
+   "source": "Yan Linlin",
+   "feed": "yanlinlin-cn-index-xml",
+   "lang": "zh",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794504840
+  },
+  {
+   "title": "If I Wanted to 10x My Revenue in 2027, I’d Do This | 154",
+   "link": "https://nathanbarry.com/if-i-wanted-to-10x-my-revenue-in-2027-id-do-this-154/",
+   "author": "Nathan Barry",
+   "source": "Nathan Barry",
+   "feed": "nathanbarry-com-feed",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794502800
+  },
+  {
+   "title": "Jensen Huang resigns as Nvidia CEO immediately",
+   "link": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794491771
+  },
+  {
+   "title": "Jensen Huang resigns",
+   "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
    "author": "Hacker News",
    "source": "Hacker News 300+",
    "feed": "hnrss-org-newest",
@@ -692,6 +822,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794491549
+  },
+  {
+   "title": "Anthropic IPO",
+   "link": "https://ipo.anthropic.com/us/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794484001
   },
   {
    "title": "第 5 轮做视频课的练习题",
@@ -705,6 +848,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794480418
+  },
+  {
+   "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
+   "link": "https://pron.github.io/posts/correctness-and-complexity",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794479306
   },
   {
    "title": "Zhang Ming: China Should Seize New Opportunities to Internationalise the Renminbi",
@@ -733,7 +889,7 @@
    "ts": 1794469855
   },
   {
-   "title": "Humble Bundle just killed most of their security through vibecoding",
+   "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
    "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -848,6 +1004,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794442591
+  },
+  {
+   "title": "How Robert Moses Got Everything Built - Robert Caro",
+   "link": "https://www.youtube.com/shorts/3eMnUYkvbJg",
+   "author": "Dwarkesh Patel",
+   "source": "Dwarkesh Patel",
+   "feed": "youtube-dwarkesh-patel",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794441615
   },
   {
    "title": "93% of paint splatters are valid Perl programs (2019)",
@@ -991,6 +1160,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794429633
+  },
+  {
+   "title": "Emacs in the Age of Magic",
+   "link": "https://commandlinesystems.com/magic.txt",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794428792
   },
   {
    "title": "Foxpit",
@@ -1149,32 +1331,6 @@
    "ts": 1794409919
   },
   {
-   "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-   "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794405365
-  },
-  {
-   "title": "Hyper-realistic sand with WebGL2",
-   "link": "https://av.github.io/safe-sand/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794404369
-  },
-  {
    "title": "Insight7 Voice AI Agents",
    "link": "https://www.producthunt.com/products/insight7",
    "author": "Product Hunt",
@@ -1188,20 +1344,7 @@
    "ts": 1794403190
   },
   {
-   "title": "My AI agents found an unmapped Maya site?",
-   "link": "https://pietromiotti.com/latest/maya-site",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794398722
-  },
-  {
-   "title": "How a Top 100 Hyperliquid Trader Finds the Next Big Trade",
+   "title": "Lighter vs. Hyperliquid: Where a Top Trader Sees More Upside",
    "link": "https://www.youtube.com/watch?v=CM3oXmVoxWo",
    "author": "Bankless",
    "source": "Bankless",
@@ -1212,19 +1355,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794396625
-  },
-  {
-   "title": "Using voltage glitching to unleash the A100 in my mining card",
-   "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794394120
   },
   {
    "title": "⌘+L",
@@ -1253,19 +1383,6 @@
    "ts": 1794385892
   },
   {
-   "title": "Tim Peters has died",
-   "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794380597
-  },
-  {
    "title": "bonds chat",
    "link": "https://www.producthunt.com/products/bonds-2",
    "author": "Product Hunt",
@@ -1277,19 +1394,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794373646
-  },
-  {
-   "title": "Protecting SSH Keys with macOS Secure Enclave",
-   "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794371337
   },
   {
    "title": "Mister Blocks",
@@ -1318,30 +1422,17 @@
    "ts": 1794352296
   },
   {
-   "title": "Tracking Anthropic-discovered vulnerabilities",
-   "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Xolace",
+   "link": "https://www.producthunt.com/products/xolace",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-11",
    "day": "Nov 11",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794349076
-  },
-  {
-   "title": "Apple has new Mac app coming to make running local AI models easy",
-   "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794345903
+   "ts": 1794348444
   },
   {
    "title": "Yogurt",
@@ -1355,32 +1446,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794345415
-  },
-  {
-   "title": "Six Math Essentials",
-   "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794344324
-  },
-  {
-   "title": "Padrail",
-   "link": "https://www.producthunt.com/products/padrail",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794342460
   },
   {
    "title": "llm-gemini 0.36",
@@ -1407,19 +1472,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794336939
-  },
-  {
-   "title": "Mitra MCP",
-   "link": "https://www.producthunt.com/products/mitra-5",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794336766
   },
   {
    "title": "Did Anthropic just save its $1 trillion IPO?",
@@ -1474,19 +1526,6 @@
    "ts": 1794329511
   },
   {
-   "title": "MiniMax H3-Image",
-   "link": "https://www.producthunt.com/products/minimax",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794328528
-  },
-  {
    "title": "能夠持續熱愛生活，就是不遺憾的老後",
    "link": "https://taiwan.chtsai.org/2026/11/10/bu_yihan_de_laohou/",
    "author": "Chih-Hao Tsai",
@@ -1511,6 +1550,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794322801
+  },
+  {
+   "title": "Subscriptrack",
+   "link": "https://www.producthunt.com/products/subscriptrack",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794319567
+  },
+  {
+   "title": "Nod by n8n",
+   "link": "https://www.producthunt.com/products/n8n-io",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794317899
   },
   {
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -2982,7 +3047,7 @@
    "ts": 1792793580
   },
   {
-   "title": "No device could prove Einstein wrong... until now",
+   "title": "Relativity is so much weirder than we thought...",
    "link": "https://www.youtube.com/watch?v=eyZEqSPeMwg",
    "author": "Veritasium",
    "source": "Veritasium",
@@ -3905,7 +3970,7 @@
    "ts": 1791392427
   },
   {
-   "title": "The Biggest Launch Since ChatGPT (Muse)",
+   "title": "The Biggest Launch Since ChatGPT",
    "link": "https://www.youtube.com/watch?v=1LRvMRC_pfY",
    "author": "Cleo Abram",
    "source": "Cleo Abram",
@@ -4215,19 +4280,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1790889612
-  },
-  {
-   "title": "The one OpenAI announcement that can actually make you money...",
-   "link": "https://www.youtube.com/watch?v=No-JPdFvYWU",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-10-02",
-   "day": "Oct 2",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1790883254
   },
   {
    "title": "How did a few hundred Spanish soldiers topple two empires? – Si Sheppard",
@@ -5023,19 +5075,6 @@
    "ts": 1789344000
   },
   {
-   "title": "Silicon Valley’s Starving for Compute",
-   "link": "https://www.youtube.com/watch?v=x8QP9oXgahA",
-   "author": "Asianometry",
-   "source": "Asianometry",
-   "feed": "youtube-asianometry",
-   "lang": "en",
-   "date": "2026-09-14",
-   "day": "Sep 14",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789340433
-  },
-  {
    "title": "一天原型，一周成品：开发 Lody iOS 实况",
    "link": "https://innei.in/posts/tech/lody-ios-prototype-to-product",
    "author": "Innei",
@@ -5346,19 +5385,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788487740
-  },
-  {
-   "title": "How to ACTUALLY Sell a Creator Business | 144",
-   "link": "https://nathanbarry.com/how-to-actually-sell-a-creator-business-144/",
-   "author": "Nathan Barry",
-   "source": "Nathan Barry",
-   "feed": "nathanbarry-com-feed",
-   "lang": "en",
-   "date": "2026-09-04",
-   "day": "Sep 4",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788451200
   },
   {
    "title": "海南之行后记",
@@ -6817,19 +6843,6 @@
    "ts": 1783728000
   },
   {
-   "title": "General relativity from first principles – Adam Brown",
-   "link": "https://www.youtube.com/watch?v=QbdbAhaJoCQ",
-   "author": "Dwarkesh Patel",
-   "source": "Dwarkesh Patel",
-   "feed": "youtube-dwarkesh-patel",
-   "lang": "en",
-   "date": "2026-07-11",
-   "day": "Jul 11",
-   "ym": "2026-07",
-   "ym_label": "July 2026",
-   "ts": 1783701246
-  },
-  {
    "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
    "link": "https://www.youtube.com/watch?v=mWlCituW7wo",
    "author": "AI Explained",
@@ -7218,19 +7231,6 @@
    "ym": "2026-06",
    "ym_label": "June 2026",
    "ts": 1782500640
-  },
-  {
-   "title": "《DeepSeek高效数据分析》书评",
-   "link": "https://yanlinlin.cn/2026/06/26/deepseek-data-analysis-review/",
-   "author": "Yan Linlin",
-   "source": "Yan Linlin",
-   "feed": "yanlinlin-cn-index-xml",
-   "lang": "zh",
-   "date": "2026-06-26",
-   "day": "Jun 26",
-   "ym": "2026-06",
-   "ym_label": "June 2026",
-   "ts": 1782488040
   },
   {
    "title": "Thoughts from the 2026 London Podcast Show",
