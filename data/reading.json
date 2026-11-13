@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13 07:37",
+ "updated": "2026-11-13 14:42",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,36 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794536184
+  },
+  {
+   "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+   "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+   "author": "Ruan Yifeng",
+   "source": "Ruan Yifeng's Weblog",
+   "feed": "www-ruanyifeng-com-blog-atom-xml",
+   "lang": "zh",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794528509
+  },
   {
    "title": "Indonesia’s Mega Rice Failure",
    "link": "https://www.youtube.com/watch?v=ZnNRkW51qng",
@@ -694,6 +720,19 @@
    "ts": 1794524439
   },
   {
+   "title": "llm-gemini 0.37",
+   "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794524119
+  },
+  {
    "title": "Jensen Huang just pulled out of Nvidia...",
    "link": "https://www.youtube.com/watch?v=SOwUWPtXQ9I",
    "author": "Fireship",
@@ -705,6 +744,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794518230
+  },
+  {
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794509521
   },
   {
    "title": "Rust 1.100",
@@ -785,6 +837,19 @@
    "ts": 1794504840
   },
   {
+   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+   "link": "https://github.com/simpsoka/zigzag",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794502962
+  },
+  {
    "title": "If I Wanted to 10x My Revenue in 2027, I’d Do This | 154",
    "link": "https://nathanbarry.com/if-i-wanted-to-10x-my-revenue-in-2027-id-do-this-154/",
    "author": "Nathan Barry",
@@ -796,6 +861,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794502800
+  },
+  {
+   "title": "I'm making LLMs work on small and old devices",
+   "link": "https://github.com/hyperionaidev/smolmaxxing/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-12",
+   "day": "Nov 12",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794496990
   },
   {
    "title": "Jensen Huang resigns as Nvidia CEO immediately",
@@ -850,7 +928,7 @@
    "ts": 1794480418
   },
   {
-   "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
+   "title": "Writing correct software is hard and math alone won’t help us (2016)",
    "link": "https://pron.github.io/posts/correctness-and-complexity",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -1162,19 +1240,6 @@
    "ts": 1794429633
   },
   {
-   "title": "Emacs in the Age of Magic",
-   "link": "https://commandlinesystems.com/magic.txt",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-12",
-   "day": "Nov 12",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794428792
-  },
-  {
    "title": "Foxpit",
    "link": "https://www.producthunt.com/products/foxpit",
    "author": "Product Hunt",
@@ -1240,32 +1305,6 @@
    "ts": 1794422570
   },
   {
-   "title": "Gemini Decisions API",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-12",
-   "day": "Nov 12",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794421962
-  },
-  {
-   "title": "AWS emulator",
-   "link": "https://github.com/aws/aws-emulator",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-12",
-   "day": "Nov 12",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794421298
-  },
-  {
    "title": "Marqly 7.0",
    "link": "https://www.producthunt.com/products/marqly",
    "author": "Product Hunt",
@@ -1303,19 +1342,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794417592
-  },
-  {
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-12",
-   "day": "Nov 12",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794415124
   },
   {
    "title": "Anthropic's IPO roadshow video",
@@ -1500,7 +1526,7 @@
    "ts": 1794334700
   },
   {
-   "title": "mang.sh",
+   "title": "Mang.sh",
    "link": "https://www.producthunt.com/products/mang-sh",
    "author": "Product Hunt",
    "source": "Product Hunt",
@@ -1552,19 +1578,6 @@
    "ts": 1794322801
   },
   {
-   "title": "Subscriptrack",
-   "link": "https://www.producthunt.com/products/subscriptrack",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794319567
-  },
-  {
    "title": "Nod by n8n",
    "link": "https://www.producthunt.com/products/n8n-io",
    "author": "Product Hunt",
@@ -1576,6 +1589,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794317899
+  },
+  {
+   "title": "Valin",
+   "link": "https://www.producthunt.com/products/valin",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794316004
   },
   {
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -2397,19 +2423,6 @@
    "ts": 1793556023
   },
   {
-   "title": "Quoting Kyle Kingsbury",
-   "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793551744
-  },
-  {
    "title": "周末 叽歪几句本号的写作",
    "link": "http://weiwuhui.com/11109.html",
    "author": "Wei Wuhui",
@@ -3097,19 +3110,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792750704
-  },
-  {
-   "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
-   "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
-   "author": "Ruan Yifeng",
-   "source": "Ruan Yifeng's Weblog",
-   "feed": "www-ruanyifeng-com-blog-atom-xml",
-   "lang": "zh",
-   "date": "2026-10-23",
-   "day": "Oct 23",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792713976
   },
   {
    "title": "What will computer chips look like in 2045?",
