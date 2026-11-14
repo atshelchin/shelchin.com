@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14 03:40",
+ "updated": "2026-11-14 14:19",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,75 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "我有一只猫丨一周语文（2646）",
+   "link": "https://www.huangjiwei.com/blog/?p=12777",
+   "author": "Huang Jiwei",
+   "source": "Huang Jiwei",
+   "feed": "www-huangjiwei-com-blog",
+   "lang": "zh",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794633254
+  },
+  {
+   "title": "datasette-cluster-map 0.19",
+   "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794610965
+  },
+  {
+   "title": "datasette-leaflet 0.3",
+   "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794609054
+  },
+  {
+   "title": "FAA issues national ground stop – lifted 4.5 hours later",
+   "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794603953
+  },
+  {
+   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+   "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794595244
+  },
   {
    "title": "I thought superintelligence was a decade away. Not anymore.",
    "link": "https://www.youtube.com/watch?v=1NHPDzpfR6Y",
@@ -692,6 +757,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794595025
+  },
+  {
+   "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+   "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794593917
+  },
+  {
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794591010
   },
   {
    "title": "LibreOffice actually works 365 days a year",
@@ -731,6 +822,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794569401
+  },
+  {
+   "title": "AI is destroying the trust between writers and readers",
+   "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794568426
   },
   {
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -1097,32 +1201,6 @@
    "ts": 1794507648
   },
   {
-   "title": "Ask HN: Microsoft/Azure Outage?",
-   "link": "https://news.ycombinator.com/item?id=50471668",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794507433
-  },
-  {
-   "title": "Gemini 4 Hydrogen",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794506508
-  },
-  {
    "title": "《OpenClaw时代的OPC：一人公司从0到1方法论》书评",
    "link": "https://yanlinlin.cn/2026/11/13/openclaw-era-opc-review/",
    "author": "Yan Linlin",
@@ -1136,19 +1214,6 @@
    "ts": 1794504840
   },
   {
-   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-   "link": "https://github.com/simpsoka/zigzag",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794502962
-  },
-  {
    "title": "If I Wanted to 10x My Revenue in 2027, I’d Do This | 154",
    "link": "https://nathanbarry.com/if-i-wanted-to-10x-my-revenue-in-2027-id-do-this-154/",
    "author": "Nathan Barry",
@@ -1160,32 +1225,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794502800
-  },
-  {
-   "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-   "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794500953
-  },
-  {
-   "title": "I'm making LLMs work on small and old devices",
-   "link": "https://github.com/hyperionaidev/smolmaxxing/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-12",
-   "day": "Nov 12",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794496990
   },
   {
    "title": "第 5 轮做视频课的练习题",
@@ -1225,19 +1264,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794475437
-  },
-  {
-   "title": "Didit MCP",
-   "link": "https://www.producthunt.com/products/didit-3",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-12",
-   "day": "Nov 12",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794469855
   },
   {
    "title": "Hoy for Mac",
@@ -1396,8 +1422,8 @@
    "ts": 1794427827
   },
   {
-   "title": "Gemini Decisions API",
-   "link": "https://www.producthunt.com/products/google",
+   "title": "Grok Bot 1.0",
+   "link": "https://www.producthunt.com/products/grok",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1406,7 +1432,7 @@
    "day": "Nov 12",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794426291
+   "ts": 1794425925
   },
   {
    "title": "Browse tools.simonwillison.net by tag",
@@ -1511,6 +1537,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794396625
+  },
+  {
+   "title": "⌘+L",
+   "link": "https://www.producthunt.com/products/l",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794389247
   },
   {
    "title": "Harness Memory",
@@ -2345,19 +2384,6 @@
    "ts": 1793638936
   },
   {
-   "title": "The U.S. Census Bureau and “Super Intelligence”",
-   "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793626286
-  },
-  {
    "title": "The Complete Zcash Roadmap",
    "link": "https://www.youtube.com/watch?v=7VxYu8IZxZQ",
    "author": "Bankless",
@@ -2408,19 +2434,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793576414
-  },
-  {
-   "title": "If in doubt, delete the uv.lock file",
-   "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-02",
-   "day": "Nov 2",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793575462
   },
   {
    "title": "What 🇩🇪 Germans Think About 🇹🇷 Turks (Street Interviews)",
@@ -5333,19 +5346,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788620405
-  },
-  {
-   "title": "发誓要挣一百万丨一周语文（2636）",
-   "link": "https://www.huangjiwei.com/blog/?p=12729",
-   "author": "Huang Jiwei",
-   "source": "Huang Jiwei",
-   "feed": "www-huangjiwei-com-blog",
-   "lang": "zh",
-   "date": "2026-09-05",
-   "day": "Sep 5",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788585278
   },
   {
    "title": "GPT 6 Astra, so good even OpenAI are worried",
@@ -9495,19 +9495,6 @@
    "ts": 1770854400
   },
   {
-   "title": "Don't kill my pretty RSS feed",
-   "link": "https://justinjackson.ca/xslt",
-   "author": "Justin Jackson",
-   "source": "Justin Jackson",
-   "feed": "justinjackson-ca-feed",
-   "lang": "en",
-   "date": "2026-02-11",
-   "day": "Feb 11",
-   "ym": "2026-02",
-   "ym_label": "February 2026",
-   "ts": 1770768000
-  },
-  {
    "title": "Eversource EV Rebate Program Exposed Massachusetts Customer Data",
    "link": "https://mtlynch.io/eversource-resource-innovations-exposure/",
    "author": "Michael Lynch",
@@ -13003,6 +12990,19 @@
    "ym": "2025-01",
    "ym_label": "January 2025",
    "ts": 1735661021
+  },
+  {
+   "title": "2024 year in review",
+   "link": "https://justinjackson.ca/2024-review",
+   "author": "Justin Jackson",
+   "source": "Justin Jackson",
+   "feed": "justinjackson-ca-feed",
+   "lang": "en",
+   "date": "2024-12-31",
+   "day": "Dec 31",
+   "ym": "2024-12",
+   "ym_label": "December 2024",
+   "ts": 1735603200
   },
   {
    "title": "2024 山丘",
