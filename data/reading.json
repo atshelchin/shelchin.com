@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15 01:59",
+ "updated": "2026-11-15 06:22",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,45 @@
  ],
  "items": [
   {
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "link": "https://www.crissyfield.de/research/lovable-en/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794678190
+  },
+  {
+   "title": "KDE: The documentary [video]",
+   "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794663808
+  },
+  {
+   "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+   "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794660345
+  },
+  {
    "title": "斑马玩教具荣获 4 大顶级设计大奖",
    "link": "https://blog.devtang.com/2026/11/14/get-4-top-design-reward-through-6-years-efforts/",
    "author": "Tang Qiao",
@@ -770,6 +809,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794623309
+  },
+  {
+   "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+   "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794618622
   },
   {
    "title": "Terminal borders that don't cost a cell",
@@ -1162,19 +1214,6 @@
    "ts": 1794528509
   },
   {
-   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-   "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794524777
-  },
-  {
    "title": "Indonesia’s Mega Rice Failure",
    "link": "https://www.youtube.com/watch?v=ZnNRkW51qng",
    "author": "Asianometry",
@@ -1199,32 +1238,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794524119
-  },
-  {
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794520989
-  },
-  {
-   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-   "link": "https://unemploymentlabs.com/checkpoint-forensics",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794520571
   },
   {
    "title": "Jensen Huang just pulled out of Nvidia...",
@@ -1264,19 +1277,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794514693
-  },
-  {
-   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-   "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794513093
   },
   {
    "title": "Hoverine",
