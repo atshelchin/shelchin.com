@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15 06:22",
+ "updated": "2026-11-15 14:26",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,49 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "datasette-llm 0.1a11",
+   "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794700768
+  },
+  {
+   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794695190
+  },
+  {
+   "title": "SpaceX catches the Starship to end Flight 15",
+   "link": "https://www.spacex.com/launches/starship-flight-15",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794691344
+  },
   {
    "title": "Lovable apps expose passport details and more than 200K private messages",
    "link": "https://www.crissyfield.de/research/lovable-en/",
@@ -692,6 +731,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794678190
+  },
+  {
+   "title": "datasette-vega 0.7",
+   "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794676149
+  },
+  {
+   "title": "Italy fines Meta $887M over Android users' data access",
+   "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-14",
+   "day": "Nov 14",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794664086
   },
   {
    "title": "KDE: The documentary [video]",
@@ -707,7 +772,7 @@
    "ts": 1794663808
   },
   {
-   "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+   "title": "Tech companies are trying to shift the concept of privacy again",
    "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -1110,32 +1175,6 @@
    "ts": 1794547939
   },
   {
-   "title": "Microsoft Outlook/365 still down after 12 hours",
-   "link": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794546503
-  },
-  {
-   "title": "IceWM",
-   "link": "https://ice-wm.org/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794545693
-  },
-  {
    "title": "Claude Meetings",
    "link": "https://www.producthunt.com/products/claude",
    "author": "Product Hunt",
@@ -1147,19 +1186,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794536695
-  },
-  {
-   "title": "Nvidia employees petition to bring back Jensen Huang",
-   "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794536184
   },
   {
    "title": "Replicate",
@@ -1656,6 +1682,19 @@
    "ts": 1794322801
   },
   {
+   "title": "Klang",
+   "link": "https://www.producthunt.com/products/klang",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794314168
+  },
+  {
    "title": "Burnstate",
    "link": "https://www.producthunt.com/products/burnstate",
    "author": "Product Hunt",
@@ -1667,19 +1706,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794302158
-  },
-  {
-   "title": "FreeFlow Dictation",
-   "link": "https://www.producthunt.com/products/freeflow-dictation",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794299907
   },
   {
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -2358,19 +2384,6 @@
    "ts": 1793683945
   },
   {
-   "title": "October sponsors-only newsletter",
-   "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793683739
-  },
-  {
    "title": "我的 10 条人生最佳实践",
    "link": "https://tw93.fun/2026-11-03/senior.html",
    "author": "Tw93",
@@ -2382,19 +2395,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793664000
-  },
-  {
-   "title": "llm 0.37",
-   "link": "https://simonwillison.net/2026/Nov/2/llm/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793663370
   },
   {
    "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
