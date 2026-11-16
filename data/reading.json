@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16 02:50",
+ "updated": "2026-11-16 14:25",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,75 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "Qwen4-Max",
+   "link": "https://qwen.ai/blog?id=qwen4-max",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-16",
+   "day": "Nov 16",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794795284
+  },
+  {
+   "title": "datasette-maplibre 0.1a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-16",
+   "day": "Nov 16",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794787116
+  },
+  {
+   "title": "datasette 1.0a43",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-16",
+   "day": "Nov 16",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794784827
+  },
+  {
+   "title": "datasette 0.65.6",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-16",
+   "day": "Nov 16",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794784697
+  },
+  {
+   "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+   "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-16",
+   "day": "Nov 16",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794767770
+  },
   {
    "title": "Bregenz: Lake Life, Austrian Dialect & Local Food",
    "link": "https://www.youtube.com/watch?v=MN5GQvHMA5Y",
@@ -720,6 +785,19 @@
    "ts": 1794754018
   },
   {
+   "title": "The MacBook Pro's OLED PWM problem",
+   "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794748522
+  },
+  {
    "title": "Xu Gao: China's Problem Is Too Little Debt, Not Too Much",
    "link": "https://www.pekingnology.com/p/xu-gao-chinas-problem-is-too-little",
    "author": "Zichen Wang",
@@ -731,6 +809,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794746593
+  },
+  {
+   "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+   "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794742851
   },
   {
    "title": "让 Agent 先问清楚、画出来、再证明：我的 Ryugi 工作流",
@@ -746,7 +837,7 @@
    "ts": 1794735615
   },
   {
-   "title": "Canvas by AgentGrid.io",
+   "title": "Agentic Canvas",
    "link": "https://www.producthunt.com/products/agentgrid-io",
    "author": "Product Hunt",
    "source": "Product Hunt",
@@ -770,6 +861,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794719045
+  },
+  {
+   "title": "datasette-apps 0.4a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794715365
+  },
+  {
+   "title": "datasette-agent 0.6a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794714587
   },
   {
    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
@@ -824,6 +941,19 @@
    "ts": 1794695190
   },
   {
+   "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
+   "link": "https://retrocomputing.stackexchange.com/questions/17957",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794694969
+  },
+  {
    "title": "SpaceX catches the Starship to end Flight 15",
    "link": "https://www.spacex.com/launches/starship-flight-15",
    "author": "Hacker News",
@@ -861,19 +991,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794678190
-  },
-  {
-   "title": "GotEmail",
-   "link": "https://www.producthunt.com/products/gotemail",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-15",
-   "day": "Nov 15",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794678165
   },
   {
    "title": "HuntMonitor",
@@ -1097,19 +1214,6 @@
    "ts": 1794611959
   },
   {
-   "title": "Terminal borders that don't cost a cell",
-   "link": "https://www.joshka.net/cell-borders/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-14",
-   "day": "Nov 14",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794611200
-  },
-  {
    "title": "datasette-cluster-map 0.19",
    "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
    "author": "Simon Willison",
@@ -1149,19 +1253,6 @@
    "ts": 1794605249
   },
   {
-   "title": "FAA issues national ground stop – lifted 4.5 hours later",
-   "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-14",
-   "day": "Nov 14",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794603953
-  },
-  {
    "title": "Rakazo",
    "link": "https://www.producthunt.com/products/rakazo",
    "author": "Product Hunt",
@@ -1175,19 +1266,6 @@
    "ts": 1794595618
   },
   {
-   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-   "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-14",
-   "day": "Nov 14",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794595244
-  },
-  {
    "title": "Recursive self-improvement has started",
    "link": "https://www.youtube.com/watch?v=1NHPDzpfR6Y",
    "author": "Dwarkesh Patel",
@@ -1199,32 +1277,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794595025
-  },
-  {
-   "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-   "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-14",
-   "day": "Nov 14",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794593917
-  },
-  {
-   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-   "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-14",
-   "day": "Nov 14",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794591010
   },
   {
    "title": "Tacie",
@@ -1292,6 +1344,19 @@
    "ts": 1794560031
   },
   {
+   "title": "StockRip",
+   "link": "https://www.producthunt.com/products/stockrip",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794552417
+  },
+  {
    "title": "Blender 5.3",
    "link": "https://www.producthunt.com/products/blender",
    "author": "Product Hunt",
@@ -1303,6 +1368,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794547939
+  },
+  {
+   "title": "Replicate",
+   "link": "https://www.producthunt.com/products/replicate-10",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794535614
   },
   {
    "title": "Pocket Studio for Supabase",
@@ -1383,19 +1461,6 @@
    "ts": 1794518230
   },
   {
-   "title": "Paxper",
-   "link": "https://www.producthunt.com/products/paxper",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794517037
-  },
-  {
    "title": "Gemini Robotics 2.5",
    "link": "https://www.producthunt.com/products/gemini-robotics-2-5",
    "author": "Product Hunt",
@@ -1433,19 +1498,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794508632
-  },
-  {
-   "title": "Expo Simulators",
-   "link": "https://www.producthunt.com/products/expo",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-13",
-   "day": "Nov 13",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794508458
   },
   {
    "title": "《OpenClaw时代的OPC：一人公司从0到1方法论》书评",
@@ -1758,6 +1810,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794322801
+  },
+  {
+   "title": "FreeFlow Dictation",
+   "link": "https://www.producthunt.com/products/freeflow-dictation",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-10",
+   "day": "Nov 10",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794299907
   },
   {
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -2345,32 +2410,6 @@
    "ts": 1793752176
   },
   {
-   "title": "datasette-agent 0.5a0",
-   "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793747625
-  },
-  {
-   "title": "llm 0.37.1",
-   "link": "https://simonwillison.net/2026/Nov/3/llm/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793742102
-  },
-  {
    "title": "The worst week in cybersecurity history... so far",
    "link": "https://www.youtube.com/watch?v=k2ruCf_z75I",
    "author": "Fireship",
@@ -2384,32 +2423,6 @@
    "ts": 1793735230
   },
   {
-   "title": "AI is destroying my CS degree",
-   "link": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793724122
-  },
-  {
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793723388
-  },
-  {
    "title": "The Race to Build the Private Ethereum",
    "link": "https://www.youtube.com/watch?v=UszyU_XrX9o",
    "author": "Bankless",
@@ -2421,19 +2434,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793705417
-  },
-  {
-   "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-   "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-03",
-   "day": "Nov 3",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793683945
   },
   {
    "title": "我的 10 条人生最佳实践",
