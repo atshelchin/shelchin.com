@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17 06:00",
+ "updated": "2026-11-17 15:53",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,71 @@
  ],
  "items": [
   {
+   "title": "Quoting Go Proverbs",
+   "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794896186
+  },
+  {
+   "title": "llm 0.37.3",
+   "link": "https://simonwillison.net/2026/Nov/16/llm/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794873446
+  },
+  {
+   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+   "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794869900
+  },
+  {
+   "title": "BugMeNot has closed",
+   "link": "https://www.bugmenot.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794864737
+  },
+  {
+   "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+   "link": "https://www.cs.cmu.edu/learn/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794861816
+  },
+  {
    "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
    "link": "https://www.youtube.com/watch?v=ytmawkPTP24",
    "author": "Fireship",
@@ -694,7 +759,7 @@
    "ts": 1794860339
   },
   {
-   "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+   "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
    "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -705,6 +770,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794853890
+  },
+  {
+   "title": "Software is breaking down at a systemic level",
+   "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794853037
   },
   {
    "title": "We could be 12 months away from AIs that can overthrow the government",
@@ -718,6 +796,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794852503
+  },
+  {
+   "title": "Jiff 1.0: A datetime library for Rust",
+   "link": "https://burntsushi.net/jiff/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794848019
+  },
+  {
+   "title": "Frame – 31.5\" color ePaper display",
+   "link": "https://trmnl.com/blog/introducing-frame",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794846202
   },
   {
    "title": "What is w2rt6byl5nf1opmc-a.com?",
@@ -744,6 +848,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794836347
+  },
+  {
+   "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+   "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-16",
+   "day": "Nov 16",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794829171
   },
   {
    "title": "Elizabeth Warren Gets Another Shot at Crypto",
@@ -1084,19 +1201,6 @@
    "ts": 1794753995
   },
   {
-   "title": "The MacBook Pro's OLED PWM problem",
-   "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-15",
-   "day": "Nov 15",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794748522
-  },
-  {
    "title": "Xu Gao: China's Problem Is Too Little Debt, Not Too Much",
    "link": "https://www.pekingnology.com/p/xu-gao-chinas-problem-is-too-little",
    "author": "Zichen Wang",
@@ -1134,19 +1238,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794744117
-  },
-  {
-   "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-   "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-15",
-   "day": "Nov 15",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794742851
   },
   {
    "title": "让 Agent 先问清楚、画出来、再证明：我的 Ryugi 工作流",
@@ -1214,6 +1305,19 @@
    "ts": 1794723729
   },
   {
+   "title": "Perit Marketplace",
+   "link": "https://www.producthunt.com/products/perit-marketplace",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-15",
+   "day": "Nov 15",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794719045
+  },
+  {
    "title": "datasette-apps 0.4a0",
    "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
    "author": "Simon Willison",
@@ -1240,32 +1344,6 @@
    "ts": 1794714587
   },
   {
-   "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-   "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-15",
-   "day": "Nov 15",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794708054
-  },
-  {
-   "title": "Court denies motion to dismiss DRAM price fixing case",
-   "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-15",
-   "day": "Nov 15",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794705516
-  },
-  {
    "title": "Pine Drama Studio",
    "link": "https://www.producthunt.com/products/pine-drama-studio",
    "author": "Product Hunt",
@@ -1290,45 +1368,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794700768
-  },
-  {
-   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-   "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-15",
-   "day": "Nov 15",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794695190
-  },
-  {
-   "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
-   "link": "https://retrocomputing.stackexchange.com/questions/17957",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-15",
-   "day": "Nov 15",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794694969
-  },
-  {
-   "title": "SpaceX catches the Starship to end Flight 15",
-   "link": "https://www.spacex.com/launches/starship-flight-15",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-15",
-   "day": "Nov 15",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794691344
   },
   {
    "title": "Centralize",
@@ -1420,19 +1459,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794633254
-  },
-  {
-   "title": "Remindly",
-   "link": "https://www.producthunt.com/products/remindly-6",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-14",
-   "day": "Nov 14",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794611959
   },
   {
    "title": "datasette-cluster-map 0.19",
@@ -2397,19 +2423,6 @@
    "ts": 1793807579
   },
   {
-   "title": "datasette-llm 0.1a10",
-   "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793805962
-  },
-  {
    "title": "一部有望冲击奥斯卡最佳电影的…纪录片",
    "link": "http://weiwuhui.com/11115.html",
    "author": "Wei Wuhui",
@@ -2460,19 +2473,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793772000
-  },
-  {
-   "title": "datasette-apps 0.3a0",
-   "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-04",
-   "day": "Nov 4",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793752176
   },
   {
    "title": "The worst week in cybersecurity history... so far",
