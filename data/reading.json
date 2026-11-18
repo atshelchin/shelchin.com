@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 04:53",
+ "updated": "2026-11-18 15:25",
  "languages": [
   {
    "key": "zh",
@@ -203,7 +203,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "blog-devtang-com-atom-xml",
@@ -225,7 +225,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "weiwuhui-com-feed",
@@ -357,7 +357,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "masilotti-com-feed-xml",
@@ -368,7 +368,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "news-tonydinh-com-feed",
@@ -478,7 +478,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "catcoding-me-atom-xml",
@@ -681,6 +681,110 @@
  ],
  "items": [
   {
+   "title": "ID.me terms required for IRS sign-in",
+   "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794963105
+  },
+  {
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "link": "https://revscope.co/blog/search-seo-geo-2026/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794961078
+  },
+  {
+   "title": "External sandboxes for coding agents",
+   "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794955949
+  },
+  {
+   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+   "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794955132
+  },
+  {
+   "title": "Quad9's withdrawal from France: A canary in the coal mine",
+   "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794953614
+  },
+  {
+   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+   "link": "https://calif.io/java4shell/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794949888
+  },
+  {
+   "title": "jQuery 4.1.0",
+   "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794945040
+  },
+  {
+   "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+   "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794943527
+  },
+  {
    "title": "What Your Processor Could Have Been",
    "link": "https://www.youtube.com/watch?v=ogKjlE6EBIk",
    "author": "Core Dumped",
@@ -692,6 +796,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794942014
+  },
+  {
+   "title": "Phrack 73 Released",
+   "link": "https://phrack.org/issues/73/introduction_md",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794940285
+  },
+  {
+   "title": "MAI Code 2 and Code 2 Flash",
+   "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794939913
   },
   {
    "title": "Apple Services Down",
@@ -718,6 +848,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794937603
+  },
+  {
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+   "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794935526
   },
   {
    "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
@@ -757,6 +900,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794930648
+  },
+  {
+   "title": "Highly classified US national security communications network goes down",
+   "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794929908
+  },
+  {
+   "title": "What is the best harness for each model?",
+   "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794927223
   },
   {
    "title": "We don't need more apps, we need better open source",
@@ -941,32 +1110,6 @@
    "ts": 1794864037
   },
   {
-   "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-   "link": "https://www.cs.cmu.edu/learn/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794861816
-  },
-  {
-   "title": "Chemistry is Actually Geometry",
-   "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794860538
-  },
-  {
    "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
    "link": "https://www.youtube.com/watch?v=ytmawkPTP24",
    "author": "Fireship",
@@ -1032,19 +1175,6 @@
    "ts": 1794854024
   },
   {
-   "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-   "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794853890
-  },
-  {
    "title": "ExtraDock 5",
    "link": "https://www.producthunt.com/products/extradock",
    "author": "Product Hunt",
@@ -1071,19 +1201,6 @@
    "ts": 1794853402
   },
   {
-   "title": "Software is breaking down at a systemic level",
-   "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794853037
-  },
-  {
    "title": "AIs might overthrow the government within a year – Paul Christiano",
    "link": "https://www.youtube.com/watch?v=SyHM5hNPAEo",
    "author": "Dwarkesh Patel",
@@ -1095,19 +1212,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794852503
-  },
-  {
-   "title": "Grazing sheep in fields with solar arrays",
-   "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794850066
   },
   {
    "title": "Liquid d1.2",
@@ -1136,19 +1240,6 @@
    "ts": 1794848187
   },
   {
-   "title": "Jiff 1.0: A datetime library for Rust",
-   "link": "https://burntsushi.net/jiff/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794848019
-  },
-  {
    "title": "Skiss",
    "link": "https://www.producthunt.com/products/skiss",
    "author": "Product Hunt",
@@ -1160,19 +1251,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794846624
-  },
-  {
-   "title": "Frame – 31.5\" color ePaper display",
-   "link": "https://trmnl.com/blog/introducing-frame",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794846202
   },
   {
    "title": "BASE Studio",
@@ -1199,58 +1277,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794838505
-  },
-  {
-   "title": "What is w2rt6byl5nf1opmc-a.com?",
-   "link": "https://jack.cab/blog/siterate",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-16",
-   "day": "Nov 16",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794837098
-  },
-  {
-   "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
-   "link": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-16",
-   "day": "Nov 16",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794836347
-  },
-  {
-   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-   "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-16",
-   "day": "Nov 16",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794835102
-  },
-  {
-   "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-   "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-16",
-   "day": "Nov 16",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794829171
   },
   {
    "title": "Elizabeth Warren Gets Another Shot at Crypto",
@@ -1316,19 +1342,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794794582
-  },
-  {
-   "title": "Notebook to Notes",
-   "link": "https://www.producthunt.com/products/notebook-to-notes",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-16",
-   "day": "Nov 16",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794792051
   },
   {
    "title": "datasette-maplibre 0.1a0",
@@ -1656,19 +1669,6 @@
    "ts": 1794609054
   },
   {
-   "title": "Blomma for Organizations",
-   "link": "https://www.producthunt.com/products/blomma",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-14",
-   "day": "Nov 14",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794603421
-  },
-  {
    "title": "Recursive self-improvement has started",
    "link": "https://www.youtube.com/watch?v=1NHPDzpfR6Y",
    "author": "Dwarkesh Patel",
@@ -1771,6 +1771,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794504840
+  },
+  {
+   "title": "Degla AI",
+   "link": "https://www.producthunt.com/products/degla-ai",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-13",
+   "day": "Nov 13",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794504036
   },
   {
    "title": "If I Wanted to 10x My Revenue in 2027, I’d Do This | 154",
@@ -1901,6 +1914,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794396625
+  },
+  {
+   "title": "Pharen Hub",
+   "link": "https://www.producthunt.com/products/pharen-hub",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-11",
+   "day": "Nov 11",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794387826
   },
   {
    "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
@@ -2280,19 +2306,6 @@
    "ts": 1794095866
   },
   {
-   "title": "Terry Pratchett's Study",
-   "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-08",
-   "day": "Nov 8",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794080064
-  },
-  {
    "title": "Why Egypt Guards This River With an Army",
    "link": "https://www.youtube.com/watch?v=20CgG5pUv9Q",
    "author": "Johnny Harris",
@@ -2317,19 +2330,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794028451
-  },
-  {
-   "title": "Quoting Nilay Patel",
-   "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-07",
-   "day": "Nov 7",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793985192
   },
   {
    "title": "The one thing holding theoretical CS together just broke... kinda",
