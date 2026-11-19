@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19 15:22",
+ "updated": "2026-11-20 04:34",
  "languages": [
   {
    "key": "zh",
@@ -247,7 +247,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "oldj-net-rss-xml",
@@ -681,6 +681,175 @@
  ],
  "items": [
   {
+   "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+   "link": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+   "author": "AI Explained",
+   "source": "AI Explained",
+   "feed": "youtube-ai-explained",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795118590
+  },
+  {
+   "title": "The only software that didn’t break this week...",
+   "link": "https://www.youtube.com/watch?v=Qxor6jpfSiU",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795110033
+  },
+  {
+   "title": "Anthropic hits $2T in Nasdaq debut",
+   "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795107760
+  },
+  {
+   "title": "Forget Online Communities, Do This In 2027 To Make $500K/Year | 155",
+   "link": "https://nathanbarry.com/forget-online-communities-do-this-in-2027-to-make-500k-year-155/",
+   "author": "Nathan Barry",
+   "source": "Nathan Barry",
+   "feed": "nathanbarry-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795107600
+  },
+  {
+   "title": "The Gigantic Machine Deep Under Antarctica",
+   "link": "https://www.youtube.com/watch?v=kRpahwRFWZA",
+   "author": "Cleo Abram",
+   "source": "Cleo Abram",
+   "feed": "youtube-cleo-abram",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795098662
+  },
+  {
+   "title": "How the European Commission rolled out Matrix to more than 40k staff",
+   "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795085909
+  },
+  {
+   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+   "link": "https://kapteko.com/15-million-webservers/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795067796
+  },
+  {
+   "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+   "link": "https://verialabs.com/ruby2shell/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795064951
+  },
+  {
+   "title": "Nuko",
+   "link": "https://www.producthunt.com/products/nuko",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795059275
+  },
+  {
+   "title": "ToolJet",
+   "link": "https://www.producthunt.com/products/tooljet",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795057631
+  },
+  {
+   "title": "Tecla",
+   "link": "https://www.producthunt.com/products/tecla-3",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795057534
+  },
+  {
+   "title": "Gemini 4 Neon",
+   "link": "https://www.producthunt.com/products/gemini-6",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795055558
+  },
+  {
+   "title": "Adside",
+   "link": "https://www.producthunt.com/products/adside",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795049562
+  },
+  {
    "title": "llm-gemini 0.38",
    "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
    "author": "Simon Willison",
@@ -692,6 +861,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795046360
+  },
+  {
+   "title": "mio click",
+   "link": "https://www.producthunt.com/products/mio-click",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795046238
   },
   {
    "title": "We need smart people who give a shit",
@@ -707,6 +889,97 @@
    "ts": 1795046029
   },
   {
+   "title": "Multiple vulnerabilities in Regexp and String case conversion",
+   "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795045970
+  },
+  {
+   "title": "Play That Back",
+   "link": "https://www.producthunt.com/products/play-that-back",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795045334
+  },
+  {
+   "title": "Anthropic prices initial public offering",
+   "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795044609
+  },
+  {
+   "title": "Rezora IO",
+   "link": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795044212
+  },
+  {
+   "title": "Alfred 6",
+   "link": "https://www.producthunt.com/products/alfred",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795041939
+  },
+  {
+   "title": "Upsolve MCP Connections",
+   "link": "https://www.producthunt.com/products/upsolve-ai",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795038968
+  },
+  {
+   "title": "Polylane for Azure",
+   "link": "https://www.producthunt.com/products/polylane",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795038432
+  },
+  {
    "title": "Gemini 4 Neon",
    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
    "author": "Hacker News",
@@ -720,7 +993,7 @@
    "ts": 1795037647
   },
   {
-   "title": "The World Depends on Random Numbers That Aren't Really Random",
+   "title": "Most people don’t understand randomness.",
    "link": "https://www.youtube.com/watch?v=uXuQF_PPg5U",
    "author": "Veritasium",
    "source": "Veritasium",
@@ -747,7 +1020,7 @@
   },
   {
    "title": "AI 时代的审美赤字：当人人都能做出一个 App",
-   "link": "https://innei.in/posts/tinkering/AI-App",
+   "link": "https://innei.in/posts/thinking/ai-aesthetic-deficit-anyone-can-build-an-app",
    "author": "Innei",
    "source": "Innei",
    "feed": "innei-in-feed",
@@ -783,6 +1056,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795021799
+  },
+  {
+   "title": "Wispr Flow Notetaker for iPhone",
+   "link": "https://www.producthunt.com/products/wisprflow",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795018789
   },
   {
    "title": "Seven new models at scalable price-performance",
@@ -837,6 +1123,45 @@
    "ts": 1795016313
   },
   {
+   "title": "Room AI",
+   "link": "https://www.producthunt.com/products/room-ai-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795016251
+  },
+  {
+   "title": "Noteshell",
+   "link": "https://www.producthunt.com/products/noteshell",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795015696
+  },
+  {
+   "title": "Cleared",
+   "link": "https://www.producthunt.com/products/cleared-quit-nicotine",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795015660
+  },
+  {
    "title": "Unauthenticated remote code execution in Nginx",
    "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
    "author": "Hacker News",
@@ -876,6 +1201,19 @@
    "ts": 1795013088
   },
   {
+   "title": "Fieldwork Code",
+   "link": "https://www.producthunt.com/products/fieldwork-code",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795008733
+  },
+  {
    "title": "黄仁勋会不会回归 如奥特曼故事？",
    "link": "http://weiwuhui.com/11122.html",
    "author": "Wei Wuhui",
@@ -900,6 +1238,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795007882
+  },
+  {
+   "title": "HeyGen Avatar 6",
+   "link": "https://www.producthunt.com/products/heygen",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795003410
+  },
+  {
+   "title": "Enrichable by Context.dev",
+   "link": "https://www.producthunt.com/products/context-dev",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795002221
   },
   {
    "title": "Codeberg.org Not Reachable",
@@ -954,19 +1318,6 @@
    "ts": 1794984446
   },
   {
-   "title": "worldinmotion",
-   "link": "https://www.producthunt.com/products/worldinmotion",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794981221
-  },
-  {
    "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
    "link": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
    "author": "Hacker News",
@@ -978,19 +1329,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794978690
-  },
-  {
-   "title": "SoreQen Code",
-   "link": "https://www.producthunt.com/products/soreqen-code",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794971640
   },
   {
    "title": "ID.me terms required for IRS sign-in",
@@ -1019,45 +1357,6 @@
    "ts": 1794961078
   },
   {
-   "title": "Confidential Cloud",
-   "link": "https://www.producthunt.com/products/confidential-cloud",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794959823
-  },
-  {
-   "title": "Diagramly 2.0",
-   "link": "https://www.producthunt.com/products/diagramly-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794959510
-  },
-  {
-   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-   "link": "https://github.com/microsoft/onnxruntime",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794957529
-  },
-  {
    "title": "External sandboxes for coding agents",
    "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
    "author": "Simon Willison",
@@ -1084,32 +1383,6 @@
    "ts": 1794955132
   },
   {
-   "title": "Quad9's withdrawal from France: A canary in the coal mine",
-   "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794953614
-  },
-  {
-   "title": "UI Verify",
-   "link": "https://www.producthunt.com/products/ui-verify",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794953012
-  },
-  {
    "title": "Incredible Agents",
    "link": "https://www.producthunt.com/products/incredible",
    "author": "Product Hunt",
@@ -1123,84 +1396,6 @@
    "ts": 1794952944
   },
   {
-   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-   "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794950172
-  },
-  {
-   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-   "link": "https://calif.io/java4shell/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794949888
-  },
-  {
-   "title": "jQuery 4.1.0",
-   "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794945040
-  },
-  {
-   "title": "Introzy",
-   "link": "https://www.producthunt.com/products/introzy",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794944376
-  },
-  {
-   "title": "Microsoft IQ",
-   "link": "https://www.producthunt.com/products/microsoft-365",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794944053
-  },
-  {
-   "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-   "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794943527
-  },
-  {
    "title": "What Your Processor Could Have Been",
    "link": "https://www.youtube.com/watch?v=ogKjlE6EBIk",
    "author": "Core Dumped",
@@ -1212,19 +1407,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794942014
-  },
-  {
-   "title": "Arcade",
-   "link": "https://www.producthunt.com/products/arcade",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794939441
   },
   {
    "title": "GPT-6.2 Astra and Sol",
@@ -1266,32 +1448,6 @@
    "ts": 1794933796
   },
   {
-   "title": "lepoly",
-   "link": "https://www.producthunt.com/products/lepoly",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794933550
-  },
-  {
-   "title": "AI Canvas",
-   "link": "https://www.producthunt.com/products/ai-canvas-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794930397
-  },
-  {
    "title": "Orken",
    "link": "https://www.producthunt.com/products/orken",
    "author": "Product Hunt",
@@ -1303,6 +1459,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794926907
+  },
+  {
+   "title": "Verse Engine by Ctruh",
+   "link": "https://www.producthunt.com/products/verse-engine-by-ctruh",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794926673
   },
   {
    "title": "dusk bot",
@@ -1318,32 +1487,6 @@
    "ts": 1794924839
   },
   {
-   "title": "kwatch",
-   "link": "https://www.producthunt.com/products/kwatch",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794917153
-  },
-  {
-   "title": "Rithub",
-   "link": "https://www.producthunt.com/products/rithub",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794915027
-  },
-  {
    "title": "Beacon",
    "link": "https://www.producthunt.com/products/beacon-26",
    "author": "Product Hunt",
@@ -1355,19 +1498,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794912351
-  },
-  {
-   "title": "Afterall Photo",
-   "link": "https://www.producthunt.com/products/afterall-photo",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794907610
   },
   {
    "title": "台南，是一座適合一起走路的城市",
@@ -1383,45 +1513,6 @@
    "ts": 1794907157
   },
   {
-   "title": "Vanira",
-   "link": "https://www.producthunt.com/products/vanira",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794902918
-  },
-  {
-   "title": "KaDeep AI",
-   "link": "https://www.producthunt.com/products/kadeep-ai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794902401
-  },
-  {
-   "title": "LinkBit",
-   "link": "https://www.producthunt.com/products/linkbit",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794902228
-  },
-  {
    "title": "Quoting Go Proverbs",
    "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
    "author": "Simon Willison",
@@ -1435,8 +1526,8 @@
    "ts": 1794896186
   },
   {
-   "title": "Retriever",
-   "link": "https://www.producthunt.com/products/retriever-4",
+   "title": "CodeDesign v3",
+   "link": "https://www.producthunt.com/products/codedesign",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1445,11 +1536,11 @@
    "day": "Nov 17",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794891847
+   "ts": 1794893057
   },
   {
-   "title": "Yetly",
-   "link": "https://www.producthunt.com/products/yetly",
+   "title": "OfinTech Desk",
+   "link": "https://www.producthunt.com/products/ofintech-desk",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1458,7 +1549,7 @@
    "day": "Nov 17",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1794890026
+   "ts": 1794885907
   },
   {
    "title": "llm 0.37.3",
@@ -1472,6 +1563,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794873446
+  },
+  {
+   "title": "Tabstack by Mozilla",
+   "link": "https://www.producthunt.com/products/tabstack",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794866259
   },
   {
    "title": "Replay QA Self-healing Mode",
@@ -1513,19 +1617,6 @@
    "ts": 1794857802
   },
   {
-   "title": "Ody Ai Business Phone",
-   "link": "https://www.producthunt.com/products/ody-ai-business-phone",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794854217
-  },
-  {
    "title": "AIs might overthrow the government within a year – Paul Christiano",
    "link": "https://www.youtube.com/watch?v=SyHM5hNPAEo",
    "author": "Dwarkesh Patel",
@@ -1537,45 +1628,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794852503
-  },
-  {
-   "title": "canfit",
-   "link": "https://www.producthunt.com/products/canfit",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794850941
-  },
-  {
-   "title": "Stringman",
-   "link": "https://www.producthunt.com/products/stringman",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-16",
-   "day": "Nov 16",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794841523
-  },
-  {
-   "title": "OX212",
-   "link": "https://www.producthunt.com/products/ox212",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-16",
-   "day": "Nov 16",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794837439
   },
   {
    "title": "Elizabeth Warren Gets Another Shot at Crypto",
@@ -4165,19 +4217,6 @@
    "ts": 1791439751
   },
   {
-   "title": "A $6.3 billion open-weight model just got embarrassed by the French...",
-   "link": "https://www.youtube.com/watch?v=WrCjAAl9okA",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-10-08",
-   "day": "Oct 8",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791404667
-  },
-  {
    "title": "Learn to Talk About Food in German (for absolute beginners)",
    "link": "https://www.youtube.com/watch?v=dIw__YleGcQ",
    "author": "Easy German",
@@ -5294,19 +5333,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789084800
-  },
-  {
-   "title": "$100M YouTube Lawyer Reveals How to Protect Your Channel in 2026 | 145",
-   "link": "https://nathanbarry.com/100m-youtube-lawyer-reveals-how-to-protect-your-channel-in-2026-145/",
-   "author": "Nathan Barry",
-   "source": "Nathan Barry",
-   "feed": "nathanbarry-com-feed",
-   "lang": "en",
-   "date": "2026-09-11",
-   "day": "Sep 11",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789056000
   },
   {
    "title": "I don't get democracy",
@@ -7764,19 +7790,6 @@
    "ym": "2026-05",
    "ym_label": "May 2026",
    "ts": 1780099200
-  },
-  {
-   "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
-   "link": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
-   "author": "AI Explained",
-   "source": "AI Explained",
-   "feed": "youtube-ai-explained",
-   "lang": "en",
-   "date": "2026-05-29",
-   "day": "May 29",
-   "ym": "2026-05",
-   "ym_label": "May 2026",
-   "ts": 1780067255
   },
   {
    "title": "从「吸引子引导工程」看我的「一人公司」实践",
@@ -10598,19 +10611,6 @@
    "ym": "2025-11",
    "ym_label": "November 2025",
    "ts": 1763390189
-  },
-  {
-   "title": "Humanity’s Real Plan to Stop This Asteroid (Feat. Mark Rober)",
-   "link": "https://www.youtube.com/watch?v=LOn-mmezykQ",
-   "author": "Cleo Abram",
-   "source": "Cleo Abram",
-   "feed": "youtube-cleo-abram",
-   "lang": "en",
-   "date": "2025-11-16",
-   "day": "Nov 16",
-   "ym": "2025-11",
-   "ym_label": "November 2025",
-   "ts": 1763222436
   },
   {
    "title": "I made an app in 24 hours and $20,378 the next day",
