@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19 04:29",
+ "updated": "2026-11-19 15:22",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,84 @@
  ],
  "items": [
   {
+   "title": "llm-gemini 0.38",
+   "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795046360
+  },
+  {
+   "title": "We need smart people who give a shit",
+   "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795046029
+  },
+  {
+   "title": "Gemini 4 Neon",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795037647
+  },
+  {
+   "title": "The World Depends on Random Numbers That Aren't Really Random",
+   "link": "https://www.youtube.com/watch?v=uXuQF_PPg5U",
+   "author": "Veritasium",
+   "source": "Veritasium",
+   "feed": "youtube-veritasium",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795033784
+  },
+  {
+   "title": "The hidden job market",
+   "link": "https://justinjackson.ca/hidden-job-market",
+   "author": "Justin Jackson",
+   "source": "Justin Jackson",
+   "feed": "justinjackson-ca-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795032000
+  },
+  {
+   "title": "AI 时代的审美赤字：当人人都能做出一个 App",
+   "link": "https://innei.in/posts/tinkering/AI-App",
+   "author": "Innei",
+   "source": "Innei",
+   "feed": "innei-in-feed",
+   "lang": "zh",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795029335
+  },
+  {
    "title": "Driving Lesson in Slow German",
    "link": "https://www.youtube.com/watch?v=svtSFmcX9fo",
    "author": "Easy German",
@@ -692,6 +770,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795024806
+  },
+  {
+   "title": "datasette-arrows 0.1a0",
+   "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795021799
   },
   {
    "title": "Seven new models at scalable price-performance",
@@ -720,6 +811,19 @@
    "ts": 1795017507
   },
   {
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795016974
+  },
+  {
    "title": "Inside Deutsche Bank",
    "link": "https://www.inside-db.com/",
    "author": "Hacker News",
@@ -746,6 +850,19 @@
    "ts": 1795015195
   },
   {
+   "title": "Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine",
+   "link": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795015110
+  },
+  {
    "title": "The PSF end-of-year fundraiser",
    "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
    "author": "Simon Willison",
@@ -759,6 +876,19 @@
    "ts": 1795013088
   },
   {
+   "title": "黄仁勋会不会回归 如奥特曼故事？",
+   "link": "http://weiwuhui.com/11122.html",
+   "author": "Wei Wuhui",
+   "source": "Wei Wuhui",
+   "feed": "weiwuhui-com-feed",
+   "lang": "zh",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795008210
+  },
+  {
    "title": "DNS resolvers are the wrong place to fight piracy",
    "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
    "author": "Hacker News",
@@ -770,6 +900,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795007882
+  },
+  {
+   "title": "Codeberg.org Not Reachable",
+   "link": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794996137
+  },
+  {
+   "title": "Energy-Based Reasoners: 385x more efficient inference",
+   "link": "https://energy-based-reasoners.github.io/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794994172
   },
   {
    "title": "AssemblyAI-STT-3.7",
@@ -1058,45 +1214,6 @@
    "ts": 1794942014
   },
   {
-   "title": "Solid 2.0",
-   "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794941777
-  },
-  {
-   "title": "Phrack 73",
-   "link": "https://phrack.org/issues/73/introduction_md",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794940285
-  },
-  {
-   "title": "MAI Code 2 and Code 2 Flash",
-   "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794939913
-  },
-  {
    "title": "Arcade",
    "link": "https://www.producthunt.com/products/arcade",
    "author": "Product Hunt",
@@ -1123,45 +1240,6 @@
    "ts": 1794938764
   },
   {
-   "title": "Apple Services Down",
-   "link": "https://developer.apple.com/system-status/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794937634
-  },
-  {
-   "title": "GPT‑6.2 Astra and Sol",
-   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794937603
-  },
-  {
-   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-   "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794935526
-  },
-  {
    "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
    "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
    "author": "Simon Willison",
@@ -1175,7 +1253,7 @@
    "ts": 1794934113
   },
   {
-   "title": "How to compress text to 1 bit per character | Information theory, part 3",
+   "title": "This algorithm changed how I think about compression | Information theory, part 3",
    "link": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
    "author": "3Blue1Brown",
    "source": "3Blue1Brown",
@@ -1357,6 +1435,19 @@
    "ts": 1794896186
   },
   {
+   "title": "Retriever",
+   "link": "https://www.producthunt.com/products/retriever-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794891847
+  },
+  {
    "title": "Yetly",
    "link": "https://www.producthunt.com/products/yetly",
    "author": "Product Hunt",
@@ -1435,19 +1526,6 @@
    "ts": 1794854217
   },
   {
-   "title": "ExtraDock 5",
-   "link": "https://www.producthunt.com/products/extradock",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794853760
-  },
-  {
    "title": "AIs might overthrow the government within a year – Paul Christiano",
    "link": "https://www.youtube.com/watch?v=SyHM5hNPAEo",
    "author": "Dwarkesh Patel",
@@ -1474,19 +1552,6 @@
    "ts": 1794850941
   },
   {
-   "title": "WispOS",
-   "link": "https://www.producthunt.com/products/wispos",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794848187
-  },
-  {
    "title": "Stringman",
    "link": "https://www.producthunt.com/products/stringman",
    "author": "Product Hunt",
@@ -1498,6 +1563,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794841523
+  },
+  {
+   "title": "OX212",
+   "link": "https://www.producthunt.com/products/ox212",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-16",
+   "day": "Nov 16",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794837439
   },
   {
    "title": "Elizabeth Warren Gets Another Shot at Crypto",
@@ -2174,32 +2252,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794213360
-  },
-  {
-   "title": "The Web Is More Than Enough, by Paul Ford",
-   "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794198753
-  },
-  {
-   "title": "Hide your slop PR descriptions behind",
-   "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-09",
-   "day": "Nov 9",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794198305
   },
   {
    "title": "开了一个聊投资的音频播客",
@@ -5465,19 +5517,6 @@
    "ts": 1788521847
   },
   {
-   "title": "联邦制公司的黄昏",
-   "link": "http://weiwuhui.com/11090.html",
-   "author": "Wei Wuhui",
-   "source": "Wei Wuhui",
-   "feed": "weiwuhui-com-feed",
-   "lang": "zh",
-   "date": "2026-09-04",
-   "day": "Sep 4",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788487740
-  },
-  {
    "title": "海南之行后记",
    "link": "https://blog.est.im/2026/stderr-28",
    "author": "Est",
@@ -5645,19 +5684,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1788083280
-  },
-  {
-   "title": "从纯 CSS 到 StyleX：AI 加持下的一万行 CSS 迁移实践",
-   "link": "https://innei.in/posts/tech/css-to-stylex-migration",
-   "author": "Innei",
-   "source": "Innei",
-   "feed": "innei-in-feed",
-   "lang": "zh",
-   "date": "2026-08-30",
-   "day": "Aug 30",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1788079543
   },
   {
    "title": "Something’s Happening to the Ozone Hole",
@@ -8401,19 +8427,6 @@
    "ym": "2026-04",
    "ym_label": "April 2026",
    "ts": 1777507200
-  },
-  {
-   "title": "The Crystal That Could Destroy All Medicine",
-   "link": "https://www.youtube.com/watch?v=ksn5yrsC3Wg",
-   "author": "Veritasium",
-   "source": "Veritasium",
-   "feed": "youtube-veritasium",
-   "lang": "en",
-   "date": "2026-04-30",
-   "day": "Apr 30",
-   "ym": "2026-04",
-   "ym_label": "April 2026",
-   "ts": 1777494653
   },
   {
    "title": "Six Years Perfecting Maps on watchOS",
@@ -12990,19 +13003,6 @@
    "ym": "2025-01",
    "ym_label": "January 2025",
    "ts": 1735661021
-  },
-  {
-   "title": "2024 year in review",
-   "link": "https://justinjackson.ca/2024-review",
-   "author": "Justin Jackson",
-   "source": "Justin Jackson",
-   "feed": "justinjackson-ca-feed",
-   "lang": "en",
-   "date": "2024-12-31",
-   "day": "Dec 31",
-   "ym": "2024-12",
-   "ym_label": "December 2024",
-   "ts": 1735603200
   },
   {
    "title": "2024 山丘",
