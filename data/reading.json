@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20 15:12",
+ "updated": "2026-11-21 04:14",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,6 +681,123 @@
  ],
  "items": [
   {
+   "title": "If you’ve deployed anything since 2015, I have bad news...",
+   "link": "https://www.youtube.com/watch?v=rMaMe32qQkA",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795204142
+  },
+  {
+   "title": "Quoting Ravi Vakil",
+   "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795202509
+  },
+  {
+   "title": "Quoting Levent Alpöge",
+   "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795192248
+  },
+  {
+   "title": "Crypto Crashes as Anthropic Pulls Off the Biggest IPO Ever",
+   "link": "https://www.youtube.com/watch?v=75zAEcopwCk",
+   "author": "Bankless",
+   "source": "Bankless",
+   "feed": "youtube-bankless",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795174229
+  },
+  {
+   "title": "greatai Review",
+   "link": "https://www.producthunt.com/products/greatai-review",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795150605
+  },
+  {
+   "title": "Lumyna Community Challenge",
+   "link": "https://www.producthunt.com/products/lumyna-community-challenge",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795150557
+  },
+  {
+   "title": "Samiksa",
+   "link": "https://www.producthunt.com/products/samiksa",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795148529
+  },
+  {
+   "title": "Mailpipe",
+   "link": "https://www.producthunt.com/products/mailpipe-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795148035
+  },
+  {
+   "title": "Interview Coach",
+   "link": "https://www.producthunt.com/products/interview-coach-3",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795146531
+  },
+  {
    "title": "Token fraud is here and it’s BAD (YouTube)",
    "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
    "author": "Simon Willison",
@@ -692,6 +809,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795142997
+  },
+  {
+   "title": "Fack’d",
+   "link": "https://www.producthunt.com/products/fack-d",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795140385
+  },
+  {
+   "title": "ThreadLore",
+   "link": "https://www.producthunt.com/products/threadlore",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795140180
   },
   {
    "title": "科技爱好者周刊（第 420 期）：最分心的一年",
@@ -720,6 +863,19 @@
    "ts": 1795131335
   },
   {
+   "title": "Docker",
+   "link": "https://www.producthunt.com/products/docker",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795129470
+  },
+  {
    "title": "Should TSMC Make 3D DRAM?",
    "link": "https://www.youtube.com/watch?v=nIzRMNjTm50",
    "author": "Asianometry",
@@ -731,6 +887,45 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795129231
+  },
+  {
+   "title": "Veryfi Thinking Mode",
+   "link": "https://www.producthunt.com/products/veryfi",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795123801
+  },
+  {
+   "title": "Dozy",
+   "link": "https://www.producthunt.com/products/dozy",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795123094
+  },
+  {
+   "title": "DMARC Pulse",
+   "link": "https://www.producthunt.com/products/dmarc-pulse",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795121744
   },
   {
    "title": "PostgreSQL 19 Released",
@@ -759,6 +954,45 @@
    "ts": 1795118590
   },
   {
+   "title": "Nova by Vybe",
+   "link": "https://www.producthunt.com/products/vybe-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795118046
+  },
+  {
+   "title": "UndoGuard",
+   "link": "https://www.producthunt.com/products/undoguard",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795115742
+  },
+  {
+   "title": "Conversaflex",
+   "link": "https://www.producthunt.com/products/conversaflex",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795114799
+  },
+  {
    "title": "The only software that didn’t break this week...",
    "link": "https://www.youtube.com/watch?v=Qxor6jpfSiU",
    "author": "Fireship",
@@ -783,6 +1017,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795109444
+  },
+  {
+   "title": "HelpCard",
+   "link": "https://www.producthunt.com/products/helpcard",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795109165
   },
   {
    "title": "Pancreatic cancer halted by virus injection in three patients",
@@ -850,6 +1097,19 @@
    "ts": 1795105263
   },
   {
+   "title": "NetSieve",
+   "link": "https://www.producthunt.com/products/netsieve",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795102335
+  },
+  {
    "title": "Everything you need to survive and rebuild society",
    "link": "https://lastbook.org/",
    "author": "Hacker News",
@@ -863,7 +1123,7 @@
    "ts": 1795099638
   },
   {
-   "title": "They Built A Crazy Machine Under Antarctica",
+   "title": "This Crazy Experiment Just Won A Nobel Prize",
    "link": "https://www.youtube.com/watch?v=kRpahwRFWZA",
    "author": "Cleo Abram",
    "source": "Cleo Abram",
@@ -874,6 +1134,58 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795098662
+  },
+  {
+   "title": "Currents",
+   "link": "https://www.producthunt.com/products/currents-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795096951
+  },
+  {
+   "title": "Stormi",
+   "link": "https://www.producthunt.com/products/stormi",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795091043
+  },
+  {
+   "title": "Andromon",
+   "link": "https://www.producthunt.com/products/andromon",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795090809
+  },
+  {
+   "title": "Rox",
+   "link": "https://www.producthunt.com/products/rox-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795089600
   },
   {
    "title": "Someone reported java4shell bug in September 2026",
@@ -887,6 +1199,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795088823
+  },
+  {
+   "title": "Tamekoshi",
+   "link": "https://www.producthunt.com/products/tamekoshi",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795088286
   },
   {
    "title": "How the European Commission rolled out Matrix to more than 40k staff",
@@ -915,6 +1240,97 @@
    "ts": 1795079134
   },
   {
+   "title": "Baby's Day In",
+   "link": "https://www.producthunt.com/products/baby-s-day-in",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795078255
+  },
+  {
+   "title": "Inkrail",
+   "link": "https://www.producthunt.com/products/inkrail",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795077968
+  },
+  {
+   "title": "Saparo",
+   "link": "https://www.producthunt.com/products/saparo",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795076952
+  },
+  {
+   "title": "Vatsalya Circle",
+   "link": "https://www.producthunt.com/products/vatsalya-circle",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795075302
+  },
+  {
+   "title": "InteraOne",
+   "link": "https://www.producthunt.com/products/interaone",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795068823
+  },
+  {
+   "title": "Volcano",
+   "link": "https://www.producthunt.com/products/volcano-3",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795068684
+  },
+  {
+   "title": "Direct by Instagram",
+   "link": "https://www.producthunt.com/products/instagram",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795067847
+  },
+  {
    "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
    "link": "https://kapteko.com/15-million-webservers/",
    "author": "Hacker News",
@@ -941,8 +1357,8 @@
    "ts": 1795064951
   },
   {
-   "title": "Nuko",
-   "link": "https://www.producthunt.com/products/nuko",
+   "title": "Zethos",
+   "link": "https://www.producthunt.com/products/zethos",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -951,59 +1367,7 @@
    "day": "Nov 19",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795059275
-  },
-  {
-   "title": "ToolJet",
-   "link": "https://www.producthunt.com/products/tooljet",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795057631
-  },
-  {
-   "title": "Tecla",
-   "link": "https://www.producthunt.com/products/tecla-3",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795057534
-  },
-  {
-   "title": "Gemini 4 Neon",
-   "link": "https://www.producthunt.com/products/gemini-6",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795055558
-  },
-  {
-   "title": "Adside",
-   "link": "https://www.producthunt.com/products/adside",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795049562
+   "ts": 1795049617
   },
   {
    "title": "llm-gemini 0.38",
@@ -1017,19 +1381,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795046360
-  },
-  {
-   "title": "mio click",
-   "link": "https://www.producthunt.com/products/mio-click",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795046238
   },
   {
    "title": "We need smart people who give a shit",
@@ -1058,19 +1409,6 @@
    "ts": 1795045970
   },
   {
-   "title": "Play That Back",
-   "link": "https://www.producthunt.com/products/play-that-back",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795045334
-  },
-  {
    "title": "Anthropic prices initial public offering",
    "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
    "author": "Hacker News",
@@ -1082,19 +1420,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795044609
-  },
-  {
-   "title": "Rezora IO",
-   "link": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795044212
   },
   {
    "title": "LLM assisted reverse engineering",
@@ -1110,32 +1435,6 @@
    "ts": 1795040953
   },
   {
-   "title": "Upsolve MCP Connections",
-   "link": "https://www.producthunt.com/products/upsolve-ai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795038968
-  },
-  {
-   "title": "Polylane for Azure",
-   "link": "https://www.producthunt.com/products/polylane",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795038432
-  },
-  {
    "title": "Gemini 4 Neon",
    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
    "author": "Hacker News",
@@ -1149,7 +1448,7 @@
    "ts": 1795037647
   },
   {
-   "title": "Most people don’t understand randomness.",
+   "title": "Randomness is a lie. Let me explain",
    "link": "https://www.youtube.com/watch?v=uXuQF_PPg5U",
    "author": "Veritasium",
    "source": "Veritasium",
@@ -1201,6 +1500,19 @@
    "ts": 1795024806
   },
   {
+   "title": "Groundwork",
+   "link": "https://www.producthunt.com/products/groundwork-6",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795022499
+  },
+  {
    "title": "datasette-arrows 0.1a0",
    "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
    "author": "Simon Willison",
@@ -1212,19 +1524,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795021799
-  },
-  {
-   "title": "Wispr Flow Notetaker for iPhone",
-   "link": "https://www.producthunt.com/products/wisprflow",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795018789
   },
   {
    "title": "Seven new models at scalable price-performance",
@@ -1279,45 +1578,6 @@
    "ts": 1795016313
   },
   {
-   "title": "Room AI",
-   "link": "https://www.producthunt.com/products/room-ai-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795016251
-  },
-  {
-   "title": "Noteshell",
-   "link": "https://www.producthunt.com/products/noteshell",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795015696
-  },
-  {
-   "title": "Cleared",
-   "link": "https://www.producthunt.com/products/cleared-quit-nicotine",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795015660
-  },
-  {
    "title": "The PSF end-of-year fundraiser",
    "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
    "author": "Simon Willison",
@@ -1331,19 +1591,6 @@
    "ts": 1795013088
   },
   {
-   "title": "Fieldwork Code",
-   "link": "https://www.producthunt.com/products/fieldwork-code",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795008733
-  },
-  {
    "title": "黄仁勋会不会回归 如奥特曼故事？",
    "link": "http://weiwuhui.com/11122.html",
    "author": "Wei Wuhui",
@@ -1355,45 +1602,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795008210
-  },
-  {
-   "title": "HeyGen Avatar 6",
-   "link": "https://www.producthunt.com/products/heygen",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795003410
-  },
-  {
-   "title": "Enrichable by Context.dev",
-   "link": "https://www.producthunt.com/products/context-dev",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795002221
-  },
-  {
-   "title": "SoreQen Code",
-   "link": "https://www.producthunt.com/products/soreqen-code",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794971640
   },
   {
    "title": "External sandboxes for coding agents",
@@ -1420,32 +1628,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794955132
-  },
-  {
-   "title": "Incredible Agents",
-   "link": "https://www.producthunt.com/products/incredible",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794952944
-  },
-  {
-   "title": "Introzy",
-   "link": "https://www.producthunt.com/products/introzy",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794944376
   },
   {
    "title": "What Your Processor Could Have Been",
@@ -1487,58 +1669,6 @@
    "ts": 1794933796
   },
   {
-   "title": "lepoly",
-   "link": "https://www.producthunt.com/products/lepoly",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794933550
-  },
-  {
-   "title": "Orken",
-   "link": "https://www.producthunt.com/products/orken",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794926907
-  },
-  {
-   "title": "Verse Engine by Ctruh",
-   "link": "https://www.producthunt.com/products/verse-engine-by-ctruh",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794926673
-  },
-  {
-   "title": "dusk bot",
-   "link": "https://www.producthunt.com/products/dusk-bot",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794924839
-  },
-  {
    "title": "台南，是一座適合一起走路的城市",
    "link": "https://taiwan.chtsai.org/2026/11/17/tainan_yiqi_zoulu/",
    "author": "Chih-Hao Tsai",
@@ -1550,19 +1680,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794907157
-  },
-  {
-   "title": "KaDeep AI",
-   "link": "https://www.producthunt.com/products/kadeep-ai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794902401
   },
   {
    "title": "Quoting Go Proverbs",
@@ -1578,32 +1695,6 @@
    "ts": 1794896186
   },
   {
-   "title": "CodeDesign v3",
-   "link": "https://www.producthunt.com/products/codedesign",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794893057
-  },
-  {
-   "title": "OfinTech Desk",
-   "link": "https://www.producthunt.com/products/ofintech-desk",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794885907
-  },
-  {
    "title": "llm 0.37.3",
    "link": "https://simonwillison.net/2026/Nov/16/llm/",
    "author": "Simon Willison",
@@ -1617,32 +1708,6 @@
    "ts": 1794873446
   },
   {
-   "title": "Tabstack by Mozilla",
-   "link": "https://www.producthunt.com/products/tabstack",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794866259
-  },
-  {
-   "title": "Replay QA Self-healing Mode",
-   "link": "https://www.producthunt.com/products/replayio",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794865546
-  },
-  {
    "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
    "link": "https://www.youtube.com/watch?v=ytmawkPTP24",
    "author": "Fireship",
@@ -1654,19 +1719,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794860339
-  },
-  {
-   "title": "The Calm Creator Mastermind",
-   "link": "https://www.producthunt.com/products/the-calm-creator-mastermind",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794856743
   },
   {
    "title": "AIs might overthrow the government within a year – Paul Christiano",
@@ -2226,32 +2278,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794295701
-  },
-  {
-   "title": "Quoting Prompting Claude Fable 5.2",
-   "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794288854
-  },
-  {
-   "title": "Yonkers Rises",
-   "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794282784
   },
   {
    "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
@@ -3749,19 +3775,6 @@
    "ts": 1792167320
   },
   {
-   "title": "The Crypto Bull Market Just Got a Reality Check",
-   "link": "https://www.youtube.com/watch?v=jWHj7u2B5j4",
-   "author": "Bankless",
-   "source": "Bankless",
-   "feed": "youtube-bankless",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792161447
-  },
-  {
    "title": "You've Been Lied To About 64-Bit CPUs",
    "link": "https://www.youtube.com/watch?v=bV3GD--FHu8",
    "author": "Core Dumped",
@@ -3942,19 +3955,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791845551
-  },
-  {
-   "title": "Every app on Earth is now open source... whether it likes it or not",
-   "link": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791832523
   },
   {
    "title": "Fiber Optics are so much cooler than I thought",
