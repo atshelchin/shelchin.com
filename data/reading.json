@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 15:03",
+ "updated": "2026-11-22 03:13",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,71 @@
  ],
  "items": [
   {
+   "title": "Lean verification of the Riemann Hypothesis",
+   "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795271805
+  },
+  {
+   "title": "五十年後的吳興街漫步",
+   "link": "https://taiwan.chtsai.org/2026/11/21/wuxing_jie/",
+   "author": "Chih-Hao Tsai",
+   "source": "Chih-Hao Tsai",
+   "feed": "taiwan-chtsai-org-feed",
+   "lang": "zh",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795269192
+  },
+  {
+   "title": "Detonating a pile of lead azide",
+   "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795267394
+  },
+  {
+   "title": "My monitor was cutting my download speed by 75%",
+   "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795257392
+  },
+  {
+   "title": "杭州最热那几个月，我在家里暗无天日度过",
+   "link": "https://ourai.ws/posts/concluding-the-first-software-outsourcing-project-collaboration/",
+   "author": "Ou Lei",
+   "source": "Ou Lei",
+   "feed": "ourai-ws-atom-xml",
+   "lang": "zh",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795245396
+  },
+  {
    "title": "回家抄答案丨一周语文（2647）",
    "link": "https://www.huangjiwei.com/blog/?p=12782",
    "author": "Huang Jiwei",
@@ -720,6 +785,32 @@
    "ts": 1795230584
   },
   {
+   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+   "link": "https://news.ycombinator.com/item?id=50583761",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795216712
+  },
+  {
+   "title": "NINLIVE: The Nine Inch Nails live archive",
+   "link": "https://ninlive.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795213847
+  },
+  {
    "title": "Inkling 2 Mini",
    "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
    "author": "Hacker News",
@@ -733,6 +824,32 @@
    "ts": 1795205539
   },
   {
+   "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+   "link": "https://scottaaronson.blog/?p=10344",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795204987
+  },
+  {
+   "title": "WaitFeed",
+   "link": "https://www.producthunt.com/products/waitfeed-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795204866
+  },
+  {
    "title": "If you’ve deployed anything since 2015, I have bad news...",
    "link": "https://www.youtube.com/watch?v=rMaMe32qQkA",
    "author": "Fireship",
@@ -744,6 +861,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795204142
+  },
+  {
+   "title": "Stitch Loop",
+   "link": "https://www.producthunt.com/products/stitch-loop",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795203518
+  },
+  {
+   "title": "Smorza",
+   "link": "https://www.producthunt.com/products/smorza",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795202890
   },
   {
    "title": "Quoting Ravi Vakil",
@@ -850,6 +993,32 @@
    "ts": 1795190400
   },
   {
+   "title": "Finite-time blow-up for the Navier–Stokes equations",
+   "link": "https://github.com/tristanbuckmaster/navier-stokes/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795188871
+  },
+  {
+   "title": "Slopstrap – Make your site look hastily vibecoded",
+   "link": "https://slopstrap.mikelacher.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795188251
+  },
+  {
    "title": "Why there are still no non-WebKit browsers on iOS",
    "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
    "author": "Hacker News",
@@ -874,6 +1043,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795184181
+  },
+  {
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+   "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795181399
+  },
+  {
+   "title": "gitroots",
+   "link": "https://www.producthunt.com/products/gitroots",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795180936
   },
   {
    "title": "If you stop writing code, you also get worse at reviewing it",
@@ -928,97 +1123,6 @@
    "ts": 1795167799
   },
   {
-   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-   "link": "https://signal.org/blog/protecting-your-privacy/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795167736
-  },
-  {
-   "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-   "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795165989
-  },
-  {
-   "title": "\"I can tell you wrote this yourself\"",
-   "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795158801
-  },
-  {
-   "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-   "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795152062
-  },
-  {
-   "title": "greatai Review",
-   "link": "https://www.producthunt.com/products/greatai-review",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795150605
-  },
-  {
-   "title": "Lumyna Community Challenge",
-   "link": "https://www.producthunt.com/products/lumyna-community-challenge",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795150557
-  },
-  {
-   "title": "Samiksa",
-   "link": "https://www.producthunt.com/products/samiksa",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795148529
-  },
-  {
    "title": "Mailpipe",
    "link": "https://www.producthunt.com/products/mailpipe-2",
    "author": "Product Hunt",
@@ -1032,30 +1136,17 @@
    "ts": 1795148035
   },
   {
-   "title": "Interview Coach",
-   "link": "https://www.producthunt.com/products/interview-coach-3",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
+   "title": "llm-gemini 0.38.1",
+   "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
    "lang": "en",
    "date": "2026-11-20",
    "day": "Nov 20",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795146531
-  },
-  {
-   "title": "PostgreSQL 19",
-   "link": "https://www.postgresql.org/docs/release/19.0/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795146345
+   "ts": 1795143717
   },
   {
    "title": "Token fraud is here and it’s BAD (YouTube)",
@@ -1071,19 +1162,6 @@
    "ts": 1795142997
   },
   {
-   "title": "Fack’d",
-   "link": "https://www.producthunt.com/products/fack-d",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795140385
-  },
-  {
    "title": "ThreadLore",
    "link": "https://www.producthunt.com/products/threadlore",
    "author": "Product Hunt",
@@ -1095,19 +1173,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795140180
-  },
-  {
-   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-   "link": "https://github.com/openssl/openssl/pull/33652",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795140069
   },
   {
    "title": "科技爱好者周刊（第 420 期）：最分心的一年",
@@ -1123,32 +1188,6 @@
    "ts": 1795133250
   },
   {
-   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-   "link": "https://git-aarvin.github.io/mei/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795131335
-  },
-  {
-   "title": "Docker",
-   "link": "https://www.producthunt.com/products/docker",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795129470
-  },
-  {
    "title": "Should TSMC Make 3D DRAM?",
    "link": "https://www.youtube.com/watch?v=nIzRMNjTm50",
    "author": "Asianometry",
@@ -1162,19 +1201,6 @@
    "ts": 1795129231
   },
   {
-   "title": "Veryfi Thinking Mode",
-   "link": "https://www.producthunt.com/products/veryfi",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795123801
-  },
-  {
    "title": "Dozy",
    "link": "https://www.producthunt.com/products/dozy",
    "author": "Product Hunt",
@@ -1186,19 +1212,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795123094
-  },
-  {
-   "title": "DMARC Pulse",
-   "link": "https://www.producthunt.com/products/dmarc-pulse",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795121744
   },
   {
    "title": "PostgreSQL 19 Released",
@@ -1253,19 +1266,6 @@
    "ts": 1795115742
   },
   {
-   "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-   "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795113317
-  },
-  {
    "title": "The only software that didn’t break this week...",
    "link": "https://www.youtube.com/watch?v=Qxor6jpfSiU",
    "author": "Fireship",
@@ -1277,19 +1277,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795110033
-  },
-  {
-   "title": "Claude solves two open problems in the physics of black holes",
-   "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795109444
   },
   {
    "title": "HelpCard",
@@ -1318,19 +1305,6 @@
    "ts": 1795107600
   },
   {
-   "title": "NetSieve",
-   "link": "https://www.producthunt.com/products/netsieve",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795102335
-  },
-  {
    "title": "This Crazy Experiment Just Won A Nobel Prize",
    "link": "https://www.youtube.com/watch?v=kRpahwRFWZA",
    "author": "Cleo Abram",
@@ -1342,19 +1316,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795098662
-  },
-  {
-   "title": "Currents",
-   "link": "https://www.producthunt.com/products/currents-4",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795096951
   },
   {
    "title": "Stormi",
@@ -1487,6 +1448,32 @@
    "ts": 1795067847
   },
   {
+   "title": "Doddle",
+   "link": "https://www.producthunt.com/products/doddle-3",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795059017
+  },
+  {
+   "title": "Backspin",
+   "link": "https://www.producthunt.com/products/backspin",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795056730
+  },
+  {
    "title": "Zethos",
    "link": "https://www.producthunt.com/products/zethos",
    "author": "Product Hunt",
@@ -1565,19 +1552,6 @@
    "ts": 1795024806
   },
   {
-   "title": "Telo",
-   "link": "https://www.producthunt.com/products/telo-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795023868
-  },
-  {
    "title": "Groundwork",
    "link": "https://www.producthunt.com/products/groundwork-6",
    "author": "Product Hunt",
@@ -1589,6 +1563,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795022499
+  },
+  {
+   "title": "Exa Websets V2",
+   "link": "https://www.producthunt.com/products/exa-ai",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795022113
   },
   {
    "title": "datasette-arrows 0.1a0",
@@ -1617,6 +1604,19 @@
    "ts": 1795017507
   },
   {
+   "title": "Publicit",
+   "link": "https://www.producthunt.com/products/publicit",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795015141
+  },
+  {
    "title": "The PSF end-of-year fundraiser",
    "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
    "author": "Simon Willison",
@@ -1643,6 +1643,19 @@
    "ts": 1795008210
   },
   {
+   "title": "CROON",
+   "link": "https://www.producthunt.com/products/croon",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795002696
+  },
+  {
    "title": "DWaste",
    "link": "https://www.producthunt.com/products/deep-waste",
    "author": "Product Hunt",
@@ -1654,6 +1667,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795002146
+  },
+  {
+   "title": "pickfit",
+   "link": "https://www.producthunt.com/products/pickfit",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794980336
   },
   {
    "title": "External sandboxes for coding agents",
@@ -1680,6 +1706,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794955132
+  },
+  {
+   "title": "Storiara",
+   "link": "https://www.producthunt.com/products/storiara",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794945744
   },
   {
    "title": "What Your Processor Could Have Been",
@@ -2317,19 +2356,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794322801
-  },
-  {
-   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-   "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-10",
-   "day": "Nov 10",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794295701
   },
   {
    "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
@@ -3864,19 +3890,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1792133080
-  },
-  {
-   "title": "老後的優雅",
-   "link": "https://taiwan.chtsai.org/2026/10/16/laohou_de_youya/",
-   "author": "Chih-Hao Tsai",
-   "source": "Chih-Hao Tsai",
-   "feed": "taiwan-chtsai-org-feed",
-   "lang": "zh",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792116236
   },
   {
    "title": "IGBTs Took Silicon Power to the Next Level",
@@ -9844,19 +9857,6 @@
    "ym": "2026-01",
    "ym_label": "January 2026",
    "ts": 1769490523
-  },
-  {
-   "title": "超级个体实战：我用飞书套件管理业务、人际与社区",
-   "link": "https://ourai.ws/posts/building-my-business-systems-with-lark-base/",
-   "author": "Ou Lei",
-   "source": "Ou Lei",
-   "feed": "ourai-ws-atom-xml",
-   "lang": "zh",
-   "date": "2026-01-26",
-   "day": "Jan 26",
-   "ym": "2026-01",
-   "ym_label": "January 2026",
-   "ts": 1769423703
   },
   {
    "title": "聊聊商业模式——阿里巴巴",
