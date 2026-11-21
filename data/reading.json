@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 04:14",
+ "updated": "2026-11-21 15:03",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,6 +681,58 @@
  ],
  "items": [
   {
+   "title": "回家抄答案丨一周语文（2647）",
+   "link": "https://www.huangjiwei.com/blog/?p=12782",
+   "author": "Huang Jiwei",
+   "source": "Huang Jiwei",
+   "feed": "www-huangjiwei-com-blog",
+   "lang": "zh",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795238083
+  },
+  {
+   "title": "Basilinna on The New Rules of Fintech: How Saudi Arabia, the UAE and Egypt Are Reshaping Market Entry",
+   "link": "https://www.pekingnology.com/p/basilinna-on-the-new-rules-of-fintech",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795230678
+  },
+  {
+   "title": "台北 2026 世界郵展：傳統價值與現代展望",
+   "link": "https://taiwan.chtsai.org/2026/11/21/taibei_2026_shijie_youzhan/",
+   "author": "Chih-Hao Tsai",
+   "source": "Chih-Hao Tsai",
+   "feed": "taiwan-chtsai-org-feed",
+   "lang": "zh",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795230584
+  },
+  {
+   "title": "Inkling 2 Mini",
+   "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795205539
+  },
+  {
    "title": "If you’ve deployed anything since 2015, I have bad news...",
    "link": "https://www.youtube.com/watch?v=rMaMe32qQkA",
    "author": "Fireship",
@@ -707,6 +759,45 @@
    "ts": 1795202509
   },
   {
+   "title": "Hurried Announcement: Alessandro Masullo GRH",
+   "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795199594
+  },
+  {
+   "title": "We promoted developers into architects without informing them",
+   "link": "https://manidoraisamy.com/developer-to-architect.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795198671
+  },
+  {
+   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+   "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795195296
+  },
+  {
    "title": "Quoting Levent Alpöge",
    "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
    "author": "Simon Willison",
@@ -720,6 +811,84 @@
    "ts": 1795192248
   },
   {
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "link": "https://arxiv.org/abs/2611.21885",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795192146
+  },
+  {
+   "title": "I'll never buy Framework hardware again",
+   "link": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795190790
+  },
+  {
+   "title": "Lean 证明意味着什么——黎曼猜想证明闲谈",
+   "link": "https://blog.est.im/2026/stdin-21",
+   "author": "Est",
+   "source": "Est's Blog",
+   "feed": "feeds-feedburner-com-initiative",
+   "lang": "zh",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795190400
+  },
+  {
+   "title": "Why there are still no non-WebKit browsers on iOS",
+   "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795187011
+  },
+  {
+   "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+   "link": "https://alpo.ge/remark.pdf",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795184181
+  },
+  {
+   "title": "If you stop writing code, you also get worse at reviewing it",
+   "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795178498
+  },
+  {
    "title": "Crypto Crashes as Anthropic Pulls Off the Biggest IPO Ever",
    "link": "https://www.youtube.com/watch?v=75zAEcopwCk",
    "author": "Bankless",
@@ -731,6 +900,84 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795174229
+  },
+  {
+   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "link": "https://architectlabs.com/blog/frostbite",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795168901
+  },
+  {
+   "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+   "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795167799
+  },
+  {
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "link": "https://signal.org/blog/protecting-your-privacy/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795167736
+  },
+  {
+   "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+   "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795165989
+  },
+  {
+   "title": "\"I can tell you wrote this yourself\"",
+   "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795158801
+  },
+  {
+   "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+   "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795152062
   },
   {
    "title": "greatai Review",
@@ -798,6 +1045,19 @@
    "ts": 1795146531
   },
   {
+   "title": "PostgreSQL 19",
+   "link": "https://www.postgresql.org/docs/release/19.0/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795146345
+  },
+  {
    "title": "Token fraud is here and it’s BAD (YouTube)",
    "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
    "author": "Simon Willison",
@@ -835,6 +1095,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795140180
+  },
+  {
+   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+   "link": "https://github.com/openssl/openssl/pull/33652",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795140069
   },
   {
    "title": "科技爱好者周刊（第 420 期）：最分心的一年",
@@ -980,17 +1253,17 @@
    "ts": 1795115742
   },
   {
-   "title": "Conversaflex",
-   "link": "https://www.producthunt.com/products/conversaflex",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
+   "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+   "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
    "lang": "en",
    "date": "2026-11-20",
    "day": "Nov 20",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795114799
+   "ts": 1795113317
   },
   {
    "title": "The only software that didn’t break this week...",
@@ -1032,32 +1305,6 @@
    "ts": 1795109165
   },
   {
-   "title": "Pancreatic cancer halted by virus injection in three patients",
-   "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795109133
-  },
-  {
-   "title": "Anthropic’s Nasdaq debut",
-   "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795107760
-  },
-  {
    "title": "Forget Online Communities, Do This In 2027 To Make $500K/Year | 155",
    "link": "https://nathanbarry.com/forget-online-communities-do-this-in-2027-to-make-500k-year-155/",
    "author": "Nathan Barry",
@@ -1071,32 +1318,6 @@
    "ts": 1795107600
   },
   {
-   "title": "Fuck Your AI Safeguards",
-   "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795105818
-  },
-  {
-   "title": "UK government forced to admit it issued Apple a secret encryption order",
-   "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795105263
-  },
-  {
    "title": "NetSieve",
    "link": "https://www.producthunt.com/products/netsieve",
    "author": "Product Hunt",
@@ -1108,19 +1329,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795102335
-  },
-  {
-   "title": "Everything you need to survive and rebuild society",
-   "link": "https://lastbook.org/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795099638
   },
   {
    "title": "This Crazy Experiment Just Won A Nobel Prize",
@@ -1188,19 +1396,6 @@
    "ts": 1795089600
   },
   {
-   "title": "Someone reported java4shell bug in September 2026",
-   "link": "https://github.com/openjdk/jdk/pull/32781",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795088823
-  },
-  {
    "title": "Tamekoshi",
    "link": "https://www.producthunt.com/products/tamekoshi",
    "author": "Product Hunt",
@@ -1212,32 +1407,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795088286
-  },
-  {
-   "title": "How the European Commission rolled out Matrix to more than 40k staff",
-   "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795085909
-  },
-  {
-   "title": "SSD prices may begin to decline in the latter half of 2027",
-   "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795079134
   },
   {
    "title": "Baby's Day In",
@@ -1279,19 +1448,6 @@
    "ts": 1795076952
   },
   {
-   "title": "Vatsalya Circle",
-   "link": "https://www.producthunt.com/products/vatsalya-circle",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795075302
-  },
-  {
    "title": "InteraOne",
    "link": "https://www.producthunt.com/products/interaone",
    "author": "Product Hunt",
@@ -1331,32 +1487,6 @@
    "ts": 1795067847
   },
   {
-   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-   "link": "https://kapteko.com/15-million-webservers/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795067796
-  },
-  {
-   "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-   "link": "https://verialabs.com/ruby2shell/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795064951
-  },
-  {
    "title": "Zethos",
    "link": "https://www.producthunt.com/products/zethos",
    "author": "Product Hunt",
@@ -1381,71 +1511,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795046360
-  },
-  {
-   "title": "We need smart people who give a shit",
-   "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795046029
-  },
-  {
-   "title": "Multiple vulnerabilities in Regexp and String case conversion",
-   "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795045970
-  },
-  {
-   "title": "Anthropic prices initial public offering",
-   "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795044609
-  },
-  {
-   "title": "LLM assisted reverse engineering",
-   "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795040953
-  },
-  {
-   "title": "Gemini 4 Neon",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795037647
   },
   {
    "title": "Randomness is a lie. Let me explain",
@@ -1500,6 +1565,19 @@
    "ts": 1795024806
   },
   {
+   "title": "Telo",
+   "link": "https://www.producthunt.com/products/telo-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795023868
+  },
+  {
    "title": "Groundwork",
    "link": "https://www.producthunt.com/products/groundwork-6",
    "author": "Product Hunt",
@@ -1526,19 +1604,6 @@
    "ts": 1795021799
   },
   {
-   "title": "Seven new models at scalable price-performance",
-   "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795018104
-  },
-  {
    "title": "Quoting Daniel Stenberg",
    "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
    "author": "Simon Willison",
@@ -1550,32 +1615,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795017507
-  },
-  {
-   "title": "AI agents ask better questions than KPMG accountants in audit trial",
-   "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795016974
-  },
-  {
-   "title": "Inside Deutsche Bank",
-   "link": "https://www.inside-db.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795016313
   },
   {
    "title": "The PSF end-of-year fundraiser",
@@ -1602,6 +1641,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795008210
+  },
+  {
+   "title": "DWaste",
+   "link": "https://www.producthunt.com/products/deep-waste",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795002146
   },
   {
    "title": "External sandboxes for coding agents",
@@ -3918,19 +3970,6 @@
    "ts": 1792000090
   },
   {
-   "title": "從口罩到社群：我們看到的世界，往往是自己內心的投射",
-   "link": "https://taiwan.chtsai.org/2026/10/14/cong_kouzhao_dao_shequn/",
-   "author": "Chih-Hao Tsai",
-   "source": "Chih-Hao Tsai",
-   "feed": "taiwan-chtsai-org-feed",
-   "lang": "zh",
-   "date": "2026-10-14",
-   "day": "Oct 14",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791976077
-  },
-  {
    "title": "Gordon G. Liu on China's pharmaceutical ambitions",
    "link": "https://www.pekingnology.com/p/gordon-g-liu-on-chinas-pharmaceutical",
    "author": "Zichen Wang",
@@ -4436,19 +4475,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791039621
-  },
-  {
-   "title": "Putin, Answering Henry Huiyao Wang, Says Xi-Trump-Putin Meeting at APEC Is Possible",
-   "link": "https://www.pekingnology.com/p/putin-answering-henry-huiyao-wang",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-10-03",
-   "day": "Oct 3",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791027976
   },
   {
    "title": "关我辟事 Vol.57：化身冰岛的羊",
@@ -5294,19 +5320,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789217342
-  },
-  {
-   "title": "挣扎着减肥丨一周语文（2637）",
-   "link": "https://www.huangjiwei.com/blog/?p=12734",
-   "author": "Huang Jiwei",
-   "source": "Huang Jiwei",
-   "feed": "www-huangjiwei-com-blog",
-   "lang": "zh",
-   "date": "2026-09-12",
-   "day": "Sep 12",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789190073
   },
   {
    "title": "AI researchers debate how close we are to recursive self-improvement",
@@ -6698,19 +6711,6 @@
    "ym": "2026-07",
    "ym_label": "July 2026",
    "ts": 1784410281
-  },
-  {
-   "title": "为什么 Github OAuth 故意拦截 CORS",
-   "link": "https://blog.est.im/2026/stdout-29",
-   "author": "Est",
-   "source": "Est's Blog",
-   "feed": "feeds-feedburner-com-initiative",
-   "lang": "zh",
-   "date": "2026-07-18",
-   "day": "Jul 18",
-   "ym": "2026-07",
-   "ym_label": "July 2026",
-   "ts": 1784374320
   },
   {
    "title": "设计流动摩擦：AI 原生团队的核心能力",
