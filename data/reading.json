@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 03:13",
+ "updated": "2026-11-22 14:45",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,71 @@
  ],
  "items": [
   {
+   "title": "我在过去五份工作中都学到了什么",
+   "link": "https://blog.douchi.space/learnings-from-jobs/?utm_source=rss",
+   "author": "Jiaoyan Douchi",
+   "source": "Jiaoyan Douchi",
+   "feed": "blog-douchi-space-index-xml",
+   "lang": "zh",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795314540
+  },
+  {
+   "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+   "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+   "author": "3Blue1Brown",
+   "source": "3Blue1Brown",
+   "feed": "youtube-3blue1brown",
+   "lang": "en",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795312932
+  },
+  {
+   "title": "许愿式编程的归属难题",
+   "link": "https://yanlinlin.cn/2026/11/22/wishful-programming-and-code-ownership/",
+   "author": "Yan Linlin",
+   "source": "Yan Linlin",
+   "feed": "yanlinlin-cn-index-xml",
+   "lang": "zh",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795310220
+  },
+  {
+   "title": "Muru",
+   "link": "https://simonwillison.net/2026/Nov/21/muru/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795305388
+  },
+  {
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795284139
+  },
+  {
    "title": "Lean verification of the Riemann Hypothesis",
    "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
    "author": "Hacker News",
@@ -809,6 +874,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795213847
+  },
+  {
+   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+   "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795208592
+  },
+  {
+   "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+   "link": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795206161
   },
   {
    "title": "Inkling 2 Mini",
@@ -1071,19 +1162,6 @@
    "ts": 1795180936
   },
   {
-   "title": "If you stop writing code, you also get worse at reviewing it",
-   "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795178498
-  },
-  {
    "title": "Crypto Crashes as Anthropic Pulls Off the Biggest IPO Ever",
    "link": "https://www.youtube.com/watch?v=75zAEcopwCk",
    "author": "Bankless",
@@ -1097,30 +1175,43 @@
    "ts": 1795174229
   },
   {
-   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-   "link": "https://architectlabs.com/blog/frostbite",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "greatai Review",
+   "link": "https://www.producthunt.com/products/greatai-review",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-20",
    "day": "Nov 20",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795168901
+   "ts": 1795150605
   },
   {
-   "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-   "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Lumyna Community Challenge",
+   "link": "https://www.producthunt.com/products/lumyna-community-challenge",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-20",
    "day": "Nov 20",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795167799
+   "ts": 1795150557
+  },
+  {
+   "title": "Samiksa",
+   "link": "https://www.producthunt.com/products/samiksa",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795148529
   },
   {
    "title": "Mailpipe",
@@ -1134,6 +1225,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795148035
+  },
+  {
+   "title": "Interview Coach",
+   "link": "https://www.producthunt.com/products/interview-coach-3",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795146531
   },
   {
    "title": "llm-gemini 0.38.1",
@@ -1162,6 +1266,19 @@
    "ts": 1795142997
   },
   {
+   "title": "Fack’d",
+   "link": "https://www.producthunt.com/products/fack-d",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795140385
+  },
+  {
    "title": "ThreadLore",
    "link": "https://www.producthunt.com/products/threadlore",
    "author": "Product Hunt",
@@ -1188,7 +1305,7 @@
    "ts": 1795133250
   },
   {
-   "title": "Should TSMC Make 3D DRAM?",
+   "title": "TSMC Making 3D DRAM?",
    "link": "https://www.youtube.com/watch?v=nIzRMNjTm50",
    "author": "Asianometry",
    "source": "Asianometry",
@@ -1199,6 +1316,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795129231
+  },
+  {
+   "title": "Veryfi Thinking Mode",
+   "link": "https://www.producthunt.com/products/veryfi",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795123801
   },
   {
    "title": "Dozy",
@@ -1279,19 +1409,6 @@
    "ts": 1795110033
   },
   {
-   "title": "HelpCard",
-   "link": "https://www.producthunt.com/products/helpcard",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795109165
-  },
-  {
    "title": "Forget Online Communities, Do This In 2027 To Make $500K/Year | 155",
    "link": "https://nathanbarry.com/forget-online-communities-do-this-in-2027-to-make-500k-year-155/",
    "author": "Nathan Barry",
@@ -1318,8 +1435,8 @@
    "ts": 1795098662
   },
   {
-   "title": "Stormi",
-   "link": "https://www.producthunt.com/products/stormi",
+   "title": "Currents",
+   "link": "https://www.producthunt.com/products/currents-4",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1328,7 +1445,7 @@
    "day": "Nov 19",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795091043
+   "ts": 1795096951
   },
   {
    "title": "Andromon",
@@ -1342,19 +1459,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795090809
-  },
-  {
-   "title": "Rox",
-   "link": "https://www.producthunt.com/products/rox-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795089600
   },
   {
    "title": "Tamekoshi",
@@ -1381,19 +1485,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795078255
-  },
-  {
-   "title": "Inkrail",
-   "link": "https://www.producthunt.com/products/inkrail",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795077968
   },
   {
    "title": "Saparo",
@@ -1656,32 +1747,6 @@
    "ts": 1795002696
   },
   {
-   "title": "DWaste",
-   "link": "https://www.producthunt.com/products/deep-waste",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795002146
-  },
-  {
-   "title": "pickfit",
-   "link": "https://www.producthunt.com/products/pickfit",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794980336
-  },
-  {
    "title": "External sandboxes for coding agents",
    "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
    "author": "Simon Willison",
@@ -1706,19 +1771,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794955132
-  },
-  {
-   "title": "Storiara",
-   "link": "https://www.producthunt.com/products/storiara",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-18",
-   "day": "Nov 18",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794945744
   },
   {
    "title": "What Your Processor Could Have Been",
@@ -2304,19 +2356,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794352296
-  },
-  {
-   "title": "llm-gemini 0.36",
-   "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794341384
   },
   {
    "title": "Did Anthropic just save its $1 trillion IPO?",
@@ -5231,19 +5270,6 @@
    "ts": 1789591900
   },
   {
-   "title": "被裁记 2.0",
-   "link": "https://blog.douchi.space/layoff-2.0/?utm_source=rss",
-   "author": "Jiaoyan Douchi",
-   "source": "Jiaoyan Douchi",
-   "feed": "blog-douchi-space-index-xml",
-   "lang": "zh",
-   "date": "2026-09-16",
-   "day": "Sep 16",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789542720
-  },
-  {
    "title": "AI 会“惩罚”用它的学生吗？",
    "link": "https://yanlinlin.cn/2026/09/16/does-ai-punish-students-who-use-it/",
    "author": "Yan Linlin",
@@ -7140,19 +7166,6 @@
    "ym": "2026-07",
    "ym_label": "July 2026",
    "ts": 1783166220
-  },
-  {
-   "title": "《创业管理财税通》书评",
-   "link": "https://yanlinlin.cn/2026/07/04/entrepreneurship-management-finance-tax-review/",
-   "author": "Yan Linlin",
-   "source": "Yan Linlin",
-   "feed": "yanlinlin-cn-index-xml",
-   "lang": "zh",
-   "date": "2026-07-04",
-   "day": "Jul 4",
-   "ym": "2026-07",
-   "ym_label": "July 2026",
-   "ts": 1783154700
   },
   {
    "title": "Harness Engineering for Self-Improvement",
@@ -11508,19 +11521,6 @@
    "ym": "2025-08",
    "ym_label": "August 2025",
    "ts": 1755525050
-  },
-  {
-   "title": "The AI that solved IMO Geometry Problems | Guest video by @Aleph0",
-   "link": "https://www.youtube.com/watch?v=4NlrfOl0l8U",
-   "author": "3Blue1Brown",
-   "source": "3Blue1Brown",
-   "feed": "youtube-3blue1brown",
-   "lang": "en",
-   "date": "2025-08-17",
-   "day": "Aug 17",
-   "ym": "2025-08",
-   "ym_label": "August 2025",
-   "ts": 1755435770
   },
   {
    "title": "You're already in the top 0.1%",
