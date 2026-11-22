@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 14:45",
+ "updated": "2026-11-23 03:36",
  "languages": [
   {
    "key": "zh",
@@ -681,6 +681,45 @@
  ],
  "items": [
   {
+   "title": "The Pro’s and Con’s of Living in Stuttgart",
+   "link": "https://www.youtube.com/watch?v=VlACZMlkWCo",
+   "author": "Easy German",
+   "source": "Easy German",
+   "feed": "youtube-easy-german",
+   "lang": "de",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795370403
+  },
+  {
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795337854
+  },
+  {
+   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+   "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795320296
+  },
+  {
    "title": "我在过去五份工作中都学到了什么",
    "link": "https://blog.douchi.space/learnings-from-jobs/?utm_source=rss",
    "author": "Jiaoyan Douchi",
@@ -720,6 +759,19 @@
    "ts": 1795310220
   },
   {
+   "title": "Sandwich Simulator",
+   "link": "https://stulle.app/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795306079
+  },
+  {
    "title": "Muru",
    "link": "https://simonwillison.net/2026/Nov/21/muru/",
    "author": "Simon Willison",
@@ -733,6 +785,19 @@
    "ts": 1795305388
   },
   {
+   "title": "oovi",
+   "link": "https://www.producthunt.com/products/oovi",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795291323
+  },
+  {
    "title": "Inkling-2-Mini in 5.4 GB Memory",
    "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
    "author": "Hacker News",
@@ -744,6 +809,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795284139
+  },
+  {
+   "title": "Resurf",
+   "link": "https://www.producthunt.com/products/resurf-2",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795278096
   },
   {
    "title": "Lean verification of the Riemann Hypothesis",
@@ -785,6 +863,19 @@
    "ts": 1795267394
   },
   {
+   "title": "Verge: Corner Controls",
+   "link": "https://www.producthunt.com/products/verge-corner-controls",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795263960
+  },
+  {
    "title": "My monitor was cutting my download speed by 75%",
    "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
    "author": "Hacker News",
@@ -796,6 +887,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795257392
+  },
+  {
+   "title": "Omi CLI",
+   "link": "https://www.producthunt.com/products/omi-cli",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795248331
   },
   {
    "title": "杭州最热那几个月，我在家里暗无天日度过",
@@ -874,6 +978,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795213847
+  },
+  {
+   "title": "Getting the mind to steer the body to steer you",
+   "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795212665
+  },
+  {
+   "title": "Creavit Studio 4.0",
+   "link": "https://www.producthunt.com/products/creavit-studio",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-21",
+   "day": "Nov 21",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795209092
   },
   {
    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
@@ -1097,58 +1227,6 @@
    "ts": 1795188871
   },
   {
-   "title": "Slopstrap – Make your site look hastily vibecoded",
-   "link": "https://slopstrap.mikelacher.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795188251
-  },
-  {
-   "title": "Why there are still no non-WebKit browsers on iOS",
-   "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795187011
-  },
-  {
-   "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-   "link": "https://alpo.ge/remark.pdf",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795184181
-  },
-  {
-   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-   "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795181399
-  },
-  {
    "title": "gitroots",
    "link": "https://www.producthunt.com/products/gitroots",
    "author": "Product Hunt",
@@ -1175,8 +1253,8 @@
    "ts": 1795174229
   },
   {
-   "title": "greatai Review",
-   "link": "https://www.producthunt.com/products/greatai-review",
+   "title": "30yr-uptime",
+   "link": "https://www.producthunt.com/products/30yr-uptime",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1185,59 +1263,7 @@
    "day": "Nov 20",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795150605
-  },
-  {
-   "title": "Lumyna Community Challenge",
-   "link": "https://www.producthunt.com/products/lumyna-community-challenge",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795150557
-  },
-  {
-   "title": "Samiksa",
-   "link": "https://www.producthunt.com/products/samiksa",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795148529
-  },
-  {
-   "title": "Mailpipe",
-   "link": "https://www.producthunt.com/products/mailpipe-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795148035
-  },
-  {
-   "title": "Interview Coach",
-   "link": "https://www.producthunt.com/products/interview-coach-3",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795146531
+   "ts": 1795172149
   },
   {
    "title": "llm-gemini 0.38.1",
@@ -1266,8 +1292,8 @@
    "ts": 1795142997
   },
   {
-   "title": "Fack’d",
-   "link": "https://www.producthunt.com/products/fack-d",
+   "title": "Mockreel",
+   "link": "https://www.producthunt.com/products/mockreel",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1276,20 +1302,7 @@
    "day": "Nov 20",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795140385
-  },
-  {
-   "title": "ThreadLore",
-   "link": "https://www.producthunt.com/products/threadlore",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795140180
+   "ts": 1795140254
   },
   {
    "title": "科技爱好者周刊（第 420 期）：最分心的一年",
@@ -1305,6 +1318,19 @@
    "ts": 1795133250
   },
   {
+   "title": "Pushback",
+   "link": "https://www.producthunt.com/products/pushback-flight-tracker",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795132087
+  },
+  {
    "title": "TSMC Making 3D DRAM?",
    "link": "https://www.youtube.com/watch?v=nIzRMNjTm50",
    "author": "Asianometry",
@@ -1316,32 +1342,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795129231
-  },
-  {
-   "title": "Veryfi Thinking Mode",
-   "link": "https://www.producthunt.com/products/veryfi",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795123801
-  },
-  {
-   "title": "Dozy",
-   "link": "https://www.producthunt.com/products/dozy",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795123094
   },
   {
    "title": "PostgreSQL 19 Released",
@@ -1370,32 +1370,6 @@
    "ts": 1795118590
   },
   {
-   "title": "Nova by Vybe",
-   "link": "https://www.producthunt.com/products/vybe-4",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795118046
-  },
-  {
-   "title": "UndoGuard",
-   "link": "https://www.producthunt.com/products/undoguard",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795115742
-  },
-  {
    "title": "The only software that didn’t break this week...",
    "link": "https://www.youtube.com/watch?v=Qxor6jpfSiU",
    "author": "Fireship",
@@ -1407,6 +1381,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795110033
+  },
+  {
+   "title": "HelpCard",
+   "link": "https://www.producthunt.com/products/helpcard",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795109165
   },
   {
    "title": "Forget Online Communities, Do This In 2027 To Make $500K/Year | 155",
@@ -1422,6 +1409,19 @@
    "ts": 1795107600
   },
   {
+   "title": "TeaserKit",
+   "link": "https://www.producthunt.com/products/teaserkit",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-19",
+   "day": "Nov 19",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795100922
+  },
+  {
    "title": "This Crazy Experiment Just Won A Nobel Prize",
    "link": "https://www.youtube.com/watch?v=kRpahwRFWZA",
    "author": "Cleo Abram",
@@ -1435,8 +1435,8 @@
    "ts": 1795098662
   },
   {
-   "title": "Currents",
-   "link": "https://www.producthunt.com/products/currents-4",
+   "title": "Rankhog",
+   "link": "https://www.producthunt.com/products/rankhog",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1445,20 +1445,7 @@
    "day": "Nov 19",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795096951
-  },
-  {
-   "title": "Andromon",
-   "link": "https://www.producthunt.com/products/andromon",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795090809
+   "ts": 1795092228
   },
   {
    "title": "Tamekoshi",
@@ -1474,8 +1461,8 @@
    "ts": 1795088286
   },
   {
-   "title": "Baby's Day In",
-   "link": "https://www.producthunt.com/products/baby-s-day-in",
+   "title": "Raccoon Kids",
+   "link": "https://www.producthunt.com/products/raccoon-kids",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1484,7 +1471,7 @@
    "day": "Nov 19",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795078255
+   "ts": 1795084385
   },
   {
    "title": "Saparo",
@@ -1500,8 +1487,8 @@
    "ts": 1795076952
   },
   {
-   "title": "InteraOne",
-   "link": "https://www.producthunt.com/products/interaone",
+   "title": "DeNotch",
+   "link": "https://www.producthunt.com/products/denotch",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1510,7 +1497,7 @@
    "day": "Nov 19",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795068823
+   "ts": 1795075054
   },
   {
    "title": "Volcano",
@@ -1524,19 +1511,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795068684
-  },
-  {
-   "title": "Direct by Instagram",
-   "link": "https://www.producthunt.com/products/instagram",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795067847
   },
   {
    "title": "Doddle",
@@ -1563,19 +1537,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795056730
-  },
-  {
-   "title": "Zethos",
-   "link": "https://www.producthunt.com/products/zethos",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795049617
   },
   {
    "title": "llm-gemini 0.38",
@@ -1641,19 +1602,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795024806
-  },
-  {
-   "title": "Groundwork",
-   "link": "https://www.producthunt.com/products/groundwork-6",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795022499
   },
   {
    "title": "Exa Websets V2",
@@ -1747,6 +1695,19 @@
    "ts": 1795002696
   },
   {
+   "title": "Do It For Them Wallpaper Maker",
+   "link": "https://www.producthunt.com/products/do-it-for-them-wallpaper-maker",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794956318
+  },
+  {
    "title": "External sandboxes for coding agents",
    "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
    "author": "Simon Willison",
@@ -1773,6 +1734,32 @@
    "ts": 1794955132
   },
   {
+   "title": "Storiara",
+   "link": "https://www.producthunt.com/products/storiara",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794945744
+  },
+  {
+   "title": "Ulika",
+   "link": "https://www.producthunt.com/products/ulika",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794943416
+  },
+  {
    "title": "What Your Processor Could Have Been",
    "link": "https://www.youtube.com/watch?v=ogKjlE6EBIk",
    "author": "Core Dumped",
@@ -1784,6 +1771,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794942014
+  },
+  {
+   "title": "Prompt Puncher",
+   "link": "https://www.producthunt.com/products/prompt-puncher",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794940196
   },
   {
    "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
@@ -1810,6 +1810,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794933796
+  },
+  {
+   "title": "MeshLive",
+   "link": "https://www.producthunt.com/products/meshlive",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794923386
   },
   {
    "title": "台南，是一座適合一起走路的城市",
@@ -4982,19 +4995,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1790166060
-  },
-  {
-   "title": "She Learned Accent Free German On Her Own",
-   "link": "https://www.youtube.com/watch?v=c4nE091F970",
-   "author": "Easy German",
-   "source": "Easy German",
-   "feed": "youtube-easy-german",
-   "lang": "de",
-   "date": "2026-09-23",
-   "day": "Sep 23",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1790096404
   },
   {
    "title": "Winlane：我的 Mac 工具箱",
