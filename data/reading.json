@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23 03:36",
+ "updated": "2026-11-23 15:35",
  "languages": [
   {
    "key": "zh",
@@ -203,7 +203,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "blog-devtang-com-atom-xml",
@@ -225,7 +225,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "weiwuhui-com-feed",
@@ -357,7 +357,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "masilotti-com-feed-xml",
@@ -368,7 +368,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "news-tonydinh-com-feed",
@@ -478,7 +478,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": true
+   "ok": false
   },
   {
    "id": "catcoding-me-atom-xml",
@@ -681,6 +681,110 @@
  ],
  "items": [
   {
+   "title": "Hu Bo: Three Major Misunderstandings of China's Claims & Policies in South China Sea",
+   "link": "https://www.pekingnology.com/p/hu-bo-three-major-misunderstandings",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795418844
+  },
+  {
+   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "link": "https://spelunkr.tv",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795396431
+  },
+  {
+   "title": "Why the Soviet GitHub Failed",
+   "link": "https://www.youtube.com/watch?v=CIFWlxQrl88",
+   "author": "Asianometry",
+   "source": "Asianometry",
+   "feed": "youtube-asianometry",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795388422
+  },
+  {
+   "title": "Win the day",
+   "link": "https://justinjackson.ca/win-the-day",
+   "author": "Justin Jackson",
+   "source": "Justin Jackson",
+   "feed": "justinjackson-ca-feed",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795384477
+  },
+  {
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795381276
+  },
+  {
+   "title": "Select Styling Specimens",
+   "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795376706
+  },
+  {
+   "title": "What Happened to Silicon Valley?",
+   "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795375215
+  },
+  {
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795374634
+  },
+  {
    "title": "The Pro’s and Con’s of Living in Stuttgart",
    "link": "https://www.youtube.com/watch?v=VlACZMlkWCo",
    "author": "Easy German",
@@ -692,6 +796,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795370403
+  },
+  {
+   "title": "Perplexity and Intelligence",
+   "link": "https://openai.com/index/perplexity-and-intelligence/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795367187
+  },
+  {
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "link": "https://github.com/gulivan/worker755",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-22",
+   "day": "Nov 22",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795355818
   },
   {
    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
@@ -1123,45 +1253,6 @@
    "ts": 1795202509
   },
   {
-   "title": "Hurried Announcement: Alessandro Masullo GRH",
-   "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-21",
-   "day": "Nov 21",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795199594
-  },
-  {
-   "title": "We promoted developers into architects without informing them",
-   "link": "https://manidoraisamy.com/developer-to-architect.html",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-21",
-   "day": "Nov 21",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795198671
-  },
-  {
-   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-   "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-21",
-   "day": "Nov 21",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795195296
-  },
-  {
    "title": "Quoting Levent Alpöge",
    "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
    "author": "Simon Willison",
@@ -1173,32 +1264,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795192248
-  },
-  {
-   "title": "Language Models Can Rewrite Their Own Weights",
-   "link": "https://arxiv.org/abs/2611.21885",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-21",
-   "day": "Nov 21",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795192146
-  },
-  {
-   "title": "I'll never buy Framework hardware again",
-   "link": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-21",
-   "day": "Nov 21",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795190790
   },
   {
    "title": "Lean 证明意味着什么——黎曼猜想证明闲谈",
@@ -1214,19 +1279,6 @@
    "ts": 1795190400
   },
   {
-   "title": "Finite-time blow-up for the Navier–Stokes equations",
-   "link": "https://github.com/tristanbuckmaster/navier-stokes/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795188871
-  },
-  {
    "title": "gitroots",
    "link": "https://www.producthunt.com/products/gitroots",
    "author": "Product Hunt",
@@ -1238,6 +1290,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795180936
+  },
+  {
+   "title": "可能会被清洗的黄仁勋部下",
+   "link": "http://weiwuhui.com/11136.html",
+   "author": "Wei Wuhui",
+   "source": "Wei Wuhui",
+   "feed": "weiwuhui-com-feed",
+   "lang": "zh",
+   "date": "2026-11-20",
+   "day": "Nov 20",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795177555
   },
   {
    "title": "Crypto Crashes as Anthropic Pulls Off the Biggest IPO Ever",
@@ -1383,19 +1448,6 @@
    "ts": 1795110033
   },
   {
-   "title": "HelpCard",
-   "link": "https://www.producthunt.com/products/helpcard",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-20",
-   "day": "Nov 20",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795109165
-  },
-  {
    "title": "Forget Online Communities, Do This In 2027 To Make $500K/Year | 155",
    "link": "https://nathanbarry.com/forget-online-communities-do-this-in-2027-to-make-500k-year-155/",
    "author": "Nathan Barry",
@@ -1448,19 +1500,6 @@
    "ts": 1795092228
   },
   {
-   "title": "Tamekoshi",
-   "link": "https://www.producthunt.com/products/tamekoshi",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-19",
-   "day": "Nov 19",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795088286
-  },
-  {
    "title": "Raccoon Kids",
    "link": "https://www.producthunt.com/products/raccoon-kids",
    "author": "Product Hunt",
@@ -1474,8 +1513,8 @@
    "ts": 1795084385
   },
   {
-   "title": "Saparo",
-   "link": "https://www.producthunt.com/products/saparo",
+   "title": "Baby's Day In",
+   "link": "https://www.producthunt.com/products/baby-s-day-in",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -1484,7 +1523,7 @@
    "day": "Nov 19",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795076952
+   "ts": 1795078255
   },
   {
    "title": "DeNotch",
@@ -1747,6 +1786,19 @@
    "ts": 1794945744
   },
   {
+   "title": "tripps",
+   "link": "https://www.producthunt.com/products/tripps",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-18",
+   "day": "Nov 18",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794943540
+  },
+  {
    "title": "Ulika",
    "link": "https://www.producthunt.com/products/ulika",
    "author": "Product Hunt",
@@ -1823,6 +1875,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794923386
+  },
+  {
+   "title": "Hollr",
+   "link": "https://www.producthunt.com/products/hollr-3",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-17",
+   "day": "Nov 17",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1794918138
   },
   {
    "title": "台南，是一座適合一起走路的城市",
@@ -2330,19 +2395,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794417592
-  },
-  {
-   "title": "Anthropic's IPO roadshow video",
-   "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-11",
-   "day": "Nov 11",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794409919
   },
   {
    "title": "Lighter vs. Hyperliquid: Where a Top Trader Sees More Upside",
@@ -4321,19 +4373,6 @@
    "ts": 1791446340
   },
   {
-   "title": "Huawei’s Eric Xu: China May Come to Share U.S. AI Risk Concerns as Its Technology Advances",
-   "link": "https://www.pekingnology.com/p/huaweis-eric-xu-china-may-come-to",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-10-08",
-   "day": "Oct 8",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791439751
-  },
-  {
    "title": "Learn to Talk About Food in German (for absolute beginners)",
    "link": "https://www.youtube.com/watch?v=dIw__YleGcQ",
    "author": "Easy German",
@@ -4904,19 +4943,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1790334802
-  },
-  {
-   "title": "High Bandwidth Flash Is Coming",
-   "link": "https://www.youtube.com/watch?v=3nTpW52nioI",
-   "author": "Asianometry",
-   "source": "Asianometry",
-   "feed": "youtube-asianometry",
-   "lang": "en",
-   "date": "2026-09-25",
-   "day": "Sep 25",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1790290830
   },
   {
    "title": "Opus 5.5: How Close Are We to Automated AI Research?",
@@ -5502,19 +5528,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1788856825
-  },
-  {
-   "title": "阿里发了100亿刀股票 字节则选择贷300亿刀",
-   "link": "http://weiwuhui.com/11096.html",
-   "author": "Wei Wuhui",
-   "source": "Wei Wuhui",
-   "feed": "weiwuhui-com-feed",
-   "lang": "zh",
-   "date": "2026-09-08",
-   "day": "Sep 8",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1788832800
   },
   {
    "title": "Skill 并不能让模型更聪明",
@@ -12929,19 +12942,6 @@
   {
    "title": "AI isn't going to replace you",
    "link": "https://justinjackson.ca/ai-replace",
-   "author": "Justin Jackson",
-   "source": "Justin Jackson",
-   "feed": "justinjackson-ca-feed",
-   "lang": "en",
-   "date": "2025-01-18",
-   "day": "Jan 18",
-   "ym": "2025-01",
-   "ym_label": "January 2025",
-   "ts": 1737158400
-  },
-  {
-   "title": "Is it too hard to build a SaaS in 2025?",
-   "link": "https://justinjackson.ca/saas-is-hard",
    "author": "Justin Jackson",
    "source": "Justin Jackson",
    "feed": "justinjackson-ca-feed",
