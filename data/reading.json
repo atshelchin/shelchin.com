@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 17:52",
+ "updated": "2026-11-25 06:24",
  "languages": [
   {
    "key": "zh",
@@ -203,7 +203,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "blog-devtang-com-atom-xml",
@@ -225,7 +225,7 @@
    "lang": "zh",
    "lang_name": "Chinese",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "weiwuhui-com-feed",
@@ -357,7 +357,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "masilotti-com-feed-xml",
@@ -368,7 +368,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "news-tonydinh-com-feed",
@@ -478,7 +478,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 10,
-   "ok": false
+   "ok": true
   },
   {
    "id": "catcoding-me-atom-xml",
@@ -681,6 +681,110 @@
  ],
  "items": [
   {
+   "title": "Responding to objections to recursive self-improvement",
+   "link": "https://www.youtube.com/watch?v=Em6tbhj9o6A",
+   "author": "Dwarkesh Patel",
+   "source": "Dwarkesh Patel",
+   "feed": "youtube-dwarkesh-patel",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795556591
+  },
+  {
+   "title": "Agent Skill 瘦身：用真实 Session 做 A/B 回归",
+   "link": "https://innei.in/posts/tech/agent-skill-token-efficiency-ab-regression",
+   "author": "Innei",
+   "source": "Innei",
+   "feed": "innei-in-feed",
+   "lang": "zh",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795540981
+  },
+  {
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795539239
+  },
+  {
+   "title": "Tidal bans AI-generated music",
+   "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795536758
+  },
+  {
+   "title": "CF40 Research: China’s real estate adjustment may be nearing its end—and its external surplus could stop widening",
+   "link": "https://www.pekingnology.com/p/cf40-research-chinas-real-estate",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-11-24",
+   "day": "Nov 24",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795534824
+  },
+  {
+   "title": "LLM agents work for their parent companies, not for you",
+   "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-24",
+   "day": "Nov 24",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795524015
+  },
+  {
+   "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+   "link": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-24",
+   "day": "Nov 24",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795518835
+  },
+  {
+   "title": "Quad9 pulled their DNS service from France",
+   "link": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-24",
+   "day": "Nov 24",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795509194
+  },
+  {
    "title": "Willow iOS 2.0",
    "link": "https://www.producthunt.com/products/willow-voice",
    "author": "Product Hunt",
@@ -692,6 +796,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795502295
+  },
+  {
+   "title": "2035 came early",
+   "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-24",
+   "day": "Nov 24",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795501833
   },
   {
    "title": "Agenda Hero Magic Labs",
@@ -811,6 +928,19 @@
    "ts": 1795487222
   },
   {
+   "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+   "link": "https://github.com/ItsNotRexed/Leonida/issues",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-24",
+   "day": "Nov 24",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795486089
+  },
+  {
    "title": "Pinned",
    "link": "https://www.producthunt.com/products/pinned",
    "author": "Product Hunt",
@@ -928,6 +1058,19 @@
    "ts": 1795468947
   },
   {
+   "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+   "link": "https://www.bored.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-24",
+   "day": "Nov 24",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795467676
+  },
+  {
    "title": "Claude Ship",
    "link": "https://www.producthunt.com/products/claude-code",
    "author": "Product Hunt",
@@ -939,6 +1082,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795467636
+  },
+  {
+   "title": "GPUI is getting its own repository",
+   "link": "https://github.com/zed-industries/gpui",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-24",
+   "day": "Nov 24",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795467174
   },
   {
    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
@@ -1162,6 +1318,19 @@
    "ts": 1795447920
   },
   {
+   "title": "Cyberleek posted the GTA 6 Xbox build executable",
+   "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795445384
+  },
+  {
    "title": "2025 PISA 和 科举",
    "link": "https://blog.est.im/2026/stderr-31",
    "author": "Est",
@@ -1227,19 +1396,6 @@
    "ts": 1795437294
   },
   {
-   "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
-   "link": "https://github.com/os6/nospeaker",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795433514
-  },
-  {
    "title": "The Crypto Market Could Stay Flat While These Coins Win",
    "link": "https://www.youtube.com/watch?v=cFTQp3y1qyw",
    "author": "Bankless",
@@ -1264,19 +1420,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795431250
-  },
-  {
-   "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-   "link": "https://z.ai/blog/glm-5.4",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795428403
   },
   {
    "title": "Clam AI",
@@ -1318,19 +1461,6 @@
    "ts": 1795417625
   },
   {
-   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-   "link": "https://github.com/AFK-surf/xnulinux",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795405764
-  },
-  {
    "title": "Inkling 2 Mini",
    "link": "https://www.producthunt.com/products/tinker-2",
    "author": "Product Hunt",
@@ -1342,19 +1472,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795405044
-  },
-  {
-   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-   "link": "https://spelunkr.tv",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795396431
   },
   {
    "title": "datasette-charts 0.1a0",
@@ -1381,32 +1498,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795392000
-  },
-  {
-   "title": "Nespresso's project to reduce grams of coffee per capsule",
-   "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795391865
-  },
-  {
-   "title": "Strict",
-   "link": "https://www.producthunt.com/products/strict",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795388649
   },
   {
    "title": "Why the Soviet GitHub Failed",
@@ -1448,32 +1539,6 @@
    "ts": 1795383739
   },
   {
-   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795381276
-  },
-  {
-   "title": "A miniature San Francisco with live buses, planes and boats",
-   "link": "https://smallsf.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795379603
-  },
-  {
    "title": "Select Styling Specimens",
    "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
    "author": "Simon Willison",
@@ -1485,19 +1550,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795376706
-  },
-  {
-   "title": "Assume People Are Not Interested in Your Blog Post",
-   "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795376490
   },
   {
    "title": "doola MCP",
@@ -1513,19 +1565,6 @@
    "ts": 1795375404
   },
   {
-   "title": "What Happened to Silicon Valley?",
-   "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-23",
-   "day": "Nov 23",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795375215
-  },
-  {
    "title": "Is Stuttgart a Good Place to Live?",
    "link": "https://www.youtube.com/watch?v=VlACZMlkWCo",
    "author": "Easy German",
@@ -1537,6 +1576,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795370403
+  },
+  {
+   "title": "Rotara",
+   "link": "https://www.producthunt.com/products/rotara",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-23",
+   "day": "Nov 23",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795366781
   },
   {
    "title": "我在过去五份工作中都学到了什么",
@@ -1552,7 +1604,7 @@
    "ts": 1795314540
   },
   {
-   "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+   "title": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
    "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
    "author": "3Blue1Brown",
    "source": "3Blue1Brown",
@@ -2176,7 +2228,7 @@
    "ts": 1794783635
   },
   {
-   "title": "Bregenz: Lake Life, Austrian Dialect & Local Food",
+   "title": "Learn German from the Streets of 🇦🇹 Bregenz",
    "link": "https://www.youtube.com/watch?v=MN5GQvHMA5Y",
    "author": "Easy German",
    "source": "Easy German",
@@ -2343,19 +2395,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794610965
-  },
-  {
-   "title": "datasette-leaflet 0.3",
-   "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-14",
-   "day": "Nov 14",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794609054
   },
   {
    "title": "Recursive self-improvement has started",
@@ -4295,19 +4334,6 @@
    "ts": 1791609256
   },
   {
-   "title": "Does Advocating U.S. Retrenchment Make You Pro-CCP?",
-   "link": "https://www.pekingnology.com/p/does-advocating-us-retrenchment-make",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-10-10",
-   "day": "Oct 10",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791599128
-  },
-  {
    "title": "我的 AI Native iOS 开发验证工作流",
    "link": "https://innei.in/posts/tech/ai-native-ios-e2e-verification",
    "author": "Innei",
@@ -5049,8 +5075,8 @@
    "ts": 1790251394
   },
   {
-   "title": "Register Token以及对变形金刚AI的四大批判",
-   "link": "https://blog.est.im/2026/stdin-19",
+   "title": "聪明 Agent 四套路 和 人肉学习",
+   "link": "https://blog.est.im/2026/stdin-18",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -5062,8 +5088,8 @@
    "ts": 1790166060
   },
   {
-   "title": "聪明 Agent 四套路 和 人肉学习",
-   "link": "https://blog.est.im/2026/stdin-18",
+   "title": "Register Token以及对变形金刚AI的四大批判",
+   "link": "https://blog.est.im/2026/stdin-19",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -5411,19 +5437,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789344000
-  },
-  {
-   "title": "一天原型，一周成品：开发 Lody iOS 实况",
-   "link": "https://innei.in/posts/tech/lody-ios-prototype-to-product",
-   "author": "Innei",
-   "source": "Innei",
-   "feed": "innei-in-feed",
-   "lang": "zh",
-   "date": "2026-09-13",
-   "day": "Sep 13",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789240305
   },
   {
    "title": "Andy 的 Plan B",
@@ -6334,19 +6347,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1786153980
-  },
-  {
-   "title": "8 Predictions for the Era of Continual Learning",
-   "link": "https://www.youtube.com/watch?v=iewm45atodE",
-   "author": "Dwarkesh Patel",
-   "source": "Dwarkesh Patel",
-   "feed": "youtube-dwarkesh-patel",
-   "lang": "en",
-   "date": "2026-08-08",
-   "day": "Aug 8",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1786123995
   },
   {
    "title": "关于渠道的思考",
