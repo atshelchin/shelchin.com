@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25 16:29",
+ "updated": "2026-11-26 05:40",
  "languages": [
   {
    "key": "zh",
@@ -681,8 +681,138 @@
  ],
  "items": [
   {
-   "title": "Homa IR Test",
-   "link": "https://www.producthunt.com/products/homa-ir-test",
+   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+   "link": "https://scottaaronson.blog/?p=10379",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795633887
+  },
+  {
+   "title": "German Small Talk for Beginners",
+   "link": "https://www.youtube.com/watch?v=Pb7N0IAGHvk",
+   "author": "Easy German",
+   "source": "Easy German",
+   "feed": "youtube-easy-german",
+   "lang": "de",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795629610
+  },
+  {
+   "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
+   "link": "https://www.youtube.com/watch?v=Jatwf_XOncE",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795627191
+  },
+  {
+   "title": "1Password Security Incident",
+   "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795627106
+  },
+  {
+   "title": "Why do decoupling capacitors make it worse?",
+   "link": "https://www.youtube.com/watch?v=Tyx6Hwu-OU0",
+   "author": "Ben Eater",
+   "source": "Ben Eater",
+   "feed": "youtube-ben-eater",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795622405
+  },
+  {
+   "title": "A Chinese Tech Reporter’s Shrug Over the Jensen Huang Saga",
+   "link": "https://www.pekingnology.com/p/a-chinese-tech-reporters-shrug-over",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795621466
+  },
+  {
+   "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+   "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795619672
+  },
+  {
+   "title": "Rumors swirling that labs might have cracked Factoring in P",
+   "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795619324
+  },
+  {
+   "title": "Scientists Said This Wave Was Impossible",
+   "link": "https://www.youtube.com/watch?v=WbM7GP7QoEM",
+   "author": "Veritasium",
+   "source": "Veritasium",
+   "feed": "youtube-veritasium",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795615252
+  },
+  {
+   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+   "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795613587
+  },
+  {
+   "title": "OpenEight",
+   "link": "https://www.producthunt.com/products/openeight",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -691,7 +821,7 @@
    "day": "Nov 25",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795591832
+   "ts": 1795589939
   },
   {
    "title": "说点什么",
@@ -731,6 +861,71 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795581507
+  },
+  {
+   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+   "link": "https://gpu-demo-gallery.pages.dev/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795581108
+  },
+  {
+   "title": "Hiring Right Now",
+   "link": "https://www.producthunt.com/products/hiring-right-now",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795578899
+  },
+  {
+   "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+   "link": "https://buttons.joshwcomeau.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795576987
+  },
+  {
+   "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+   "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795575877
+  },
+  {
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795574061
   },
   {
    "title": "Omi X 2.0",
@@ -785,7 +980,7 @@
    "ts": 1795569803
   },
   {
-   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+   "title": "The matrix multiplication exponent is nine fourths [pdf]",
    "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
    "author": "Hacker News",
    "source": "Hacker News 300+",
@@ -809,6 +1004,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795569455
+  },
+  {
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795568089
   },
   {
    "title": "Notely",
@@ -874,6 +1082,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795556591
+  },
+  {
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795554142
   },
   {
    "title": "MemoryWorks",
@@ -952,6 +1173,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795539239
+  },
+  {
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "link": "https://news.ycombinator.com/item?id=50630809",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795538744
   },
   {
    "title": "Jetty Pro",
@@ -1110,45 +1344,6 @@
    "ts": 1795512645
   },
   {
-   "title": "Quad9 pulled their DNS service from France",
-   "link": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795509194
-  },
-  {
-   "title": "Willow iOS 2.0",
-   "link": "https://www.producthunt.com/products/willow-voice",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795502295
-  },
-  {
-   "title": "2035 came early",
-   "link": "https://fzakaria.com/2026/11/23/2035-came-early",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795501833
-  },
-  {
    "title": "Hourly Journal",
    "link": "https://www.producthunt.com/products/hourly-journal",
    "author": "Product Hunt",
@@ -1160,6 +1355,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795496081
+  },
+  {
+   "title": "Finer Screenshot",
+   "link": "https://www.producthunt.com/products/finer-screenshot",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-24",
+   "day": "Nov 24",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795495520
   },
   {
    "title": "datasette-charts 0.2a0",
@@ -1214,32 +1422,6 @@
    "ts": 1795489074
   },
   {
-   "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-   "link": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795487222
-  },
-  {
-   "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
-   "link": "https://github.com/ItsNotRexed/Leonida/issues",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795486089
-  },
-  {
    "title": "Snag by Parallel",
    "link": "https://www.producthunt.com/products/snag",
    "author": "Product Hunt",
@@ -1266,45 +1448,6 @@
    "ts": 1795477249
   },
   {
-   "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
-   "link": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795475498
-  },
-  {
-   "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-   "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795473149
-  },
-  {
-   "title": "VP ≠ VNP over Every Field",
-   "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795471750
-  },
-  {
    "title": "Ladybird's first alpha release",
    "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
    "author": "Simon Willison",
@@ -1318,30 +1461,30 @@
    "ts": 1795470395
   },
   {
-   "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-   "link": "https://www.bored.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "tday.com",
+   "link": "https://www.producthunt.com/products/tday",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-24",
    "day": "Nov 24",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795467676
+   "ts": 1795468947
   },
   {
-   "title": "GPUI is getting its own repository",
-   "link": "https://github.com/zed-industries/gpui",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Claude Ship",
+   "link": "https://www.producthunt.com/products/claude-code",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-24",
    "day": "Nov 24",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795467174
+   "ts": 1795467636
   },
   {
    "title": "TruAstra",
@@ -1357,19 +1500,6 @@
    "ts": 1795462893
   },
   {
-   "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-   "link": "https://arm.jonpalmisc.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795461475
-  },
-  {
    "title": "Opus just lost to the last company you'd expect...",
    "link": "https://www.youtube.com/watch?v=jP9yjEDlc4k",
    "author": "Fireship",
@@ -1381,19 +1511,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795461270
-  },
-  {
-   "title": "Wellbreak",
-   "link": "https://www.producthunt.com/products/wellbreak",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795460980
   },
   {
    "title": "3way.Social MCP",
@@ -1409,45 +1526,6 @@
    "ts": 1795460264
   },
   {
-   "title": "Even G2 Enterprise SDK",
-   "link": "https://www.producthunt.com/products/even-g2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795460241
-  },
-  {
-   "title": "Apple removed my open-source app from EU App Stores after 9 years",
-   "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795459690
-  },
-  {
-   "title": "Kagi Mail (public beta)",
-   "link": "https://blog.kagi.com/kagi-mail-public-beta",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795454221
-  },
-  {
    "title": "Umami Manager",
    "link": "https://www.producthunt.com/products/umami-manager",
    "author": "Product Hunt",
@@ -1459,19 +1537,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795452911
-  },
-  {
-   "title": "Finseo",
-   "link": "https://www.producthunt.com/products/finseo-ai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-24",
-   "day": "Nov 24",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795452445
   },
   {
    "title": "两次售后，几番折腾",
@@ -4126,19 +4191,6 @@
    "ts": 1792105203
   },
   {
-   "title": "The runtime wars are over... and Node won",
-   "link": "https://www.youtube.com/watch?v=l3L_lETiSzc",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-10-16",
-   "day": "Oct 16",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792085715
-  },
-  {
    "title": "AI Can’t Copy This: Why Every Creator Needs an Origin Story in 2026 | 150",
    "link": "https://nathanbarry.com/ai-cant-copy-this-why-every-creator-needs-an-origin-story-in-2026-150/",
    "author": "Nathan Barry",
@@ -4228,19 +4280,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791825105
-  },
-  {
-   "title": "The Lives of Others",
-   "link": "https://www.pekingnology.com/p/the-lives-of-others",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-10-12",
-   "day": "Oct 12",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791817227
   },
   {
    "title": "HTML里的“宏”",
@@ -4943,19 +4982,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1790550027
-  },
-  {
-   "title": "Learn German in Linz: Austrian Dialect & Local Life",
-   "link": "https://www.youtube.com/watch?v=X2NPTSVuGiM",
-   "author": "Easy German",
-   "source": "Easy German",
-   "feed": "youtube-easy-german",
-   "lang": "de",
-   "date": "2026-09-28",
-   "day": "Sep 28",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1790528420
   },
   {
    "title": "The cryptographic world computer",
@@ -8414,19 +8440,6 @@
    "ym": "2026-05",
    "ym_label": "May 2026",
    "ts": 1777875420
-  },
-  {
-   "title": "The CIA's new tech doesn't make sense",
-   "link": "https://www.youtube.com/watch?v=SVTPv4sI_Jc",
-   "author": "Veritasium",
-   "source": "Veritasium",
-   "feed": "youtube-veritasium",
-   "lang": "en",
-   "date": "2026-05-04",
-   "day": "May 4",
-   "ym": "2026-05",
-   "ym_label": "May 2026",
-   "ts": 1777836416
   },
   {
    "title": "大多数公司根本没有为 AI 做好准备",
@@ -13445,19 +13458,6 @@
    "ym": "2024-02",
    "ym_label": "February 2024",
    "ts": 1708041600
-  },
-  {
-   "title": "Running MSBASIC on my breadboard 6502 computer",
-   "link": "https://www.youtube.com/watch?v=XlbPnihCM0E",
-   "author": "Ben Eater",
-   "source": "Ben Eater",
-   "feed": "youtube-ben-eater",
-   "lang": "en",
-   "date": "2024-02-11",
-   "day": "Feb 11",
-   "ym": "2024-02",
-   "ym_label": "February 2024",
-   "ts": 1707580819
   },
   {
    "title": "Thinking about High-Quality Human Data",
