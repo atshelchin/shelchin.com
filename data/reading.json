@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27 16:26",
+ "updated": "2026-11-28 05:15",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": false
+   "ok": true
   },
   {
    "id": "www-producthunt-com-feed",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-veritasium",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-fireship",
@@ -681,6 +681,97 @@
  ],
  "items": [
   {
+   "title": "An honest conversation about what's happening in AI",
+   "link": "https://www.youtube.com/watch?v=TbKkN1cesTo",
+   "author": "Dwarkesh Patel",
+   "source": "Dwarkesh Patel",
+   "feed": "youtube-dwarkesh-patel",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795804403
+  },
+  {
+   "title": "The wild world of tech in 2027...",
+   "link": "https://www.youtube.com/watch?v=sPGzM3ktJVE",
+   "author": "Fireship",
+   "source": "Fireship",
+   "feed": "youtube-fireship",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795795705
+  },
+  {
+   "title": "Ladybird Browser Launch Options",
+   "link": "https://blog.est.im/2026/stdout-43",
+   "author": "Est",
+   "source": "Est's Blog",
+   "feed": "feeds-feedburner-com-initiative",
+   "lang": "zh",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795770000
+  },
+  {
+   "title": "Ladybird Browser Keyboard Shortcuts",
+   "link": "https://blog.est.im/2026/stdout-42",
+   "author": "Est",
+   "source": "Est's Blog",
+   "feed": "feeds-feedburner-com-initiative",
+   "lang": "zh",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795769460
+  },
+  {
+   "title": "Claude sabotaging ML research tasks?",
+   "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795768088
+  },
+  {
+   "title": "Group chat where your AI talks behind your back",
+   "link": "https://construct22.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795761874
+  },
+  {
+   "title": "Buy Nothing Day – Friday November 27th 2026",
+   "link": "https://www.buynothingday.co.uk/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795758762
+  },
+  {
    "title": "Woomool",
    "link": "https://www.producthunt.com/products/woomool",
    "author": "Product Hunt",
@@ -692,6 +783,32 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795756186
+  },
+  {
+   "title": "Depost AI",
+   "link": "https://www.producthunt.com/products/depost-ai",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795749475
+  },
+  {
+   "title": "Hard Drive pricing has gotten bad",
+   "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795742029
   },
   {
    "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
@@ -720,6 +837,32 @@
    "ts": 1795735049
   },
   {
+   "title": "AI made self-hosting fun again",
+   "link": "https://janlukas.blog/posts/ai-self-hosting",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795729665
+  },
+  {
+   "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+   "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795727285
+  },
+  {
    "title": "Ploid",
    "link": "https://www.producthunt.com/products/ploid",
    "author": "Product Hunt",
@@ -731,6 +874,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795727186
+  },
+  {
+   "title": "Company Culture = Slack Emoji ÷ √Headcount",
+   "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795726189
   },
   {
    "title": "Form Action Store",
@@ -757,6 +913,58 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795720714
+  },
+  {
+   "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+   "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795715265
+  },
+  {
+   "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+   "link": "https://github.com/antonpictures/youtube-punisher",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795714607
+  },
+  {
+   "title": "Tracking Diseases Cured by AI",
+   "link": "https://diseasescuredbyai.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795713401
+  },
+  {
+   "title": "AMD-specific fork of llama.cpp",
+   "link": "https://devnull.land/amd-specific-llama-cpp",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795713089
   },
   {
    "title": "How to ACTUALLY Launch a Book in 2027 (No Audience Needed) | 156",
@@ -837,6 +1045,19 @@
    "ts": 1795687861
   },
   {
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795686263
+  },
+  {
    "title": "2026 年度购物总结",
    "link": "https://blog.douchi.space/shopping-2026/?utm_source=rss",
    "author": "Jiaoyan Douchi",
@@ -876,6 +1097,19 @@
    "ts": 1795679898
   },
   {
+   "title": "OpenAI may be in cost control mode",
+   "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795678392
+  },
+  {
    "title": "slay",
    "link": "https://www.producthunt.com/products/slay-3",
    "author": "Product Hunt",
@@ -887,6 +1121,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795677838
+  },
+  {
+   "title": "Moat: OpenRouter replacement",
+   "link": "https://commandcode.ai/moat",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795674768
   },
   {
    "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
@@ -980,6 +1227,19 @@
    "ts": 1795662908
   },
   {
+   "title": "Minipg: PostgreSQL as a Single Executable",
+   "link": "https://progrium.github.io/minipg/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795662048
+  },
+  {
    "title": "是时候升级了：从「Coding as Hobby」到「欧雷智造」",
    "link": "https://ourai.ws/posts/rebranding-my-professional-stuff/",
    "author": "Ou Lei",
@@ -1017,19 +1277,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795653814
-  },
-  {
-   "title": "Collection of preserved UI style guides",
-   "link": "https://aresluna.org/ui-style-guides/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795653600
   },
   {
    "title": "A shallow dive into open-source chip design",
@@ -1084,19 +1331,6 @@
    "ts": 1795649192
   },
   {
-   "title": "Jev is probably Qwen3.5-35B-A3B",
-   "link": "https://modaic.dev/blog/latency-doesnt-lie",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795647424
-  },
-  {
    "title": "Upsolve Harness 2.0",
    "link": "https://www.producthunt.com/products/upsolve-ai",
    "author": "Product Hunt",
@@ -1110,19 +1344,6 @@
    "ts": 1795644212
   },
   {
-   "title": "Much shorter version of GRH Lean verification from Anthropic",
-   "link": "https://github.com/lsernau/grh-lean",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795643290
-  },
-  {
    "title": "WhipDesk",
    "link": "https://www.producthunt.com/products/whipdesk",
    "author": "Product Hunt",
@@ -1134,45 +1355,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795643056
-  },
-  {
-   "title": "MeetFolks",
-   "link": "https://www.producthunt.com/products/meetfolks",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795642427
-  },
-  {
-   "title": "The New York Times warns photographers not to update Photoshop over AI features",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795641482
-  },
-  {
-   "title": "Slow Ubuntu security response times",
-   "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795639080
   },
   {
    "title": "多轮对话的只追加上下文拼装：DeepSeek 96.2% KV Cache 命中与分层记忆设计",
@@ -1199,19 +1381,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795636182
-  },
-  {
-   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-   "link": "https://scottaaronson.blog/?p=10379",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795633887
   },
   {
    "title": "Remora",
@@ -1277,19 +1446,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795627191
-  },
-  {
-   "title": "1Password Security Incident",
-   "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795627106
   },
   {
    "title": "DeskFleet",
@@ -1383,32 +1539,6 @@
    "ts": 1795619716
   },
   {
-   "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-   "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795619672
-  },
-  {
-   "title": "Rumors swirling that labs might have cracked Factoring in P",
-   "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795619324
-  },
-  {
    "title": "Scientists Said This Wave Was Impossible",
    "link": "https://www.youtube.com/watch?v=WbM7GP7QoEM",
    "author": "Veritasium",
@@ -1420,32 +1550,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795615252
-  },
-  {
-   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-   "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795613587
-  },
-  {
-   "title": "Monton",
-   "link": "https://www.producthunt.com/products/monton",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795613535
   },
   {
    "title": "Hello Transcribe 5",
@@ -1487,19 +1591,6 @@
    "ts": 1795608437
   },
   {
-   "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-   "link": "https://github.com/xoxorwr/pw-loudness-eq",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795606465
-  },
-  {
    "title": "微信公号的加热 有没有用",
    "link": "http://weiwuhui.com/11140.html",
    "author": "Wei Wuhui",
@@ -1513,17 +1604,17 @@
    "ts": 1795604404
   },
   {
-   "title": "Smart people who give a shit use tools",
-   "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
+   "title": "Postmaster of Puppets",
+   "link": "https://www.producthunt.com/products/postmaster-of-puppets",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
    "lang": "en",
    "date": "2026-11-25",
    "day": "Nov 25",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795592803
+   "ts": 1795604092
   },
   {
    "title": "说点什么",
@@ -1537,45 +1628,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795588200
-  },
-  {
-   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-   "link": "https://gpu-demo-gallery.pages.dev/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795581108
-  },
-  {
-   "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-   "link": "https://buttons.joshwcomeau.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795576987
-  },
-  {
-   "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-   "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795575877
   },
   {
    "title": "Three LLM inflection points in twelve months",
@@ -3996,19 +4048,6 @@
    "ts": 1792600233
   },
   {
-   "title": "Did Google just dethrone OpenAI and Anthropic?",
-   "link": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
-   "author": "Fireship",
-   "source": "Fireship",
-   "feed": "youtube-fireship",
-   "lang": "en",
-   "date": "2026-10-21",
-   "day": "Oct 21",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1792513263
-  },
-  {
    "title": "You Will Only Like Half of This Video",
    "link": "https://www.youtube.com/watch?v=PXbVn-f_wuM",
    "author": "Kurzgesagt – In a Nutshell",
@@ -5166,8 +5205,8 @@
    "ts": 1790251394
   },
   {
-   "title": "聪明 Agent 四套路 和 人肉学习",
-   "link": "https://blog.est.im/2026/stdin-18",
+   "title": "Register Token以及对变形金刚AI的四大批判",
+   "link": "https://blog.est.im/2026/stdin-19",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -5179,8 +5218,8 @@
    "ts": 1790166060
   },
   {
-   "title": "Register Token以及对变形金刚AI的四大批判",
-   "link": "https://blog.est.im/2026/stdin-19",
+   "title": "聪明 Agent 四套路 和 人肉学习",
+   "link": "https://blog.est.im/2026/stdin-18",
    "author": "Est",
    "source": "Est's Blog",
    "feed": "feeds-feedburner-com-initiative",
@@ -6310,19 +6349,6 @@
    "ts": 1786553753
   },
   {
-   "title": "Ryan Greenblatt – What happens once AI can automate AI research?",
-   "link": "https://www.youtube.com/watch?v=-RXD4bTuFTo",
-   "author": "Dwarkesh Patel",
-   "source": "Dwarkesh Patel",
-   "feed": "youtube-dwarkesh-patel",
-   "lang": "en",
-   "date": "2026-08-12",
-   "day": "Aug 12",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1786466737
-  },
-  {
    "title": "The Skills Conundrum",
    "link": "https://swiftjectivec.com/The-Skills-Conundrum/",
    "author": "Jordan Morgan",
@@ -6427,19 +6453,6 @@
    "ts": 1786091040
   },
   {
-   "title": "邮箱生态调研2026",
-   "link": "https://blog.est.im/2026/stdout-31",
-   "author": "Est",
-   "source": "Est's Blog",
-   "feed": "feeds-feedburner-com-initiative",
-   "lang": "zh",
-   "date": "2026-08-07",
-   "day": "Aug 7",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1786070100
-  },
-  {
    "title": "Self-hosting in 2026",
    "link": "http://freemind.pluskid.org/technology/self-hosting-in-2026",
    "author": "Chiyuan Zhang",
@@ -6503,19 +6516,6 @@
    "ym": "2026-08",
    "ym_label": "August 2026",
    "ts": 1785851993
-  },
-  {
-   "title": "“畜牲”",
-   "link": "https://blog.est.im/2026/stderr-27",
-   "author": "Est",
-   "source": "Est's Blog",
-   "feed": "feeds-feedburner-com-initiative",
-   "lang": "zh",
-   "date": "2026-08-03",
-   "day": "Aug 3",
-   "ym": "2026-08",
-   "ym_label": "August 2026",
-   "ts": 1785770640
   },
   {
    "title": "PySonar2 如何帮助 AI 节省 Token",
