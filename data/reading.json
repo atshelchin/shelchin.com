@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27 05:29",
+ "updated": "2026-11-27 16:26",
  "languages": [
   {
    "key": "zh",
@@ -511,7 +511,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 20,
-   "ok": true
+   "ok": false
   },
   {
    "id": "www-producthunt-com-feed",
@@ -681,6 +681,84 @@
  ],
  "items": [
   {
+   "title": "Woomool",
+   "link": "https://www.producthunt.com/products/woomool",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795756186
+  },
+  {
+   "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
+   "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html",
+   "author": "Ruan Yifeng",
+   "source": "Ruan Yifeng's Weblog",
+   "feed": "www-ruanyifeng-com-blog-atom-xml",
+   "lang": "zh",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795738230
+  },
+  {
+   "title": "RightFont 2026",
+   "link": "https://www.producthunt.com/products/rightfont",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795735049
+  },
+  {
+   "title": "Ploid",
+   "link": "https://www.producthunt.com/products/ploid",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795727186
+  },
+  {
+   "title": "Form Action Store",
+   "link": "https://www.producthunt.com/products/form-action-store",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795723691
+  },
+  {
+   "title": "Onset",
+   "link": "https://www.producthunt.com/products/onset",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795720714
+  },
+  {
    "title": "How to ACTUALLY Launch a Book in 2027 (No Audience Needed) | 156",
    "link": "https://nathanbarry.com/how-to-actually-launch-a-book-in-2027-no-audience-needed-156/",
    "author": "Nathan Barry",
@@ -772,6 +850,19 @@
    "ts": 1795683960
   },
   {
+   "title": "Contral",
+   "link": "https://www.producthunt.com/products/contral",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795683670
+  },
+  {
    "title": "Claude-Mem Cloud Sync",
    "link": "https://www.producthunt.com/products/claude-mem",
    "author": "Product Hunt",
@@ -785,8 +876,8 @@
    "ts": 1795679898
   },
   {
-   "title": "Fairwind",
-   "link": "https://www.producthunt.com/products/fairwind",
+   "title": "slay",
+   "link": "https://www.producthunt.com/products/slay-3",
    "author": "Product Hunt",
    "source": "Product Hunt",
    "feed": "www-producthunt-com-feed",
@@ -795,7 +886,7 @@
    "day": "Nov 26",
    "ym": "2026-11",
    "ym_label": "November 2026",
-   "ts": 1795677075
+   "ts": 1795677838
   },
   {
    "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
@@ -809,6 +900,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795673305
+  },
+  {
+   "title": "Periscope",
+   "link": "https://www.producthunt.com/products/periscope-4",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795669812
   },
   {
    "title": "Superframes",
@@ -887,6 +991,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795661168
+  },
+  {
+   "title": "Remove Silence",
+   "link": "https://www.producthunt.com/products/remove-silence",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795655243
   },
   {
    "title": "Tell HN: Lots of Ask HNs again",
@@ -1201,19 +1318,6 @@
    "ts": 1795626047
   },
   {
-   "title": "Antipode",
-   "link": "https://www.producthunt.com/products/antipode",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795625612
-  },
-  {
    "title": "Flurra",
    "link": "https://www.producthunt.com/products/flurra",
    "author": "Product Hunt",
@@ -1409,58 +1513,6 @@
    "ts": 1795604404
   },
   {
-   "title": "Postmaster of Puppets",
-   "link": "https://www.producthunt.com/products/postmaster-of-puppets",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795604092
-  },
-  {
-   "title": "FocusHaze",
-   "link": "https://www.producthunt.com/products/focushaze",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795603937
-  },
-  {
-   "title": "MusicProductionAI",
-   "link": "https://www.producthunt.com/products/musicproductionai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795595107
-  },
-  {
-   "title": "Nookdeck",
-   "link": "https://www.producthunt.com/products/nookdeck",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795594637
-  },
-  {
    "title": "Smart people who give a shit use tools",
    "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
    "author": "Hacker News",
@@ -1474,32 +1526,6 @@
    "ts": 1795592803
   },
   {
-   "title": "Kagi Mail",
-   "link": "https://www.producthunt.com/products/kagi",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795591478
-  },
-  {
-   "title": "Mime",
-   "link": "https://www.producthunt.com/products/mime",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795591326
-  },
-  {
    "title": "说点什么",
    "link": "https://blog.est.im/2026/stdin-22",
    "author": "Est",
@@ -1511,19 +1537,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795588200
-  },
-  {
-   "title": "MAGI-2",
-   "link": "https://www.producthunt.com/products/magi-1",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795584939
   },
   {
    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
@@ -2993,19 +3006,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1793964632
-  },
-  {
-   "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
-   "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
-   "author": "Ruan Yifeng",
-   "source": "Ruan Yifeng's Weblog",
-   "feed": "www-ruanyifeng-com-blog-atom-xml",
-   "lang": "zh",
-   "date": "2026-11-06",
-   "day": "Nov 6",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1793922235
   },
   {
    "title": "Which AI is the best liar?",
