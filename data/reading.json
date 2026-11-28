@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28 15:45",
+ "updated": "2026-11-29 03:59",
  "languages": [
   {
    "key": "zh",
@@ -533,7 +533,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-veritasium",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ben-eater",
@@ -555,7 +555,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-3blue1brown",
@@ -566,7 +566,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-fireship",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": false
+   "ok": true
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,101 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": false
+   "ok": true
   }
  ],
  "items": [
+  {
+   "title": "Code-driven AI illustrations are more useful than images from dedicated image models",
+   "link": "https://simonwillison.net/2026/Nov/28/code-driven-ai-illustrations/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-29",
+   "day": "Nov 29",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795887940
+  },
+  {
+   "title": "Building the hours for my digital clock",
+   "link": "https://www.youtube.com/watch?v=F2gim4tZcs4",
+   "author": "Ben Eater",
+   "source": "Ben Eater",
+   "feed": "youtube-ben-eater",
+   "lang": "en",
+   "date": "2026-11-29",
+   "day": "Nov 29",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795881638
+  },
+  {
+   "title": "Silently degrading the model's capabilities IS sabotage",
+   "link": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795881354
+  },
+  {
+   "title": "我的 AI 外包实战：用数字员工做项目的一人公司",
+   "link": "https://ourai.ws/posts/summary-of-ai-native-software-outsourcing-project-experience/",
+   "author": "Ou Lei",
+   "source": "Ou Lei",
+   "feed": "ourai-ws-atom-xml",
+   "lang": "zh",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795868378
+  },
+  {
+   "title": "Audible removes download option for purchased audiobooks",
+   "link": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795866687
+  },
+  {
+   "title": "Farewell",
+   "link": "https://github.com/p-e-w/heretic/issues/601",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795866146
+  },
+  {
+   "title": "Claude Code sabotage: preliminary benchmarking",
+   "link": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795862260
+  },
   {
    "title": "冰岛游记——说走就走一瀑再布的抹茶味冰与火之歌",
    "link": "https://blog.douchi.space/iceland/?utm_source=rss",
@@ -705,6 +796,45 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795842848
+  },
+  {
+   "title": "Knuth: Moratorium on Error Reports",
+   "link": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795837761
+  },
+  {
+   "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+   "link": "https://unkernel.dev",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795835960
+  },
+  {
+   "title": "Contra Scott on SURA",
+   "link": "https://vitalik.ca/general/2026/11/28/contra_scott_on_sura.html",
+   "author": "Vitalik Buterin",
+   "source": "Vitalik Buterin",
+   "feed": "vitalik-eth-limo-feed-xml",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795824000
   },
   {
    "title": "datasette-charts 0.4a0",
@@ -746,6 +876,45 @@
    "ts": 1795820576
   },
   {
+   "title": "OpenCrawl",
+   "link": "https://www.producthunt.com/products/opencrawl",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795819088
+  },
+  {
+   "title": "Stacktrace",
+   "link": "https://www.producthunt.com/products/stacktrace",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795819085
+  },
+  {
+   "title": "RankTheSearch",
+   "link": "https://www.producthunt.com/products/rankthesearch",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795816433
+  },
+  {
    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
    "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
    "author": "Hacker News",
@@ -785,6 +954,32 @@
    "ts": 1795804403
   },
   {
+   "title": "Convex skills send the user's app idea to a remote server without telling them",
+   "link": "https://github.com/convex/convex-backend-skill/issues/64",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795802565
+  },
+  {
+   "title": "Wender Desktop",
+   "link": "https://www.producthunt.com/products/wender",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795799703
+  },
+  {
    "title": "The wild world of tech in 2027...",
    "link": "https://www.youtube.com/watch?v=sPGzM3ktJVE",
    "author": "Fireship",
@@ -822,6 +1017,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795791710
+  },
+  {
+   "title": "NOVA",
+   "link": "https://www.producthunt.com/products/nova-26",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795784675
   },
   {
    "title": "US Air Force's cloud computing platform hacked",
@@ -1032,19 +1240,6 @@
    "ts": 1795727186
   },
   {
-   "title": "Company Culture = Slack Emoji ÷ √Headcount",
-   "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-27",
-   "day": "Nov 27",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795726189
-  },
-  {
    "title": "Form Action Store",
    "link": "https://www.producthunt.com/products/form-action-store",
    "author": "Product Hunt",
@@ -1071,58 +1266,6 @@
    "ts": 1795720714
   },
   {
-   "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-   "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-27",
-   "day": "Nov 27",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795715265
-  },
-  {
-   "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-   "link": "https://github.com/antonpictures/youtube-punisher",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-27",
-   "day": "Nov 27",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795714607
-  },
-  {
-   "title": "Tracking Diseases Cured by AI",
-   "link": "https://diseasescuredbyai.com/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-27",
-   "day": "Nov 27",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795713401
-  },
-  {
-   "title": "AMD-specific fork of llama.cpp",
-   "link": "https://devnull.land/amd-specific-llama-cpp",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-27",
-   "day": "Nov 27",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795713089
-  },
-  {
    "title": "How to ACTUALLY Launch a Book in 2027 (No Audience Needed) | 156",
    "link": "https://nathanbarry.com/how-to-actually-launch-a-book-in-2027-no-audience-needed-156/",
    "author": "Nathan Barry",
@@ -1147,32 +1290,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795705771
-  },
-  {
-   "title": "Show HN: I wrote an entire Vim manual over 4 years",
-   "link": "http://themouseless.dev/vim/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795704262
-  },
-  {
-   "title": "Tell HN: Happy Thanksgiving",
-   "link": "https://news.ycombinator.com/item?id=50655664",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795703214
   },
   {
    "title": "The AI Bubble Is Deflating. How Low Can Bitcoin Go?",
@@ -1266,19 +1383,6 @@
    "ts": 1795669812
   },
   {
-   "title": "Superframes",
-   "link": "https://www.producthunt.com/products/superframes-ai-video-editor",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795669749
-  },
-  {
    "title": "The New York Times warns photographers not to update Photoshop over AI features",
    "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
    "author": "Simon Willison",
@@ -1290,19 +1394,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795669726
-  },
-  {
-   "title": "Pax by Pydantic",
-   "link": "https://www.producthunt.com/products/pydantic",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795665890
   },
   {
    "title": "是时候升级了：从「Coding as Hobby」到「欧雷智造」",
@@ -1344,32 +1435,6 @@
    "ts": 1795651200
   },
   {
-   "title": "SuperLoupe",
-   "link": "https://www.producthunt.com/products/superloupe",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795650890
-  },
-  {
-   "title": "Doodle",
-   "link": "https://www.producthunt.com/products/doodle-5",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795650763
-  },
-  {
    "title": "Quoting Scott Aaronson",
    "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
    "author": "Simon Willison",
@@ -1381,19 +1446,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795649192
-  },
-  {
-   "title": "Upsolve Harness 2.0",
-   "link": "https://www.producthunt.com/products/upsolve-ai",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795644212
   },
   {
    "title": "WhipDesk",
@@ -1409,19 +1461,6 @@
    "ts": 1795643056
   },
   {
-   "title": "MeetFolks",
-   "link": "https://www.producthunt.com/products/meetfolks",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795642427
-  },
-  {
    "title": "多轮对话的只追加上下文拼装：DeepSeek 96.2% KV Cache 命中与分层记忆设计",
    "link": "https://innei.in/posts/tech/append-only-context-kv-cache-memory-design",
    "author": "Innei",
@@ -1435,32 +1474,6 @@
    "ts": 1795638818
   },
   {
-   "title": "Ground",
-   "link": "https://www.producthunt.com/products/ground-2",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795636182
-  },
-  {
-   "title": "Remora",
-   "link": "https://www.producthunt.com/products/remora-6",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795631330
-  },
-  {
    "title": "datasette-charts 0.3a0",
    "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
    "author": "Simon Willison",
@@ -1472,6 +1485,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795630610
+  },
+  {
+   "title": "Bento",
+   "link": "https://www.producthunt.com/products/bento-11",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795630267
   },
   {
    "title": "How to Make Small Talk in German",
@@ -1591,19 +1617,6 @@
    "ts": 1795621466
   },
   {
-   "title": "Ottante",
-   "link": "https://www.producthunt.com/products/ottante",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-25",
-   "day": "Nov 25",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795619716
-  },
-  {
    "title": "Scientists Said This Wave Was Impossible",
    "link": "https://www.youtube.com/watch?v=WbM7GP7QoEM",
    "author": "Veritasium",
@@ -1680,6 +1693,45 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795604092
+  },
+  {
+   "title": "Superrelay",
+   "link": "https://www.producthunt.com/products/superrelay",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795599377
+  },
+  {
+   "title": "Espresso 27",
+   "link": "https://www.producthunt.com/products/espresso-27",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795597684
+  },
+  {
+   "title": "Wizstar R1",
+   "link": "https://www.producthunt.com/products/wizstar",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-25",
+   "day": "Nov 25",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795593365
   },
   {
    "title": "说点什么",
@@ -2486,19 +2538,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794907157
-  },
-  {
-   "title": "Quoting Go Proverbs",
-   "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794896186
   },
   {
    "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
@@ -6908,7 +6947,7 @@
    "ts": 1784203184
   },
   {
-   "title": "What is cross-entropy, and why is it used in ML? | Compression & Intelligence, part 2",
+   "title": "Cross-entropy: Compression ratios as loss functions | Compression & Intelligence, part 2",
    "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
    "author": "3Blue1Brown",
    "source": "3Blue1Brown",
@@ -9636,19 +9675,6 @@
    "ym": "2026-02",
    "ym_label": "February 2026",
    "ts": 1770595200
-  },
-  {
-   "title": "Sophye 来袭！知识驱动让 AI 成为有温度的伙伴",
-   "link": "https://ourai.ws/posts/sophye-brings-ai-to-life/",
-   "author": "Ou Lei",
-   "source": "Ou Lei",
-   "feed": "ourai-ws-atom-xml",
-   "lang": "zh",
-   "date": "2026-02-08",
-   "day": "Feb 8",
-   "ym": "2026-02",
-   "ym_label": "February 2026",
-   "ts": 1770552497
   },
   {
    "title": "葱油鸡腿制作",
@@ -12927,19 +12953,6 @@
    "ts": 1738148649
   },
   {
-   "title": "Scaling Ethereum L1 and L2s in 2025 and beyond",
-   "link": "https://vitalik.ca/general/2025/01/23/l1l2future.html",
-   "author": "Vitalik Buterin",
-   "source": "Vitalik Buterin",
-   "feed": "vitalik-eth-limo-feed-xml",
-   "lang": "en",
-   "date": "2025-01-23",
-   "day": "Jan 23",
-   "ym": "2025-01",
-   "ym_label": "January 2025",
-   "ts": 1737590400
-  },
-  {
    "title": "How to make big decisions",
    "link": "https://justinjackson.ca/big-decisions",
    "author": "Justin Jackson",
@@ -13419,19 +13432,6 @@
    "ym": "2024-03",
    "ym_label": "March 2024",
    "ts": 1710806400
-  },
-  {
-   "title": "How input buffering works",
-   "link": "https://www.youtube.com/watch?v=mpIFag8zSWo",
-   "author": "Ben Eater",
-   "source": "Ben Eater",
-   "feed": "youtube-ben-eater",
-   "lang": "en",
-   "date": "2024-03-10",
-   "day": "Mar 10",
-   "ym": "2024-03",
-   "ym_label": "March 2024",
-   "ts": 1710002981
   },
   {
    "title": "$500K milestone – my reflections after 1 year of building Typing Mind",
