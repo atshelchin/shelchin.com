@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28 05:15",
+ "updated": "2026-11-28 15:45",
  "languages": [
   {
    "key": "zh",
@@ -544,7 +544,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ben-eater",
@@ -577,7 +577,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-asianometry",
@@ -588,7 +588,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-dwarkesh-patel",
@@ -599,7 +599,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-ai-explained",
@@ -610,7 +610,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-sebastian-lague",
@@ -621,7 +621,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-core-dumped",
@@ -632,7 +632,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-johnny-harris",
@@ -643,7 +643,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-kurzgesagt",
@@ -654,7 +654,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-bankless",
@@ -665,7 +665,7 @@
    "lang": "en",
    "lang_name": "English",
    "count": 15,
-   "ok": true
+   "ok": false
   },
   {
    "id": "youtube-easy-german",
@@ -676,10 +676,101 @@
    "lang": "de",
    "lang_name": "German",
    "count": 15,
-   "ok": true
+   "ok": false
   }
  ],
  "items": [
+  {
+   "title": "冰岛游记——说走就走一瀑再布的抹茶味冰与火之歌",
+   "link": "https://blog.douchi.space/iceland/?utm_source=rss",
+   "author": "Jiaoyan Douchi",
+   "source": "Jiaoyan Douchi",
+   "feed": "blog-douchi-space-index-xml",
+   "lang": "zh",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795846800
+  },
+  {
+   "title": "如果年假是7天丨一周语文（2648）",
+   "link": "https://www.huangjiwei.com/blog/?p=12786",
+   "author": "Huang Jiwei",
+   "source": "Huang Jiwei",
+   "feed": "www-huangjiwei-com-blog",
+   "lang": "zh",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795842848
+  },
+  {
+   "title": "datasette-charts 0.4a0",
+   "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795823837
+  },
+  {
+   "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+   "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795820789
+  },
+  {
+   "title": "The sins of the parents",
+   "link": "https://www.pekingnology.com/p/the-sins-of-the-parents",
+   "author": "Zichen Wang",
+   "source": "Zichen Wang · Pekingnology",
+   "feed": "www-pekingnology-com-feed",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795820576
+  },
+  {
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795808545
+  },
+  {
+   "title": "Michael Nielsen took down his book on neural nets",
+   "link": "https://neuralnetworksanddeeplearning.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-28",
+   "day": "Nov 28",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795807861
+  },
   {
    "title": "An honest conversation about what's happening in AI",
    "link": "https://www.youtube.com/watch?v=TbKkN1cesTo",
@@ -705,6 +796,45 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795795705
+  },
+  {
+   "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+   "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795794031
+  },
+  {
+   "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+   "link": "https://bouncemarket.minhanhday.com/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795791710
+  },
+  {
+   "title": "US Air Force's cloud computing platform hacked",
+   "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795784051
   },
   {
    "title": "Ladybird Browser Launch Options",
@@ -772,6 +902,19 @@
    "ts": 1795758762
   },
   {
+   "title": "The need for a formally verifiable mainstream programming language",
+   "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795756926
+  },
+  {
    "title": "Woomool",
    "link": "https://www.producthunt.com/products/woomool",
    "author": "Product Hunt",
@@ -809,6 +952,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795742029
+  },
+  {
+   "title": "datasette-mcp 0.4",
+   "link": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+   "author": "Simon Willison",
+   "source": "Simon Willison’s Weblog",
+   "feed": "simonwillison-net-atom-everything",
+   "lang": "en",
+   "date": "2026-11-27",
+   "day": "Nov 27",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795739177
   },
   {
    "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
@@ -993,6 +1149,19 @@
    "ts": 1795705771
   },
   {
+   "title": "Show HN: I wrote an entire Vim manual over 4 years",
+   "link": "http://themouseless.dev/vim/",
+   "author": "Hacker News",
+   "source": "Hacker News 300+",
+   "feed": "hnrss-org-newest",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795704262
+  },
+  {
    "title": "Tell HN: Happy Thanksgiving",
    "link": "https://news.ycombinator.com/item?id=50655664",
    "author": "Hacker News",
@@ -1006,19 +1175,6 @@
    "ts": 1795703214
   },
   {
-   "title": "Nextcloud Office Desktop app",
-   "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795693849
-  },
-  {
    "title": "The AI Bubble Is Deflating. How Low Can Bitcoin Go?",
    "link": "https://www.youtube.com/watch?v=ecpjncdGZIw",
    "author": "Bankless",
@@ -1030,32 +1186,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795692634
-  },
-  {
-   "title": "Intel One Mono font (2023)",
-   "link": "https://github.com/intel/intel-one-mono",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795687861
-  },
-  {
-   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-   "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795686263
   },
   {
    "title": "2026 年度购物总结",
@@ -1097,19 +1227,6 @@
    "ts": 1795679898
   },
   {
-   "title": "OpenAI may be in cost control mode",
-   "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795678392
-  },
-  {
    "title": "slay",
    "link": "https://www.producthunt.com/products/slay-3",
    "author": "Product Hunt",
@@ -1121,19 +1238,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795677838
-  },
-  {
-   "title": "Moat: OpenRouter replacement",
-   "link": "https://commandcode.ai/moat",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795674768
   },
   {
    "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
@@ -1201,45 +1305,6 @@
    "ts": 1795665890
   },
   {
-   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-   "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795664218
-  },
-  {
-   "title": "AgentDE",
-   "link": "https://www.producthunt.com/products/agentde",
-   "author": "Product Hunt",
-   "source": "Product Hunt",
-   "feed": "www-producthunt-com-feed",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795662908
-  },
-  {
-   "title": "Minipg: PostgreSQL as a Single Executable",
-   "link": "https://progrium.github.io/minipg/",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795662048
-  },
-  {
    "title": "是时候升级了：从「Coding as Hobby」到「欧雷智造」",
    "link": "https://ourai.ws/posts/rebranding-my-professional-stuff/",
    "author": "Ou Lei",
@@ -1264,19 +1329,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795655243
-  },
-  {
-   "title": "Tell HN: Lots of Ask HNs again",
-   "link": "https://news.ycombinator.com/item?id=50649864",
-   "author": "Hacker News",
-   "source": "Hacker News 300+",
-   "feed": "hnrss-org-newest",
-   "lang": "en",
-   "date": "2026-11-26",
-   "day": "Nov 26",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1795653814
   },
   {
    "title": "A shallow dive into open-source chip design",
@@ -1355,6 +1407,19 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1795643056
+  },
+  {
+   "title": "MeetFolks",
+   "link": "https://www.producthunt.com/products/meetfolks",
+   "author": "Product Hunt",
+   "source": "Product Hunt",
+   "feed": "www-producthunt-com-feed",
+   "lang": "en",
+   "date": "2026-11-26",
+   "day": "Nov 26",
+   "ym": "2026-11",
+   "ym_label": "November 2026",
+   "ts": 1795642427
   },
   {
    "title": "多轮对话的只追加上下文拼装：DeepSeek 96.2% KV Cache 命中与分层记忆设计",
@@ -2436,19 +2501,6 @@
    "ts": 1794896186
   },
   {
-   "title": "llm 0.37.3",
-   "link": "https://simonwillison.net/2026/Nov/16/llm/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-17",
-   "day": "Nov 17",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794873446
-  },
-  {
    "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
    "link": "https://www.youtube.com/watch?v=ytmawkPTP24",
    "author": "Fireship",
@@ -2499,19 +2551,6 @@
    "ym": "2026-11",
    "ym_label": "November 2026",
    "ts": 1794794582
-  },
-  {
-   "title": "datasette-maplibre 0.1a0",
-   "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-   "author": "Simon Willison",
-   "source": "Simon Willison’s Weblog",
-   "feed": "simonwillison-net-atom-everything",
-   "lang": "en",
-   "date": "2026-11-16",
-   "day": "Nov 16",
-   "ym": "2026-11",
-   "ym_label": "November 2026",
-   "ts": 1794787116
   },
   {
    "title": "The Rise and Fall of the Soviet Union's Workhorse Computer",
@@ -4360,19 +4399,6 @@
    "ts": 1792015080
   },
   {
-   "title": "Gordon G. Liu on China's pharmaceutical ambitions",
-   "link": "https://www.pekingnology.com/p/gordon-g-liu-on-chinas-pharmaceutical",
-   "author": "Zichen Wang",
-   "source": "Zichen Wang · Pekingnology",
-   "feed": "www-pekingnology-com-feed",
-   "lang": "en",
-   "date": "2026-10-13",
-   "day": "Oct 13",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791904776
-  },
-  {
    "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
    "link": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
    "author": "AI Explained",
@@ -4826,19 +4852,6 @@
    "ym": "2026-10",
    "ym_label": "October 2026",
    "ts": 1791039621
-  },
-  {
-   "title": "关我辟事 Vol.57：化身冰岛的羊",
-   "link": "https://blog.douchi.space/spark-joy-digest-2026-9/?utm_source=rss",
-   "author": "Jiaoyan Douchi",
-   "source": "Jiaoyan Douchi",
-   "feed": "blog-douchi-space-index-xml",
-   "lang": "zh",
-   "date": "2026-10-03",
-   "day": "Oct 3",
-   "ym": "2026-10",
-   "ym_label": "October 2026",
-   "ts": 1791012600
   },
   {
    "title": "世界最大的秘密丨一周语文（2640）",
@@ -5385,19 +5398,6 @@
    "ym": "2026-09",
    "ym_label": "September 2026",
    "ts": 1789862400
-  },
-  {
-   "title": "正在狠揍我一顿丨一周语文（2638）",
-   "link": "https://www.huangjiwei.com/blog/?p=12738",
-   "author": "Huang Jiwei",
-   "source": "Huang Jiwei",
-   "feed": "www-huangjiwei-com-blog",
-   "lang": "zh",
-   "date": "2026-09-19",
-   "day": "Sep 19",
-   "ym": "2026-09",
-   "ym_label": "September 2026",
-   "ts": 1789794860
   },
   {
    "title": "我用 GPT 6 Astra 做了一个 3D 版的《桃花源记》（文中含提示词）",
